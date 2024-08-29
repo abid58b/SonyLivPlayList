@@ -8,12 +8,8 @@ $json_data = file_get_contents($json_url);
 // Decode JSON into an associative array
 $matches_data = json_decode($json_data, true);
 
-$playlist_content = "#EXTM3U \n\n";
-
 /// Initialize a variable to hold the playlist content
-$playlist_content .= "#EXT-X-VERSION:3 x-tvg-url=\"https://www.tsepg.cf/epg.xml.gz\"" . "\n\n";
-
-
+$playlist_content = "#EXTM3U #EXT-X-VERSION:3 x-tvg-url=\"https://www.tsepg.cf/epg.xml.gz\"" . "\n\n";
 
 // Loop through the matches and prepare the content
 foreach ($matches_data['matches'] as $match) {
