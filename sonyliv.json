@@ -1,7 +1,7 @@
 {
   "name": "Sonyliv Live Matches Data in Json",
   "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-  "last update time": "23:23:45 30-08-2024",
+  "last update time": "23:24:09 30-08-2024",
   "matches": [
     {
       "event_category": "tennis",
@@ -83,6 +83,15 @@
       "match_id": "1000288110",
       "dai_stream_url": "",
       "pub_stream_url": ""
+    },
+    {
+      "event_category": "football",
+      "event_name": "bundesliga 2024 25",
+      "match_name": "st pauli vs heidenheim",
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/bundesliga2425_md1_union_berlin_vs_st_landscape_thumb.jpg",
+      "match_id": "1000288344",
+      "dai_stream_url": "https://dai.google.com/ssai/event//master.m3u8",
+      "pub_stream_url": "https://pubads.g.doubleclick.net/ssai/event//master.m3u8"
     }
   ]
 }
