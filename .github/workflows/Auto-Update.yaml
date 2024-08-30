@@ -1,0 +1,42 @@
+name: Sonyliv Fetch and Upload Data
+
+on:
+  schedule:
+    - cron: '*/15 * * * *' # Runs every 15 minutes
+  push:
+    branches:
+      - main
+
+jobs:
+  fetch_and_upload:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+      with:
+        token: ${{ secrets.LIV_TOKEN }} # Use the GitHub token for authentication
+
+    - name: Remove existing files
+      run: rm -f sonyliv.json sonyliv.m3u
+
+    - name: Configure Git
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git remote set-url origin https://${{ secrets.LIV_TOKEN }}@github.com/abid58b/SonyLivPlayList.git
+    - name: Fetch data from APIs
+      run: |
+        curl -o sonyliv.json https://sliv-api.drmlive.au/
+        curl -o sonyliv.m3u https://sliv-api.drmlive.au/sonyliv.m3u
+    - name: Commit and push changes
+      run: |
+        git add sonyliv.json sonyliv.m3u
+        git fetch origin main
+        git reset --soft origin/main
+        if git diff --cached --quiet; then
+          echo "No changes to commit"
+        else
+          git commit -m "Fetch latest data"
+          git push origin main
+        fi
