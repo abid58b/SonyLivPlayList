@@ -22,13 +22,13 @@ jobs:
 
     - name: Configure Git
       run: |
-        git config --global user.name "github-actions[bot]"
-        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git config --global user.name "auto-update-bot"
+        git config --global user.email "auto-update-bot@users.noreply.github.com"
         git remote set-url origin https://${{ secrets.LIV_TOKEN }}@github.com/abid58b/SonyLivPlayList.git
     - name: Fetch data from APIs
       run: |
-        curl -o sonyliv.json https://sliv-api.drmlive.au/
-        curl -o sonyliv.m3u https://sliv-api.drmlive.au/sonyliv.m3u
+        curl -o sonyliv.json ${{ secrets.SONYLIV_JSON_API }}
+        curl -o sonyliv.m3u ${{ secrets.SONYLIV_M3U_API }}
     - name: Commit and push changes
       run: |
         git add sonyliv.json sonyliv.m3u
