@@ -1,34 +1,34 @@
 {
   "name": "Sonyliv Live Matches Data in Json",
   "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-  "last update time": "16:37:19 31-08-2024",
+  "last update time": "11:41:24 02-09-2024",
   "matches": [
     {
-      "event_category": "cricket",
-      "event_name": "sri lanka tour of england 2024",
-      "match_name": "2nd test day 3 31 aug 2024",
-      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/eng_vs_sl_2ndtest_d3_29aug_landscape_thumb.jpg",
-      "match_id": "1000288420",
-      "dai_stream_url": "https://dai.google.com/ssai/event/tG04-ukTSleEi0819p-EqA/master.m3u8",
-      "pub_stream_url": "https://pubads.g.doubleclick.net/ssai/event/tG04-ukTSleEi0819p-EqA/master.m3u8"
+      "event_category": "tennis",
+      "event_name": "us open 2024",
+      "match_name": "zheng vs vekic rd4 1 sep 2024",
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/us_open_zheng_vs_vekic_1_sept_24_player_landscape_thumb.jpg",
+      "match_id": "1000286175",
+      "dai_stream_url": "https://dai.google.com/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
+      "pub_stream_url": "https://pubads.g.doubleclick.net/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8"
     },
     {
-      "event_category": "football",
-      "event_name": "indianoil durand cup 2024",
-      "match_name": "northeast united fc vs mohun bagan super giant final 31 aug 2024",
-      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/durandcup24_final_northeastutdfc_vs_mohunbagan_30aug_english_landscape_thumb.jpg",
-      "match_id": "1000288526",
-      "dai_stream_url": "https://dai.google.com/ssai/event/7044GU7mRL2-99W6nrnbzA/master.m3u8",
-      "pub_stream_url": "https://pubads.g.doubleclick.net/ssai/event/7044GU7mRL2-99W6nrnbzA/master.m3u8"
+      "event_category": "tennis",
+      "event_name": "us open 2024",
+      "match_name": "zheng vs vekic rd4 1 sep 2024",
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/usopen24_r4_stream2_1sep_landscape_thumb.jpg",
+      "match_id": "1000286177",
+      "dai_stream_url": "https://dai.google.com/ssai/event/wchc-yRfS6Oq1EK97fcrIg/master.m3u8",
+      "pub_stream_url": "https://pubads.g.doubleclick.net/ssai/event/wchc-yRfS6Oq1EK97fcrIg/master.m3u8"
     },
     {
-      "event_category": "football",
-      "event_name": "indianoil durand cup 2024",
-      "match_name": "northeast united fc vs mohun bagan super giant final 31 aug 2024 hindi",
-      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/durandcup24_final_northeastutdfc_vs_mohunbagan_30aug_hindi_landscape_thumb.jpg",
-      "match_id": "1000288529",
-      "dai_stream_url": "https://dai.google.com/ssai/event/DX_lMgd6R42vY1wSWgXg9A/master.m3u8",
-      "pub_stream_url": "https://pubads.g.doubleclick.net/ssai/event/DX_lMgd6R42vY1wSWgXg9A/master.m3u8"
+      "event_category": "tennis",
+      "event_name": "us open 2024",
+      "match_name": "qinwen zheng vs donna vekic women s singles 02 sep 2024",
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/usopen24_r4_arthur_ashe_court_31aug_landscape_thumb.jpg",
+      "match_id": "1000286178",
+      "dai_stream_url": "https://dai.google.com/ssai/event/8cov9tHQRj26xm-Qz6uWzQ/master.m3u8",
+      "pub_stream_url": "https://pubads.g.doubleclick.net/ssai/event/8cov9tHQRj26xm-Qz6uWzQ/master.m3u8"
     }
   ]
 }
