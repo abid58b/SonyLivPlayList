@@ -1,40 +1,33 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:57:18 29-11-2024",
+    "last update time": "10:38:38 01-12-2024",
     "matches": [
         {
             "event_category": "Cricket",
             "isLive": true,
-            "contentId": 1000298913,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/asiacupu19_24_bangladesh_vs_afghanistan_landscape_thumb.jpg",
+            "contentId": 1000299322,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ac24_u19_sl_vs_afg_30nov_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "ACC U-19 Asia Cup 2024",
-            "match_name": "Bangladesh U-19 vs Afghanistan U-19 - 29 Nov 2024"
+            "match_name": "Sri Lanka U-19 vs Afghanistan U-19 - 1 Dec 2024",
+            "dai_url": "https://dai.google.com/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/master_mdh.m3u8?hdnea=exp=1733048905~acl=*~id=155678448410001965141732998904608~hmac=050f3de4757242179cb18b1728f11b1e852f24e6e144fed91a43fcf15e0ccbbb"
         },
         {
             "event_category": "Cricket",
             "isLive": true,
-            "contentId": 1000298915,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/asiacupu19_24_srilanka_vs_nepal_landscape_thumb.jpg",
+            "contentId": 1000299323,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ac24_u19_bangladesh_vs_nepal_30nov_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "ACC U-19 Asia Cup 2024",
-            "match_name": "Sri Lanka U-19 vs Nepal U-19 - 29 Nov 2024"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": 1000298813,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/eng_vs_nz24_1st_tet_day2_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "England Tour of New Zealand 2024",
-            "match_name": "Day 2 - 1st Test - 29 Nov 2024",
-            "dai_url": "https://dai.google.com/ssai/event/7044GU7mRL2-99W6nrnbzA/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/7044GU7mRL2-99W6nrnbzA/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/master_mdh.m3u8?hdnea=exp=1732898846~acl=*~id=155678448410001965141732848845033~hmac=46a71daa17981fc46fd1861f4df9bfdc9120ce8fda3628e071bbeb8bb4513fe5"
+            "match_name": "Bangladesh U-19 vs Nepal U-19 - 1 Dec 2024",
+            "dai_url": "https://dai.google.com/ssai/event/tG04-ukTSleEi0819p-EqA/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/tG04-ukTSleEi0819p-EqA/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/master_mdh.m3u8?hdnea=exp=1733048905~acl=*~id=155678448410001965141732998904608~hmac=050f3de4757242179cb18b1728f11b1e852f24e6e144fed91a43fcf15e0ccbbb"
         },
         {
             "event_category": "Football",
@@ -45,33 +38,6 @@
             "audioLanguageName": "ENG",
             "event_name": "Football Blockbusters 24x7",
             "match_name": ""
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1000298884,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ac24_promo_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - ACC U-19 Asia Cup 2024"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1000298883,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ac24_ind_vs_pak_promo_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - India vs Pakistan - ACC U-19 Asia Cup 2024"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1000298528,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/bundesliga_md12_dortmund_vs_bayernmunich_promo_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Dortmund vs Bayern"
         }
     ]
 }
