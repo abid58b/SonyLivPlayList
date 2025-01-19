@@ -1,21 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "15:04:08 19-01-2025",
+    "last update time": "15:34:38 19-01-2025",
     "matches": [
-        {
-            "event_category": "Tennis",
-            "isLive": true,
-            "contentId": 1090427351,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ao25_r4_humbert_vs_zverev_19jan_eng_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Australian Open 2025",
-            "match_name": "Humbert vs Zverev - Round 4 - 19 Jan 2025",
-            "dai_url": "https://dai.google.com/ssai/event/aTkvwKrNTOKIdVh-XZHRBg/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/aTkvwKrNTOKIdVh-XZHRBg/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/master_mdh.m3u8?hdnea=exp=1737322446~acl=/*~id=08680334952630536167456373494498~hmac=54159d4c1a04963739016fedc33b840a86622d0464ec8868f53e0b75bd5bd9ec"
-        },
         {
             "event_category": "Tennis",
             "isLive": true,
@@ -27,7 +14,7 @@
             "match_name": "Djokovic vs Lehecka - Round 4 - 19 Jan 2025",
             "dai_url": "https://dai.google.com/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_mdh.m3u8?hdnea=exp=1737322446~acl=/*~id=08680334952630536167456373494498~hmac=54159d4c1a04963739016fedc33b840a86622d0464ec8868f53e0b75bd5bd9ec"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_mdh.m3u8?hdnea=exp=1737324277~acl=/*~id=71966312772271646525662577169850~hmac=fa89a246e24b1d660acb086afbc355c48fa231457a161821bd180077da561379"
         },
         {
             "event_category": "Tennis",
@@ -40,20 +27,7 @@
             "match_name": "Djokovic vs Lehecka - Round 4 - 19 Jan 2025",
             "dai_url": "https://dai.google.com/ssai/event/hQXQ8apwTJeGKlGD7Oi7lQ/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/hQXQ8apwTJeGKlGD7Oi7lQ/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-V3/master_mdh.m3u8?hdnea=exp=1737322446~acl=/*~id=08680334952630536167456373494498~hmac=54159d4c1a04963739016fedc33b840a86622d0464ec8868f53e0b75bd5bd9ec"
-        },
-        {
-            "event_category": "Tennis",
-            "isLive": true,
-            "contentId": 1090427353,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ao25_rd4_margaret_court_arena_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Australian Open 2025",
-            "match_name": "Margaret Court Arena - 19 Jan 2025",
-            "dai_url": "https://dai.google.com/ssai/event/jirIBSMoQDWBeTr-f6WNpA/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/jirIBSMoQDWBeTr-f6WNpA/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/master_mdh.m3u8?hdnea=exp=1737322446~acl=/*~id=08680334952630536167456373494498~hmac=54159d4c1a04963739016fedc33b840a86622d0464ec8868f53e0b75bd5bd9ec"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-V3/master_mdh.m3u8?hdnea=exp=1737324277~acl=/*~id=71966312772271646525662577169850~hmac=fa89a246e24b1d660acb086afbc355c48fa231457a161821bd180077da561379"
         },
         {
             "event_category": "Tennis",
@@ -63,23 +37,10 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Australian Open 2025",
-            "match_name": "Arevalo-Gonzalez/Pavic vs Doumbia/Reboul - Men's Doubles - 19 Jan 2025",
+            "match_name": "Kia Arena - 19 Jan 2025",
             "dai_url": "https://dai.google.com/ssai/event/hz16sZhMQXy6Xz-grMWr-A/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/hz16sZhMQXy6Xz-grMWr-A/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI35ME-V3/master_mdh.m3u8?hdnea=exp=1737322446~acl=/*~id=08680334952630536167456373494498~hmac=54159d4c1a04963739016fedc33b840a86622d0464ec8868f53e0b75bd5bd9ec"
-        },
-        {
-            "event_category": "Tennis",
-            "isLive": true,
-            "contentId": 1090427354,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ao25_rd4_john_cain_arena_clean_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Australian Open 2025",
-            "match_name": "John Cain Arena - 19 Jan 2025",
-            "dai_url": "https://dai.google.com/ssai/event/8cov9tHQRj26xm-Qz6uWzQ/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/8cov9tHQRj26xm-Qz6uWzQ/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/master_mdh.m3u8?hdnea=exp=1737322446~acl=/*~id=08680334952630536167456373494498~hmac=54159d4c1a04963739016fedc33b840a86622d0464ec8868f53e0b75bd5bd9ec"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI35ME-V3/master_mdh.m3u8?hdnea=exp=1737324277~acl=/*~id=71966312772271646525662577169850~hmac=fa89a246e24b1d660acb086afbc355c48fa231457a161821bd180077da561379"
         },
         {
             "event_category": "Tennis",
@@ -92,7 +53,7 @@
             "match_name": "Novak Djokovic vs Jiri Lehecka - Men's Singles - 19 Jan 2025",
             "dai_url": "https://dai.google.com/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/master_mdh.m3u8?hdnea=exp=1737322446~acl=/*~id=08680334952630536167456373494498~hmac=54159d4c1a04963739016fedc33b840a86622d0464ec8868f53e0b75bd5bd9ec"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/master_mdh.m3u8?hdnea=exp=1737324277~acl=/*~id=71966312772271646525662577169850~hmac=fa89a246e24b1d660acb086afbc355c48fa231457a161821bd180077da561379"
         },
         {
             "event_category": "Football",
