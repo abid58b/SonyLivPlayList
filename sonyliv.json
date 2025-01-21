@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "23:38:44 21-01-2025",
+    "last update time": "23:58:58 21-01-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -14,7 +14,7 @@
             "match_name": "Monaco vs Aston Villa - MD 7 - 21 Jan 2025",
             "dai_url": "https://dai.google.com/ssai/event/b4syULaIS9uJBor6MB0Gcg/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/b4syULaIS9uJBor6MB0Gcg/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/master_mdh.m3u8?hdnea=exp=1737526123~acl=/*~id=91052879015723378911210240995408~hmac=8b0b81231c4b31d820b3138ec32f5a610dba95ec47ef22bb313792046d9e7ca4"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/master_mdh.m3u8?hdnea=exp=1737527338~acl=/*~id=41881989842572888465952860569287~hmac=1af4d5befbd663758dd56449a2db29a44ec2905335eaa77c6bc6577bc35c2676"
         },
         {
             "event_category": "Football",
@@ -25,9 +25,9 @@
             "audioLanguageName": "ENG",
             "event_name": "UEFA Champions League 2024-25",
             "match_name": "Atalanta vs Sturm Graz - MD 7 - 21 Jan 2025",
-            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1737526123~acl=/*~id=91052879015723378911210240995408~hmac=8b0b81231c4b31d820b3138ec32f5a610dba95ec47ef22bb313792046d9e7ca4",
-            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1737526123~acl=/*~id=91052879015723378911210240995408~hmac=8b0b81231c4b31d820b3138ec32f5a610dba95ec47ef22bb313792046d9e7ca4",
-            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1737526123~acl=/*~id=91052879015723378911210240995408~hmac=8b0b81231c4b31d820b3138ec32f5a610dba95ec47ef22bb313792046d9e7ca4"
+            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1737527338~acl=/*~id=41881989842572888465952860569287~hmac=1af4d5befbd663758dd56449a2db29a44ec2905335eaa77c6bc6577bc35c2676",
+            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1737527338~acl=/*~id=41881989842572888465952860569287~hmac=1af4d5befbd663758dd56449a2db29a44ec2905335eaa77c6bc6577bc35c2676",
+            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1737527338~acl=/*~id=41881989842572888465952860569287~hmac=1af4d5befbd663758dd56449a2db29a44ec2905335eaa77c6bc6577bc35c2676"
         },
         {
             "event_category": "Football",
@@ -73,6 +73,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Atletico Madrid vs Bayer Leverkusen - UEFA Champions League 2024-25"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090431029,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/23rd_jan_combo_ucl_21jan_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - UEFA Champions League 2024-25 - 23rd Jan 2025"
         },
         {
             "event_category": "Tennis",
