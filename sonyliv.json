@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "14:32:49 24-01-2025",
+    "last update time": "14:53:04 24-01-2025",
     "matches": [
         {
             "event_category": "Tennis",
@@ -14,7 +14,7 @@
             "match_name": "Sinner vs Shelton - SF - 24 Jan 2025",
             "dai_url": "https://dai.google.com/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_mdh.m3u8?hdnea=exp=1737752568~acl=/*~id=58924389734449065785867241581510~hmac=c1b979efedf12af25f53420f04d7a908804dc27bc7c8a59c71d15605ed3dd1b4"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_mdh.m3u8?hdnea=exp=1737753783~acl=/*~id=37014412655733405481291563053428~hmac=982da4379d2e8c0ee0ada2f4c3ee3ed62959ae856d4286f225c73fc257957472"
         },
         {
             "event_category": "Tennis",
@@ -27,7 +27,7 @@
             "match_name": "Sinner vs Shelton - SF - 24 Jan 2025",
             "dai_url": "https://dai.google.com/ssai/event/MU1Tz6gxSAuGNMvGmokn4A/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/MU1Tz6gxSAuGNMvGmokn4A/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/MA04-V3/master_mdh.m3u8?hdnea=exp=1737752568~acl=/*~id=58924389734449065785867241581510~hmac=c1b979efedf12af25f53420f04d7a908804dc27bc7c8a59c71d15605ed3dd1b4"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/MA04-V3/master_mdh.m3u8?hdnea=exp=1737753783~acl=/*~id=37014412655733405481291563053428~hmac=982da4379d2e8c0ee0ada2f4c3ee3ed62959ae856d4286f225c73fc257957472"
         },
         {
             "event_category": "Cricket",
