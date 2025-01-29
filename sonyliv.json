@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:04:59 29-01-2025",
+    "last update time": "07:35:53 29-01-2025",
     "matches": [
         {
             "event_category": "WWE",
@@ -14,7 +14,7 @@
             "match_name": "WWE NXT - 29 Jan 2025",
             "dai_url": "https://dai.google.com/ssai/event/nYSuS-LZSbapsC12DoZBmw/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/nYSuS-LZSbapsC12DoZBmw/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022321/MA06-V3/master_mdh.m3u8?hdnea=exp=1738154099~acl=/*~id=51521958992057512646294918374380~hmac=ecb7d7a8ee521d6fe89a75ede2e5eeed35c840f0e071c050808b6a4ffd682b7e"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022321/MA06-V3/master_mdh.m3u8?hdnea=exp=1738159552~acl=/*~id=45212309551933447704261734216771~hmac=dde219517059e919e000da9a3619290c742ab0e45028b5c13cbfe8ad213de204"
         },
         {
             "event_category": "Football",
