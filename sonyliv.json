@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:32:20 05-02-2025",
+    "last update time": "12:52:32 05-02-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -29,6 +29,24 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Leyton Orient vs Manchester City -The Emirates FA Cup"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090467945,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/promo_plymouth_argyle_vs_liverpool_30sec_h_app_land_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Plymouth vs Liverpool - The Emirates FA Cup"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090467929,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/promo_aston_villa_vs_tottenham_hotspur_30sec_h_app_land_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Aston Villa vs Tottenham -The Emirates FA Cup"
         },
         {
             "event_category": "Football",
@@ -69,24 +87,6 @@
         {
             "event_category": "Football",
             "isLive": false,
-            "contentId": 1090467945,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/promo_plymouth_argyle_vs_liverpool_30sec_h_app_land_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Plymouth vs Liverpool - The Emirates FA Cup"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090467929,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/promo_aston_villa_vs_tottenham_hotspur_30sec_h_app_land_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Aston Villa vs Tottenham -The Emirates FA Cup"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
             "contentId": 1090467944,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/promo_everton_vs_afc_bournemouth_30sec_h_app_land_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
@@ -101,6 +101,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Birmingham City vs Newcastle United - The Emirates FA Cup"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090467968,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/9th_feb_combo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - The Emirates FA Cup 2024-25 - 9th Feb 2025"
         },
         {
             "event_category": "Fight Sports",
@@ -119,15 +128,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - India Tour of England 2025"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090431389,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/asiacup_promo_23jan25_landcape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - Asia Cup 2025"
         }
     ]
 }
