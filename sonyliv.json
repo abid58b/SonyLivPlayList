@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "13:05:53 07-02-2025",
+    "last update time": "13:36:15 07-02-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -14,7 +14,7 @@
             "match_name": "Day 2 - 2nd Test - 7 Feb 2025",
             "dai_url": "https://dai.google.com/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_mdh.m3u8?hdnea=exp=1738956952~acl=/*~id=05553009265470314183947950136855~hmac=1b902ca501dec161bbc5cb99d34e0c8cfd210b59c6f3028cafe571b9a4e28a9e"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_mdh.m3u8?hdnea=exp=1738958774~acl=/*~id=15008813569785009629811082708957~hmac=60c37b44ccde63af206c175ac3acb59d321a387b96afb8178aa1d1efbdc2aa9f"
         },
         {
             "event_category": "Football",
