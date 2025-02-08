@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:46:27 09-02-2025",
+    "last update time": "03:06:40 09-02-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -14,7 +14,7 @@
             "match_name": "Brighton & Hove Albion vs Chelsea - 9 Feb 2025",
             "dai_url": "https://dai.google.com/ssai/event/7044GU7mRL2-99W6nrnbzA/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/7044GU7mRL2-99W6nrnbzA/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/master_mdh.m3u8?hdnea=exp=1739092586~acl=/*~id=26989838383618676913621418443252~hmac=ae5caa2ccb53ac1d8a3843440eaefca6b4fadebaa811f5945f6adb3fbf471cf1"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/master_mdh.m3u8?hdnea=exp=1739093799~acl=/*~id=27550009171947585829509180693074~hmac=c8a4fcfe97ac3962e41907e136eefe0e7dca69b8b693f66080848b85fb93e590"
         },
         {
             "event_category": "Fight Sports",
