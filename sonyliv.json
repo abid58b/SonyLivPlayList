@@ -1,20 +1,20 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "22:29:44 09-02-2025",
+    "last update time": "22:50:00 09-02-2025",
     "matches": [
         {
             "event_category": "Football",
             "isLive": true,
-            "contentId": 1090468192,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/plymouth_argyle_vs_liverpool_landscape_thumb.jpg",
+            "contentId": 1090468190,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/aston_villa_vs_tottenham_hotspur_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "The Emirates FA Cup 2024-25",
-            "match_name": "Plymouth Argyle vs Liverpool - 9 Feb 2025",
-            "dai_url": "https://dai.google.com/ssai/event/tG04-ukTSleEi0819p-EqA/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/tG04-ukTSleEi0819p-EqA/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/master_mdh.m3u8?hdnea=exp=1739163584~acl=/*~id=80228147200981991635761001875856~hmac=fa6b5fa3952d347554bd23ffea1692d0ac900859f88c7a2c115feef763e28947"
+            "match_name": "Aston Villa vs Tottenham Hotspur - 9 Feb 2025",
+            "dai_url": "https://dai.google.com/ssai/event/7044GU7mRL2-99W6nrnbzA/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/7044GU7mRL2-99W6nrnbzA/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/master_mdh.m3u8?hdnea=exp=1739164799~acl=/*~id=19278373153215704501393687064023~hmac=9cc33e805f10f1e0c30f115fa7e5b2217dee7efc78afd2afe12b86e491eddc85"
         },
         {
             "event_category": "Football",
@@ -27,16 +27,7 @@
             "match_name": "RB Leipzig vs St. Pauli - MD 21 - 9 Feb 2025",
             "dai_url": "https://dai.google.com/ssai/event/b4syULaIS9uJBor6MB0Gcg/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/b4syULaIS9uJBor6MB0Gcg/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/master_mdh.m3u8?hdnea=exp=1739163584~acl=/*~id=80228147200981991635761001875856~hmac=fa6b5fa3952d347554bd23ffea1692d0ac900859f88c7a2c115feef763e28947"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090467929,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/promo_aston_villa_vs_tottenham_hotspur_30sec_h_app_land_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Aston Villa vs Tottenham - The Emirates FA Cup"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/master_mdh.m3u8?hdnea=exp=1739164799~acl=/*~id=19278373153215704501393687064023~hmac=9cc33e805f10f1e0c30f115fa7e5b2217dee7efc78afd2afe12b86e491eddc85"
         },
         {
             "event_category": "Football",
@@ -46,15 +37,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Brest vs PSG - UEFA Champions League 2024-25"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090467968,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/9th_feb_combo_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - The Emirates FA Cup 2024-25 - 9th Feb 2025"
         },
         {
             "event_category": "Football",
@@ -154,6 +136,24 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Union SG vs Ajax - UEFA Europa League 2024-25"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090468157,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/promo_uel_midtjylland_v_real_sociedad_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Midtjylland vs Real Sociedad - UEFA Europa League 2024-25"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090468161,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/promo_uel_ferencvaros_v_viktoria_plzen_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Ferencvaros vs Viktoria Plzen - UEFA Europa League 2024-25"
         }
     ]
 }
