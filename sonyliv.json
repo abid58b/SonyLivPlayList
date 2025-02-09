@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "17:42:55 09-02-2025",
+    "last update time": "18:13:18 09-02-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -14,7 +14,7 @@
             "match_name": "Blackburn Rovers vs Wolves - 9 Feb 2025",
             "dai_url": "https://dai.google.com/ssai/event/wN0bVs8wS9-yv6vL9G-tGQ/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/wN0bVs8wS9-yv6vL9G-tGQ/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/master_mdh.m3u8?hdnea=exp=1739146374~acl=/*~id=37174440090124996208616010252458~hmac=63979f90acf58585f384a003a243bf58cff651818d96a146d15d95d3e3cf1399"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/master_mdh.m3u8?hdnea=exp=1739148198~acl=/*~id=10847817369442095597690302615112~hmac=00ea30966edcecbe665bc70fbbf2daa61000492e34cc03de6f5877ed32fb0684"
         },
         {
             "event_category": "Football",
