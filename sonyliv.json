@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "18:15:14 14-02-2025",
+    "last update time": "18:45:35 14-02-2025",
     "matches": [
         {
             "event_category": "Racing",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "ABB FIA Formula E World Championship 2024-25",
             "match_name": "Round 3 - Jeddah E-PRIX - Qualifying Race - 14 Feb 2025",
-            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1739580314~acl=/*~id=58782928843556649312957915418058~hmac=5bf8bc7da65f4d089289e9d9b04aac0dbc525201c96c0c3b0c4a3e2c851496fc",
-            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1739580314~acl=/*~id=58782928843556649312957915418058~hmac=5bf8bc7da65f4d089289e9d9b04aac0dbc525201c96c0c3b0c4a3e2c851496fc",
-            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1739580314~acl=/*~id=58782928843556649312957915418058~hmac=5bf8bc7da65f4d089289e9d9b04aac0dbc525201c96c0c3b0c4a3e2c851496fc"
+            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1739582134~acl=/*~id=37201242714807703820103641460511~hmac=99da22ace5ab060a3eba66aa171334437fae1a003f447a1a8d5570f0d99666e6",
+            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1739582134~acl=/*~id=37201242714807703820103641460511~hmac=99da22ace5ab060a3eba66aa171334437fae1a003f447a1a8d5570f0d99666e6",
+            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1739582134~acl=/*~id=37201242714807703820103641460511~hmac=99da22ace5ab060a3eba66aa171334437fae1a003f447a1a8d5570f0d99666e6"
         },
         {
             "event_category": "Football",
