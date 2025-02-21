@@ -1,21 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:47:44 22-02-2025",
+    "last update time": "03:08:02 22-02-2025",
     "matches": [
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": 1090469225,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/bliga2425_md23_freiburg_vs_werder_bremen_30jan_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Bundesliga 2024-25",
-            "match_name": "SC Freiburg vs Werder Bremen - MD 23 - 22 Feb 2025",
-            "dai_url": "https://dai.google.com/ssai/event/b4syULaIS9uJBor6MB0Gcg/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/b4syULaIS9uJBor6MB0Gcg/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/master_mdh.m3u8?hdnea=exp=1740215864~acl=/*~id=84371724343700504154411874721682~hmac=c3bfd9ca92731405d2f6c7228a56ba41f7f77c00a56d4b8bea5c84beb73c1464"
-        },
         {
             "event_category": "Cricket",
             "isLive": false,
