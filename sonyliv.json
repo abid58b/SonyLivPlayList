@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:02:26 24-02-2025",
+    "last update time": "01:32:45 24-02-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -14,7 +14,7 @@
             "match_name": "Hoffenheim vs VfB Stuttgart - MD 23 - 23 Feb 2025",
             "dai_url": "https://dai.google.com/ssai/event/ARSsLLOjSl2bsGjkQB2UAw/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/ARSsLLOjSl2bsGjkQB2UAw/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/master_mdh.m3u8?hdnea=exp=1740382346~acl=/*~id=05557511054262582019001345259060~hmac=0ff965132d33820519e2cc53f1cce7be40fea59a36eb2c17fff9d4283760a092"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/master_mdh.m3u8?hdnea=exp=1740384165~acl=/*~id=98804351756751902987634368084284~hmac=828d923445c944ddb16c7a12b3a3f6b2040c975fcae9108c240e54bc668b3cc3"
         },
         {
             "event_category": "Cricket",
