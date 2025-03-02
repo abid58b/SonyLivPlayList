@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "19:32:55 02-03-2025",
+    "last update time": "19:53:11 02-03-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -14,7 +14,7 @@
             "match_name": "Newcastle United vs Brighton & Hove Albion - 2 Mar 2025",
             "dai_url": "https://dai.google.com/ssai/event/wN0bVs8wS9-yv6vL9G-tGQ/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/wN0bVs8wS9-yv6vL9G-tGQ/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/master_mdh.m3u8?hdnea=exp=1740967374~acl=/*~id=15621490485801540492346602727215~hmac=ab6a81b2122ced03618e51f541765814379e58ba8ef5115a92fdd305f4ebe49e"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/master_mdh.m3u8?hdnea=exp=1740968590~acl=/*~id=09885812475646152316430068995095~hmac=d95406c68ecb25edcf9656a639b7c12272cdb3a5510b2a9b681b3494c1817b86"
         },
         {
             "event_category": "Football",
@@ -25,9 +25,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Bundesliga 2024-25",
             "match_name": "Union Berlin vs Holstein Kiel - MD 24 - 2 Mar 2025",
-            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002929/LIV02UEFA/master_mdh.m3u8?hdnea=exp=1740967374~acl=/*~id=15621490485801540492346602727215~hmac=ab6a81b2122ced03618e51f541765814379e58ba8ef5115a92fdd305f4ebe49e",
-            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002929/LIV02UEFA/master_mdh.m3u8?hdnea=exp=1740967374~acl=/*~id=15621490485801540492346602727215~hmac=ab6a81b2122ced03618e51f541765814379e58ba8ef5115a92fdd305f4ebe49e",
-            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002929/LIV02UEFA/master_mdh.m3u8?hdnea=exp=1740967374~acl=/*~id=15621490485801540492346602727215~hmac=ab6a81b2122ced03618e51f541765814379e58ba8ef5115a92fdd305f4ebe49e"
+            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002929/LIV02UEFA/master_mdh.m3u8?hdnea=exp=1740968590~acl=/*~id=09885812475646152316430068995095~hmac=d95406c68ecb25edcf9656a639b7c12272cdb3a5510b2a9b681b3494c1817b86",
+            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002929/LIV02UEFA/master_mdh.m3u8?hdnea=exp=1740968590~acl=/*~id=09885812475646152316430068995095~hmac=d95406c68ecb25edcf9656a639b7c12272cdb3a5510b2a9b681b3494c1817b86",
+            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002929/LIV02UEFA/master_mdh.m3u8?hdnea=exp=1740968590~acl=/*~id=09885812475646152316430068995095~hmac=d95406c68ecb25edcf9656a639b7c12272cdb3a5510b2a9b681b3494c1817b86"
         },
         {
             "event_category": "Football",
