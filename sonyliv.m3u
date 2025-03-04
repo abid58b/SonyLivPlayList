@@ -1,7 +1,13 @@
 #EXTM3U
 #EXTINF:-1,#EXTINF:-1, tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/ucl2425_ro16_leg1_club_brugge_vs_aston_villa_3mar_eng_landscape_thumb.jpg" group-title="sonyliv-Football", Club Brugge vs Aston Villa - Round Of 16 - 1st Leg - 4 Mar 2025 - UEFA Champions League 2024-25
-https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/master_mdh.m3u8?hdnea=exp=1741157993~acl=/*~id=71590654916415705957944941160564~hmac=c148c34795672e184d342acbdfaea93047ecc2594f1f71e8f80be646796e3480
+https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/master_mdh.m3u8?hdnea=exp=1741159205~acl=/*~id=42119899594431347057631934095667~hmac=a76d9a6789317c9a8be70d6460d85b0b5ca0011203029f638fc50f827706fd1c
 
 #EXTINF:-1,#EXTINF:-1, tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/ucl2425_ro16_leg1_club_brugge_vs_aston_villa_3mar_multi_landscape_thumb.jpg" group-title="sonyliv-Football", Club Brugge vs Aston Villa - Round Of 16 - 1st Leg - 4 Mar 2025 - UEFA Champions League 2024-25
-https://sonydaimenew.akamaized.net/hls/live/2022317/MA03-V3/master_mdh.m3u8?hdnea=exp=1741157993~acl=/*~id=71590654916415705957944941160564~hmac=c148c34795672e184d342acbdfaea93047ecc2594f1f71e8f80be646796e3480
+https://sonydaimenew.akamaized.net/hls/live/2022317/MA03-V3/master_mdh.m3u8?hdnea=exp=1741159205~acl=/*~id=42119899594431347057631934095667~hmac=a76d9a6789317c9a8be70d6460d85b0b5ca0011203029f638fc50f827706fd1c
+
+#EXTINF:-1,#EXTINF:-1, tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/ucl2425_ro16_leg1_real_madrid_vs_atletico_3mar_eng_landscape_thumb.jpg" group-title="sonyliv-Football", Real Madrid vs Atletico Madrid - Round Of 16 - 1st Leg - 5 Mar 2025 - UEFA Champions League 2024-25
+https://sonydaimenew.akamaized.net/hls/live/2022322/DAI18ME-V3/master_mdh.m3u8?hdnea=exp=1741159205~acl=/*~id=42119899594431347057631934095667~hmac=a76d9a6789317c9a8be70d6460d85b0b5ca0011203029f638fc50f827706fd1c
+
+#EXTINF:-1,#EXTINF:-1, tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/ucl2425_ro16_leg1_real_madrid_vs_atletico_3mar_multi_landscape_thumb.jpg" group-title="sonyliv-Football", Real Madrid vs Atletico Madrid - Round Of 16 - 1st Leg - 4 Mar 2025 - UEFA Champions League 2024-25
+https://sonydaimenew.akamaized.net/hls/live/2043696/MA07-V3/master_mdh.m3u8?hdnea=exp=1741159205~acl=/*~id=42119899594431347057631934095667~hmac=a76d9a6789317c9a8be70d6460d85b0b5ca0011203029f638fc50f827706fd1c
 
