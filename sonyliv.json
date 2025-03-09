@@ -1,33 +1,6 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:06:03 09-03-2025",
-    "matches": [
-        {
-            "event_category": "Fight Sports",
-            "isLive": true,
-            "contentId": 1090470850,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000000084/1741364200000383_ufc313_7mar_eng_Landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "UFC 313 - Pereira vs Ankalaev",
-            "match_name": "UFC 313 - Pereira vs Ankalaev - 9 Mar 2025",
-            "dai_url": "https://dai.google.com/ssai/event/RLuKHGGZS72Dss9NPWaldw/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/RLuKHGGZS72Dss9NPWaldw/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/master_mdh.m3u8?hdnea=exp=1741545363~acl=/*~id=48874186942577008362964549546030~hmac=40cad346973e62b6b5657812b1a98f0e244ad3346218b1e2de8c73d127be0434"
-        },
-        {
-            "event_category": "Fight Sports",
-            "isLive": true,
-            "contentId": 1090470851,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000000084/1741364210000383_ufc313_7mar_hindi_Landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "HIN",
-            "event_name": "UFC 313 - Pereira vs Ankalaev",
-            "match_name": "UFC 313 - Pereira vs Ankalaev - 9 Mar 2025",
-            "dai_url": "https://dai.google.com/ssai/event/_eXJZ6KPQcqtpwS9iLFchA/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/_eXJZ6KPQcqtpwS9iLFchA/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/MA08-V3/master_mdh.m3u8?hdnea=exp=1741545363~acl=/*~id=48874186942577008362964549546030~hmac=40cad346973e62b6b5657812b1a98f0e244ad3346218b1e2de8c73d127be0434"
-        }
-    ]
+    "last update time": "12:36:23 09-03-2025",
+    "matches": []
 }
