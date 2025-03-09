@@ -1,8 +1,34 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:02:01 09-03-2025",
+    "last update time": "07:22:55 09-03-2025",
     "matches": [
+        {
+            "event_category": "Fight Sports",
+            "isLive": true,
+            "contentId": 1090470850,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000000096/1741421405226587_ufc313_Prelims_8mar_eng_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UFC 313 - Pereira vs Ankalaev",
+            "match_name": "Prelims - UFC 313 - 9 Mar 2025",
+            "dai_url": "https://dai.google.com/ssai/event/RLuKHGGZS72Dss9NPWaldw/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/RLuKHGGZS72Dss9NPWaldw/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/master_mdh.m3u8?hdnea=exp=1741528374~acl=/*~id=23584103981530198221910065491954~hmac=ee465fe4286fc2b37d9e51e1aebd2d57e6b60c2a0ec8b213a7b3ccaf4d18de7b"
+        },
+        {
+            "event_category": "Fight Sports",
+            "isLive": true,
+            "contentId": 1090470851,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000000096/1741421434055587_ufc313_hindi_8mar_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "HIN",
+            "event_name": "UFC 313 - Pereira vs Ankalaev",
+            "match_name": "Prelims - UFC 313 - 9 Mar 2025",
+            "dai_url": "https://dai.google.com/ssai/event/_eXJZ6KPQcqtpwS9iLFchA/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/_eXJZ6KPQcqtpwS9iLFchA/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/MA08-V3/master_mdh.m3u8?hdnea=exp=1741528374~acl=/*~id=23584103981530198221910065491954~hmac=ee465fe4286fc2b37d9e51e1aebd2d57e6b60c2a0ec8b213a7b3ccaf4d18de7b"
+        },
         {
             "event_category": "Cricket",
             "isLive": true,
@@ -14,29 +40,20 @@
             "match_name": "New Zealand vs Sri Lanka - 3rd ODI - 9 Mar 2025",
             "dai_url": "https://dai.google.com/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_mdh.m3u8?hdnea=exp=1741523521~acl=/*~id=17689652887890377853628544446892~hmac=bb3e8faa69546444a4f797645df5c198561d93091ad41358801c5dfed30d5cc8"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_mdh.m3u8?hdnea=exp=1741528374~acl=/*~id=23584103981530198221910065491954~hmac=ee465fe4286fc2b37d9e51e1aebd2d57e6b60c2a0ec8b213a7b3ccaf4d18de7b"
         },
         {
             "event_category": "Tennis",
             "isLive": true,
             "contentId": 1090470758,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000000115/1741442057617765_ATP_BNPParibas25_Djokovic_vs_Zandschulp_8march_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/atp_bnp_paribas_rd2_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "BNP Paribas Open 2025 - Indian Wells",
-            "match_name": "Djokovic vs Van De Zandschulp - 9th Mar 2025",
+            "match_name": "Day 4 - 9th Mar 2025",
             "dai_url": "https://dai.google.com/ssai/event/wN0bVs8wS9-yv6vL9G-tGQ/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/wN0bVs8wS9-yv6vL9G-tGQ/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/master_mdh.m3u8?hdnea=exp=1741523521~acl=/*~id=17689652887890377853628544446892~hmac=bb3e8faa69546444a4f797645df5c198561d93091ad41358801c5dfed30d5cc8"
-        },
-        {
-            "event_category": "Fight Sports",
-            "isLive": false,
-            "contentId": 1090470261,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000000060/1741337140797718_UFC313_Landscape_Thumb_Dated.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - UFC 313"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/master_mdh.m3u8?hdnea=exp=1741528374~acl=/*~id=23584103981530198221910065491954~hmac=ee465fe4286fc2b37d9e51e1aebd2d57e6b60c2a0ec8b213a7b3ccaf4d18de7b"
         }
     ]
 }
