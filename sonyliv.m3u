@@ -1,1 +1,4 @@
-error code: 1033
+#EXTM3U
+#EXTINF:-1,#EXTINF:-1, tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/atp_bnp_paribas_rd3_landscape_thumb.jpg" group-title="sonyliv-Tennis", Day 5 - 9 Mar 2025 - BNP Paribas Open 2025 - Indian Wells
+https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/master_mdh.m3u8?hdnea=exp=1741606690~acl=/*~id=02600338090036192676533217936000~hmac=b38da2f50e074b06dec3aa46abcd13cc46ca80afae209de553bed920e18a853f
+
