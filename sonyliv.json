@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "14:35:08 14-03-2025",
+    "last update time": "14:55:20 14-03-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -14,7 +14,7 @@
             "match_name": "New Zealand vs Sri Lanka - 1st T20I - 14 Mar 2025",
             "dai_url": "https://dai.google.com/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_mdh.m3u8?hdnea=exp=1741986308~acl=/*~id=62375883464195327030968404069295~hmac=a47109e05312cefa94e54ee727dceaca6a7cd13e2011959ccba93922853c5a93"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_mdh.m3u8?hdnea=exp=1741987520~acl=/*~id=90679237815863426580536149616584~hmac=e8bfbfb614d690571a36d7a1405d6547d113e0966d381b936fd20a00000eb2a5"
         },
         {
             "event_category": "Football",
