@@ -1,21 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:10:21 18-03-2025",
+    "last update time": "11:40:37 18-03-2025",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": 1090474843,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000000460/1742199263197849_NZ_vs_PAK25_2t20i_17mar_Live_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Pakistan Tour Of New Zealand 2025",
-            "match_name": "2nd T20I - 18 Mar 2025",
-            "dai_url": "https://dai.google.com/ssai/event/7044GU7mRL2-99W6nrnbzA/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/7044GU7mRL2-99W6nrnbzA/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/master_mdh.m3u8?hdnea=exp=1742319621~acl=/*~id=48518957051308707431312112791380~hmac=981d1ef0fe66a0c2caced26f21a8c3525bb3976a41057bdb0929746b0d7fb853"
-        },
         {
             "event_category": "Football",
             "isLive": false,
