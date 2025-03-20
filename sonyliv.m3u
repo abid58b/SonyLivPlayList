@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1,#EXTINF:-1, tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000000499/1742300957834123_ATP_Miami_open25_18mar_RD1_landscape_thumb.jpg" group-title="sonyliv-Tennis", Day 2 - 20 Mar 2025 - Miami Open 2025
+https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/master_mdh.m3u8?hdnea=exp=1742525129~acl=/*~id=31866049817951569346168387399509~hmac=4956db08e1f391cb031fe70e5833affd8270c3a209a85438a0c98153e9857df0
+
 #EXTINF:-1,#EXTINF:-1, tvg-logo="" group-title="sonyliv-Cricket", Cricket Blockbusters 24x7 - Cricket Classics
-https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_mdh.m3u8?hdnea=exp=1742523914~acl=/*~id=25738341277695995049518882385360~hmac=612c8281e3fe20c221a8bf114caf1a76b31da51698cdc44a7289689fb7c7cf41
+https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_mdh.m3u8?hdnea=exp=1742525129~acl=/*~id=31866049817951569346168387399509~hmac=4956db08e1f391cb031fe70e5833affd8270c3a209a85438a0c98153e9857df0
 
