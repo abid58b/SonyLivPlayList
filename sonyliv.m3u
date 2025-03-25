@@ -1,7 +1,10 @@
 #EXTM3U
 #EXTINF:-1,#EXTINF:-1, tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000000499/1742301317666123_ATP_Miami_open25_18mar_RD4_landscape_thumb.jpg" group-title="sonyliv-Tennis", Day 7 - 25 Mar 2025 - Miami Open 2025
-https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/master_mdh.m3u8?hdnea=exp=1742962032~acl=/*~id=95078678264451695551131374755531~hmac=616f1ef4bb2e5d6bbaa167118dc6e756c2ced666e4568fc7ab8cfd28f4a108bc
+https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/master_mdh.m3u8?hdnea=exp=1742963853~acl=/*~id=74542953798486728793852750364939~hmac=b1a2ede33b84c02157a3eacb41e89f667a44255fdbba2a71a78337a7b97283fc
+
+#EXTINF:-1,#EXTINF:-1, tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000000534/1742421381150571_EQFs_for_FIFAWC26_MD2_Moldova_vs_Estonia_20mar_landscape_thumb.jpg" group-title="sonyliv-Football", Moldova vs Estonia - MD 2 - 25 Mar 2025 - European Qualifiers For 2026 FIFA World Cup
+https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-V3/master_mdh.m3u8?hdnea=exp=1742963853~acl=/*~id=74542953798486728793852750364939~hmac=b1a2ede33b84c02157a3eacb41e89f667a44255fdbba2a71a78337a7b97283fc
 
 #EXTINF:-1,#EXTINF:-1, tvg-logo="" group-title="sonyliv-Cricket", Cricket Blockbusters 24x7 - Cricket Classics
-https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_mdh.m3u8?hdnea=exp=1742962032~acl=/*~id=95078678264451695551131374755531~hmac=616f1ef4bb2e5d6bbaa167118dc6e756c2ced666e4568fc7ab8cfd28f4a108bc
+https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_mdh.m3u8?hdnea=exp=1742963853~acl=/*~id=74542953798486728793852750364939~hmac=b1a2ede33b84c02157a3eacb41e89f667a44255fdbba2a71a78337a7b97283fc
 
