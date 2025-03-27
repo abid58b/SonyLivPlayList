@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1,#EXTINF:-1, tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000000805/1743031652802632_WTTSC25_R16_and_R48_landscape_thumb_live.jpg" group-title="sonyliv-Table Tennis", Round Of 16 & Round Of 48 - 27 Mar 2025 - WTT Star Contender Chennai 2025
+https://sonydaimenew.akamaized.net/hls/live/2037141/DAI36ME-V3/master_mdh.m3u8?hdnea=exp=1743094836~acl=/*~id=00131254808690286090002941324873~hmac=1530b8ba3c8c064a652d4c78880dd12751fcdae93d94b63e4be77221ea7b4011
+
 #EXTINF:-1,#EXTINF:-1, tvg-logo="" group-title="sonyliv-Cricket", Cricket Blockbusters 24x7 - Cricket Classics
-https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_mdh.m3u8?hdnea=exp=1743093626~acl=/*~id=30515186560259112752072113853148~hmac=4ccf01d8923f56fdd9d11288ee0fcc8d639bb952eac65a07bf9614080def5a63
+https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_mdh.m3u8?hdnea=exp=1743094836~acl=/*~id=00131254808690286090002941324873~hmac=1530b8ba3c8c064a652d4c78880dd12751fcdae93d94b63e4be77221ea7b4011
 
