@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "14:11:38 29-03-2025",
+    "last update time": "14:31:50 29-03-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -14,7 +14,7 @@
             "match_name": "Cricket Blockbusters 24x7",
             "dai_url": "https://dai.google.com/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_mdh.m3u8?hdnea=exp=1743280898~acl=/*~id=66832706009319988550426872676253~hmac=76ff4c5b579b83ad98ff6a3ca8e464622dc17cac3090d59debd7731fffa7c5a2"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_mdh.m3u8?hdnea=exp=1743282110~acl=/*~id=23885995056925605972017323226935~hmac=e0ee8d96ff78a5f95326e5a7e77d8a989093ebbdb9c76412804fe9957774cc99"
         },
         {
             "event_category": "Football",
