@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "19:13:19 01-04-2025",
+    "last update time": "19:33:32 01-04-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "UEFA Youth League 2024-25",
             "match_name": "Salzburg vs Olympiacos - Quarter-final - 1 Apr 2025",
-            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002929/LIV02UEFA/master_mdh.m3u8?hdnea=exp=1743558198~acl=/*~id=33547376422274094004176908830154~hmac=1168b172969d5e7c2a1e0dc75d6b61fb46a142c587ae241af422291dc50eb32a",
-            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002929/LIV02UEFA/master_mdh.m3u8?hdnea=exp=1743558198~acl=/*~id=33547376422274094004176908830154~hmac=1168b172969d5e7c2a1e0dc75d6b61fb46a142c587ae241af422291dc50eb32a",
-            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002929/LIV02UEFA/master_mdh.m3u8?hdnea=exp=1743558198~acl=/*~id=33547376422274094004176908830154~hmac=1168b172969d5e7c2a1e0dc75d6b61fb46a142c587ae241af422291dc50eb32a"
+            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002929/LIV02UEFA/master_mdh.m3u8?hdnea=exp=1743559412~acl=/*~id=76445728278424787032333328146862~hmac=f0287bf25eaff007ff81717363bfcdaa1153fdc1e04d9044a80eda3fe55eb458",
+            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002929/LIV02UEFA/master_mdh.m3u8?hdnea=exp=1743559412~acl=/*~id=76445728278424787032333328146862~hmac=f0287bf25eaff007ff81717363bfcdaa1153fdc1e04d9044a80eda3fe55eb458",
+            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002929/LIV02UEFA/master_mdh.m3u8?hdnea=exp=1743559412~acl=/*~id=76445728278424787032333328146862~hmac=f0287bf25eaff007ff81717363bfcdaa1153fdc1e04d9044a80eda3fe55eb458"
         }
     ]
 }
