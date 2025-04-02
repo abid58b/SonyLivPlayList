@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "00:02:24 03-04-2025",
+    "last update time": "00:32:42 03-04-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -14,7 +14,7 @@
             "match_name": "Al-Qadsiah vs Al-Raed - Semi-Final - 2 Apr 2025",
             "dai_url": "https://dai.google.com/ssai/event/RLuKHGGZS72Dss9NPWaldw/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/RLuKHGGZS72Dss9NPWaldw/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/master_mdh.m3u8?hdnea=exp=1743661944~acl=/*~id=19951152522327187712167703586433~hmac=28391bb50974b0cbb6673b4a7c34597a99fec01461f1887f027cf136c786af10"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/master_mdh.m3u8?hdnea=exp=1743663761~acl=/*~id=42658683145086436228927048379824~hmac=63aa8bdad3f0e575061cd71e3b85f63e2dd1a7e78d03331dcc49c68c2cb0559c"
         },
         {
             "event_category": "Football",
