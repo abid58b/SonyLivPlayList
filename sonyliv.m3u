@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1,#EXTINF:-1, tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000001393/1744437297557581_ufc314_Prelims_eng_12apr_landscape_thumb_re1.jpg" group-title="sonyliv-Fight Sports", Preliminary Round - UFC 314 - 13 Apr 2025 - UFC 314
-https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/master_mdh.m3u8?hdnea=exp=1744545507~acl=/*~id=44618357356686057666824040415821~hmac=5b59a28284f402fa34f1c38abe9b990a599c624e7c2ca8cf723458f610e8e95c
+#EXTINF:-1,#EXTINF:-1, tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000001392/1744435725340101_ufc314_Main_Card_eng_12apr_Landscape_thumb_re1.jpg" group-title="sonyliv-Fight Sports", UFC 314 - Volkanovski vs Lopes- 13 Apr 2025 - UFC 314
+https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/master_mdh.m3u8?hdnea=exp=1744554603~acl=/*~id=00575410709954999823755377422258~hmac=ec8d3e07109375746d1d6946220e5f4673ac3040833e17851af0c979a4ba9cc5
 
-#EXTINF:-1,#EXTINF:-1, tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000001393/1744437311032581_ufc314_Prelims_multi_12apr_landscape_thumb_re1.jpg" group-title="sonyliv-Fight Sports", Preliminary Round - UFC 314 - 13 Apr 2025 - UFC 314
-https://sonydaimenew.akamaized.net/hls/live/2022319/MA08-V3/master_mdh.m3u8?hdnea=exp=1744545507~acl=/*~id=44618357356686057666824040415821~hmac=5b59a28284f402fa34f1c38abe9b990a599c624e7c2ca8cf723458f610e8e95c
+#EXTINF:-1,#EXTINF:-1, tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000001392/1744435785911101_ufc314_Main_Card_hindi_multilang_12apr_landscape_thumb_re1.jpg" group-title="sonyliv-Fight Sports", UFC 314 - Volkanovski vs Lopes- 13 Apr 2025 - UFC 314
+https://sonydaimenew.akamaized.net/hls/live/2022319/MA08-V3/master_mdh.m3u8?hdnea=exp=1744554603~acl=/*~id=00575410709954999823755377422258~hmac=ec8d3e07109375746d1d6946220e5f4673ac3040833e17851af0c979a4ba9cc5
 
