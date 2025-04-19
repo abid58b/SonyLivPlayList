@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "21:56:02 19-04-2025",
+    "last update time": "22:16:15 19-04-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Bundesliga 2024-25",
             "match_name": "Union Berlin vs VfB Stuttgart - MD 30 - 19 Apr 2025",
-            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002931/LIV04UEFA/master_mdh.m3u8?hdnea=exp=1745123162~acl=/*~id=18103997091333346200934043276645~hmac=67c9edc5bcef8f14213febc111db4c7ce7e7d44f93620b51bc672272e64c31ff",
-            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002931/LIV04UEFA/master_mdh.m3u8?hdnea=exp=1745123162~acl=/*~id=18103997091333346200934043276645~hmac=67c9edc5bcef8f14213febc111db4c7ce7e7d44f93620b51bc672272e64c31ff",
-            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002931/LIV04UEFA/master_mdh.m3u8?hdnea=exp=1745123162~acl=/*~id=18103997091333346200934043276645~hmac=67c9edc5bcef8f14213febc111db4c7ce7e7d44f93620b51bc672272e64c31ff"
+            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002931/LIV04UEFA/master_mdh.m3u8?hdnea=exp=1745124375~acl=/*~id=09853338552272811488306387684611~hmac=a1016b979226bab910f8de3d76274af620a58639d73921bc90f5c94b4782cf2f",
+            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002931/LIV04UEFA/master_mdh.m3u8?hdnea=exp=1745124375~acl=/*~id=09853338552272811488306387684611~hmac=a1016b979226bab910f8de3d76274af620a58639d73921bc90f5c94b4782cf2f",
+            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002931/LIV04UEFA/master_mdh.m3u8?hdnea=exp=1745124375~acl=/*~id=09853338552272811488306387684611~hmac=a1016b979226bab910f8de3d76274af620a58639d73921bc90f5c94b4782cf2f"
         },
         {
             "event_category": "Football",
