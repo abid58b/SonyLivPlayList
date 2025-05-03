@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:38:16 03-05-2025",
+    "last update time": "12:08:35 03-05-2025",
     "matches": [
         {
             "event_category": "Golf",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Asian Tour 2025",
             "match_name": "GS Caltex Maekyung Open - Day 3 - 3 May 2025",
-            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1746295696~acl=/*~id=55070232150301559624890027903337~hmac=f90c0c2dac0b3c8713ad53e030f2f8f04c5f571db4072b826ea243d8fd1a34e0",
-            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1746295696~acl=/*~id=55070232150301559624890027903337~hmac=f90c0c2dac0b3c8713ad53e030f2f8f04c5f571db4072b826ea243d8fd1a34e0",
-            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1746295696~acl=/*~id=55070232150301559624890027903337~hmac=f90c0c2dac0b3c8713ad53e030f2f8f04c5f571db4072b826ea243d8fd1a34e0"
+            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1746297514~acl=/*~id=33852935317426495258741966376391~hmac=9fc7a03e0fadd192ad1c2c1f0b48c70b08e263645a63187595db064971c790a1",
+            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1746297514~acl=/*~id=33852935317426495258741966376391~hmac=9fc7a03e0fadd192ad1c2c1f0b48c70b08e263645a63187595db064971c790a1",
+            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1746297514~acl=/*~id=33852935317426495258741966376391~hmac=9fc7a03e0fadd192ad1c2c1f0b48c70b08e263645a63187595db064971c790a1"
         },
         {
             "event_category": "Football",
