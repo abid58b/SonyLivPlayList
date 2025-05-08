@@ -1,21 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "13:10:13 08-05-2025",
+    "last update time": "13:40:32 08-05-2025",
     "matches": [
-        {
-            "event_category": "Golf",
-            "isLive": true,
-            "contentId": 1090479221,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000002156/1746443611806539_asiantour25_International_Series_Japan_day1_5may_landscape_thumb.jpg",
-            "broadcast_channel": "LIV",
-            "audioLanguageName": "ENG",
-            "event_name": "Asian Tour 2025",
-            "match_name": "International Series Japan - Day 1 - 8 May 2025",
-            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1746733213~acl=/*~id=13294103390136262586363022398335~hmac=42be1476dc6fe61d58e672da4a43aeb07b2038c1b9c2140227142bab0a87e248",
-            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1746733213~acl=/*~id=13294103390136262586363022398335~hmac=42be1476dc6fe61d58e672da4a43aeb07b2038c1b9c2140227142bab0a87e248",
-            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1746733213~acl=/*~id=13294103390136262586363022398335~hmac=42be1476dc6fe61d58e672da4a43aeb07b2038c1b9c2140227142bab0a87e248"
-        },
         {
             "event_category": "Football",
             "isLive": false,
