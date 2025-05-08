@@ -1,21 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:10:05 09-05-2025",
+    "last update time": "03:30:17 09-05-2025",
     "matches": [
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": 1090479284,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000001926/174588048898019_uecl2425_SF_leg2_Fiorentina_vs_RealBetis_29apr_live_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "UEFA Conference League 2024-25",
-            "match_name": "Fiorentina vs Real Betis - Semi-Final - 2nd Leg - 9 May 2025",
-            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1746783605~acl=/*~id=35058217721203355946862327389215~hmac=5a4f11ff35cb305172a9a6491fec90cb0a7bb92b816a3dc048190ae69af83e7f",
-            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1746783605~acl=/*~id=35058217721203355946862327389215~hmac=5a4f11ff35cb305172a9a6491fec90cb0a7bb92b816a3dc048190ae69af83e7f",
-            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1746783605~acl=/*~id=35058217721203355946862327389215~hmac=5a4f11ff35cb305172a9a6491fec90cb0a7bb92b816a3dc048190ae69af83e7f"
-        },
         {
             "event_category": "Tennis",
             "isLive": false,
