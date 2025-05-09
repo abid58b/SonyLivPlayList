@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "13:06:40 09-05-2025",
+    "last update time": "13:37:01 09-05-2025",
     "matches": [
         {
             "event_category": "Golf",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Asian Tour 2025",
             "match_name": "International Series Japan - Day 2 - 9 May 2025",
-            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002929/LIV02UEFA/master_mdh.m3u8?hdnea=exp=1746819399~acl=/*~id=19330076485167041101436131856829~hmac=765aa8fd3fa7dcd6149fa77881eda245e635678a10d5393b13d9f141c6107309",
-            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002929/LIV02UEFA/master_mdh.m3u8?hdnea=exp=1746819399~acl=/*~id=19330076485167041101436131856829~hmac=765aa8fd3fa7dcd6149fa77881eda245e635678a10d5393b13d9f141c6107309",
-            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002929/LIV02UEFA/master_mdh.m3u8?hdnea=exp=1746819399~acl=/*~id=19330076485167041101436131856829~hmac=765aa8fd3fa7dcd6149fa77881eda245e635678a10d5393b13d9f141c6107309"
+            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002929/LIV02UEFA/master_mdh.m3u8?hdnea=exp=1746821219~acl=/*~id=95440122097198078408935527278723~hmac=18fe8b6a9f96b32e947e2bdb2732a33784085011402c70c57b87ddb30ad8107e",
+            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002929/LIV02UEFA/master_mdh.m3u8?hdnea=exp=1746821219~acl=/*~id=95440122097198078408935527278723~hmac=18fe8b6a9f96b32e947e2bdb2732a33784085011402c70c57b87ddb30ad8107e",
+            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002929/LIV02UEFA/master_mdh.m3u8?hdnea=exp=1746821219~acl=/*~id=95440122097198078408935527278723~hmac=18fe8b6a9f96b32e947e2bdb2732a33784085011402c70c57b87ddb30ad8107e"
         },
         {
             "event_category": "Football",
