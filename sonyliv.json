@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "23:38:36 12-05-2025",
+    "last update time": "00:08:59 13-05-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -14,33 +14,7 @@
             "match_name": "Al-Okhdood vs Al-Nassr - MD 31 - 12 May 2025",
             "dai_url": "https://dai.google.com/ssai/event/QNEZiPzpTXucyrbpCjdZTw/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/QNEZiPzpTXucyrbpCjdZTw/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/master_mdh.m3u8?hdnea=exp=1747116515~acl=/*~id=08395883691327579004449055880968~hmac=f405f34ecb816fe2bcf3477234b6b98ebdf322bc61c9c899798554319ebbf5a2"
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": 1090479567,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000002288/1746732971980551_SPL2425_MD31_Al_Hilal_vs_Al_Orobah_8may_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Roshn Saudi League 2024-25",
-            "match_name": "Al-Hilal vs Al-Orobah - MD 31 - 12 May 2025",
-            "dai_url": "https://dai.google.com/ssai/event/-8ZdRZfGTvG731m1OlXeIg/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/-8ZdRZfGTvG731m1OlXeIg/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/master_mdh.m3u8?hdnea=exp=1747116515~acl=/*~id=08395883691327579004449055880968~hmac=f405f34ecb816fe2bcf3477234b6b98ebdf322bc61c9c899798554319ebbf5a2"
-        },
-        {
-            "event_category": "Tennis",
-            "isLive": true,
-            "contentId": 1090479550,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000002174/1746516317211568_ATP_Rome_Open_25_Rd3_landscape_thumb_Live.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "ATP Masters 1000 - Internazionali BNL d\u2019Italia - Rome 2025",
-            "match_name": "Round 3 - 12 May 2025",
-            "dai_url": "https://dai.google.com/ssai/event/wN0bVs8wS9-yv6vL9G-tGQ/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/wN0bVs8wS9-yv6vL9G-tGQ/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/master_mdh.m3u8?hdnea=exp=1747116515~acl=/*~id=08395883691327579004449055880968~hmac=f405f34ecb816fe2bcf3477234b6b98ebdf322bc61c9c899798554319ebbf5a2"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/master_mdh.m3u8?hdnea=exp=1747118339~acl=/*~id=18783893215467809674533259515989~hmac=2a34e523f71bde02e9d4a66eb29e241c5a8d9b2a4dd83f916137279d60c1c37f"
         },
         {
             "event_category": "Tennis",
