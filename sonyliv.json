@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:54:20 23-05-2025",
+    "last update time": "02:14:33 23-05-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Bundesliga 2024-25",
             "match_name": "Heidenheim vs SV Elversberg - Relegation Play-off Leg 1 - 22 May 2025",
-            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1747988660~acl=/*~id=30522004130389525206536433704234~hmac=ee9e91912fb18e898580baf475894243df392bd5bbc8a7dfa3a4182aefb7b016",
-            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1747988660~acl=/*~id=30522004130389525206536433704234~hmac=ee9e91912fb18e898580baf475894243df392bd5bbc8a7dfa3a4182aefb7b016",
-            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1747988660~acl=/*~id=30522004130389525206536433704234~hmac=ee9e91912fb18e898580baf475894243df392bd5bbc8a7dfa3a4182aefb7b016"
+            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1747989873~acl=/*~id=09831098356483849030357188201091~hmac=95264c125960fc10c770eabf1e0889bde70f76450d07d8eb21bfb2fdc585f21e",
+            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1747989873~acl=/*~id=09831098356483849030357188201091~hmac=95264c125960fc10c770eabf1e0889bde70f76450d07d8eb21bfb2fdc585f21e",
+            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1747989873~acl=/*~id=09831098356483849030357188201091~hmac=95264c125960fc10c770eabf1e0889bde70f76450d07d8eb21bfb2fdc585f21e"
         },
         {
             "event_category": "Tennis",
