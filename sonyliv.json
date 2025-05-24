@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:35:57 24-05-2025",
+    "last update time": "09:56:10 24-05-2025",
     "matches": [
         {
             "event_category": "Golf",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Asian Tour 2025",
             "match_name": "Kolon Korea Open - Day 3 - 24 May 2025",
-            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002930/LIV03UEFA/master_mdh.m3u8?hdnea=exp=1748102756~acl=/*~id=97454241694050757852527176870641~hmac=ae24eed8dd4aa233043ae94169376eeb5a4ab55169a0d186ea9d92f0d9f2ccce",
-            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002930/LIV03UEFA/master_mdh.m3u8?hdnea=exp=1748102756~acl=/*~id=97454241694050757852527176870641~hmac=ae24eed8dd4aa233043ae94169376eeb5a4ab55169a0d186ea9d92f0d9f2ccce",
-            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002930/LIV03UEFA/master_mdh.m3u8?hdnea=exp=1748102756~acl=/*~id=97454241694050757852527176870641~hmac=ae24eed8dd4aa233043ae94169376eeb5a4ab55169a0d186ea9d92f0d9f2ccce"
+            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002930/LIV03UEFA/master_mdh.m3u8?hdnea=exp=1748103970~acl=/*~id=59638806929680543786759666328672~hmac=a7dc77b247e623f207c23d182170f8ed2b28da041d528695065d6f7a48cdd359",
+            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002930/LIV03UEFA/master_mdh.m3u8?hdnea=exp=1748103970~acl=/*~id=59638806929680543786759666328672~hmac=a7dc77b247e623f207c23d182170f8ed2b28da041d528695065d6f7a48cdd359",
+            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002930/LIV03UEFA/master_mdh.m3u8?hdnea=exp=1748103970~acl=/*~id=59638806929680543786759666328672~hmac=a7dc77b247e623f207c23d182170f8ed2b28da041d528695065d6f7a48cdd359"
         },
         {
             "event_category": "Tennis",
