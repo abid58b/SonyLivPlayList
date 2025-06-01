@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "00:28:31 02-06-2025",
+    "last update time": "00:48:44 02-06-2025",
     "matches": [
         {
             "event_category": "CHESS",
@@ -14,7 +14,7 @@
             "match_name": "Round 6 - 1 Jun 2025",
             "dai_url": "https://dai.google.com/ssai/event/wchc-yRfS6Oq1EK97fcrIg/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/wchc-yRfS6Oq1EK97fcrIg/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/master_mdh.m3u8?hdnea=exp=1748847511~acl=/*~id=31842775255801568327986352526984~hmac=1b526f2f651a641af83cf18b8bc666d71b3af6e8cb1ff019d2400ffb9f26334e"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/master_mdh.m3u8?hdnea=exp=1748848724~acl=/*~id=84583649711330648138553441660205~hmac=7da638a02b3cd2be1c06de7c9aa3b949c02a3b5aa303698591bc56142bbd058d"
         }
     ]
 }
