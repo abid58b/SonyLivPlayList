@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "14:16:30 07-06-2025",
+    "last update time": "14:36:47 07-06-2025",
     "matches": [
         {
             "event_category": "Archery",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Hyundai Archery World Cup 2025",
             "match_name": "Compound Team Finals - 7 Jun 2025",
-            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1749329190~acl=/*~id=63808862497884443765652603813053~hmac=bc35db33b4e3b95a8337176df477a266bd0537134c951d9c89ee820741ed95c7",
-            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1749329190~acl=/*~id=63808862497884443765652603813053~hmac=bc35db33b4e3b95a8337176df477a266bd0537134c951d9c89ee820741ed95c7",
-            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1749329190~acl=/*~id=63808862497884443765652603813053~hmac=bc35db33b4e3b95a8337176df477a266bd0537134c951d9c89ee820741ed95c7"
+            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1749330407~acl=/*~id=60764558410938520091822516864951~hmac=59d1660425b87a218b08893ef9247ce40556193ab59b0184cbe9d56417f43488",
+            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1749330407~acl=/*~id=60764558410938520091822516864951~hmac=59d1660425b87a218b08893ef9247ce40556193ab59b0184cbe9d56417f43488",
+            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1749330407~acl=/*~id=60764558410938520091822516864951~hmac=59d1660425b87a218b08893ef9247ce40556193ab59b0184cbe9d56417f43488"
         },
         {
             "event_category": "Football",
