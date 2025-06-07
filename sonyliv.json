@@ -1,21 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "14:36:47 07-06-2025",
+    "last update time": "14:56:59 07-06-2025",
     "matches": [
-        {
-            "event_category": "Archery",
-            "isLive": true,
-            "contentId": 1090482188,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003907/1749218401752803_HAWC2025_Turkiye_Compound_Team_finals_6jun_landscape_thumb.jpg",
-            "broadcast_channel": "LIV",
-            "audioLanguageName": "ENG",
-            "event_name": "Hyundai Archery World Cup 2025",
-            "match_name": "Compound Team Finals - 7 Jun 2025",
-            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1749330407~acl=/*~id=60764558410938520091822516864951~hmac=59d1660425b87a218b08893ef9247ce40556193ab59b0184cbe9d56417f43488",
-            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1749330407~acl=/*~id=60764558410938520091822516864951~hmac=59d1660425b87a218b08893ef9247ce40556193ab59b0184cbe9d56417f43488",
-            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1749330407~acl=/*~id=60764558410938520091822516864951~hmac=59d1660425b87a218b08893ef9247ce40556193ab59b0184cbe9d56417f43488"
-        },
         {
             "event_category": "Football",
             "isLive": false,
