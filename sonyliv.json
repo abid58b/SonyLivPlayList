@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "22:38:27 12-06-2025",
+    "last update time": "22:58:41 12-06-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Vitality Blast 2025",
             "match_name": "Essex vs Glamorgan - 12 Jun 2025",
-            "dai_url": "https://sonymtmnew.akamaized.net/hls/live/2022319/DAI15ME-V3/master_lrl.m3u8?originpath=/v1/master/cf6c1a8acbbb40a9b94e083a0c84baaf7d037980/Live_event7_adm/2022319/DAI15ME-V3/master_lrl.m3u8&adstack=MT-SSB&ads.Idtype=uuid&ads.rdid=b9fdde005d894a0ba7cb13d210ddf01d-1712618823610&ads.Is_lat=0&ads.ppid=fa6d8264d0f1e034e4de2f8615ecea3b&hdnea=exp=1749748167~acl=/*~id=78665314726073659311937404808564~hmac=a216d8b2cd379814d6d6ddef32ccb596e206cb80b555087ccdaf8367d09ab430&hdnea=exp=1749791307~acl=/*~id=28325583450948025853269504781640~hmac=1ea665d706b33ff8f198d91e8c4464b0afa331b90001dbd26bb064abb1dde0bf",
-            "pub_url": "https://sonymtmnew.akamaized.net/hls/live/2022319/DAI15ME-V3/master_lrl.m3u8?originpath=/v1/master/cf6c1a8acbbb40a9b94e083a0c84baaf7d037980/Live_event7_adm/2022319/DAI15ME-V3/master_lrl.m3u8&adstack=MT-SSB&ads.Idtype=uuid&ads.rdid=b9fdde005d894a0ba7cb13d210ddf01d-1712618823610&ads.Is_lat=0&ads.ppid=fa6d8264d0f1e034e4de2f8615ecea3b&hdnea=exp=1749748167~acl=/*~id=78665314726073659311937404808564~hmac=a216d8b2cd379814d6d6ddef32ccb596e206cb80b555087ccdaf8367d09ab430&hdnea=exp=1749791307~acl=/*~id=28325583450948025853269504781640~hmac=1ea665d706b33ff8f198d91e8c4464b0afa331b90001dbd26bb064abb1dde0bf",
-            "video_url": "https://sonymtmnew.akamaized.net/hls/live/2022319/DAI15ME-V3/master_lrl.m3u8?originpath=/v1/master/cf6c1a8acbbb40a9b94e083a0c84baaf7d037980/Live_event7_adm/2022319/DAI15ME-V3/master_lrl.m3u8&adstack=MT-SSB&ads.Idtype=uuid&ads.rdid=b9fdde005d894a0ba7cb13d210ddf01d-1712618823610&ads.Is_lat=0&ads.ppid=fa6d8264d0f1e034e4de2f8615ecea3b&hdnea=exp=1749748167~acl=/*~id=78665314726073659311937404808564~hmac=a216d8b2cd379814d6d6ddef32ccb596e206cb80b555087ccdaf8367d09ab430&hdnea=exp=1749791307~acl=/*~id=28325583450948025853269504781640~hmac=1ea665d706b33ff8f198d91e8c4464b0afa331b90001dbd26bb064abb1dde0bf"
+            "dai_url": "https://sonymtmnew.akamaized.net/hls/live/2022319/DAI15ME-V3/master_lrl.m3u8?originpath=/v1/master/cf6c1a8acbbb40a9b94e083a0c84baaf7d037980/Live_event7_adm/2022319/DAI15ME-V3/master_lrl.m3u8&adstack=MT-SSB&ads.Idtype=uuid&ads.rdid=b9fdde005d894a0ba7cb13d210ddf01d-1712618823610&ads.Is_lat=0&ads.ppid=fa6d8264d0f1e034e4de2f8615ecea3b&hdnea=exp=1749749380~acl=/*~id=41834978451811812526587123647981~hmac=fd9e683173fc224b47f4c1112a28e1f46e62275cb26bebb067547a415a3d14c0&hdnea=exp=1749792520~acl=/*~id=39538366933016199061294898362801~hmac=f73fbc96aeed8ee0af4f84760441e2a92979e22bb957a8cc1a7f9e8a54c09e89",
+            "pub_url": "https://sonymtmnew.akamaized.net/hls/live/2022319/DAI15ME-V3/master_lrl.m3u8?originpath=/v1/master/cf6c1a8acbbb40a9b94e083a0c84baaf7d037980/Live_event7_adm/2022319/DAI15ME-V3/master_lrl.m3u8&adstack=MT-SSB&ads.Idtype=uuid&ads.rdid=b9fdde005d894a0ba7cb13d210ddf01d-1712618823610&ads.Is_lat=0&ads.ppid=fa6d8264d0f1e034e4de2f8615ecea3b&hdnea=exp=1749749380~acl=/*~id=41834978451811812526587123647981~hmac=fd9e683173fc224b47f4c1112a28e1f46e62275cb26bebb067547a415a3d14c0&hdnea=exp=1749792520~acl=/*~id=39538366933016199061294898362801~hmac=f73fbc96aeed8ee0af4f84760441e2a92979e22bb957a8cc1a7f9e8a54c09e89",
+            "video_url": "https://sonymtmnew.akamaized.net/hls/live/2022319/DAI15ME-V3/master_lrl.m3u8?originpath=/v1/master/cf6c1a8acbbb40a9b94e083a0c84baaf7d037980/Live_event7_adm/2022319/DAI15ME-V3/master_lrl.m3u8&adstack=MT-SSB&ads.Idtype=uuid&ads.rdid=b9fdde005d894a0ba7cb13d210ddf01d-1712618823610&ads.Is_lat=0&ads.ppid=fa6d8264d0f1e034e4de2f8615ecea3b&hdnea=exp=1749749380~acl=/*~id=41834978451811812526587123647981~hmac=fd9e683173fc224b47f4c1112a28e1f46e62275cb26bebb067547a415a3d14c0&hdnea=exp=1749792520~acl=/*~id=39538366933016199061294898362801~hmac=f73fbc96aeed8ee0af4f84760441e2a92979e22bb957a8cc1a7f9e8a54c09e89"
         },
         {
             "event_category": "Cricket",
