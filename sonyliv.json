@@ -1,20 +1,20 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "15:33:47 14-06-2025",
+    "last update time": "16:04:05 14-06-2025",
     "matches": [
         {
             "event_category": "Cricket",
             "isLive": true,
             "contentId": 1090483312,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000004257/1749834497842256_PCL25_Mixed_Corporate_Colosseum_Noida_Gladiators_vs_Sky_Rozo_Delhi_Janakpuri_13jun_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000004260/1749840147344945_PCL25_Mixed_Corporate_Noida_Falcons_vs_KEI_WIRES_CABLES_13jun_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Pro Cricket League Eleven 11",
-            "match_name": "Colosseum Noida Gladiators vs Sky Rozo Delhi Janakpuri - 14 Jun 2025",
+            "match_name": "Noida - Falcons vs KEI WIRES & CABLES - 14 Jun 2025",
             "dai_url": "https://dai.google.com/ssai/event/-8ZdRZfGTvG731m1OlXeIg/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/-8ZdRZfGTvG731m1OlXeIg/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/master_mdh.m3u8?hdnea=exp=1749938626~acl=/*~id=43345946430868087672499051448437~hmac=c89879aa9ce1a45ff2bbbf038df3bf7de8446de2b71860e8affb8273a7d591d9"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/master_mdh.m3u8?hdnea=exp=1749940445~acl=/*~id=10079546103011650056394595103934~hmac=c2cff0b27ef5cf3690ed5f25a1e4bc2c568895c12e3ffabd0fe7f949a7e5a8c9"
         },
         {
             "event_category": "Cricket",
