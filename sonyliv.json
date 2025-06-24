@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "16:09:03 24-06-2025",
+    "last update time": "16:39:24 24-06-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -14,7 +14,7 @@
             "match_name": "",
             "dai_url": "https://dai.google.com/ssai/event/1li4LhDZQ8SKgnmS9wI7-Q/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/1li4LhDZQ8SKgnmS9wI7-Q/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME/master_mdh.m3u8?hdnea=exp=1750804743~acl=/*~id=21731190001956523104241611270718~hmac=a5890c32c8988a393c27fb2e2796eacad99d23501751497d4e22b6f4e2d1e007"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME/master_mdh.m3u8?hdnea=exp=1750806563~acl=/*~id=00315349490306590404123658177274~hmac=3a714db6e67cd517d4aa01f00f05082bd0c0251d82f04fb02690437c2ccd322e"
         },
         {
             "event_category": "Cricket",
