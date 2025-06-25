@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:-1,#EXTINF:-1, tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000004547/1750692153748119_SLvsBAN25_2nd_test_day1_23jun_landscape_thumb.jpg" group-title="sonyliv-Cricket", 2nd Test - Day 1 - 25 Jun 2025 - Bangladesh Tour of Sri Lanka 2025
-https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/master_mdh.m3u8?hdnea=exp=1750897185~acl=/*~id=11601284536864475464780103431026~hmac=de98d1b6816411de67c245a13aeaaf4cb59138adbc648370c22bfdf743406554
-
 #EXTINF:-1,#EXTINF:-1, tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000004282/1749885060000461_Football_Blockbusters_24x7_landscape_thumb_14jun.jpg" group-title="sonyliv-Football",  - Football Blockbusters 24x7
-https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME/master_mdh.m3u8?hdnea=exp=1750897185~acl=/*~id=11601284536864475464780103431026~hmac=de98d1b6816411de67c245a13aeaaf4cb59138adbc648370c22bfdf743406554
+https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME/master_mdh.m3u8?hdnea=exp=1750900224~acl=/*~id=95630308269723227875384522723596~hmac=40a568ef6fe497031d35f3a7a3290c3e002d2ab8810b49d1224b2dd8178141aa
 
