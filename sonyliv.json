@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "19:11:15 04-07-2025",
+    "last update time": "19:31:28 04-07-2025",
     "matches": [
         {
             "event_category": "Golf",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Asian Tour 2025",
             "match_name": "International Series Morocco - Day 2 - 4 Jul 2025",
-            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1751679675~acl=/*~id=33391740117322800423920641760844~hmac=08f2d577cc47184b364346ef4b3ed86f38d8bfefe509c92dcc65542b3d3cbd6d",
-            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1751679675~acl=/*~id=33391740117322800423920641760844~hmac=08f2d577cc47184b364346ef4b3ed86f38d8bfefe509c92dcc65542b3d3cbd6d",
-            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1751679675~acl=/*~id=33391740117322800423920641760844~hmac=08f2d577cc47184b364346ef4b3ed86f38d8bfefe509c92dcc65542b3d3cbd6d"
+            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1751680888~acl=/*~id=81186475403715064404039297056799~hmac=59f02265dbc42e3ee42f95e505a62b1b78182af875fd0fa0f4745ba7dd9c2456",
+            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1751680888~acl=/*~id=81186475403715064404039297056799~hmac=59f02265dbc42e3ee42f95e505a62b1b78182af875fd0fa0f4745ba7dd9c2456",
+            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1751680888~acl=/*~id=81186475403715064404039297056799~hmac=59f02265dbc42e3ee42f95e505a62b1b78182af875fd0fa0f4745ba7dd9c2456"
         },
         {
             "event_category": "Cricket",
