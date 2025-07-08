@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "17:43:45 08-07-2025",
+    "last update time": "18:44:22 08-07-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Bangladesh Tour of Sri Lanka 2025",
             "match_name": "3rd ODI - 8 Jul 2025",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/master_mdh.m3u8?hdnea=exp=1752020025~acl=/*~id=50057934225132646835298518010343~hmac=6115440b246ce5b7eab0665bda401d3056297eb3f0913abdf5f188077bcf1bf1",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/master_mdh.m3u8?hdnea=exp=1752020025~acl=/*~id=50057934225132646835298518010343~hmac=6115440b246ce5b7eab0665bda401d3056297eb3f0913abdf5f188077bcf1bf1",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/master_mdh.m3u8?hdnea=exp=1752020025~acl=/*~id=50057934225132646835298518010343~hmac=6115440b246ce5b7eab0665bda401d3056297eb3f0913abdf5f188077bcf1bf1"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/master_mdh.m3u8?hdnea=exp=1752023662~acl=/*~id=95196534944515980844470942593123~hmac=bd3939f2402b2255b1a1f02af64e50a2afbe7a3db97e01dd391e53e94e6243b4",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/master_mdh.m3u8?hdnea=exp=1752023662~acl=/*~id=95196534944515980844470942593123~hmac=bd3939f2402b2255b1a1f02af64e50a2afbe7a3db97e01dd391e53e94e6243b4",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/master_mdh.m3u8?hdnea=exp=1752023662~acl=/*~id=95196534944515980844470942593123~hmac=bd3939f2402b2255b1a1f02af64e50a2afbe7a3db97e01dd391e53e94e6243b4"
         }
     ]
 }
