@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "00:52:40 10-07-2025",
+    "last update time": "01:12:53 10-07-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "India Women's Tour of England 2025",
             "match_name": "4th T20I - 9 Jul 2025",
-            "dai_url": "dai://DX_lMgd6R42vY1wSWgXg9A?hdnea=exp=1752089020~acl=/*~id=39284204664528694438265112713817~hmac=579fdce2d00e98378dc9bd646c01f9add5e7b9628772a2a542d15349ee5f1dac&hdnea=exp=1752132160~acl=/*~id=45541651172550167628244329024324~hmac=53f6101a6bbaf86dec717e9c1cf9bc3c769309967372e7f05a92c7913406094f",
-            "pub_url": "dai://DX_lMgd6R42vY1wSWgXg9A?hdnea=exp=1752089020~acl=/*~id=39284204664528694438265112713817~hmac=579fdce2d00e98378dc9bd646c01f9add5e7b9628772a2a542d15349ee5f1dac&hdnea=exp=1752132160~acl=/*~id=45541651172550167628244329024324~hmac=53f6101a6bbaf86dec717e9c1cf9bc3c769309967372e7f05a92c7913406094f",
-            "video_url": "dai://DX_lMgd6R42vY1wSWgXg9A?hdnea=exp=1752089020~acl=/*~id=39284204664528694438265112713817~hmac=579fdce2d00e98378dc9bd646c01f9add5e7b9628772a2a542d15349ee5f1dac&hdnea=exp=1752132160~acl=/*~id=45541651172550167628244329024324~hmac=53f6101a6bbaf86dec717e9c1cf9bc3c769309967372e7f05a92c7913406094f"
+            "dai_url": "dai://DX_lMgd6R42vY1wSWgXg9A?hdnea=exp=1752090233~acl=/*~id=85986625027738774817416429727698~hmac=7a34e51aeb2d194f263382bdf1c1dfc675e759d9195b532df13f6a8769402d3b&hdnea=exp=1752133373~acl=/*~id=44270087876120350260589220902279~hmac=afec1cc08e89dfb3c139d8c0f83c927086ea4811fc12986615d533347dbc2b06",
+            "pub_url": "dai://DX_lMgd6R42vY1wSWgXg9A?hdnea=exp=1752090233~acl=/*~id=85986625027738774817416429727698~hmac=7a34e51aeb2d194f263382bdf1c1dfc675e759d9195b532df13f6a8769402d3b&hdnea=exp=1752133373~acl=/*~id=44270087876120350260589220902279~hmac=afec1cc08e89dfb3c139d8c0f83c927086ea4811fc12986615d533347dbc2b06",
+            "video_url": "dai://DX_lMgd6R42vY1wSWgXg9A?hdnea=exp=1752090233~acl=/*~id=85986625027738774817416429727698~hmac=7a34e51aeb2d194f263382bdf1c1dfc675e759d9195b532df13f6a8769402d3b&hdnea=exp=1752133373~acl=/*~id=44270087876120350260589220902279~hmac=afec1cc08e89dfb3c139d8c0f83c927086ea4811fc12986615d533347dbc2b06"
         },
         {
             "event_category": "Cricket",
