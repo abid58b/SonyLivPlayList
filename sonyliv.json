@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:37:30 11-07-2025",
+    "last update time": "01:57:41 11-07-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Vitality Blast 2025",
             "match_name": "Derbyshire Falcons vs Worcestershire Rapids - 10 Jul 2025",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/master_mdh.m3u8?hdnea=exp=1752221250~acl=/*~id=40023715335826388235767625683601~hmac=f64dabe00b9821e6b2f0bda916c8ebc3e772e022210c045008fd4e73a361f8a6",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/master_mdh.m3u8?hdnea=exp=1752221250~acl=/*~id=40023715335826388235767625683601~hmac=f64dabe00b9821e6b2f0bda916c8ebc3e772e022210c045008fd4e73a361f8a6",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/master_mdh.m3u8?hdnea=exp=1752221250~acl=/*~id=40023715335826388235767625683601~hmac=f64dabe00b9821e6b2f0bda916c8ebc3e772e022210c045008fd4e73a361f8a6"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/master_mdh.m3u8?hdnea=exp=1752222461~acl=/*~id=98025119204988725113685919764484~hmac=daf72aedc2f4e17fb4c92e5896bf93f6fd4271a7db26b904e3d515a322ab281b",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/master_mdh.m3u8?hdnea=exp=1752222461~acl=/*~id=98025119204988725113685919764484~hmac=daf72aedc2f4e17fb4c92e5896bf93f6fd4271a7db26b904e3d515a322ab281b",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/master_mdh.m3u8?hdnea=exp=1752222461~acl=/*~id=98025119204988725113685919764484~hmac=daf72aedc2f4e17fb4c92e5896bf93f6fd4271a7db26b904e3d515a322ab281b"
         }
     ]
 }
