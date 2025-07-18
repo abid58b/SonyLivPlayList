@@ -1,21 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:38:03 19-07-2025",
+    "last update time": "01:58:14 19-07-2025",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": 1090485206,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000005233/1752772634932299_Vitality_Notts_vs_Lancashire_Live_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Vitality Blast 2025",
-            "match_name": "Nottinghamshire vs Lancashire - 18 Jul 2025",
-            "dai_url": "https://dai.google.com/ssai/event/RLuKHGGZS72Dss9NPWaldw/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/RLuKHGGZS72Dss9NPWaldw/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/hls/live/2022319/DAI15ME-V3/master_lrl.m3u8?originpath=/v1/master/cf6c1a8acbbb40a9b94e083a0c84baaf7d037980/Live_event5_adm/2022319/DAI15ME-V3/master_lrl.m3u8&adstack=MT-SSB&ads.Idtype=uuid&ads.rdid=b9fdde005d894a0ba7cb13d210ddf01d-1712618823610&ads.Is_lat=0&ads.ppid=fa6d8264d0f1e034e4de2f8615ecea3b&hdnea=exp=1752871083~acl=/*~id=99735602283543355705175351087843~hmac=ed2c90b55e8d4b93c3420f6452eace7cb2a13be90e1b22600367bceafd1e511e&hdnea=exp=1752912483~acl=/*~id=19680962516708524224386189464367~hmac=2ddf6da29f0163cf4114872c9551ffccef20473bb644abb91c510e8f68afc2ef"
-        },
         {
             "event_category": "Cricket",
             "isLive": false,
