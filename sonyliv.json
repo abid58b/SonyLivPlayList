@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "22:31:08 19-07-2025",
+    "last update time": "23:01:31 19-07-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -14,7 +14,7 @@
             "match_name": "2nd ODI - 19 Jul 2025",
             "dai_url": "https://dai.google.com/ssai/event/DX_lMgd6R42vY1wSWgXg9A/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/DX_lMgd6R42vY1wSWgXg9A/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/hls/live/2037141/DAI21ME-V3/master_lrl.m3u8?originpath=/v1/master/cf6c1a8acbbb40a9b94e083a0c84baaf7d037980/Live_event12_adm/2037141/DAI21ME-V3/master_lrl.m3u8&adstack=MT-SSB&ads.Idtype=uuid&ads.rdid=b9fdde005d894a0ba7cb13d210ddf01d-1712618823610&ads.Is_lat=0&ads.ppid=fa6d8264d0f1e034e4de2f8615ecea3b&hdnea=exp=1752944527~acl=/*~id=39413061310917889938111989833007~hmac=516b12cdaccc47bfb10a6e3c9a44de25e7dabb34df709be4d90924bde022e105&hdnea=exp=1752987667~acl=/*~id=85651757511542517813743746410478~hmac=a89d106d4fff553b5f8946d684c35af9703a02b65e1fc67b6fe5388964dc6c75"
+            "video_url": "https://sonymtmnew.akamaized.net/hls/live/2037141/DAI21ME-V3/master_lrl.m3u8?originpath=/v1/master/cf6c1a8acbbb40a9b94e083a0c84baaf7d037980/Live_event12_adm/2037141/DAI21ME-V3/master_lrl.m3u8&adstack=MT-SSB&ads.Idtype=uuid&ads.rdid=b9fdde005d894a0ba7cb13d210ddf01d-1712618823610&ads.Is_lat=0&ads.ppid=fa6d8264d0f1e034e4de2f8615ecea3b&hdnea=exp=1752946350~acl=/*~id=28068919499581128829259227532219~hmac=954c540235b02b9a742cb90cb1e7ab861b2c21fef46d8dd8a5136e94491f3f49&hdnea=exp=1752989490~acl=/*~id=54758687752434691869198766497395~hmac=e5164c86f3f494fa42d410ee523d16b1aff3150f7f80951873226c819ff79c73"
         },
         {
             "event_category": "Cricket",
@@ -27,7 +27,7 @@
             "match_name": "2nd ODI - 19 Jul 2025",
             "dai_url": "https://dai.google.com/ssai/event/wchc-yRfS6Oq1EK97fcrIg/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/wchc-yRfS6Oq1EK97fcrIg/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/hls/live/2105079/DAI08ME-V3/master_lrl.m3u8?originpath=/v1/master/cf6c1a8acbbb40a9b94e083a0c84baaf7d037980/Live_event6_adm/2105079/DAI08ME-V3/master_lrl.m3u8&adstack=MT-SSB&ads.Idtype=uuid&ads.rdid=b9fdde005d894a0ba7cb13d210ddf01d-1712618823610&ads.Is_lat=0&ads.ppid=fa6d8264d0f1e034e4de2f8615ecea3b&hdnea=exp=1752944527~acl=/*~id=60238191886185959520839198557600~hmac=c7c3ff7bdb7c87e7a6ea89d5129ef52be25b95843616fab2bc3086760eb8d91c&hdnea=exp=1752987667~acl=/*~id=85651757511542517813743746410478~hmac=a89d106d4fff553b5f8946d684c35af9703a02b65e1fc67b6fe5388964dc6c75"
+            "video_url": "https://sonymtmnew.akamaized.net/hls/live/2105079/DAI08ME-V3/master_lrl.m3u8?originpath=/v1/master/cf6c1a8acbbb40a9b94e083a0c84baaf7d037980/Live_event6_adm/2105079/DAI08ME-V3/master_lrl.m3u8&adstack=MT-SSB&ads.Idtype=uuid&ads.rdid=b9fdde005d894a0ba7cb13d210ddf01d-1712618823610&ads.Is_lat=0&ads.ppid=fa6d8264d0f1e034e4de2f8615ecea3b&hdnea=exp=1752946350~acl=/*~id=44105760758508869035845894410032~hmac=5b5a15ff164ce1416929fb68d0396d3ac7cf80ec3f066c58a88ed0d25039f473&hdnea=exp=1752989490~acl=/*~id=54758687752434691869198766497395~hmac=e5164c86f3f494fa42d410ee523d16b1aff3150f7f80951873226c819ff79c73"
         },
         {
             "event_category": "Cricket",
@@ -40,7 +40,7 @@
             "match_name": "2nd ODI - 19 Jul 2025",
             "dai_url": "https://dai.google.com/ssai/event/YdkvVYC9SWOpxSmk6DXUzQ/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/YdkvVYC9SWOpxSmk6DXUzQ/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/hls/live/2022317/DAI13ME-V3/master_lrl.m3u8?originpath=/v1/master/cf6c1a8acbbb40a9b94e083a0c84baaf7d037980/Live_event6_adm/2022317/DAI13ME-V3/master_lrl.m3u8&adstack=MT-SSB&ads.Idtype=uuid&ads.rdid=b9fdde005d894a0ba7cb13d210ddf01d-1712618823610&ads.Is_lat=0&ads.ppid=fa6d8264d0f1e034e4de2f8615ecea3b&hdnea=exp=1752944528~acl=/*~id=42333716205428923296813748739184~hmac=b3760399118c70f7bfa6303133d51b05da3075a32626a68dfb881bdd438bdb10&hdnea=exp=1752987667~acl=/*~id=85651757511542517813743746410478~hmac=a89d106d4fff553b5f8946d684c35af9703a02b65e1fc67b6fe5388964dc6c75"
+            "video_url": "https://sonymtmnew.akamaized.net/hls/live/2022317/DAI13ME-V3/master_lrl.m3u8?originpath=/v1/master/cf6c1a8acbbb40a9b94e083a0c84baaf7d037980/Live_event6_adm/2022317/DAI13ME-V3/master_lrl.m3u8&adstack=MT-SSB&ads.Idtype=uuid&ads.rdid=b9fdde005d894a0ba7cb13d210ddf01d-1712618823610&ads.Is_lat=0&ads.ppid=fa6d8264d0f1e034e4de2f8615ecea3b&hdnea=exp=1752946351~acl=/*~id=84527378005523730586996695598028~hmac=dbb628b7e78346f297eb9b40679056723bf9cfc216372f1d1f98d6b2f74076bb&hdnea=exp=1752989490~acl=/*~id=54758687752434691869198766497395~hmac=e5164c86f3f494fa42d410ee523d16b1aff3150f7f80951873226c819ff79c73"
         },
         {
             "event_category": "Cricket",
@@ -53,7 +53,7 @@
             "match_name": "2nd ODI - 19 Jul 2025",
             "dai_url": "https://dai.google.com/ssai/event/hz16sZhMQXy6Xz-grMWr-A/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/hz16sZhMQXy6Xz-grMWr-A/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/hls/live/2018457/DAI35ME-V3/master_lrl.m3u8?originpath=/v1/master/cf6c1a8acbbb40a9b94e083a0c84baaf7d037980/Live_event6_adm/2018457/DAI35ME-V3/master_lrl.m3u8&adstack=MT-SSB&ads.Idtype=uuid&ads.rdid=b9fdde005d894a0ba7cb13d210ddf01d-1712618823610&ads.Is_lat=0&ads.ppid=fa6d8264d0f1e034e4de2f8615ecea3b&hdnea=exp=1752944528~acl=/*~id=70276048169439809754204776057507~hmac=29a23393a21bdf41e07a327851fbcb21464d5b7f288ca6ca911a5d7e302ab520&hdnea=exp=1752987667~acl=/*~id=85651757511542517813743746410478~hmac=a89d106d4fff553b5f8946d684c35af9703a02b65e1fc67b6fe5388964dc6c75"
+            "video_url": "https://sonymtmnew.akamaized.net/hls/live/2018457/DAI35ME-V3/master_lrl.m3u8?originpath=/v1/master/cf6c1a8acbbb40a9b94e083a0c84baaf7d037980/Live_event6_adm/2018457/DAI35ME-V3/master_lrl.m3u8&adstack=MT-SSB&ads.Idtype=uuid&ads.rdid=b9fdde005d894a0ba7cb13d210ddf01d-1712618823610&ads.Is_lat=0&ads.ppid=fa6d8264d0f1e034e4de2f8615ecea3b&hdnea=exp=1752946351~acl=/*~id=82395062412208869515554117379047~hmac=c915a3d1d02159d02cad72cf078051564e7b2142a2db9ea9e86e056ab78b7669&hdnea=exp=1752989490~acl=/*~id=54758687752434691869198766497395~hmac=e5164c86f3f494fa42d410ee523d16b1aff3150f7f80951873226c819ff79c73"
         },
         {
             "event_category": "Cricket",
