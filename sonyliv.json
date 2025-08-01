@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:29:04 01-08-2025",
+    "last update time": "08:50:33 01-08-2025",
     "matches": [
         {
             "event_category": "Tennis",
@@ -14,7 +14,7 @@
             "match_name": "Day 5 - 31 Jul 2025",
             "dai_url": "https://dai.google.com/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/hls/live/2022316/DAI12ME-V3/master_lrl.m3u8?hdnea=exp=1754053144~acl=/*~id=86563924367971617556663918434254~hmac=1c8a81dacdf19e6fc7a9a9d464168b99650e0167bd514261b315eab5a0b7f62d"
+            "video_url": "https://sonymtmnew.akamaized.net/hls/live/2022316/DAI12ME-V3/master_lrl.m3u8?hdnea=exp=1754061633~acl=/*~id=55969469409314930271654579061441~hmac=f1c5d64d1456e5d454eaa660783d4a742a565102499d961dc580b9318a4b5d9a"
         },
         {
             "event_category": "Cricket",
