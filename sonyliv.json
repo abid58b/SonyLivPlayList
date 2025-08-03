@@ -1,20 +1,20 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "17:45:15 03-08-2025",
+    "last update time": "18:45:56 03-08-2025",
     "matches": [
         {
             "event_category": "Football",
             "isLive": true,
-            "contentId": 1090483661,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000005648/1753843752035880_dc25_Namdhari_FC_vs_Indian_Air_Force_FT_30jul_landscape_thumb.jpg",
+            "contentId": 1090483662,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000005648/1753843375310880_dc25_KAMS_FC_vs_Punjab_FC_30jul_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "IndianOil Durand Cup 2025",
-            "match_name": "Namdhari FC vs Indian Air Force FT - 3 Aug 2025",
-            "dai_url": "https://dai.google.com/ssai/event/-8ZdRZfGTvG731m1OlXeIg/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/-8ZdRZfGTvG731m1OlXeIg/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-V3/master_lrl.m3u8?hdnea=exp=1754266514~acl=/*~id=08756446344393532866229070937201~hmac=0a66f44e1b8c3aa7b9fbe37ff47025ceaa2eeae14a10250917ffdea445789790"
+            "match_name": "Karbi Anglong Morning Star FC vs Punjab FC - 3 Aug 2025",
+            "dai_url": "https://dai.google.com/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
+            "video_url": "https://sonymtmnew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_lrl.m3u8?hdnea=exp=1754270155~acl=/*~id=93935082874721794987989726078204~hmac=920bbf0a0b4850a919ea0e1cd19d4d77b9aed3590b9abc6f6a46688d52c2fc56"
         },
         {
             "event_category": "ESPORTS",
@@ -27,7 +27,7 @@
             "match_name": "PMWC at EWC 25 with S8UL - Day 3 - Grand Finals - 3 Aug 2025",
             "dai_url": "https://dai.google.com/ssai/event/DX_lMgd6R42vY1wSWgXg9A/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/DX_lMgd6R42vY1wSWgXg9A/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/hls/live/2037141/DAI21ME-V3/master_lrl.m3u8?hdnea=exp=1754266514~acl=/*~id=08756446344393532866229070937201~hmac=0a66f44e1b8c3aa7b9fbe37ff47025ceaa2eeae14a10250917ffdea445789790"
+            "video_url": "https://sonymtmnew.akamaized.net/hls/live/2037141/DAI21ME-V3/master_lrl.m3u8?hdnea=exp=1754270155~acl=/*~id=93935082874721794987989726078204~hmac=920bbf0a0b4850a919ea0e1cd19d4d77b9aed3590b9abc6f6a46688d52c2fc56"
         },
         {
             "event_category": "Cricket",
