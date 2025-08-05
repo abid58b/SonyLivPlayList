@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:01:15 06-08-2025",
+    "last update time": "04:21:25 06-08-2025",
     "matches": [
         {
             "event_category": "Tennis",
@@ -14,7 +14,7 @@
             "match_name": "Andrey Rublev vs Taylor Fritz - Quarter-final - 6 Aug 2025",
             "dai_url": "https://dai.google.com/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/hls/live/2022316/DAI12ME-V3/master_lrl.m3u8?hdnea=exp=1754476275~acl=/*~id=99490786372213878128132015252388~hmac=0a4904299d31a718d18e6e71da960f6668d1522b8a071a2017e55f50584f1bd8"
+            "video_url": "https://sonymtmnew.akamaized.net/hls/live/2022316/DAI12ME-V3/master_lrl.m3u8?hdnea=exp=1754477485~acl=/*~id=67689377025895959266774979503125~hmac=35e326a9036f0338b09153d017acf2825f371f143a3d20311fb875d9d5cc70a3"
         },
         {
             "event_category": "Cricket",
