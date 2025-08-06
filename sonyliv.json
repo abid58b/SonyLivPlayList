@@ -1,21 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "21:01:41 06-08-2025",
+    "last update time": "21:42:16 06-08-2025",
     "matches": [
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": 1090483662,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000005741/1754001988008345_dc25_Emami_East_Bengal_FC_vs_Namdhari_FC_30jul_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "IndianOil Durand Cup 2025",
-            "match_name": "Emami East Bengal FC vs Namdhari FC - 6 Aug 2025",
-            "dai_url": "https://dai.google.com/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_lrl.m3u8?hdnea=exp=1754537501~acl=/*~id=28714482030838880712173644603306~hmac=d371d3f1173dce3fddaa1a459a56b05d5ddddd0b7c7f50a44ef55bee7aeff732"
-        },
         {
             "event_category": "Cricket",
             "isLive": true,
@@ -27,7 +14,7 @@
             "match_name": "Manchester Originals vs Southern Brave - 6 Aug 2025",
             "dai_url": "https://dai.google.com/ssai/event/RLuKHGGZS72Dss9NPWaldw/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/RLuKHGGZS72Dss9NPWaldw/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/hls/live/2022319/DAI15ME-V3/master_lrl.m3u8?hdnea=exp=1754537501~acl=/*~id=28714482030838880712173644603306~hmac=d371d3f1173dce3fddaa1a459a56b05d5ddddd0b7c7f50a44ef55bee7aeff732"
+            "video_url": "https://sonymtmnew.akamaized.net/hls/live/2022319/DAI15ME-V3/master_lrl.m3u8?hdnea=exp=1754539935~acl=/*~id=85980855633723270132859671194513~hmac=ec5d773ea696b474f5d5caf541e5edaefa5e1a2f5e09131e5164f0d858ece31a"
         },
         {
             "event_category": "Cricket",
