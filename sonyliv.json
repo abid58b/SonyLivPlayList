@@ -1,34 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "21:11:22 09-08-2025",
+    "last update time": "21:41:41 09-08-2025",
     "matches": [
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": 1090483662,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000005741/1754003673838344_dc25_DHFC_vs_MBSG_30jul_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "IndianOil Durand Cup 2025",
-            "match_name": "Diamond Harbour FC vs Mohun Bagan Super Giant - 9 Aug 2025",
-            "dai_url": "https://dai.google.com/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_lrl.m3u8?hdnea=exp=1754797281~acl=/*~id=18089674970841167561613462249914~hmac=52f5220b43cbe7d49de92d7620e107bd06eab8d8f096e905e697bbabb79dd913"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": 1090486222,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000005982/1754518971048648_the_hundred_mens25_Oval_Invincibles_vs_Manchester_Originals_7aug_multi_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "The Hundred 2025",
-            "match_name": "Oval Invincibles vs Manchester Originals - 9 Aug 2025",
-            "dai_url": "https://dai.google.com/ssai/event/wchc-yRfS6Oq1EK97fcrIg/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/wchc-yRfS6Oq1EK97fcrIg/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/hls/live/2105079/DAI08ME-V3/master_lrl.m3u8?hdnea=exp=1754797281~acl=/*~id=18089674970841167561613462249914~hmac=52f5220b43cbe7d49de92d7620e107bd06eab8d8f096e905e697bbabb79dd913"
-        },
         {
             "event_category": "Cricket",
             "isLive": true,
@@ -40,7 +14,7 @@
             "match_name": "Welsh Fire vs London Spirit - 9 Aug 2025",
             "dai_url": "https://dai.google.com/ssai/event/wN0bVs8wS9-yv6vL9G-tGQ/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/wN0bVs8wS9-yv6vL9G-tGQ/master.m3u8",
-            "video_url": "https://sonymtlive.akamaized.net/v1/master/cf6c1a8acbbb40a9b94e083a0c84baaf7d037980/Live_event13_adm/2022320/DAI16ME-V3/master_lrl.m3u8?hdnea=exp=1754797281~acl=/*~id=18089674970841167561613462249914~hmac=52f5220b43cbe7d49de92d7620e107bd06eab8d8f096e905e697bbabb79dd913"
+            "video_url": "https://sonymtlive.akamaized.net/v1/master/cf6c1a8acbbb40a9b94e083a0c84baaf7d037980/Live_event13_adm/2022320/DAI16ME-V3/master_lrl.m3u8?hdnea=exp=1754799101~acl=/*~id=25818387591745843978548543878870~hmac=c6e2c28d036bd4b80f8ce79e855524f8bac0b5cf303b1350c1f009afc0b1e5d4"
         },
         {
             "event_category": "Tennis",
@@ -53,7 +27,7 @@
             "match_name": "Day 3 - 9 Aug 2025",
             "dai_url": "https://dai.google.com/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/hls/live/2022316/DAI12ME-V3/master_lrl.m3u8?hdnea=exp=1754797281~acl=/*~id=18089674970841167561613462249914~hmac=52f5220b43cbe7d49de92d7620e107bd06eab8d8f096e905e697bbabb79dd913"
+            "video_url": "https://sonymtmnew.akamaized.net/hls/live/2022316/DAI12ME-V3/master_lrl.m3u8?hdnea=exp=1754799101~acl=/*~id=25818387591745843978548543878870~hmac=c6e2c28d036bd4b80f8ce79e855524f8bac0b5cf303b1350c1f009afc0b1e5d4"
         },
         {
             "event_category": "Cricket",
@@ -104,7 +78,7 @@
             "event_category": "Football",
             "isLive": false,
             "contentId": 1090485830,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000005953/1754487765069187_dc25_BSF_FT_vs_Mohammedan_Sc_6aug_tonight_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006084/1754660748324216_dc25_EEBFC_vs_IAFFT_8aug_dated_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - Week 3 - IndianOil Durand Cup 2025"
