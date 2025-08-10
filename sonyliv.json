@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:11:28 11-08-2025",
+    "last update time": "03:31:39 11-08-2025",
     "matches": [
         {
             "event_category": "Tennis",
@@ -14,7 +14,7 @@
             "match_name": "Day 4 - 10 Aug 2025",
             "dai_url": "https://dai.google.com/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/hls/live/2022316/DAI12ME-V3/master_lrl.m3u8?hdnea=exp=1754905288~acl=/*~id=72692799417829780546616744764488~hmac=5fdebb5e84aa7c6198261019b46220806d57e8c36209061b73a998ed6e3bccf2"
+            "video_url": "https://sonymtmnew.akamaized.net/hls/live/2022316/DAI12ME-V3/master_lrl.m3u8?hdnea=exp=1754906499~acl=/*~id=02225834643617065150550061155655~hmac=4656c34abf51eeadbfb4acfa3e08947aad48e6af16652068d7b2f86a78f547a6"
         },
         {
             "event_category": "Cricket",
@@ -24,6 +24,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - Asia Cup 2025"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090486283,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006144/1754744748289857_DC25_Landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Northeast United FC vs Rangdajied United FC - IndianOil Durand Cup 2025"
         },
         {
             "event_category": "Cricket",
@@ -42,15 +51,6 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - UEFA Super Cup 2025 - PSG vs Tottenham"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090486283,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006144/1754744748289857_DC25_Landscape.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Northeast United FC vs Rangdajied United FC - IndianOil Durand Cup 2025"
         },
         {
             "event_category": "Tennis",
