@@ -1,21 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:23:28 11-08-2025",
+    "last update time": "08:34:44 11-08-2025",
     "matches": [
-        {
-            "event_category": "Tennis",
-            "isLive": true,
-            "contentId": 1090483664,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000005983/1754521224463904_ATP_Cincinnati_Open25_round2_7aug_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "ATP Masters 1000 - Western and Southern Open 2025",
-            "match_name": "Day 4 - 10 Aug 2025",
-            "dai_url": "https://dai.google.com/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/hls/live/2022316/DAI12ME-V3/master_lrl.m3u8?hdnea=exp=1754916807~acl=/*~id=30609660532129726328073198038179~hmac=b8f3555e3bec7593fdb8b527638651a835c0b9d416d362e56fbbdb4cfd4ecdbd"
-        },
         {
             "event_category": "Cricket",
             "isLive": false,
