@@ -1,0 +1,85 @@
+name: Generate Sonyliv M3U from JSON
+
+on:
+  schedule:
+    - cron: '*/10 * * * *' # Har 10 minute baad run karega
+  push:
+    branches:
+      - main
+    paths:
+      - 'sonyliv.json' # SonyLIV JSON file par trigger karega
+
+jobs:
+  generate_playlist_from_json:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+
+    - name: Remove existing playlist file
+      run: rm -f sonyliv-ww.m3u
+
+    - name: Configure Git
+      run: |
+        git config --global user.name "auto-update-bot"
+        git config --global user.email "auto-update-bot@users.noreply.github.com"
+        git remote set-url origin https://${{ secrets.GITHUB_TOKEN }}@github.com/abid58b/SonyLivPlayList.git
+    
+    - name: Ensure jq is installed
+      run: sudo apt-get update && sudo apt-get install -y jq
+
+    - name: Check for sonyliv.json existence
+      id: check_json_file
+      run: |
+        if [ ! -f sonyliv.json ]; then
+          echo "sonyliv.json not found! Skipping M3U generation."
+          echo "file_found=false" >> $GITHUB_OUTPUT
+        else
+          echo "sonyliv.json found. Proceeding with M3U generation."
+          echo "file_found=true" >> $GITHUB_OUTPUT
+        fi
+
+    - name: Generate M3U from JSON and Modify URLs
+      if: steps.check_json_file.outputs.file_found == 'true'
+      run: |
+        echo "#EXTM3U" > sonyliv-ww.m3u
+
+        # Modified jq query for SonyLIV JSON format
+        jq -r '.matches[] |
+            select(.isLive == true) | # isLive field ka istemal
+            "#EXTINF:-1 tvg-id=\"" + 
+            ((.contentId | tostring) // "unknown_id") + 
+            "\" tvg-logo=\"" + 
+            (.src // "no_logo_available") + 
+            "\" group-title=\"" + 
+            (.event_category // "Uncategorized") + 
+            "\"," + 
+            (.match_name // "Untitled Match") + 
+            " - " + (.event_name // "Unknown Series") + 
+            " - " + (.audioLanguageName // "Unknown Language") + 
+            "\n" +
+            (.video_url // .dai_url // .pub_url // "http://invalid.stream.url") # Streaming URLs ka priority wise istemal
+            ' sonyliv.json >> sonyliv-ww.m3u
+
+        sed -i 's|\(https://sonymtmnew.akamaized.net/[^ ]*\)|https://mini.allinonereborn.online/events/stream_proxy.php?url=\1|g' sonyliv-ww.m3u
+        sed -i 's|\(https://dai.google.com/[^ ]*\)|https://mini.allinonereborn.online/events/stream_proxy.php?url=\1|g' sonyliv-ww.m3u
+        sed -i 's|\(https://pubads.g.doubleclick.net/[^ ]*\)|https://mini.allinonereborn.online/events/stream_proxy.php?url=\1|g' sonyliv-ww.m3u
+
+    - name: Commit and push generated M3U file
+      if: steps.check_json_file.outputs.file_found == 'true'
+      run: |
+        git add sonyliv-ww.m3u
+        
+        if git diff --cached --quiet; then
+          echo "No changes to sonyliv-ww.m3u to commit."
+        else
+          git fetch origin main
+          git reset --soft origin/main
+          git commit -m "Auto-generated: Sonyliv M3U playlist from JSON data"
+          git push origin main
+        fi
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
