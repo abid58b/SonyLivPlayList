@@ -17,7 +17,7 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v4
       with:
-        token: ${{ secrets.LIV_TOKEN }}
+        token: ${{ secrets.GITHUB_TOKEN }}
 
     - name: Remove existing playlist file
       run: rm -f sonyliv-ww.m3u
@@ -26,7 +26,7 @@ jobs:
       run: |
         git config --global user.name "auto-update-bot"
         git config --global user.email "auto-update-bot@users.noreply.github.com"
-        git remote set-url origin https://${{ secrets.LIV_TOKEN }}@github.com/abid58b/SonyLivPlayList.git
+        git remote set-url origin https://${{ secrets.GITHUB_TOKEN }}@github.com/abid58b/SonyLivPlayList.git
     
     - name: Ensure jq is installed
       run: sudo apt-get update && sudo apt-get install -y jq
@@ -82,4 +82,4 @@ jobs:
           git push origin main
         fi
       env:
-        GITHUB_TOKEN: ${{ secrets.LIV_TOKEN }}
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
