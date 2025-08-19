@@ -1,24 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "15:07:39 19-08-2025",
+    "last update time": "15:37:57 19-08-2025",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": 1090486848,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006669/1755592864356704_asiacup_rev1_Press_Conference_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Asia Cup 2025",
-            "match_name": "Press Conference - 19 Aug 2025",
-            "dai_url": "https://dai.google.com/ssai/event/7044GU7mRL2-99W6nrnbzA/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/7044GU7mRL2-99W6nrnbzA/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/v1/master/cf6c1a8acbbb40a9b94e083a0c84baaf7d037980/Live_event10_adm/2037140/DAI20ME-V3/master_lrl.m3u8?hdnea=exp=1755639458~acl=/*~id=84537751738404549943560425614150~hmac=d68feae03164428b402f43d8c69cd01c69448179c11b3d88f448a76544b54a2a",
-            "supportedAudioLanguages": [
-                "ENG"
-            ]
-        },
         {
             "event_category": "Cricket",
             "isLive": true,
@@ -30,7 +14,7 @@
             "match_name": "Kanpur Superstars vs Kashi Rudras - 19 Aug 2025",
             "dai_url": "https://dai.google.com/ssai/event/FtIdt0FNS0-NA7vJCouKIw/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/FtIdt0FNS0-NA7vJCouKIw/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTe0ffprod-PlaybackConfig/2118979/UP_T201908/HIN/std_lrl-800300010.m3u8?hdnea=exp=1755639458~acl=/*~id=84537751738404549943560425614150~hmac=d68feae03164428b402f43d8c69cd01c69448179c11b3d88f448a76544b54a2a",
+            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTe0ffprod-PlaybackConfig/2118979/UP_T201908/HIN/std_lrl-800300010.m3u8?hdnea=exp=1755641276~acl=/*~id=97181911212705263086279738657240~hmac=9b4e2455b584a7785246bb9d6ada173d7165b978ee3bdd1efde81ac395cba6f8",
             "supportedAudioLanguages": [
                 "HIN"
             ]
