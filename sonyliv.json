@@ -1,24 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "23:36:14 21-08-2025",
+    "last update time": "00:06:33 22-08-2025",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": 1090483667,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006659/1755578724606941_UPT20_League25_Meerut_Mavericks_vs_Gaur_Gorakhpur_Lions_19aug_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "UP T20 League 2025",
-            "match_name": "Meerut Mavericks vs Gaur Gorakhpur Lions - 21 Aug 2025",
-            "dai_url": "https://dai.google.com/ssai/event/KijWX2h2RoSltesOov7TBw/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/KijWX2h2RoSltesOov7TBw/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTe0ffprod-PlaybackConfig/2118980/UP_T202108/HIN/std_lrl-800300010.m3u8?hdnea=exp=1755842773~acl=/*~id=27302401650576553896277012812993~hmac=4a16c950393860c43085ec16448db9a9f02df8565ec403d9d467dea62f1418a5",
-            "supportedAudioLanguages": [
-                "HIN"
-            ]
-        },
         {
             "event_category": "Cricket",
             "isLive": true,
@@ -30,7 +14,7 @@
             "match_name": "Oval Invincibles vs Trent Rockets - 21 Aug 2025",
             "dai_url": "https://dai.google.com/ssai/event/mcRw3aKwRNOCgMah1cjM1w/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/mcRw3aKwRNOCgMah1cjM1w/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTe699prod-PlaybackConfig/2118982/Mens_O2108/ENG/std_lrl-800300010.m3u8?hdnea=exp=1755842773~acl=/*~id=27302401650576553896277012812993~hmac=4a16c950393860c43085ec16448db9a9f02df8565ec403d9d467dea62f1418a5",
+            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTe699prod-PlaybackConfig/2118982/Mens_O2108/ENG/std_lrl-800300010.m3u8?hdnea=exp=1755844593~acl=/*~id=97994408354018274678612357094892~hmac=a108b881a169b044bb31f7d1b3ffb1757d51c1293f8044ca066eaf0a69ee51cb",
             "supportedAudioLanguages": [
                 "ENG",
                 "HIN"
