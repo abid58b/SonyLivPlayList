@@ -1,4 +1,7 @@
 #EXTM3U
-#EXTINF:-1,#EXTINF:-1, tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006690/1755607467707858_UPT20_League25_Lucknow_Falcons_vs_Noida_Kings_19aug_landscape_thumb.jpg" group-title="sonyliv-Cricket", Lucknow Falcons vs Noida Kings - 26 Aug 2025 - UP T20 League 2025
-https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT5559prod-PlaybackConfig/2118981/Luckno2608/HIN/std_lrl-800300010.m3u8?hdnea=exp=1756256871~acl=/*~id=50226346966631970929324959563532~hmac=368bbdc883e8712270aa0acf49effcdb5e636ad268ffb9e77fbc0d8a7b09c185
+#EXTINF:-1,#EXTINF:-1, tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006691/1755607824339787_UPT20_League25_Kanpur_Superstars_vs_Kashi_Rudras_19aug_landscape_thumb.jpg" group-title="sonyliv-Cricket", Kanpur Superstars vs Kashi Rudras - 26 Aug 2025 - UP T20 League 2025
+https://sonymtmnew.akamaized.net/v1/master/cf6c1a8acbbb40a9b94e083a0c84baaf7d037980/Live_event4_adm/2094589/DAI05ME-V3/master_lrl.m3u8?hdnea=exp=1756258694~acl=/*~id=06570810217155189846309544630088~hmac=77dcf23632fadaffc861f8dd89f3e29df3149ac6ab2f7c4252d3bb019bc66d26
+
+#EXTINF:-1,#EXTINF:-1, tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006496/1755258063199543_the_hundred_womens25_Northern_Superchargers_vs_Manchester_Originals_26aug_landscape_thumb.jpg" group-title="sonyliv-Cricket", Northern Superchargers vs Manchester Originals - 26 Aug 2025 - The Hundred 2025 (Women's)
+https://sonymtmnew.akamaized.net/v1/master/cf6c1a8acbbb40a9b94e083a0c84baaf7d037980/Live_event5_adm/2022319/DAI15ME-V3/master_lrl.m3u8?hdnea=exp=1756258694~acl=/*~id=06570810217155189846309544630088~hmac=77dcf23632fadaffc861f8dd89f3e29df3149ac6ab2f7c4252d3bb019bc66d26
 
