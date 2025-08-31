@@ -1,24 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "17:02:48 31-08-2025",
+    "last update time": "17:43:17 31-08-2025",
     "matches": [
-        {
-            "event_category": "Hockey",
-            "isLive": true,
-            "contentId": 1090487657,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007196/1756478985388123_Hero_AsiaCup25_japan_vs_india_29aug_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 1",
-            "audioLanguageName": "HIN",
-            "event_name": "Hero Asia Cup 2025",
-            "match_name": "Japan vs India - 31 Aug 2025",
-            "dai_url": "https://dai.google.com/ssai/event/X9tnEM9wQHKUIX6nWcZ4TA/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/X9tnEM9wQHKUIX6nWcZ4TA/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT21beprod-PlaybackConfig/2118979/HeroAsia3108/HIN/std_lrl-800300010.m3u8?hdnea=exp=1756683167~acl=/*~id=31013422472968358173262417190396~hmac=b07d3fe3bc23323d8416b4a11f0af1ea98d16e7f04d1e23cfea3160892a73a0a",
-            "supportedAudioLanguages": [
-                "HIN"
-            ]
-        },
         {
             "event_category": "Cricket",
             "isLive": true,
@@ -30,7 +14,7 @@
             "match_name": "Gaur Gorakhpur Lions vs Kanpur Superstars - 31 Aug 2025",
             "dai_url": "https://dai.google.com/ssai/event/ahLdkaRoSWavrsFLPU8THA/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/ahLdkaRoSWavrsFLPU8THA/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT5559prod-PlaybackConfig/2118981/UPT20_313108/HIN/std_lrl-800300010.m3u8?hdnea=exp=1756683167~acl=/*~id=31013422472968358173262417190396~hmac=b07d3fe3bc23323d8416b4a11f0af1ea98d16e7f04d1e23cfea3160892a73a0a",
+            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT5559prod-PlaybackConfig/2118981/UPT20_313108/HIN/std_lrl-800300010.m3u8?hdnea=exp=1756685597~acl=/*~id=11270415335585546633783863976626~hmac=eacddaa740d5c4c36484ec90df5325c2c4eade3aba1ce156aa84072a72c76fd1",
             "supportedAudioLanguages": [
                 "HIN"
             ]
