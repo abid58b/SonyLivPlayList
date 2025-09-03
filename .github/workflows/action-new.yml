@@ -54,9 +54,7 @@ jobs:
             ((.contentId | tostring) // "unknown_id") + 
             "\" tvg-logo=\"" + 
             (.src // "no_logo_available") + 
-            "\" group-title=\"" + 
-            (.event_category // "Uncategorized") + 
-            "\"," + 
+            "\" group-title=\"Live\"," +
             (.match_name // "Untitled Match") + 
             " - " + (.event_name // "Unknown Series") + 
             " - " + (.audioLanguageName // "Unknown Language") + 
