@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:04:04 07-09-2025",
+    "last update time": "10:34:22 07-09-2025",
     "matches": [
         {
             "event_category": "Archery",
@@ -14,19 +14,10 @@
             "match_name": "Compound Team & Compound Mixed Team - 7 Sep 2025",
             "dai_url": "https://dai.google.com/ssai/event/9oYDt_BNSAGuLRwKC7wddQ/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/9oYDt_BNSAGuLRwKC7wddQ/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTf48fprod-PlaybackConfig/2118977/World_Ar0709/ENG/std_lrl-800300010.m3u8?hdnea=exp=1757262844~acl=/*~id=64972356357896807455545110291153~hmac=201ea1d6e6f8fe4e4b99e025e500ce0c0dccf60d11f81796ecae954cb941358e",
+            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTf48fprod-PlaybackConfig/2118977/World_Ar0709/ENG/std_lrl-800300010.m3u8?hdnea=exp=1757264662~acl=/*~id=65562588982450046251153734372477~hmac=3b6386bad6f853512029dd496fbc0626f2360ee2e6863c41a79345b4eaf93d1a",
             "supportedAudioLanguages": [
                 "ENG"
             ]
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090487709,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007482/1757057196053544_ENG_vs_SA_25_3rdODI_DDT_Promo_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - South Africa Tour of England 2025"
         },
         {
             "event_category": "Hockey",
@@ -38,10 +29,19 @@
             "event_name": "Upcoming - Hero Asia Cup 2025"
         },
         {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090487709,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007482/1757057196053544_ENG_vs_SA_25_3rdODI_DDT_Promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - South Africa Tour of England 2025"
+        },
+        {
             "event_category": "Football",
             "isLive": false,
             "contentId": 1090488211,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007555/1757164208018109_EQ26_Germany_vs_Northern_Ireland_dated_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007555/1757164242937109_EQ26_Germany_vs_Northern_Ireland_tonight_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Germany vs Northern Ireland - European Qualifiers for 2026 FIFA World Cup"
@@ -50,7 +50,7 @@
             "event_category": "Football",
             "isLive": false,
             "contentId": 1090488215,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007555/1757164710396109_EQ26_Turkiye_vs_Spain_dated_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007555/1757164726416109_EQ26_Turkiye_vs_Spain_tonight_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Turkiye vs Spain - European Qualifiers for 2026 FIFA World Cup"
