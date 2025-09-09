@@ -58,6 +58,7 @@ jobs:
             (.match_name // "Untitled Match") + 
             " - " + (.event_name // "Unknown Series") + 
             " - " + (.audioLanguageName // "Unknown Language") + 
+            "\n#EXTVLCOPT:http-referrer=https://allinonereborn.fun/" +
             "\n" +
             (.video_url // .dai_url // .pub_url // "http://invalid.stream.url") # Streaming URLs ka priority wise istemal
             ' sonyliv.json >> sonyliv-ww.m3u
