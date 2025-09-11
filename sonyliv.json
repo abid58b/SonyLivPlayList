@@ -1,24 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "13:00:29 11-09-2025",
+    "last update time": "13:40:52 11-09-2025",
     "matches": [
-        {
-            "event_category": "Archery",
-            "isLive": true,
-            "contentId": 1090488703,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007516/1757091459586378_World_Archery_Championships_GWANGJU25_Compound_men_elite_eight_quarterfinals_to_finals_5sep_landscape_thumb.jpg",
-            "broadcast_channel": "LIV",
-            "audioLanguageName": "ENG",
-            "event_name": "Hyundai World Archery Championships 2025",
-            "match_name": "Compound Men Elite Eight (Quarterfinals To Finals) - 11 Sep 2025",
-            "dai_url": "https://dai.google.com/ssai/event/X9tnEM9wQHKUIX6nWcZ4TA/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/X9tnEM9wQHKUIX6nWcZ4TA/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT21beprod-PlaybackConfig/2118982/Recurvew1009/ENG/std_lrl-800300010.m3u8?hdnea=exp=1757619029~acl=/*~id=94604091272854361129846439624658~hmac=031db24b1cdfa06ec5d8e37c3c1c6c8e5619ed8c840860ac36deebe4c703dc4f",
-            "supportedAudioLanguages": [
-                "ENG"
-            ]
-        },
         {
             "event_category": "Golf",
             "isLive": true,
@@ -30,7 +14,7 @@
             "match_name": "41st Shinhan Donghae Open - Day 1 - 11 Sep 2025",
             "dai_url": "https://dai.google.com/ssai/event/ahLdkaRoSWavrsFLPU8THA/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/ahLdkaRoSWavrsFLPU8THA/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT5559prod-PlaybackConfig/2118981/Asian_To1109/ENG/std_lrl-800300010.m3u8?hdnea=exp=1757619029~acl=/*~id=94604091272854361129846439624658~hmac=031db24b1cdfa06ec5d8e37c3c1c6c8e5619ed8c840860ac36deebe4c703dc4f",
+            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT5559prod-PlaybackConfig/2118981/Asian_To1109/ENG/std_lrl-800300010.m3u8?hdnea=exp=1757621451~acl=/*~id=55144036817222028382049337169021~hmac=4a1ce06c6ace44f277cc03da537428199b3b1e1c9e188d8575a5ceb62b739c36",
             "supportedAudioLanguages": [
                 "ENG"
             ]
@@ -39,7 +23,7 @@
             "event_category": "Cricket",
             "isLive": false,
             "contentId": 1090488569,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007746/1757435100244442_ACC25_india_vs_pak_9sep_dated2_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007916/1757577064736256_ACC25_IND_vs_PAK_DDT_promo_landscape_thumb_11SEP_Re1.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - India vs Pakistan - Asia Cup 2025"
@@ -61,6 +45,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - South Africa Tour of England 2025"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090488844,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007917/1757577331793113_PAK_vs_OMA_Promo_Landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - Pakistan vs Oman - Asia Cup 2025"
         },
         {
             "event_category": "Cricket",
