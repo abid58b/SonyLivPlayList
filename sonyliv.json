@@ -1,8 +1,24 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:11:27 12-09-2025",
+    "last update time": "06:12:03 12-09-2025",
     "matches": [
+        {
+            "event_category": "Archery",
+            "isLive": true,
+            "contentId": 1090488704,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007660/1757328878664407_WAC_GWANGJU25_Recurve-women_18_8sep_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "Hyundai World Archery Championships 2025",
+            "match_name": "Recurve Women (1/8) - 12 Sep 2025",
+            "dai_url": "https://dai.google.com/ssai/event/XpIbI0pTQX-9mvR458k9aw/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/XpIbI0pTQX-9mvR458k9aw/master.m3u8",
+            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTe699prod-PlaybackConfig/2118980/Recurve_1109/ENG/std_lrl-800300010.m3u8?hdnea=exp=1757680923~acl=/*~id=54018794114575049862201684385921~hmac=a4291ddacbc407383595880c71a9467dd322401e6542faba45752f1b048ef615",
+            "supportedAudioLanguages": [
+                "ENG"
+            ]
+        },
         {
             "event_category": "Cricket",
             "isLive": false,
