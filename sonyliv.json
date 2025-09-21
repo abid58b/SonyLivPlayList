@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:39:09 21-09-2025",
+    "last update time": "09:59:22 21-09-2025",
     "matches": [
         {
             "event_category": "Tennis",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Laver Cup 2025",
             "match_name": "Day 2 - Session 2 - 21 Sep 2025 [ENG]",
-            "dai_url": "https://liveakdai.slivcdn.com/hls/live/2118980/Laver_Cu2109/ENG/std_lrh-800300010.m3u8?hdnea=exp=1758470949~acl=/*~id=98572188870772387053232014260274~hmac=01e9712491041bea49c27ee96a99f0b5784706b9d83a414cdd8fe47d683ff107",
-            "pub_url": "https://liveakdai.slivcdn.com/hls/live/2118980/Laver_Cu2109/ENG/std_lrh-800300010.m3u8?hdnea=exp=1758470949~acl=/*~id=98572188870772387053232014260274~hmac=01e9712491041bea49c27ee96a99f0b5784706b9d83a414cdd8fe47d683ff107",
-            "video_url": "https://liveakdai.slivcdn.com/hls/live/2118980/Laver_Cu2109/ENG/std_lrh-800300010.m3u8?hdnea=exp=1758470949~acl=/*~id=98572188870772387053232014260274~hmac=01e9712491041bea49c27ee96a99f0b5784706b9d83a414cdd8fe47d683ff107"
+            "dai_url": "https://liveakdai.slivcdn.com/hls/live/2118980/Laver_Cu2109/ENG/std_lrh-800300010.m3u8?hdnea=exp=1758472162~acl=/*~id=90205998376395541410149042053971~hmac=f968b7b66abd4679f0fa398b89d97efbdef5d2aa6fde06b411921ae55dee33c9",
+            "pub_url": "https://liveakdai.slivcdn.com/hls/live/2118980/Laver_Cu2109/ENG/std_lrh-800300010.m3u8?hdnea=exp=1758472162~acl=/*~id=90205998376395541410149042053971~hmac=f968b7b66abd4679f0fa398b89d97efbdef5d2aa6fde06b411921ae55dee33c9",
+            "video_url": "https://liveakdai.slivcdn.com/hls/live/2118980/Laver_Cu2109/ENG/std_lrh-800300010.m3u8?hdnea=exp=1758472162~acl=/*~id=90205998376395541410149042053971~hmac=f968b7b66abd4679f0fa398b89d97efbdef5d2aa6fde06b411921ae55dee33c9"
         },
         {
             "event_category": "Cricket",
