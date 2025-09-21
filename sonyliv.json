@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:33:52 22-09-2025",
+    "last update time": "04:54:06 22-09-2025",
     "matches": [
         {
             "event_category": "Tennis",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Laver Cup 2025",
             "match_name": "Jackub Mensik vs Alex di Minaur - 22 Sep 2025 [ENG]",
-            "dai_url": "https://liveakdai.slivcdn.com/hls/live/2118977/Laver_Cu2109/ENG/std_lrh-800300010.m3u8?hdnea=exp=1758539032~acl=/*~id=94078425826743654133148946760815~hmac=34e883a5b4667ab843a983c10bfbd8941a50ec1eb7fe7d0b0a7091946c16f5bb",
-            "pub_url": "https://liveakdai.slivcdn.com/hls/live/2118977/Laver_Cu2109/ENG/std_lrh-800300010.m3u8?hdnea=exp=1758539032~acl=/*~id=94078425826743654133148946760815~hmac=34e883a5b4667ab843a983c10bfbd8941a50ec1eb7fe7d0b0a7091946c16f5bb",
-            "video_url": "https://liveakdai.slivcdn.com/hls/live/2118977/Laver_Cu2109/ENG/std_lrh-800300010.m3u8?hdnea=exp=1758539032~acl=/*~id=94078425826743654133148946760815~hmac=34e883a5b4667ab843a983c10bfbd8941a50ec1eb7fe7d0b0a7091946c16f5bb"
+            "dai_url": "https://liveakdai.slivcdn.com/hls/live/2118977/Laver_Cu2109/ENG/std_lrh-800300010.m3u8?hdnea=exp=1758540245~acl=/*~id=27845438611940189199528161319345~hmac=45e07aecc7856c7a11e543252478d1add1928891ac1684a61a88da6dd99532c3",
+            "pub_url": "https://liveakdai.slivcdn.com/hls/live/2118977/Laver_Cu2109/ENG/std_lrh-800300010.m3u8?hdnea=exp=1758540245~acl=/*~id=27845438611940189199528161319345~hmac=45e07aecc7856c7a11e543252478d1add1928891ac1684a61a88da6dd99532c3",
+            "video_url": "https://liveakdai.slivcdn.com/hls/live/2118977/Laver_Cu2109/ENG/std_lrh-800300010.m3u8?hdnea=exp=1758540245~acl=/*~id=27845438611940189199528161319345~hmac=45e07aecc7856c7a11e543252478d1add1928891ac1684a61a88da6dd99532c3"
         },
         {
             "event_category": "Cricket",
