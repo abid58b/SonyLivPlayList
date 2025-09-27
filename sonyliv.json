@@ -1,8 +1,34 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "18:20:55 27-09-2025",
+    "last update time": "18:41:10 27-09-2025",
     "matches": [
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090490754_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008047/1757506717301561_Bundesliga_25_26_Mainz_vs_Borussia_Dortmund_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Bundesliga 2025-26",
+            "match_name": "Mainz vs Borussia Dortmund - 27 Sep 2025 [ENG]",
+            "dai_url": "https://liveakmt-p.slivcdn.com/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759021868~acl=/*~id=32957441551367410015100898933687~hmac=131c5358f8059fbe68cd6ac6357b9dd8c3f263286746b905c8e16519f58e043c",
+            "pub_url": "https://liveakmt-p.slivcdn.com/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759021868~acl=/*~id=32957441551367410015100898933687~hmac=131c5358f8059fbe68cd6ac6357b9dd8c3f263286746b905c8e16519f58e043c",
+            "video_url": "https://liveakmt-p.slivcdn.com/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759021868~acl=/*~id=32957441551367410015100898933687~hmac=131c5358f8059fbe68cd6ac6357b9dd8c3f263286746b905c8e16519f58e043c"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090490755_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008095/1757507140528578_Bundesliga_25_26_St_Pauli_vs_Bayer_Leverkusen_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Bundesliga 2025-26",
+            "match_name": "St. Pauli vs Bayer Leverkusen - 27 Sep 2025 [ENG]",
+            "dai_url": "https://liveakmt-p.slivcdn.com/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759021868~acl=/*~id=32957441551367410015100898933687~hmac=131c5358f8059fbe68cd6ac6357b9dd8c3f263286746b905c8e16519f58e043c",
+            "pub_url": "https://liveakmt-p.slivcdn.com/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759021868~acl=/*~id=32957441551367410015100898933687~hmac=131c5358f8059fbe68cd6ac6357b9dd8c3f263286746b905c8e16519f58e043c",
+            "video_url": "https://liveakmt-p.slivcdn.com/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759021868~acl=/*~id=32957441551367410015100898933687~hmac=131c5358f8059fbe68cd6ac6357b9dd8c3f263286746b905c8e16519f58e043c"
+        },
         {
             "event_category": "Sports",
             "isLive": true,
@@ -12,9 +38,35 @@
             "audioLanguageName": "ENG",
             "event_name": "World Para Athletics, New Delhi",
             "match_name": "Day 1 - 27 Sep 2025 [ENG]",
-            "dai_url": "https://liveakmt-p.slivcdn.com/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759020655~acl=/*~id=31087373981220644617768114138197~hmac=6f8ec0ba80321e752fcf7a5bccc81d8fc3e405fc47193e2b3dec764b5c9ddb97",
-            "pub_url": "https://liveakmt-p.slivcdn.com/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759020655~acl=/*~id=31087373981220644617768114138197~hmac=6f8ec0ba80321e752fcf7a5bccc81d8fc3e405fc47193e2b3dec764b5c9ddb97",
-            "video_url": "https://liveakmt-p.slivcdn.com/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759020655~acl=/*~id=31087373981220644617768114138197~hmac=6f8ec0ba80321e752fcf7a5bccc81d8fc3e405fc47193e2b3dec764b5c9ddb97"
+            "dai_url": "https://liveakmt-p.slivcdn.com/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759021868~acl=/*~id=32957441551367410015100898933687~hmac=131c5358f8059fbe68cd6ac6357b9dd8c3f263286746b905c8e16519f58e043c",
+            "pub_url": "https://liveakmt-p.slivcdn.com/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759021868~acl=/*~id=32957441551367410015100898933687~hmac=131c5358f8059fbe68cd6ac6357b9dd8c3f263286746b905c8e16519f58e043c",
+            "video_url": "https://liveakmt-p.slivcdn.com/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759021868~acl=/*~id=32957441551367410015100898933687~hmac=131c5358f8059fbe68cd6ac6357b9dd8c3f263286746b905c8e16519f58e043c"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090490766_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008096/1757510514684584_Bundesliga_25_26_VfL_Wolfsburg_vs_RB_Leipzig_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Bundesliga 2025-26",
+            "match_name": "VfL Wolfsburg vs RB Leipzig - 27 Sep 2025 [ENG]",
+            "dai_url": "https://liveakmt-p.slivcdn.com/hls/live/2005445/DAI06ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759021868~acl=/*~id=32957441551367410015100898933687~hmac=131c5358f8059fbe68cd6ac6357b9dd8c3f263286746b905c8e16519f58e043c",
+            "pub_url": "https://liveakmt-p.slivcdn.com/hls/live/2005445/DAI06ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759021868~acl=/*~id=32957441551367410015100898933687~hmac=131c5358f8059fbe68cd6ac6357b9dd8c3f263286746b905c8e16519f58e043c",
+            "video_url": "https://liveakmt-p.slivcdn.com/hls/live/2005445/DAI06ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759021868~acl=/*~id=32957441551367410015100898933687~hmac=131c5358f8059fbe68cd6ac6357b9dd8c3f263286746b905c8e16519f58e043c"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090490746_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008046/1757506399688234_Bundesliga_25_26_Heidenheim_vs_FC_Augsburg_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Bundesliga 2025-26",
+            "match_name": "Heidenheim vs FC Augsburg - 27 Sep 2025 [ENG]",
+            "dai_url": "https://liveakmt-p.slivcdn.com/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759021868~acl=/*~id=32957441551367410015100898933687~hmac=131c5358f8059fbe68cd6ac6357b9dd8c3f263286746b905c8e16519f58e043c",
+            "pub_url": "https://liveakmt-p.slivcdn.com/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759021868~acl=/*~id=32957441551367410015100898933687~hmac=131c5358f8059fbe68cd6ac6357b9dd8c3f263286746b905c8e16519f58e043c",
+            "video_url": "https://liveakmt-p.slivcdn.com/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759021868~acl=/*~id=32957441551367410015100898933687~hmac=131c5358f8059fbe68cd6ac6357b9dd8c3f263286746b905c8e16519f58e043c"
         },
         {
             "event_category": "Cricket",
