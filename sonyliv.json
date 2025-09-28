@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "14:07:54 28-09-2025",
+    "last update time": "14:38:11 28-09-2025",
     "matches": [
         {
             "event_category": "Archery",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "World Archery Para Championships 2025",
             "match_name": "Recurve Finals - 28 Sep 2025 [ENG]",
-            "dai_url": "https://liveakmt-p.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759091833~acl=/*~id=96903966027998754113961440855898~hmac=0192931177713e388c282fadb5c3343c79051a522377fbb8fed5f6b5c0144d05",
-            "pub_url": "https://liveakmt-p.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759091833~acl=/*~id=96903966027998754113961440855898~hmac=0192931177713e388c282fadb5c3343c79051a522377fbb8fed5f6b5c0144d05",
-            "video_url": "https://liveakmt-p.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759091833~acl=/*~id=96903966027998754113961440855898~hmac=0192931177713e388c282fadb5c3343c79051a522377fbb8fed5f6b5c0144d05"
+            "dai_url": "https://liveakmt-p.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759093690~acl=/*~id=08256164294326655782156522458255~hmac=64bb57120543ad4af298c2b834efc505870bab3c37f410867660027ec58efefb",
+            "pub_url": "https://liveakmt-p.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759093690~acl=/*~id=08256164294326655782156522458255~hmac=64bb57120543ad4af298c2b834efc505870bab3c37f410867660027ec58efefb",
+            "video_url": "https://liveakmt-p.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759093690~acl=/*~id=08256164294326655782156522458255~hmac=64bb57120543ad4af298c2b834efc505870bab3c37f410867660027ec58efefb"
         },
         {
             "event_category": "Football",
