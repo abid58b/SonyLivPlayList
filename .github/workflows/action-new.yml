@@ -58,13 +58,14 @@ jobs:
             (.match_name // "Untitled Match") + 
             " - " + (.event_name // "Unknown Series") + 
             " - " + (.audioLanguageName // "Unknown Language") + 
-            "\n#EXTVLCOPT:http-referrer=https://allinonereborn.fun/" +
+            "\n#EXTVLCOPT:http-referrer=https://allinonereborn.xyz/" +
             "\n" +
             (.video_url // .dai_url // .pub_url // "http://invalid.stream.url") # Streaming URLs ka priority wise istemal
             ' sonyliv.json >> sonyliv-ww.m3u
 
         sed -i 's|\(https://sonymtmnew.akamaized.net/[^ ]*\)|https://mini.allinonereborn.online/events/stream_proxy.php?url=\1|g' sonyliv-ww.m3u
         sed -i 's|\(https://liveakmt-m-lr.slivcdn.com/[^ ]*\)|https://mini.allinonereborn.online/events/stream_proxy.php?url=\1|g' sonyliv-ww.m3u
+        sed -i 's|\(https://liveakmt-p-web.slivcdn.com/[^ ]*\)|https://mini.allinonereborn.online/events/stream_proxy.php?url=\1|g' sonyliv-ww.m3u
         sed -i 's|\(https://dai.google.com/[^ ]*\)|https://mini.allinonereborn.online/events/stream_proxy.php?url=\1|g' sonyliv-ww.m3u
         sed -i 's|\(https://pubads.g.doubleclick.net/[^ ]*\)|https://mini.allinonereborn.online/events/stream_proxy.php?url=\1|g' sonyliv-ww.m3u
 
