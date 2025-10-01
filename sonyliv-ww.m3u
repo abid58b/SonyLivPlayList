@@ -1,4 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1090491220_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009684/1759297011444654_UYL24_Barcelona_vs_Paris_Live_1OCT_Landscape_thumb.jpg" group-title="Live",Barcelona vs PSG - MD 2 - 1 Oct 2025 [ENG] - UEFA Youth League 2025-26 - ENG
+#EXTINF:-1 tvg-id="1090491227_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009631/1759213446944249_UCL26_MD2_Union_SG_vs_Newcastle_landscape_thumb.jpg" group-title="Live",Union SG vs Newcastle - MD 2 - 1 Oct 2025  [ENG] - UEFA Champions League 2025-26 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.xyz/
-https://mini.allinonereborn.online/events/stream_proxy.php?url=https://liveakmt-p-web.slivcdn.com/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759377953~acl=/*~id=34684073966185677490401231159230~hmac=91b1ea781f553d5364f8b0638eda40d575a6524499e7e46f6bf8293f782e8034
+https://mini.allinonereborn.online/events/stream_proxy.php?url=https://liveakmt-p-web.slivcdn.com/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759379783~acl=/*~id=54163507179346819920103231987107~hmac=5ab2241a1db83d6c8958dc0235a7340f5371f52754109324850016c9d9f43709
+#EXTINF:-1 tvg-id="1090491228_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009492/1758814297135623_UCL26_MD2_Qarabag_vs_Copenhagen_landscape_thumb.jpg" group-title="Live",Qarabag vs Copenhagen - MD 2 - 1 Oct 2025 [ENG] - UEFA Champions League 2025-26 - ENG
+#EXTVLCOPT:http-referrer=https://allinonereborn.xyz/
+https://mini.allinonereborn.online/events/stream_proxy.php?url=https://liveakmt-p-web.slivcdn.com/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759379783~acl=/*~id=54163507179346819920103231987107~hmac=5ab2241a1db83d6c8958dc0235a7340f5371f52754109324850016c9d9f43709
