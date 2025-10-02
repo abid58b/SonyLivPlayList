@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "19:36:29 02-10-2025",
+    "last update time": "19:56:50 02-10-2025",
     "matches": [
+        {
+            "event_category": "Archery",
+            "isLive": true,
+            "contentId": "1090491527_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009770/1759407437810998_ATP25_Opening-Ceremony_landscape_thumb_2oct.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "Archery Premier League 2025",
+            "match_name": "Opening Ceremony - 2 Oct 2025 [ENG]",
+            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759458408~acl=/*~id=40928685476801708896146872185234~hmac=abc8336b3c4b51bb040f9814e5d99b60ce60f96792663a1d7e500f2f44c38a1f",
+            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759458408~acl=/*~id=40928685476801708896146872185234~hmac=abc8336b3c4b51bb040f9814e5d99b60ce60f96792663a1d7e500f2f44c38a1f",
+            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759458408~acl=/*~id=40928685476801708896146872185234~hmac=abc8336b3c4b51bb040f9814e5d99b60ce60f96792663a1d7e500f2f44c38a1f"
+        },
         {
             "event_category": "Tennis",
             "isLive": true,
@@ -12,9 +25,9 @@
             "audioLanguageName": "ENG",
             "event_name": "ATP Masters 1000 - 2025 Shanghai Open",
             "match_name": "Day 2 - 2 Oct 2025 [ENG]",
-            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759457188~acl=/*~id=40464312663104315073953563985445~hmac=9410b68fda1103ad021bc2759c82cb60fad5771676d48391f7ad7299ab5a9fb4",
-            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759457188~acl=/*~id=40464312663104315073953563985445~hmac=9410b68fda1103ad021bc2759c82cb60fad5771676d48391f7ad7299ab5a9fb4",
-            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759457188~acl=/*~id=40464312663104315073953563985445~hmac=9410b68fda1103ad021bc2759c82cb60fad5771676d48391f7ad7299ab5a9fb4"
+            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759458408~acl=/*~id=40928685476801708896146872185234~hmac=abc8336b3c4b51bb040f9814e5d99b60ce60f96792663a1d7e500f2f44c38a1f",
+            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759458408~acl=/*~id=40928685476801708896146872185234~hmac=abc8336b3c4b51bb040f9814e5d99b60ce60f96792663a1d7e500f2f44c38a1f",
+            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759458408~acl=/*~id=40928685476801708896146872185234~hmac=abc8336b3c4b51bb040f9814e5d99b60ce60f96792663a1d7e500f2f44c38a1f"
         },
         {
             "event_category": "Sports",
@@ -25,9 +38,9 @@
             "audioLanguageName": "ENG",
             "event_name": "World Para Athletics, New Delhi",
             "match_name": "Day 6 - 2 Oct 2025 [ENG]",
-            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759457188~acl=/*~id=40464312663104315073953563985445~hmac=9410b68fda1103ad021bc2759c82cb60fad5771676d48391f7ad7299ab5a9fb4",
-            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759457188~acl=/*~id=40464312663104315073953563985445~hmac=9410b68fda1103ad021bc2759c82cb60fad5771676d48391f7ad7299ab5a9fb4",
-            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759457188~acl=/*~id=40464312663104315073953563985445~hmac=9410b68fda1103ad021bc2759c82cb60fad5771676d48391f7ad7299ab5a9fb4"
+            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759458408~acl=/*~id=40928685476801708896146872185234~hmac=abc8336b3c4b51bb040f9814e5d99b60ce60f96792663a1d7e500f2f44c38a1f",
+            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759458408~acl=/*~id=40928685476801708896146872185234~hmac=abc8336b3c4b51bb040f9814e5d99b60ce60f96792663a1d7e500f2f44c38a1f",
+            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759458408~acl=/*~id=40928685476801708896146872185234~hmac=abc8336b3c4b51bb040f9814e5d99b60ce60f96792663a1d7e500f2f44c38a1f"
         },
         {
             "event_category": "Football",
