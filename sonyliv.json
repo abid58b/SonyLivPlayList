@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:03:05 03-10-2025",
+    "last update time": "02:33:33 03-10-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "UEFA Europa League 2025-26",
             "match_name": "Feyenoord vs Aston Villa - MD 2 - 3 Oct 2025 [ENG]",
-            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759480384~acl=/*~id=48533051392963262011507417819256~hmac=2785aa31edeac4488a87c601bd6611eba19a99b6c26b47e71535da60680598ed",
-            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759480384~acl=/*~id=48533051392963262011507417819256~hmac=2785aa31edeac4488a87c601bd6611eba19a99b6c26b47e71535da60680598ed",
-            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759480384~acl=/*~id=48533051392963262011507417819256~hmac=2785aa31edeac4488a87c601bd6611eba19a99b6c26b47e71535da60680598ed"
+            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759482212~acl=/*~id=62972912396752376961016539398110~hmac=f4fecfb6fd88e0dba4edb4e48fcc8b86d5d14cac1ffa636400492d58ba6cce8f",
+            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759482212~acl=/*~id=62972912396752376961016539398110~hmac=f4fecfb6fd88e0dba4edb4e48fcc8b86d5d14cac1ffa636400492d58ba6cce8f",
+            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759482212~acl=/*~id=62972912396752376961016539398110~hmac=f4fecfb6fd88e0dba4edb4e48fcc8b86d5d14cac1ffa636400492d58ba6cce8f"
         },
         {
             "event_category": "Football",
@@ -25,9 +25,9 @@
             "audioLanguageName": "ENG",
             "event_name": "UEFA Europa League 2025-26",
             "match_name": "Nott'm Forest vs Midtjylland - MD 2 - 3 Oct 2025 [ENG]",
-            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759480384~acl=/*~id=48533051392963262011507417819256~hmac=2785aa31edeac4488a87c601bd6611eba19a99b6c26b47e71535da60680598ed",
-            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759480384~acl=/*~id=48533051392963262011507417819256~hmac=2785aa31edeac4488a87c601bd6611eba19a99b6c26b47e71535da60680598ed",
-            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759480384~acl=/*~id=48533051392963262011507417819256~hmac=2785aa31edeac4488a87c601bd6611eba19a99b6c26b47e71535da60680598ed"
+            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759482212~acl=/*~id=62972912396752376961016539398110~hmac=f4fecfb6fd88e0dba4edb4e48fcc8b86d5d14cac1ffa636400492d58ba6cce8f",
+            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759482212~acl=/*~id=62972912396752376961016539398110~hmac=f4fecfb6fd88e0dba4edb4e48fcc8b86d5d14cac1ffa636400492d58ba6cce8f",
+            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759482212~acl=/*~id=62972912396752376961016539398110~hmac=f4fecfb6fd88e0dba4edb4e48fcc8b86d5d14cac1ffa636400492d58ba6cce8f"
         },
         {
             "event_category": "Cricket",
