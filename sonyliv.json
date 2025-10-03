@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "18:18:09 03-10-2025",
+    "last update time": "18:48:41 03-10-2025",
     "matches": [
         {
             "event_category": "Tennis",
@@ -11,10 +11,10 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "ATP Masters 1000 - 2025 Shanghai Open",
-            "match_name": "Marin Cilic vs Novak Djokovic - Round of 64 - 3 Oct 2025 [ENG]",
-            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759538888~acl=/*~id=81267578736814025538531451955849~hmac=33e58ed237b6b4f0f817cc833add9be15890053b5ed27cdd11de16c2e3e120cb",
-            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759538888~acl=/*~id=81267578736814025538531451955849~hmac=33e58ed237b6b4f0f817cc833add9be15890053b5ed27cdd11de16c2e3e120cb",
-            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759538888~acl=/*~id=81267578736814025538531451955849~hmac=33e58ed237b6b4f0f817cc833add9be15890053b5ed27cdd11de16c2e3e120cb"
+            "match_name": "Day 3 - 3 Oct 2025 [ENG]",
+            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759540720~acl=/*~id=49539391283662905968991695130841~hmac=334f56b6ffa762ab6d982836f6fa623d9df1830a6b5a589d9c776d32c5e79777",
+            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759540720~acl=/*~id=49539391283662905968991695130841~hmac=334f56b6ffa762ab6d982836f6fa623d9df1830a6b5a589d9c776d32c5e79777",
+            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759540720~acl=/*~id=49539391283662905968991695130841~hmac=334f56b6ffa762ab6d982836f6fa623d9df1830a6b5a589d9c776d32c5e79777"
         },
         {
             "event_category": "Sports",
@@ -25,9 +25,9 @@
             "audioLanguageName": "ENG",
             "event_name": "World Para Athletics, New Delhi",
             "match_name": "Day 7 - 3 Oct 2025 [ENG]",
-            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759538888~acl=/*~id=81267578736814025538531451955849~hmac=33e58ed237b6b4f0f817cc833add9be15890053b5ed27cdd11de16c2e3e120cb",
-            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759538888~acl=/*~id=81267578736814025538531451955849~hmac=33e58ed237b6b4f0f817cc833add9be15890053b5ed27cdd11de16c2e3e120cb",
-            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759538888~acl=/*~id=81267578736814025538531451955849~hmac=33e58ed237b6b4f0f817cc833add9be15890053b5ed27cdd11de16c2e3e120cb"
+            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759540720~acl=/*~id=49539391283662905968991695130841~hmac=334f56b6ffa762ab6d982836f6fa623d9df1830a6b5a589d9c776d32c5e79777",
+            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759540720~acl=/*~id=49539391283662905968991695130841~hmac=334f56b6ffa762ab6d982836f6fa623d9df1830a6b5a589d9c776d32c5e79777",
+            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759540720~acl=/*~id=49539391283662905968991695130841~hmac=334f56b6ffa762ab6d982836f6fa623d9df1830a6b5a589d9c776d32c5e79777"
         },
         {
             "event_category": "Cricket",
