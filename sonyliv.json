@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:06:35 08-10-2025",
+    "last update time": "10:37:00 08-10-2025",
     "matches": [
         {
             "event_category": "Tennis",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "ATP Masters 1000 - 2025 Shanghai Open",
             "match_name": "Day 8 - 8 Oct 2025 [ENG]",
-            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759941394~acl=/*~id=19713076565383576616101514023625~hmac=d68e5468c718577b0ad9942d6403722bf8e503665143410a3ce324d0c160c863",
-            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759941394~acl=/*~id=19713076565383576616101514023625~hmac=d68e5468c718577b0ad9942d6403722bf8e503665143410a3ce324d0c160c863",
-            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759941394~acl=/*~id=19713076565383576616101514023625~hmac=d68e5468c718577b0ad9942d6403722bf8e503665143410a3ce324d0c160c863"
+            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759943220~acl=/*~id=44495490490953067903995326804533~hmac=2eb0e3e4d7ca082b9190b614e23cd3e6533351925f5c339aabc78f4bc835f0de",
+            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759943220~acl=/*~id=44495490490953067903995326804533~hmac=2eb0e3e4d7ca082b9190b614e23cd3e6533351925f5c339aabc78f4bc835f0de",
+            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759943220~acl=/*~id=44495490490953067903995326804533~hmac=2eb0e3e4d7ca082b9190b614e23cd3e6533351925f5c339aabc78f4bc835f0de"
         },
         {
             "event_category": "Football",
