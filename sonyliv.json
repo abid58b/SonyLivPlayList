@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "20:37:28 08-10-2025",
+    "last update time": "20:57:53 08-10-2025",
     "matches": [
         {
             "event_category": "Tennis",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "ATP Masters 1000 - 2025 Shanghai Open",
             "match_name": "Day 8 - 8 Oct 2025 [ENG]",
-            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759979246~acl=/*~id=40272183803694669495659725989733~hmac=a506f6a20db0a7e4a361635191dba29ebae54b185f1bf49a81e76c693f9210cd",
-            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759979246~acl=/*~id=40272183803694669495659725989733~hmac=a506f6a20db0a7e4a361635191dba29ebae54b185f1bf49a81e76c693f9210cd",
-            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759979246~acl=/*~id=40272183803694669495659725989733~hmac=a506f6a20db0a7e4a361635191dba29ebae54b185f1bf49a81e76c693f9210cd"
+            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759980472~acl=/*~id=46963609713524158013163759716971~hmac=0be7f4c5016c282d3aa5e0daacde98cccdec69d0a1e45ec6419deff7a16a6819",
+            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759980472~acl=/*~id=46963609713524158013163759716971~hmac=0be7f4c5016c282d3aa5e0daacde98cccdec69d0a1e45ec6419deff7a16a6819",
+            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759980472~acl=/*~id=46963609713524158013163759716971~hmac=0be7f4c5016c282d3aa5e0daacde98cccdec69d0a1e45ec6419deff7a16a6819"
         },
         {
             "event_category": "Archery",
@@ -25,9 +25,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Archery Premier League 2025",
             "match_name": "Day 7 - 8 Oct 2025 [ENG]",
-            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759979246~acl=/*~id=40272183803694669495659725989733~hmac=a506f6a20db0a7e4a361635191dba29ebae54b185f1bf49a81e76c693f9210cd",
-            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759979246~acl=/*~id=40272183803694669495659725989733~hmac=a506f6a20db0a7e4a361635191dba29ebae54b185f1bf49a81e76c693f9210cd",
-            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759979246~acl=/*~id=40272183803694669495659725989733~hmac=a506f6a20db0a7e4a361635191dba29ebae54b185f1bf49a81e76c693f9210cd"
+            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759980472~acl=/*~id=46963609713524158013163759716971~hmac=0be7f4c5016c282d3aa5e0daacde98cccdec69d0a1e45ec6419deff7a16a6819",
+            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759980472~acl=/*~id=46963609713524158013163759716971~hmac=0be7f4c5016c282d3aa5e0daacde98cccdec69d0a1e45ec6419deff7a16a6819",
+            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759980472~acl=/*~id=46963609713524158013163759716971~hmac=0be7f4c5016c282d3aa5e0daacde98cccdec69d0a1e45ec6419deff7a16a6819"
         },
         {
             "event_category": "Football",
