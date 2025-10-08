@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "22:29:33 08-10-2025",
+    "last update time": "22:50:03 08-10-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "UEFA International Friendlies",
             "match_name": "Gibraltar vs New Caledonia - 8 Oct 2025 [ENG]",
-            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759985973~acl=/*~id=13998638705987652764409981266721~hmac=0d78a15cd3ce19c9c1b3d3b942f21e4090e094d527f923e85c8a1ad4d30d58a0",
-            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759985973~acl=/*~id=13998638705987652764409981266721~hmac=0d78a15cd3ce19c9c1b3d3b942f21e4090e094d527f923e85c8a1ad4d30d58a0",
-            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759985973~acl=/*~id=13998638705987652764409981266721~hmac=0d78a15cd3ce19c9c1b3d3b942f21e4090e094d527f923e85c8a1ad4d30d58a0"
+            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759987202~acl=/*~id=30218818496427259486136716596479~hmac=19fa32ad61d5f546cd7698c140090b02d8ea30354ff28ee74f72fbe435c7405f",
+            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759987202~acl=/*~id=30218818496427259486136716596479~hmac=19fa32ad61d5f546cd7698c140090b02d8ea30354ff28ee74f72fbe435c7405f",
+            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759987202~acl=/*~id=30218818496427259486136716596479~hmac=19fa32ad61d5f546cd7698c140090b02d8ea30354ff28ee74f72fbe435c7405f"
         },
         {
             "event_category": "Football",
