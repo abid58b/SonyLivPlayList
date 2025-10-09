@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "21:18:59 09-10-2025",
+    "last update time": "20:48:10 09-10-2025",
     "matches": [
         {
             "event_category": "Archery",
@@ -12,22 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Archery Premier League 2025",
             "match_name": "Day 8 - 9 Oct 2025 [ENG]",
-            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760068137~acl=/*~id=71432641183132160498722745230518~hmac=862b03f5cd8d0b4242c670054c7b24ed13ae3aa366733ae534ea8851abdec565",
-            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760068137~acl=/*~id=71432641183132160498722745230518~hmac=862b03f5cd8d0b4242c670054c7b24ed13ae3aa366733ae534ea8851abdec565",
-            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760068137~acl=/*~id=71432641183132160498722745230518~hmac=862b03f5cd8d0b4242c670054c7b24ed13ae3aa366733ae534ea8851abdec565"
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090491866_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009832/1759480758967629_EQ_25_26_MD7_Finland_vs_Lithuania_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "European Qualifiers For 2026 FIFA World Cup",
-            "match_name": "Finland vs Lithuania - MD 7 - 9 Oct 2025 [ENG]",
-            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760068137~acl=/*~id=71432641183132160498722745230518~hmac=862b03f5cd8d0b4242c670054c7b24ed13ae3aa366733ae534ea8851abdec565",
-            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760068137~acl=/*~id=71432641183132160498722745230518~hmac=862b03f5cd8d0b4242c670054c7b24ed13ae3aa366733ae534ea8851abdec565",
-            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760068137~acl=/*~id=71432641183132160498722745230518~hmac=862b03f5cd8d0b4242c670054c7b24ed13ae3aa366733ae534ea8851abdec565"
+            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760066289~acl=/*~id=66651272078760222526454992713958~hmac=c800e29e07936df77ba5af25813a57cfd955374dc1e32498d77542d754a83ace",
+            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760066289~acl=/*~id=66651272078760222526454992713958~hmac=c800e29e07936df77ba5af25813a57cfd955374dc1e32498d77542d754a83ace",
+            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760066289~acl=/*~id=66651272078760222526454992713958~hmac=c800e29e07936df77ba5af25813a57cfd955374dc1e32498d77542d754a83ace"
         },
         {
             "event_category": "Football",
