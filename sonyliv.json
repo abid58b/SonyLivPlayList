@@ -1,20 +1,20 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "17:45:17 09-10-2025",
+    "last update time": "18:35:58 09-10-2025",
     "matches": [
         {
-            "event_category": "Tennis",
+            "event_category": "Racing",
             "isLive": true,
-            "contentId": "1090491864_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010026/1759994673122756_ShanghaiMasters25_QF_BERGS_vs_DJOKOVIC_9oct_landscape_thumb.jpg",
+            "contentId": "1090491954_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010010/1759931328945217_Extreme_E_and_Extreme_H_WC25_day1_8oct_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
-            "event_name": "ATP Masters 1000 - 2025 Shanghai Open",
-            "match_name": "Bergs vs Djokovic - Quarter-final - 9 Oct 2025 [ENG]",
-            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760055317~acl=/*~id=03816866766773559736350181340293~hmac=690f9bfa7489f379b926a0281d6402195c7841f984d6b192d2b6680546a67686",
-            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760055317~acl=/*~id=03816866766773559736350181340293~hmac=690f9bfa7489f379b926a0281d6402195c7841f984d6b192d2b6680546a67686",
-            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760055317~acl=/*~id=03816866766773559736350181340293~hmac=690f9bfa7489f379b926a0281d6402195c7841f984d6b192d2b6680546a67686"
+            "event_name": "Extreme E 2025",
+            "match_name": "Day 1 - Extreme H World Cup - 9 Oct 2025 [ENG]",
+            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760058358~acl=/*~id=63231300538341570117284145341482~hmac=52c2b69dd6f6caba92a5a0513f7bdfae82aba57a008238176b1bc65dafee5b50",
+            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760058358~acl=/*~id=63231300538341570117284145341482~hmac=52c2b69dd6f6caba92a5a0513f7bdfae82aba57a008238176b1bc65dafee5b50",
+            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760058358~acl=/*~id=63231300538341570117284145341482~hmac=52c2b69dd6f6caba92a5a0513f7bdfae82aba57a008238176b1bc65dafee5b50"
         },
         {
             "event_category": "Football",
@@ -42,6 +42,15 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Malta vs Netherlands - European Qualifiers for 2026 FIFA World Cup"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090491779,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009885/1759596746115336_NZvsENG_PROMO_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - England Tour of New Zealand 2025"
         },
         {
             "event_category": "Football",
@@ -78,15 +87,6 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Germany vs Luxembourg - European Qualifiers for 2026 FIFA World Cup"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090491779,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009885/1759596746115336_NZvsENG_PROMO_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - England Tour of New Zealand 2025"
         },
         {
             "event_category": "Cricket",
