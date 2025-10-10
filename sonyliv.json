@@ -1,34 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:04:52 11-10-2025",
+    "last update time": "02:35:21 11-10-2025",
     "matches": [
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090492014_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009844/1759540569324830_EQ2526_Germany_vs_Luxembourg_3oct_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "European Qualifiers For 2026 FIFA World Cup",
-            "match_name": "Germany vs Luxembourg - MD 7 - 11 Oct 2025 [ENG]",
-            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2094589/DAI37ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760171688~acl=/*~id=63590951177707917342793948211960~hmac=64a6d04513dd0d76dedbd82e80e5ed32f682406648a5a6dfc0a40da20ce27dcf",
-            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2094589/DAI37ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760171688~acl=/*~id=63590951177707917342793948211960~hmac=64a6d04513dd0d76dedbd82e80e5ed32f682406648a5a6dfc0a40da20ce27dcf",
-            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2094589/DAI37ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760171688~acl=/*~id=63590951177707917342793948211960~hmac=64a6d04513dd0d76dedbd82e80e5ed32f682406648a5a6dfc0a40da20ce27dcf"
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090492003_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009844/1759540435661830_EQ2526_France_vs_Azerbaijan_3oct_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "European Qualifiers For 2026 FIFA World Cup",
-            "match_name": "France vs Azerbaijan - MD 7 - 11 Oct 2025 [ENG]",
-            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2105079/DAI41ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760171688~acl=/*~id=63590951177707917342793948211960~hmac=64a6d04513dd0d76dedbd82e80e5ed32f682406648a5a6dfc0a40da20ce27dcf",
-            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2105079/DAI41ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760171688~acl=/*~id=63590951177707917342793948211960~hmac=64a6d04513dd0d76dedbd82e80e5ed32f682406648a5a6dfc0a40da20ce27dcf",
-            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2105079/DAI41ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760171688~acl=/*~id=63590951177707917342793948211960~hmac=64a6d04513dd0d76dedbd82e80e5ed32f682406648a5a6dfc0a40da20ce27dcf"
-        },
         {
             "event_category": "Cricket",
             "isLive": true,
@@ -48,61 +22,9 @@
             "audioLanguageName": "ENG",
             "event_name": "European Qualifiers For 2026 FIFA World Cup",
             "match_name": "Belgium vs North Macedonia - MD 7 - 11 Oct 2025 [ENG]",
-            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760171688~acl=/*~id=63590951177707917342793948211960~hmac=64a6d04513dd0d76dedbd82e80e5ed32f682406648a5a6dfc0a40da20ce27dcf",
-            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760171688~acl=/*~id=63590951177707917342793948211960~hmac=64a6d04513dd0d76dedbd82e80e5ed32f682406648a5a6dfc0a40da20ce27dcf",
-            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760171688~acl=/*~id=63590951177707917342793948211960~hmac=64a6d04513dd0d76dedbd82e80e5ed32f682406648a5a6dfc0a40da20ce27dcf"
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090492015_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009844/1759540704551830_EQ2526_Iceland_vs_Ukraine_3oct_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "European Qualifiers For 2026 FIFA World Cup",
-            "match_name": "Iceland vs Ukraine - MD 7 - 11 Oct 2025 [ENG]",
-            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022315/DAI39ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760171688~acl=/*~id=63590951177707917342793948211960~hmac=64a6d04513dd0d76dedbd82e80e5ed32f682406648a5a6dfc0a40da20ce27dcf",
-            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022315/DAI39ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760171688~acl=/*~id=63590951177707917342793948211960~hmac=64a6d04513dd0d76dedbd82e80e5ed32f682406648a5a6dfc0a40da20ce27dcf",
-            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022315/DAI39ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760171688~acl=/*~id=63590951177707917342793948211960~hmac=64a6d04513dd0d76dedbd82e80e5ed32f682406648a5a6dfc0a40da20ce27dcf"
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090492016_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009844/1759540830015830_EQ2526_Kosovo_vs_Slovenia_3oct_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "European Qualifiers For 2026 FIFA World Cup",
-            "match_name": "Kosovo vs Slovenia - MD 7 - 11 Oct 2025 [ENG]",
-            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022318/DAI40ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760171688~acl=/*~id=63590951177707917342793948211960~hmac=64a6d04513dd0d76dedbd82e80e5ed32f682406648a5a6dfc0a40da20ce27dcf",
-            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022318/DAI40ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760171688~acl=/*~id=63590951177707917342793948211960~hmac=64a6d04513dd0d76dedbd82e80e5ed32f682406648a5a6dfc0a40da20ce27dcf",
-            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022318/DAI40ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760171688~acl=/*~id=63590951177707917342793948211960~hmac=64a6d04513dd0d76dedbd82e80e5ed32f682406648a5a6dfc0a40da20ce27dcf"
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090492017_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009844/1759540963347830_EQ2526_Northern_Ireland_vs_Slovakia_3oct_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "European Qualifiers For 2026 FIFA World Cup",
-            "match_name": "Northern Ireland vs Slovakia - MD 7 - 11 Oct 2025 [ENG]",
-            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022317/DAI42ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760171688~acl=/*~id=63590951177707917342793948211960~hmac=64a6d04513dd0d76dedbd82e80e5ed32f682406648a5a6dfc0a40da20ce27dcf",
-            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022317/DAI42ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760171688~acl=/*~id=63590951177707917342793948211960~hmac=64a6d04513dd0d76dedbd82e80e5ed32f682406648a5a6dfc0a40da20ce27dcf",
-            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022317/DAI42ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760171688~acl=/*~id=63590951177707917342793948211960~hmac=64a6d04513dd0d76dedbd82e80e5ed32f682406648a5a6dfc0a40da20ce27dcf"
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090492018_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009844/1759541075697830_EQ2526_Sweden_vs_Switzerland_3oct_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "European Qualifiers For 2026 FIFA World Cup",
-            "match_name": "Sweden vs Switzerland - MD 7 - 11 Oct 2025 [ENG]",
-            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2018457/DAI43ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760171688~acl=/*~id=63590951177707917342793948211960~hmac=64a6d04513dd0d76dedbd82e80e5ed32f682406648a5a6dfc0a40da20ce27dcf",
-            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2018457/DAI43ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760171688~acl=/*~id=63590951177707917342793948211960~hmac=64a6d04513dd0d76dedbd82e80e5ed32f682406648a5a6dfc0a40da20ce27dcf",
-            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2018457/DAI43ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760171688~acl=/*~id=63590951177707917342793948211960~hmac=64a6d04513dd0d76dedbd82e80e5ed32f682406648a5a6dfc0a40da20ce27dcf"
+            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760173520~acl=/*~id=98295798671468561264817691309908~hmac=f8108f3a8acf953ba79fb71391761febceb0db19697d8a74a80c32a68f38ebce",
+            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760173520~acl=/*~id=98295798671468561264817691309908~hmac=f8108f3a8acf953ba79fb71391761febceb0db19697d8a74a80c32a68f38ebce",
+            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760173520~acl=/*~id=98295798671468561264817691309908~hmac=f8108f3a8acf953ba79fb71391761febceb0db19697d8a74a80c32a68f38ebce"
         },
         {
             "event_category": "Football",
@@ -123,15 +45,6 @@
             "event_name": "Upcoming - Spain vs Georgia - European Qualifiers for 2026 FIFA World Cup"
         },
         {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090491833,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009909/1759686740092596_EWC_oct_promo_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - European Qualifiers for 2026 FIFA World Cup"
-        },
-        {
             "event_category": "Cricket",
             "isLive": false,
             "contentId": 1090491779,
@@ -139,6 +52,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - England Tour of New Zealand 2025"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090491833,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009909/1759686740092596_EWC_oct_promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - European Qualifiers for 2026 FIFA World Cup"
         },
         {
             "event_category": "Archery",
