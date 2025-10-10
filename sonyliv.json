@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "16:45:29 10-10-2025",
+    "last update time": "17:05:46 10-10-2025",
     "matches": [
         {
             "event_category": "Tennis",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "ATP Masters 1000 - 2025 Shanghai Open",
             "match_name": "Daniil Medvedev vs Alex de Minaur - QF - 10 Oct 2025 [ENG]",
-            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760138128~acl=/*~id=45716528537526918597048814182040~hmac=de5077ddad43e0c38164f6707546a093d08c40762055a879797652e7f7a0cb3d",
-            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760138128~acl=/*~id=45716528537526918597048814182040~hmac=de5077ddad43e0c38164f6707546a093d08c40762055a879797652e7f7a0cb3d",
-            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760138128~acl=/*~id=45716528537526918597048814182040~hmac=de5077ddad43e0c38164f6707546a093d08c40762055a879797652e7f7a0cb3d"
+            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760139345~acl=/*~id=94040296114209173507577791658891~hmac=59f5ee2c7e6118062303e058eab0cd77f8a973b64a2324798e93c2cf0023372f",
+            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760139345~acl=/*~id=94040296114209173507577791658891~hmac=59f5ee2c7e6118062303e058eab0cd77f8a973b64a2324798e93c2cf0023372f",
+            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760139345~acl=/*~id=94040296114209173507577791658891~hmac=59f5ee2c7e6118062303e058eab0cd77f8a973b64a2324798e93c2cf0023372f"
         },
         {
             "event_category": "Football",
