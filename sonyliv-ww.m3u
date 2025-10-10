@@ -1,4 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1090491865_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010054/1760033142812308_ATP25_9oct_Medvedev_vs_DeMinaur_landscape_thumb_Live.jpg" group-title="Live",Daniil Medvedev vs Alex de Minaur - QF - 10 Oct 2025 [ENG] - ATP Masters 1000 - 2025 Shanghai Open - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.xyz/
-https://mini.allinonereborn.online/events/stream_proxy.php?url=https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760139345~acl=/*~id=94040296114209173507577791658891~hmac=59f5ee2c7e6118062303e058eab0cd77f8a973b64a2324798e93c2cf0023372f
+https://mini.allinonereborn.online/events/stream_proxy.php?url=https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760141785~acl=/*~id=53361236028687882070780029505674~hmac=fb27a177240063485974e5c2d65df13d12b44b51fa77c54187593459dc8b317a
+#EXTINF:-1 tvg-id="1090492070_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010049/1760026367682373_AsiaCup_Glory_24x7_Landscape_thumbj_9OCT_re1.jpg" group-title="Live",India's Asia Cup Glory 24x7 [ENG] - Asia Cup 2025 - ENG
+#EXTVLCOPT:http-referrer=https://allinonereborn.xyz/
+http://invalid.stream.url
