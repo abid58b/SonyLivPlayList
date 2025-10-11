@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "21:03:02 11-10-2025",
+    "last update time": "21:33:37 11-10-2025",
     "matches": [
         {
             "event_category": "Archery",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Archery Premier League 2025",
             "match_name": "Day 10 - 11 Oct 2025 [ENG]",
-            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760239980~acl=/*~id=79488071804216499518155750391700~hmac=2acc1085d56043db355eab4173d5e52bc89a8c1d302918d5cb198b0d4a49aeb6",
-            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760239980~acl=/*~id=79488071804216499518155750391700~hmac=2acc1085d56043db355eab4173d5e52bc89a8c1d302918d5cb198b0d4a49aeb6",
-            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760239980~acl=/*~id=79488071804216499518155750391700~hmac=2acc1085d56043db355eab4173d5e52bc89a8c1d302918d5cb198b0d4a49aeb6"
+            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760241813~acl=/*~id=52315331216627698916945001277349~hmac=24f7f68208e22e34b91d6fd99f6a6f3e190d1727b93ebf5fc811d1d36e0c4a45",
+            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760241813~acl=/*~id=52315331216627698916945001277349~hmac=24f7f68208e22e34b91d6fd99f6a6f3e190d1727b93ebf5fc811d1d36e0c4a45",
+            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760241813~acl=/*~id=52315331216627698916945001277349~hmac=24f7f68208e22e34b91d6fd99f6a6f3e190d1727b93ebf5fc811d1d36e0c4a45"
         },
         {
             "event_category": "Cricket",
@@ -29,28 +29,28 @@
         {
             "event_category": "Football",
             "isLive": true,
-            "contentId": "1090492076_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009844/1759541363237830_EQ2526_Hungary_vs_Armenia_3oct_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "European Qualifiers For 2026 FIFA World Cup",
-            "match_name": "Hungary vs Armenia - MD 7 - 11 Oct 2025 [ENG]",
-            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760239980~acl=/*~id=79488071804216499518155750391700~hmac=2acc1085d56043db355eab4173d5e52bc89a8c1d302918d5cb198b0d4a49aeb6",
-            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760239980~acl=/*~id=79488071804216499518155750391700~hmac=2acc1085d56043db355eab4173d5e52bc89a8c1d302918d5cb198b0d4a49aeb6",
-            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760239980~acl=/*~id=79488071804216499518155750391700~hmac=2acc1085d56043db355eab4173d5e52bc89a8c1d302918d5cb198b0d4a49aeb6"
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
             "contentId": "1090492077_ENG",
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009844/1759541499854830_EQ2526_Norway_vs_Israel_3oct_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "European Qualifiers For 2026 FIFA World Cup",
             "match_name": "Norway vs Israel - MD 7 - 11 Oct 2025 [ENG]",
-            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2105079/DAI41ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760239980~acl=/*~id=79488071804216499518155750391700~hmac=2acc1085d56043db355eab4173d5e52bc89a8c1d302918d5cb198b0d4a49aeb6",
-            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2105079/DAI41ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760239980~acl=/*~id=79488071804216499518155750391700~hmac=2acc1085d56043db355eab4173d5e52bc89a8c1d302918d5cb198b0d4a49aeb6",
-            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2105079/DAI41ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760239980~acl=/*~id=79488071804216499518155750391700~hmac=2acc1085d56043db355eab4173d5e52bc89a8c1d302918d5cb198b0d4a49aeb6"
+            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2105079/DAI41ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760241813~acl=/*~id=52315331216627698916945001277349~hmac=24f7f68208e22e34b91d6fd99f6a6f3e190d1727b93ebf5fc811d1d36e0c4a45",
+            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2105079/DAI41ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760241813~acl=/*~id=52315331216627698916945001277349~hmac=24f7f68208e22e34b91d6fd99f6a6f3e190d1727b93ebf5fc811d1d36e0c4a45",
+            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2105079/DAI41ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760241813~acl=/*~id=52315331216627698916945001277349~hmac=24f7f68208e22e34b91d6fd99f6a6f3e190d1727b93ebf5fc811d1d36e0c4a45"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090492076_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009844/1759541363237830_EQ2526_Hungary_vs_Armenia_3oct_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "European Qualifiers For 2026 FIFA World Cup",
+            "match_name": "Hungary vs Armenia - MD 7 - 11 Oct 2025 [ENG]",
+            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760241813~acl=/*~id=52315331216627698916945001277349~hmac=24f7f68208e22e34b91d6fd99f6a6f3e190d1727b93ebf5fc811d1d36e0c4a45",
+            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760241813~acl=/*~id=52315331216627698916945001277349~hmac=24f7f68208e22e34b91d6fd99f6a6f3e190d1727b93ebf5fc811d1d36e0c4a45",
+            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760241813~acl=/*~id=52315331216627698916945001277349~hmac=24f7f68208e22e34b91d6fd99f6a6f3e190d1727b93ebf5fc811d1d36e0c4a45"
         },
         {
             "event_category": "Football",
@@ -82,38 +82,33 @@
         {
             "event_category": "Football",
             "isLive": false,
-            "contentId": 1090491833,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009909/1759686740092596_EWC_oct_promo_landscape_thumb.jpg",
+            "contentId": 1090492090,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010075/176009128512198_EQ_promo_n_ireland_vs_germany_landscape.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - European Qualifiers for 2026 FIFA World Cup"
-        },
-        {
-            "event_category": "Archery",
-            "isLive": false,
-            "contentId": 1090491525,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009741/1759353179080972_APL25_landscape_thumb.jpg",
-            "broadcast_channel": "LIV",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - Archery Premier League 2025"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090489002,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008092/1757691706791589_SPORTS_COMBO_PROMO_landscape.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - The Best Sporting Action"
+            "event_name": "Upcoming - Northern Ireland vs Germany - European Qualifiers for 2026 FIFA World Cup"
         },
         {
             "event_category": "Football",
             "isLive": false,
-            "contentId": 1090491897,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009949/1759825645469296_EQ_Promo_Estonia-vs-Italy_landscape.jpg",
+            "contentId": 1090492100,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010102/1760111961547245_UEL_MD8_Latvia_vs_Engaland_DDT_Landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Estonia vs Italy - European Qualifiers for 2026 FIFA World Cup"
+            "event_name": "Upcoming - Latvia vs England - European Qualifiers for 2026 FIFA World Cup"
         },
         {
-         
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090492101,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010102/1760112020806245_UEL_MD8_Portugal_Vs_Hungary_DDT_Landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Portugal vs Hungary - European Qualifiers for 2026 FIFA World Cup"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090492102,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010102/1760112076996245_UEL_MD8_Spain_vs_Bulgaria_DDT_Landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports 
