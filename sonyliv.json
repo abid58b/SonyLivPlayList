@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "22:06:45 12-10-2025",
+    "last update time": "22:37:16 12-10-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -12,22 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "European Qualifiers For 2026 FIFA World Cup",
             "match_name": "Netherlands vs Finland - MD 8 - 12 Oct 2025 [ENG]",
-            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2105079/DAI41ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760330202~acl=/*~id=81392804405357117674293163204576~hmac=f029979306590161a3c4365b4e831148be48c1dac10182f13c9049aeee174add",
-            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2105079/DAI41ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760330202~acl=/*~id=81392804405357117674293163204576~hmac=f029979306590161a3c4365b4e831148be48c1dac10182f13c9049aeee174add",
-            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2105079/DAI41ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760330202~acl=/*~id=81392804405357117674293163204576~hmac=f029979306590161a3c4365b4e831148be48c1dac10182f13c9049aeee174add"
-        },
-        {
-            "event_category": "Archery",
-            "isLive": true,
-            "contentId": "1090492129_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010167/1760272209747468_ArcheryPremierLeague_SFs_12oct_landscape_thumb.jpg",
-            "broadcast_channel": "LIV",
-            "audioLanguageName": "ENG",
-            "event_name": "Archery Premier League 2025",
-            "match_name": "Day 11 - 12 Oct 2025 [ENG]",
-            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760330202~acl=/*~id=81392804405357117674293163204576~hmac=f029979306590161a3c4365b4e831148be48c1dac10182f13c9049aeee174add",
-            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760330202~acl=/*~id=81392804405357117674293163204576~hmac=f029979306590161a3c4365b4e831148be48c1dac10182f13c9049aeee174add",
-            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760330202~acl=/*~id=81392804405357117674293163204576~hmac=f029979306590161a3c4365b4e831148be48c1dac10182f13c9049aeee174add"
+            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2105079/DAI41ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760332034~acl=/*~id=14384037520429023048145387115616~hmac=2aaabe6c6037fd041264385d22ff5d488f4e73c88263e3fe8f14e4c90158fdb6",
+            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2105079/DAI41ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760332034~acl=/*~id=14384037520429023048145387115616~hmac=2aaabe6c6037fd041264385d22ff5d488f4e73c88263e3fe8f14e4c90158fdb6",
+            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2105079/DAI41ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760332034~acl=/*~id=14384037520429023048145387115616~hmac=2aaabe6c6037fd041264385d22ff5d488f4e73c88263e3fe8f14e4c90158fdb6"
         },
         {
             "event_category": "Cricket",
@@ -48,9 +35,9 @@
             "audioLanguageName": "ENG",
             "event_name": "European Qualifiers For 2026 FIFA World Cup",
             "match_name": "Scotland vs Belarus - MD 8 - 12 Oct 2025 [ENG]",
-            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2094589/DAI37ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760330202~acl=/*~id=81392804405357117674293163204576~hmac=f029979306590161a3c4365b4e831148be48c1dac10182f13c9049aeee174add",
-            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2094589/DAI37ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760330202~acl=/*~id=81392804405357117674293163204576~hmac=f029979306590161a3c4365b4e831148be48c1dac10182f13c9049aeee174add",
-            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2094589/DAI37ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760330202~acl=/*~id=81392804405357117674293163204576~hmac=f029979306590161a3c4365b4e831148be48c1dac10182f13c9049aeee174add"
+            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2094589/DAI37ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760332034~acl=/*~id=14384037520429023048145387115616~hmac=2aaabe6c6037fd041264385d22ff5d488f4e73c88263e3fe8f14e4c90158fdb6",
+            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2094589/DAI37ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760332034~acl=/*~id=14384037520429023048145387115616~hmac=2aaabe6c6037fd041264385d22ff5d488f4e73c88263e3fe8f14e4c90158fdb6",
+            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2094589/DAI37ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760332034~acl=/*~id=14384037520429023048145387115616~hmac=2aaabe6c6037fd041264385d22ff5d488f4e73c88263e3fe8f14e4c90158fdb6"
         },
         {
             "event_category": "Football",
@@ -61,9 +48,9 @@
             "audioLanguageName": "ENG",
             "event_name": "European Qualifiers For 2026 FIFA World Cup",
             "match_name": "Faroe Islands vs Czechia - MD 8 - 12 Oct 2025 [ENG]",
-            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760330202~acl=/*~id=81392804405357117674293163204576~hmac=f029979306590161a3c4365b4e831148be48c1dac10182f13c9049aeee174add",
-            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760330202~acl=/*~id=81392804405357117674293163204576~hmac=f029979306590161a3c4365b4e831148be48c1dac10182f13c9049aeee174add",
-            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760330202~acl=/*~id=81392804405357117674293163204576~hmac=f029979306590161a3c4365b4e831148be48c1dac10182f13c9049aeee174add"
+            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760332034~acl=/*~id=14384037520429023048145387115616~hmac=2aaabe6c6037fd041264385d22ff5d488f4e73c88263e3fe8f14e4c90158fdb6",
+            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760332034~acl=/*~id=14384037520429023048145387115616~hmac=2aaabe6c6037fd041264385d22ff5d488f4e73c88263e3fe8f14e4c90158fdb6",
+            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760332034~acl=/*~id=14384037520429023048145387115616~hmac=2aaabe6c6037fd041264385d22ff5d488f4e73c88263e3fe8f14e4c90158fdb6"
         },
         {
             "event_category": "Football",
@@ -74,9 +61,9 @@
             "audioLanguageName": "ENG",
             "event_name": "UEFA International Friendlies",
             "match_name": "Malta vs Bosnia and Herzegovia - 12 Oct 2025 [ENG]",
-            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760330202~acl=/*~id=81392804405357117674293163204576~hmac=f029979306590161a3c4365b4e831148be48c1dac10182f13c9049aeee174add",
-            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760330202~acl=/*~id=81392804405357117674293163204576~hmac=f029979306590161a3c4365b4e831148be48c1dac10182f13c9049aeee174add",
-            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760330202~acl=/*~id=81392804405357117674293163204576~hmac=f029979306590161a3c4365b4e831148be48c1dac10182f13c9049aeee174add"
+            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760332034~acl=/*~id=14384037520429023048145387115616~hmac=2aaabe6c6037fd041264385d22ff5d488f4e73c88263e3fe8f14e4c90158fdb6",
+            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760332034~acl=/*~id=14384037520429023048145387115616~hmac=2aaabe6c6037fd041264385d22ff5d488f4e73c88263e3fe8f14e4c90158fdb6",
+            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760332034~acl=/*~id=14384037520429023048145387115616~hmac=2aaabe6c6037fd041264385d22ff5d488f4e73c88263e3fe8f14e4c90158fdb6"
         },
         {
             "event_category": "Football",
