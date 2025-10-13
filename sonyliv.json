@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "21:06:53 13-10-2025",
+    "last update time": "21:37:31 13-10-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -22,9 +22,9 @@
             "audioLanguageName": "ENG",
             "event_name": "UEFA International Friendlies",
             "match_name": "Montenegro vs Liechtenstein - 13 Oct 2025 [ENG]",
-            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760413011~acl=/*~id=72609161942145433307346648332277~hmac=f0579fa4d283a6a4b90fafeeb0f8dfa5be3f99e3ebe212b644b7b2ec6fb214c7",
-            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760413011~acl=/*~id=72609161942145433307346648332277~hmac=f0579fa4d283a6a4b90fafeeb0f8dfa5be3f99e3ebe212b644b7b2ec6fb214c7",
-            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760413011~acl=/*~id=72609161942145433307346648332277~hmac=f0579fa4d283a6a4b90fafeeb0f8dfa5be3f99e3ebe212b644b7b2ec6fb214c7"
+            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760414850~acl=/*~id=05012828624669406329417869380060~hmac=306f3f057958793bb3f9697cbcf31bb2162aa50136e4dd0f976865f9b42c103e",
+            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760414850~acl=/*~id=05012828624669406329417869380060~hmac=306f3f057958793bb3f9697cbcf31bb2162aa50136e4dd0f976865f9b42c103e",
+            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760414850~acl=/*~id=05012828624669406329417869380060~hmac=306f3f057958793bb3f9697cbcf31bb2162aa50136e4dd0f976865f9b42c103e"
         },
         {
             "event_category": "Football",
