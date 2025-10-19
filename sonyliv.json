@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "22:59:08 19-10-2025",
+    "last update time": "23:39:45 19-10-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -12,19 +12,6 @@
             "audioLanguageName": "ENG",
             "event_name": "Asia Cup 2025",
             "match_name": "India's Asia Cup Glory 24x7 [ENG]"
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090492493_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009849/1759551021063913_bliga2526_MD7_St_Pauli_vs_Hoffenheim_3oct_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Bundesliga 2025-26",
-            "match_name": "St. Pauli vs TSG Hoffenheim - 19 Oct 2025 [ENG]",
-            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760938147~acl=/*~id=29428247441671183186111844533396~hmac=0b61daa0e904da934d6a08e62814b84620ebe2b5b50f7162cc25c272977322d2",
-            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760938147~acl=/*~id=29428247441671183186111844533396~hmac=0b61daa0e904da934d6a08e62814b84620ebe2b5b50f7162cc25c272977322d2",
-            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760938147~acl=/*~id=29428247441671183186111844533396~hmac=0b61daa0e904da934d6a08e62814b84620ebe2b5b50f7162cc25c272977322d2"
         },
         {
             "event_category": "Cricket",
