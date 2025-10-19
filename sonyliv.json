@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "22:08:24 19-10-2025",
+    "last update time": "22:28:41 19-10-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -22,9 +22,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Bundesliga 2025-26",
             "match_name": "St. Pauli vs TSG Hoffenheim - 19 Oct 2025 [ENG]",
-            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760935103~acl=/*~id=48274747971659353643748128876198~hmac=bfe71843914ac9a2d6c5ffd8c223f87f84e2d44dc5fe8e0ad374be996fde75da",
-            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760935103~acl=/*~id=48274747971659353643748128876198~hmac=bfe71843914ac9a2d6c5ffd8c223f87f84e2d44dc5fe8e0ad374be996fde75da",
-            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760935103~acl=/*~id=48274747971659353643748128876198~hmac=bfe71843914ac9a2d6c5ffd8c223f87f84e2d44dc5fe8e0ad374be996fde75da"
+            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760936321~acl=/*~id=21682748193363030724602190619067~hmac=f4da3fe04e714c9e0a5026022158ae6afb1a7cbe3b95baf522ac9b48088f047d",
+            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760936321~acl=/*~id=21682748193363030724602190619067~hmac=f4da3fe04e714c9e0a5026022158ae6afb1a7cbe3b95baf522ac9b48088f047d",
+            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760936321~acl=/*~id=21682748193363030724602190619067~hmac=f4da3fe04e714c9e0a5026022158ae6afb1a7cbe3b95baf522ac9b48088f047d"
         },
         {
             "event_category": "Cricket",
@@ -137,4 +137,4 @@
         {
             "event_category": "Football",
             "isLive": false,
-            "contentId": 10904
+            "contentId": 1090492
