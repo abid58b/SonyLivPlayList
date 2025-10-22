@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "23:02:29 22-10-2025",
+    "last update time": "23:43:11 22-10-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -22,9 +22,9 @@
             "audioLanguageName": "ENG",
             "event_name": "UEFA Champions League 2025-26",
             "match_name": "Galatasaray vs Bodo/Glimt - MD 3 - 22 Oct 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761197547~acl=/*~id=33060449829696762392174938907663~hmac=69ab39b4dd267fe3affb964af76d465bb86f8f3a0ab62a2c75e61df001987f3c",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761197547~acl=/*~id=33060449829696762392174938907663~hmac=69ab39b4dd267fe3affb964af76d465bb86f8f3a0ab62a2c75e61df001987f3c",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761197547~acl=/*~id=33060449829696762392174938907663~hmac=69ab39b4dd267fe3affb964af76d465bb86f8f3a0ab62a2c75e61df001987f3c"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761199989~acl=/*~id=49522234626123774607247055281338~hmac=dd3e76cd168d56ffd83722f0d648fbf9cb1a90c4eed14536d7648a45f6d6cffc",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761199989~acl=/*~id=49522234626123774607247055281338~hmac=dd3e76cd168d56ffd83722f0d648fbf9cb1a90c4eed14536d7648a45f6d6cffc",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761199989~acl=/*~id=49522234626123774607247055281338~hmac=dd3e76cd168d56ffd83722f0d648fbf9cb1a90c4eed14536d7648a45f6d6cffc"
         },
         {
             "event_category": "Football",
@@ -35,9 +35,9 @@
             "audioLanguageName": "ENG",
             "event_name": "UEFA Champions League 2025-26",
             "match_name": "Athletic vs Qarabag - MD 3 - 22 Oct 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761197547~acl=/*~id=33060449829696762392174938907663~hmac=69ab39b4dd267fe3affb964af76d465bb86f8f3a0ab62a2c75e61df001987f3c",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761197547~acl=/*~id=33060449829696762392174938907663~hmac=69ab39b4dd267fe3affb964af76d465bb86f8f3a0ab62a2c75e61df001987f3c",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761197547~acl=/*~id=33060449829696762392174938907663~hmac=69ab39b4dd267fe3affb964af76d465bb86f8f3a0ab62a2c75e61df001987f3c"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761199989~acl=/*~id=49522234626123774607247055281338~hmac=dd3e76cd168d56ffd83722f0d648fbf9cb1a90c4eed14536d7648a45f6d6cffc",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761199989~acl=/*~id=49522234626123774607247055281338~hmac=dd3e76cd168d56ffd83722f0d648fbf9cb1a90c4eed14536d7648a45f6d6cffc",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761199989~acl=/*~id=49522234626123774607247055281338~hmac=dd3e76cd168d56ffd83722f0d648fbf9cb1a90c4eed14536d7648a45f6d6cffc"
         },
         {
             "event_category": "Football",
