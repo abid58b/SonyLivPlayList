@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "14:38:29 23-10-2025",
+    "last update time": "14:58:45 23-10-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "England Tour of New Zealand 2025",
             "match_name": "3rd T20I - 23 Oct 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/engvsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1761253707~acl=/*~id=87534015950338615052430333895810~hmac=c10c32dcec5ccb4c412131b270b6a00fcc71341fa5dbc5463c2a030819d91e92",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/engvsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1761253707~acl=/*~id=87534015950338615052430333895810~hmac=c10c32dcec5ccb4c412131b270b6a00fcc71341fa5dbc5463c2a030819d91e92",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/engvsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1761253707~acl=/*~id=87534015950338615052430333895810~hmac=c10c32dcec5ccb4c412131b270b6a00fcc71341fa5dbc5463c2a030819d91e92"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/engvsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1761254923~acl=/*~id=12041219884797097397738757113808~hmac=d63c59d49ba11c7b4b24cb2c84b8f903b113345936c8a562620d18bd50b798f7",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/engvsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1761254923~acl=/*~id=12041219884797097397738757113808~hmac=d63c59d49ba11c7b4b24cb2c84b8f903b113345936c8a562620d18bd50b798f7",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/engvsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1761254923~acl=/*~id=12041219884797097397738757113808~hmac=d63c59d49ba11c7b4b24cb2c84b8f903b113345936c8a562620d18bd50b798f7"
         },
         {
             "event_category": "Cricket",
@@ -25,19 +25,6 @@
             "audioLanguageName": "ENG",
             "event_name": "Asia Cup 2025",
             "match_name": "India's Asia Cup Glory 24x7 [ENG]"
-        },
-        {
-            "event_category": "Golf",
-            "isLive": true,
-            "contentId": "1090492963_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009914/1759722883940903_AsianTour25_International_Series_Philippines_Day1_5oct_landscape_thumb.jpg",
-            "broadcast_channel": "LIV",
-            "audioLanguageName": "ENG",
-            "event_name": "Asian Tour 2025",
-            "match_name": "International Series Philippines - Day 1 - 23 Oct 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761253707~acl=/*~id=87534015950338615052430333895810~hmac=c10c32dcec5ccb4c412131b270b6a00fcc71341fa5dbc5463c2a030819d91e92",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761253707~acl=/*~id=87534015950338615052430333895810~hmac=c10c32dcec5ccb4c412131b270b6a00fcc71341fa5dbc5463c2a030819d91e92",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761253707~acl=/*~id=87534015950338615052430333895810~hmac=c10c32dcec5ccb4c412131b270b6a00fcc71341fa5dbc5463c2a030819d91e92"
         },
         {
             "event_category": "Football",
