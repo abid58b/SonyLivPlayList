@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "18:35:46 24-10-2025",
+    "last update time": "19:06:19 24-10-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -12,6 +12,19 @@
             "audioLanguageName": "ENG",
             "event_name": "Asia Cup 2025",
             "match_name": "India's Asia Cup Glory 24x7 [ENG]"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090493129_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009910/1759715983570161_UECL2526_MD2_Rijeka_vs_Sparta_Prague_5oct_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Conference League 2025-26",
+            "match_name": "Rijeka vs Sparta Prague - MD 2 - 24 Oct 2025 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761356178~acl=/*~id=74110441481851292342934462981692~hmac=df926b655d6ee649d8eab8d6e0261b6f8aaea503aed2a36b08b9c1c560c7f71e",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761356178~acl=/*~id=74110441481851292342934462981692~hmac=df926b655d6ee649d8eab8d6e0261b6f8aaea503aed2a36b08b9c1c560c7f71e",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761356178~acl=/*~id=74110441481851292342934462981692~hmac=df926b655d6ee649d8eab8d6e0261b6f8aaea503aed2a36b08b9c1c560c7f71e"
         },
         {
             "event_category": "Fight Sports",
