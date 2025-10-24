@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "19:06:19 24-10-2025",
+    "last update time": "19:36:50 24-10-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -22,9 +22,9 @@
             "audioLanguageName": "ENG",
             "event_name": "UEFA Conference League 2025-26",
             "match_name": "Rijeka vs Sparta Prague - MD 2 - 24 Oct 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761356178~acl=/*~id=74110441481851292342934462981692~hmac=df926b655d6ee649d8eab8d6e0261b6f8aaea503aed2a36b08b9c1c560c7f71e",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761356178~acl=/*~id=74110441481851292342934462981692~hmac=df926b655d6ee649d8eab8d6e0261b6f8aaea503aed2a36b08b9c1c560c7f71e",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761356178~acl=/*~id=74110441481851292342934462981692~hmac=df926b655d6ee649d8eab8d6e0261b6f8aaea503aed2a36b08b9c1c560c7f71e"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761358009~acl=/*~id=33265851481555889890856700352835~hmac=f14dd284349ff6c1d61aa13eba5f4916d75a61474b877efe49cc7cede4682c6a",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761358009~acl=/*~id=33265851481555889890856700352835~hmac=f14dd284349ff6c1d61aa13eba5f4916d75a61474b877efe49cc7cede4682c6a",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761358009~acl=/*~id=33265851481555889890856700352835~hmac=f14dd284349ff6c1d61aa13eba5f4916d75a61474b877efe49cc7cede4682c6a"
         },
         {
             "event_category": "Fight Sports",
@@ -34,6 +34,15 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - UFC 321 - Aspinall vs Gane"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090491779,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010514/176130917934364_NZvsENG25_1ODI_24oct_dated_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - England Tour of New Zealand 2025"
         },
         {
             "event_category": "Football",
@@ -61,15 +70,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Bayer Leverkusen vs SC Freiburg"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090491779,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010514/176130917934364_NZvsENG25_1ODI_24oct_dated_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - England Tour of New Zealand 2025"
         },
         {
             "event_category": "Cricket",
