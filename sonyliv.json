@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:38:35 26-10-2025",
+    "last update time": "01:58:56 26-10-2025",
     "matches": [
         {
             "event_category": "Fight Sports",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "UFC 321 - Aspinall vs Gane",
             "match_name": "UFC 321 - Aspinall vs Gane - 25 Oct 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761466113~acl=/*~id=49982327670704203122630831811538~hmac=6c966bd06348ceac3694c917e95f4720fbffca17ac277f01325f017196c3ec44",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761466113~acl=/*~id=49982327670704203122630831811538~hmac=6c966bd06348ceac3694c917e95f4720fbffca17ac277f01325f017196c3ec44",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761466113~acl=/*~id=49982327670704203122630831811538~hmac=6c966bd06348ceac3694c917e95f4720fbffca17ac277f01325f017196c3ec44"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761467334~acl=/*~id=29952431236121881175093168535177~hmac=93f48f04b31255b53377e39f216c21f02a5aa005982f3e569965ffe2bfeb9a7e",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761467334~acl=/*~id=29952431236121881175093168535177~hmac=93f48f04b31255b53377e39f216c21f02a5aa005982f3e569965ffe2bfeb9a7e",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761467334~acl=/*~id=29952431236121881175093168535177~hmac=93f48f04b31255b53377e39f216c21f02a5aa005982f3e569965ffe2bfeb9a7e"
         },
         {
             "event_category": "Fight Sports",
@@ -25,9 +25,9 @@
             "audioLanguageName": "ENG",
             "event_name": "UFC 321 - Aspinall vs Gane",
             "match_name": "UFC 321 - Aspinall vs Gane - 25 Oct 2025 [HIN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761466113~acl=/*~id=49982327670704203122630831811538~hmac=6c966bd06348ceac3694c917e95f4720fbffca17ac277f01325f017196c3ec44",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761466113~acl=/*~id=49982327670704203122630831811538~hmac=6c966bd06348ceac3694c917e95f4720fbffca17ac277f01325f017196c3ec44",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761466113~acl=/*~id=49982327670704203122630831811538~hmac=6c966bd06348ceac3694c917e95f4720fbffca17ac277f01325f017196c3ec44"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761467334~acl=/*~id=29952431236121881175093168535177~hmac=93f48f04b31255b53377e39f216c21f02a5aa005982f3e569965ffe2bfeb9a7e",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761467334~acl=/*~id=29952431236121881175093168535177~hmac=93f48f04b31255b53377e39f216c21f02a5aa005982f3e569965ffe2bfeb9a7e",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761467334~acl=/*~id=29952431236121881175093168535177~hmac=93f48f04b31255b53377e39f216c21f02a5aa005982f3e569965ffe2bfeb9a7e"
         },
         {
             "event_category": "Fight Sports",
@@ -38,9 +38,9 @@
             "audioLanguageName": "ENG",
             "event_name": "UFC 321 - Aspinall vs Gane",
             "match_name": "UFC 321 - Aspinall vs Gane - 25 Oct 2025 [TAM]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761466113~acl=/*~id=49982327670704203122630831811538~hmac=6c966bd06348ceac3694c917e95f4720fbffca17ac277f01325f017196c3ec44",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761466113~acl=/*~id=49982327670704203122630831811538~hmac=6c966bd06348ceac3694c917e95f4720fbffca17ac277f01325f017196c3ec44",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761466113~acl=/*~id=49982327670704203122630831811538~hmac=6c966bd06348ceac3694c917e95f4720fbffca17ac277f01325f017196c3ec44"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761467334~acl=/*~id=29952431236121881175093168535177~hmac=93f48f04b31255b53377e39f216c21f02a5aa005982f3e569965ffe2bfeb9a7e",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761467334~acl=/*~id=29952431236121881175093168535177~hmac=93f48f04b31255b53377e39f216c21f02a5aa005982f3e569965ffe2bfeb9a7e",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761467334~acl=/*~id=29952431236121881175093168535177~hmac=93f48f04b31255b53377e39f216c21f02a5aa005982f3e569965ffe2bfeb9a7e"
         },
         {
             "event_category": "Fight Sports",
@@ -51,9 +51,9 @@
             "audioLanguageName": "ENG",
             "event_name": "UFC 321 - Aspinall vs Gane",
             "match_name": "UFC 321 - Aspinall vs Gane - 25 Oct 2025 [TEL]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761466113~acl=/*~id=49982327670704203122630831811538~hmac=6c966bd06348ceac3694c917e95f4720fbffca17ac277f01325f017196c3ec44",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761466113~acl=/*~id=49982327670704203122630831811538~hmac=6c966bd06348ceac3694c917e95f4720fbffca17ac277f01325f017196c3ec44",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761466113~acl=/*~id=49982327670704203122630831811538~hmac=6c966bd06348ceac3694c917e95f4720fbffca17ac277f01325f017196c3ec44"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761467334~acl=/*~id=29952431236121881175093168535177~hmac=93f48f04b31255b53377e39f216c21f02a5aa005982f3e569965ffe2bfeb9a7e",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761467334~acl=/*~id=29952431236121881175093168535177~hmac=93f48f04b31255b53377e39f216c21f02a5aa005982f3e569965ffe2bfeb9a7e",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761467334~acl=/*~id=29952431236121881175093168535177~hmac=93f48f04b31255b53377e39f216c21f02a5aa005982f3e569965ffe2bfeb9a7e"
         },
         {
             "event_category": "Cricket",
@@ -105,4 +105,4 @@
             "event_category": "Cricket",
             "isLive": false,
             "contentId": 1090492554,
-            "src": "https://origin
+            "src": "https://origin-sta
