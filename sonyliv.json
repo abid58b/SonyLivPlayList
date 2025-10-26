@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:01:56 26-10-2025",
+    "last update time": "06:23:31 26-10-2025",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090492566_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010526/1761362551346543_NZvsENG25_1ODI_24oct_Landscape_thumb_Live.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "England Tour of New Zealand 2025",
+            "match_name": "1st ODI - 26 Oct 2025 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/engvsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1761483210~acl=/*~id=84127872921647020286613870920392~hmac=14d13ae8a4e3b18a332e49def895b503134c71c440d7fd9be3ea8fb735031728",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/engvsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1761483210~acl=/*~id=84127872921647020286613870920392~hmac=14d13ae8a4e3b18a332e49def895b503134c71c440d7fd9be3ea8fb735031728",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/engvsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1761483210~acl=/*~id=84127872921647020286613870920392~hmac=14d13ae8a4e3b18a332e49def895b503134c71c440d7fd9be3ea8fb735031728"
+        },
         {
             "event_category": "Cricket",
             "isLive": true,
