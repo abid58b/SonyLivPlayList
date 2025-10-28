@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "20:18:28 28-10-2025",
+    "last update time": "20:38:55 28-10-2025",
     "matches": [
         {
             "event_category": "Tennis",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "ATP Masters 1000 - 2025 Rolex Paris Open",
             "match_name": "Round 2 - 28 Oct 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761706107~acl=/*~id=19672196251497334506882947292375~hmac=f16320064bc9620316233dbf8403b1426366087ac2be3cc849e2e61f3150e153",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761706107~acl=/*~id=19672196251497334506882947292375~hmac=f16320064bc9620316233dbf8403b1426366087ac2be3cc849e2e61f3150e153",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761706107~acl=/*~id=19672196251497334506882947292375~hmac=f16320064bc9620316233dbf8403b1426366087ac2be3cc849e2e61f3150e153"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761707332~acl=/*~id=30222653396500344041187627167777~hmac=4b845bf066fe9bb115ca3764340ee1e9108e75d12229b826f17744eea5585210",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761707332~acl=/*~id=30222653396500344041187627167777~hmac=4b845bf066fe9bb115ca3764340ee1e9108e75d12229b826f17744eea5585210",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761707332~acl=/*~id=30222653396500344041187627167777~hmac=4b845bf066fe9bb115ca3764340ee1e9108e75d12229b826f17744eea5585210"
         },
         {
             "event_category": "Cricket",
