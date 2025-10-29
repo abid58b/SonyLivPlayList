@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:01:03 29-10-2025",
+    "last update time": "09:21:23 29-10-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "England Tour of New Zealand 2025",
             "match_name": "2nd ODI - 29 Oct 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/engvsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1761751862~acl=/*~id=88964474075125310029326785020477~hmac=9ec842b25940899cf4a395954788ac1137418e3fa8f9666cf32b32b1b9102602",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/engvsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1761751862~acl=/*~id=88964474075125310029326785020477~hmac=9ec842b25940899cf4a395954788ac1137418e3fa8f9666cf32b32b1b9102602",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/engvsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1761751862~acl=/*~id=88964474075125310029326785020477~hmac=9ec842b25940899cf4a395954788ac1137418e3fa8f9666cf32b32b1b9102602"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/engvsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1761753081~acl=/*~id=29190295142820927907381619636955~hmac=78d6a9c0a3ab3161bfa8ace6528d3fda05d888c00cb7018dc9194bb59d1a1cbf",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/engvsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1761753081~acl=/*~id=29190295142820927907381619636955~hmac=78d6a9c0a3ab3161bfa8ace6528d3fda05d888c00cb7018dc9194bb59d1a1cbf",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/engvsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1761753081~acl=/*~id=29190295142820927907381619636955~hmac=78d6a9c0a3ab3161bfa8ace6528d3fda05d888c00cb7018dc9194bb59d1a1cbf"
         },
         {
             "event_category": "Cricket",
