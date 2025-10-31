@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "22:33:23 31-10-2025",
+    "last update time": "22:53:40 31-10-2025",
     "matches": [
         {
             "event_category": "Tennis",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "ATP Rolex Paris Masters 2025",
             "match_name": "Bublik vs De Minaur - QF - 31 Oct 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761973402~acl=/*~id=37529307146963170979361141924483~hmac=107723029331d12796b6992e530d78eba0c6e0ef74b8609f3723214756f5471b",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761973402~acl=/*~id=37529307146963170979361141924483~hmac=107723029331d12796b6992e530d78eba0c6e0ef74b8609f3723214756f5471b",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761973402~acl=/*~id=37529307146963170979361141924483~hmac=107723029331d12796b6992e530d78eba0c6e0ef74b8609f3723214756f5471b"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761974620~acl=/*~id=16013829234881805883795675926064~hmac=cd56ab9bc32edddaf484c9e294aa2310711b2af25fc2154adbd9075df2dcd2c2",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761974620~acl=/*~id=16013829234881805883795675926064~hmac=cd56ab9bc32edddaf484c9e294aa2310711b2af25fc2154adbd9075df2dcd2c2",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761974620~acl=/*~id=16013829234881805883795675926064~hmac=cd56ab9bc32edddaf484c9e294aa2310711b2af25fc2154adbd9075df2dcd2c2"
         },
         {
             "event_category": "Sport",
@@ -47,7 +47,7 @@
             "event_category": "Football",
             "isLive": false,
             "contentId": 1090493547,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010599/1761720455440681_UCL2526_SLAVIA_vs_ARSENAL_29oct_Dated_landscape.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010677/1761893028739559_UCL_MD4_Promo_landscape.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - MD4 - UEFA Champions League 2025-26"
@@ -137,10 +137,4 @@
             "event_category": "Football",
             "isLive": false,
             "contentId": 1090493560,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010677/1761892729241559_UEL_MD4_Promo_landscape.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - UEFA Europa League - MD 4"
-        }
-    ]
-}
+            "
