@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "17:49:16 31-10-2025",
+    "last update time": "18:29:48 31-10-2025",
     "matches": [
+        {
+            "event_category": "Tennis",
+            "isLive": true,
+            "contentId": "1090493181_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010687/1761905367703440_ATP_rolex25_QF_Vacherot_vs_Auger_Aliassime_31oct_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "ATP Rolex Paris Masters 2025",
+            "match_name": "Vacherot vs Auger-Aliassime - QF - 31 Oct 2025 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761958788~acl=/*~id=29389910489348802118478582925693~hmac=db63402874159482cd25e9888b0be32e96d3261c2c96b382a6990bda7b1c4678",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761958788~acl=/*~id=29389910489348802118478582925693~hmac=db63402874159482cd25e9888b0be32e96d3261c2c96b382a6990bda7b1c4678",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761958788~acl=/*~id=29389910489348802118478582925693~hmac=db63402874159482cd25e9888b0be32e96d3261c2c96b382a6990bda7b1c4678"
+        },
         {
             "event_category": "Sport",
             "isLive": false,
@@ -49,6 +62,24 @@
             "event_name": "Upcoming - Liverpool vs Real Madrid - UEFA Champions League 2025-26"
         },
         {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090493549,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010599/1761721584095681_UCL2526_PSG_vs_BAYERN_29oct_dated_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - PSG vs Bayern - UEFA Champions League 2025-26"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090493544,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010599/1761722241131681_UCL2526_MAN_CITY_vs_DORTMOUD_29oct_dated_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Man City vs Dortmund - UEFA Champions League 2025-26"
+        },
+        {
             "event_category": "KHO KHO",
             "isLive": false,
             "contentId": 1090493208,
@@ -61,7 +92,7 @@
             "event_category": "Football",
             "isLive": false,
             "contentId": 1090493547,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010677/1761893028739559_UCL_MD4_Promo_landscape.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010599/1761720455440681_UCL2526_SLAVIA_vs_ARSENAL_29oct_Dated_landscape.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - MD4 - UEFA Champions League 2025-26"
@@ -69,26 +100,8 @@
         {
             "event_category": "Football",
             "isLive": false,
-            "contentId": 1090493549,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010677/1761893119225559_UCL_PSG_vs_Bayern_Promo_landscape.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - PSG vs Bayern - UEFA Champions League 2025-26"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090493544,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010677/1761892938887559_UCL_mancity_vs_dortmund_Promo_landscape.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Man City vs Dortmund - UEFA Champions League 2025-26"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
             "contentId": 1090493550,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010677/1761893159961559_UCL_Club_Brugge_vs_Barcelona_Promo_landscape.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010599/1761722000042681_UCL2526_Club_Brugge_vs_Barcelona_29oct_Dated_landscape.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Club Brugge vs Barcelona - UEFA Champions League 2025-26"
