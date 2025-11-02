@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "19:03:54 02-11-2025",
+    "last update time": "19:34:23 02-11-2025",
     "matches": [
         {
             "event_category": "Tennis",
@@ -12,9 +12,22 @@
             "audioLanguageName": "ENG",
             "event_name": "ATP Rolex Paris Masters 2025",
             "match_name": "Auger-Aliassime vs Sinner - Singles Final - 2 Nov 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762133634~acl=/*~id=10177367727274021644413512974934~hmac=2031cca264064e2734b33d6961f3b702f3e42e204a7f3fd63783c28a4400e05b",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762133634~acl=/*~id=10177367727274021644413512974934~hmac=2031cca264064e2734b33d6961f3b702f3e42e204a7f3fd63783c28a4400e05b",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762133634~acl=/*~id=10177367727274021644413512974934~hmac=2031cca264064e2734b33d6961f3b702f3e42e204a7f3fd63783c28a4400e05b"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762135461~acl=/*~id=13336938017137572896660484919888~hmac=fa55137b61f465376536e5cfb3a91842ca3b6f67aa1445004219f97aeb0cc3b5",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762135461~acl=/*~id=13336938017137572896660484919888~hmac=fa55137b61f465376536e5cfb3a91842ca3b6f67aa1445004219f97aeb0cc3b5",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762135461~acl=/*~id=13336938017137572896660484919888~hmac=fa55137b61f465376536e5cfb3a91842ca3b6f67aa1445004219f97aeb0cc3b5"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090493536_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010660/1761823253389395_bliga2526_MD9_FC-Koln-vs-Hamburg-SV_30oct_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Bundesliga 2025-26",
+            "match_name": "FC Koln vs Hamburger SV - MD 9 - 2 Nov 2025 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762135461~acl=/*~id=13336938017137572896660484919888~hmac=fa55137b61f465376536e5cfb3a91842ca3b6f67aa1445004219f97aeb0cc3b5",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762135461~acl=/*~id=13336938017137572896660484919888~hmac=fa55137b61f465376536e5cfb3a91842ca3b6f67aa1445004219f97aeb0cc3b5",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762135461~acl=/*~id=13336938017137572896660484919888~hmac=fa55137b61f465376536e5cfb3a91842ca3b6f67aa1445004219f97aeb0cc3b5"
         },
         {
             "event_category": "Football",
