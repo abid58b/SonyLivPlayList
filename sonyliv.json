@@ -1,21 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "20:15:11 05-11-2025",
+    "last update time": "20:35:27 05-11-2025",
     "matches": [
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090493756_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010673/1761882111470917_UYL25_MD4_Ajax_vs_Galatasaray_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "UEFA Youth League 2025-26",
-            "match_name": "Ajax vs Galatasaray - MD 4 - 5 Nov 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762397110~acl=/*~id=68739436961329323869222382622153~hmac=802c3ef1814a2642c5589e77a2cdc3e14b5e314637cd221b2d8baf5eaa1e0732",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762397110~acl=/*~id=68739436961329323869222382622153~hmac=802c3ef1814a2642c5589e77a2cdc3e14b5e314637cd221b2d8baf5eaa1e0732",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762397110~acl=/*~id=68739436961329323869222382622153~hmac=802c3ef1814a2642c5589e77a2cdc3e14b5e314637cd221b2d8baf5eaa1e0732"
-        },
         {
             "event_category": "Football",
             "isLive": true,
@@ -25,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "UEFA Youth League 2025-26",
             "match_name": "Newcastle vs Athletic Club - MD 4 - 5 Nov 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762397110~acl=/*~id=68739436961329323869222382622153~hmac=802c3ef1814a2642c5589e77a2cdc3e14b5e314637cd221b2d8baf5eaa1e0732",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762397110~acl=/*~id=68739436961329323869222382622153~hmac=802c3ef1814a2642c5589e77a2cdc3e14b5e314637cd221b2d8baf5eaa1e0732",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762397110~acl=/*~id=68739436961329323869222382622153~hmac=802c3ef1814a2642c5589e77a2cdc3e14b5e314637cd221b2d8baf5eaa1e0732"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762398327~acl=/*~id=39949737668590356467133856939743~hmac=bb6506c1c33794e48b6cce2311ad6fade573577783220d58d74b694c616b96be",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762398327~acl=/*~id=39949737668590356467133856939743~hmac=bb6506c1c33794e48b6cce2311ad6fade573577783220d58d74b694c616b96be",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762398327~acl=/*~id=39949737668590356467133856939743~hmac=bb6506c1c33794e48b6cce2311ad6fade573577783220d58d74b694c616b96be"
         },
         {
             "event_category": "Football",
