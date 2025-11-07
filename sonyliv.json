@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:08:29 07-11-2025",
+    "last update time": "11:38:54 07-11-2025",
     "matches": [
         {
             "event_category": "Golf",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Asian Tour 2025",
             "match_name": "Moutai Singapore Open - Day 2 - 7 Nov 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762537108~acl=/*~id=60803870174129787832851350439541~hmac=867e56d5a8afc21cc3c8a1a637e5fabd98b4a0eba027a5eea3fcdbf707c94209",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762537108~acl=/*~id=60803870174129787832851350439541~hmac=867e56d5a8afc21cc3c8a1a637e5fabd98b4a0eba027a5eea3fcdbf707c94209",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762537108~acl=/*~id=60803870174129787832851350439541~hmac=867e56d5a8afc21cc3c8a1a637e5fabd98b4a0eba027a5eea3fcdbf707c94209"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762538934~acl=/*~id=13899759568599128031065585508444~hmac=8104c1279abc378b7cf93328b5a4ee47dc454af2dbddf8b5a73be03f9ec5c13f",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762538934~acl=/*~id=13899759568599128031065585508444~hmac=8104c1279abc378b7cf93328b5a4ee47dc454af2dbddf8b5a73be03f9ec5c13f",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762538934~acl=/*~id=13899759568599128031065585508444~hmac=8104c1279abc378b7cf93328b5a4ee47dc454af2dbddf8b5a73be03f9ec5c13f"
         },
         {
             "event_category": "Football",
