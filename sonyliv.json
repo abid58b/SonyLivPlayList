@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "19:04:30 09-11-2025",
+    "last update time": "19:34:57 09-11-2025",
     "matches": [
         {
             "event_category": "Tennis",
@@ -12,9 +12,22 @@
             "audioLanguageName": "ENG",
             "event_name": "Nitto ATP Finals 2025",
             "match_name": "Alcaraz vs Alex De Minaur - Group Stage - 9 Nov 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762738469~acl=/*~id=46861598645400637428662361820561~hmac=17f110f289d981d0b63fcd04d87bafd90326d795763e2502108dbfaeb56b2704",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762738469~acl=/*~id=46861598645400637428662361820561~hmac=17f110f289d981d0b63fcd04d87bafd90326d795763e2502108dbfaeb56b2704",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762738469~acl=/*~id=46861598645400637428662361820561~hmac=17f110f289d981d0b63fcd04d87bafd90326d795763e2502108dbfaeb56b2704"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762740296~acl=/*~id=75632825717858987452195014445850~hmac=d50db3ab02d9a623ced3d85aa1178a9d98db951a51075b812a49b7d42b1bfaf9",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762740296~acl=/*~id=75632825717858987452195014445850~hmac=d50db3ab02d9a623ced3d85aa1178a9d98db951a51075b812a49b7d42b1bfaf9",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762740296~acl=/*~id=75632825717858987452195014445850~hmac=d50db3ab02d9a623ced3d85aa1178a9d98db951a51075b812a49b7d42b1bfaf9"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090494264_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010731/1761981626914751_bliga2526_MD10_SC-Freiburg-vs-St-Pauli_1nov_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Bundesliga 2025-26",
+            "match_name": "SC Freiburg vs St. Pauli - MD 10 - 9 Nov 2025 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762740296~acl=/*~id=75632825717858987452195014445850~hmac=d50db3ab02d9a623ced3d85aa1178a9d98db951a51075b812a49b7d42b1bfaf9",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762740296~acl=/*~id=75632825717858987452195014445850~hmac=d50db3ab02d9a623ced3d85aa1178a9d98db951a51075b812a49b7d42b1bfaf9",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762740296~acl=/*~id=75632825717858987452195014445850~hmac=d50db3ab02d9a623ced3d85aa1178a9d98db951a51075b812a49b7d42b1bfaf9"
         },
         {
             "event_category": "Football",
@@ -113,16 +126,4 @@
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011013/1762599686961955_Georgia-vs-Spain_landscape.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Georgia vs Spain - European Qualifiers for 2026 FIFA World Cup"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090494280,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011013/1762599656850955_Kazakstan-vs-Belgium-_landscape.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Kazakhstan vs Belgium - European Qualifiers for 2026 FIFA World Cup"
-        }
-    ]
-}
+            "even
