@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:31:52 11-11-2025",
+    "last update time": "02:02:17 11-11-2025",
     "matches": [
         {
             "event_category": "Tennis",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Nitto ATP Finals 2025",
             "match_name": "Sinner vs Auger-Aliassime - Group Stage - 10 Nov 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762848112~acl=/*~id=43600810098096264096110765271162~hmac=c0fa47fd04ff270ac540a716850f0fd9ba71aaca5e09ab117d45f0a1c8513086",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762848112~acl=/*~id=43600810098096264096110765271162~hmac=c0fa47fd04ff270ac540a716850f0fd9ba71aaca5e09ab117d45f0a1c8513086",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762848112~acl=/*~id=43600810098096264096110765271162~hmac=c0fa47fd04ff270ac540a716850f0fd9ba71aaca5e09ab117d45f0a1c8513086"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762849937~acl=/*~id=14505180362939446792089626246418~hmac=1c8a9d08351d06e2f316ba4511647cf90d1d7ef8c35989d41d7fb944a9405499",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762849937~acl=/*~id=14505180362939446792089626246418~hmac=1c8a9d08351d06e2f316ba4511647cf90d1d7ef8c35989d41d7fb944a9405499",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762849937~acl=/*~id=14505180362939446792089626246418~hmac=1c8a9d08351d06e2f316ba4511647cf90d1d7ef8c35989d41d7fb944a9405499"
         },
         {
             "event_category": "Football",
@@ -38,7 +38,7 @@
             "event_category": "Tennis",
             "isLive": false,
             "contentId": 1090494247,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010991/1762522853145253_Promo-Nitto-ATP-Finals_landscape.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011094/1762797899361595_ATP_Alcaraz_vs_Fritz_tonight_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Nitto ATP Finals 2025"
