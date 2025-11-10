@@ -1,21 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:03:11 11-11-2025",
+    "last update time": "03:33:35 11-11-2025",
     "matches": [
-        {
-            "event_category": "Tennis",
-            "isLive": true,
-            "contentId": "1090494411_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011090/1762773783114255_ATP_FINALS_Sinner-vs-Auger-Aliassime_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Nitto ATP Finals 2025",
-            "match_name": "Sinner vs Auger-Aliassime - Group Stage - 10 Nov 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762853591~acl=/*~id=04568356456964271847323627105446~hmac=bd8eb470bcbbb6cbdb698e1a8a9b0c8c1e0882f286d9e629a6aad264223fbfbe",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762853591~acl=/*~id=04568356456964271847323627105446~hmac=bd8eb470bcbbb6cbdb698e1a8a9b0c8c1e0882f286d9e629a6aad264223fbfbe",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762853591~acl=/*~id=04568356456964271847323627105446~hmac=bd8eb470bcbbb6cbdb698e1a8a9b0c8c1e0882f286d9e629a6aad264223fbfbe"
-        },
         {
             "event_category": "Football",
             "isLive": false,
