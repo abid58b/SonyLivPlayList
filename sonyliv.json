@@ -1,21 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:04:25 12-11-2025",
+    "last update time": "04:34:52 12-11-2025",
     "matches": [
-        {
-            "event_category": "Tennis",
-            "isLive": true,
-            "contentId": "1090494413_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011090/1762769185302255_ATP_FINALS_Musetti-vs-De-Minaur_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Nitto ATP Finals 2025",
-            "match_name": "Lorenzo Musetti vs Alex De Minaur - Group Stage - 12 Nov 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762943664~acl=/*~id=57552197498118111733744601232811~hmac=738ff6511a243ef344773d82fc2e22d7a6dc69487e4262ab2a4392f1de48a864",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762943664~acl=/*~id=57552197498118111733744601232811~hmac=738ff6511a243ef344773d82fc2e22d7a6dc69487e4262ab2a4392f1de48a864",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762943664~acl=/*~id=57552197498118111733744601232811~hmac=738ff6511a243ef344773d82fc2e22d7a6dc69487e4262ab2a4392f1de48a864"
-        },
         {
             "event_category": "Football",
             "isLive": false,
@@ -24,6 +11,15 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Matchday 9 & 10 - European Qualifiers for 2026 FIFA World Cup"
+        },
+        {
+            "event_category": "Tennis",
+            "isLive": false,
+            "contentId": 1090494247,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011113/1762865753379555_ATP_FINALS_Shelton-vs-Auger-Aliassime_landscapet_thumb_today.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Nitto ATP Finals 2025"
         },
         {
             "event_category": "Cricket",
@@ -78,15 +74,6 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Moldova vs Italy - European Qualifiers for 2026 FIFA World Cup"
-        },
-        {
-            "event_category": "Tennis",
-            "isLive": false,
-            "contentId": 1090494247,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011113/1762865753379555_ATP_FINALS_Shelton-vs-Auger-Aliassime_landscapet_thumb_today.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Nitto ATP Finals 2025"
         },
         {
             "event_category": "Football",
