@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "22:39:32 12-11-2025",
+    "last update time": "22:59:52 12-11-2025",
     "matches": [
         {
             "event_category": "Tennis",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Nitto ATP Finals 2025",
             "match_name": "Pavic/Arevalo vs King/Harrison  - 12 Nov 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763010572~acl=/*~id=54430729780753644980903744629237~hmac=ae46994cc81e03bab7ef4538c4b08adf48a767961b9d38824f20b714db9509a0",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763010572~acl=/*~id=54430729780753644980903744629237~hmac=ae46994cc81e03bab7ef4538c4b08adf48a767961b9d38824f20b714db9509a0",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763010572~acl=/*~id=54430729780753644980903744629237~hmac=ae46994cc81e03bab7ef4538c4b08adf48a767961b9d38824f20b714db9509a0"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763011791~acl=/*~id=34865713045600465662560060388349~hmac=d6da759778572e3a91c286c7c4c57d37c89f7ee4336ea4e5767a5c865397b676",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763011791~acl=/*~id=34865713045600465662560060388349~hmac=d6da759778572e3a91c286c7c4c57d37c89f7ee4336ea4e5767a5c865397b676",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763011791~acl=/*~id=34865713045600465662560060388349~hmac=d6da759778572e3a91c286c7c4c57d37c89f7ee4336ea4e5767a5c865397b676"
         },
         {
             "event_category": "Football",
