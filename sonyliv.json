@@ -1,47 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:07:30 15-11-2025",
+    "last update time": "03:38:02 15-11-2025",
     "matches": [
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090494578_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010902/1762355881582408_EQFs_MD9_Luxembourg_vs_Germany_3nov_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "European Qualifiers For 2026 FIFA World Cup",
-            "match_name": "Luxembourg vs Germany - MD 9 - 15 Nov 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763199448~acl=/*~id=11631626692223197260514971828778~hmac=4373068fe8f945c869d268a3f1ba0f0f5f5d79eff0f82db9f0729807321a91bd",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763199448~acl=/*~id=11631626692223197260514971828778~hmac=4373068fe8f945c869d268a3f1ba0f0f5f5d79eff0f82db9f0729807321a91bd",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763199448~acl=/*~id=11631626692223197260514971828778~hmac=4373068fe8f945c869d268a3f1ba0f0f5f5d79eff0f82db9f0729807321a91bd"
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090494579_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010903/1762355980698901_EQFs_MD9_Poland_vs_Netherlands_3nov_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "European Qualifiers For 2026 FIFA World Cup",
-            "match_name": "Poland vs Netherlands - MD 9 - 15 Nov 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763199448~acl=/*~id=11631626692223197260514971828778~hmac=4373068fe8f945c869d268a3f1ba0f0f5f5d79eff0f82db9f0729807321a91bd",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763199448~acl=/*~id=11631626692223197260514971828778~hmac=4373068fe8f945c869d268a3f1ba0f0f5f5d79eff0f82db9f0729807321a91bd",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763199448~acl=/*~id=11631626692223197260514971828778~hmac=4373068fe8f945c869d268a3f1ba0f0f5f5d79eff0f82db9f0729807321a91bd"
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090494574_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010902/1762354932594408_EQFs_MD9_Croatia_vs_Faroe_Islands_3nov_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "European Qualifiers For 2026 FIFA World Cup",
-            "match_name": "Croatia vs Faroe Islands - MD 9 - 15 Nov 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763199448~acl=/*~id=11631626692223197260514971828778~hmac=4373068fe8f945c869d268a3f1ba0f0f5f5d79eff0f82db9f0729807321a91bd",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763199448~acl=/*~id=11631626692223197260514971828778~hmac=4373068fe8f945c869d268a3f1ba0f0f5f5d79eff0f82db9f0729807321a91bd",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763199448~acl=/*~id=11631626692223197260514971828778~hmac=4373068fe8f945c869d268a3f1ba0f0f5f5d79eff0f82db9f0729807321a91bd"
-        },
         {
             "event_category": "Tennis",
             "isLive": true,
@@ -51,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Nitto ATP Finals 2025",
             "match_name": "Alexander Zverev vs Felix Auger-Alliassime - Group Stage - 15 Nov 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763199448~acl=/*~id=11631626692223197260514971828778~hmac=4373068fe8f945c869d268a3f1ba0f0f5f5d79eff0f82db9f0729807321a91bd",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763199448~acl=/*~id=11631626692223197260514971828778~hmac=4373068fe8f945c869d268a3f1ba0f0f5f5d79eff0f82db9f0729807321a91bd",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763199448~acl=/*~id=11631626692223197260514971828778~hmac=4373068fe8f945c869d268a3f1ba0f0f5f5d79eff0f82db9f0729807321a91bd"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763201281~acl=/*~id=48501570408670176768518505189797~hmac=555380c4c844be4994a3606d2b3c7228664516ee8cd476b337312cd7c1b3e2ad",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763201281~acl=/*~id=48501570408670176768518505189797~hmac=555380c4c844be4994a3606d2b3c7228664516ee8cd476b337312cd7c1b3e2ad",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763201281~acl=/*~id=48501570408670176768518505189797~hmac=555380c4c844be4994a3606d2b3c7228664516ee8cd476b337312cd7c1b3e2ad"
         },
         {
             "event_category": "Cricket",
