@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "14:35:25 14-11-2025",
+    "last update time": "14:55:43 14-11-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "DP World Asia Cup Rising Stars Men's 2025",
             "match_name": "Pakistan A vs Oman - 14 Nov 2025  [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763154324~acl=/*~id=54325634521440658046395501494352~hmac=3ed5b8a3b45d6f7e7391af532a6a21b8c25de885cd894652115df12b1f31ea05",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763154324~acl=/*~id=54325634521440658046395501494352~hmac=3ed5b8a3b45d6f7e7391af532a6a21b8c25de885cd894652115df12b1f31ea05",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763154324~acl=/*~id=54325634521440658046395501494352~hmac=3ed5b8a3b45d6f7e7391af532a6a21b8c25de885cd894652115df12b1f31ea05"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763155543~acl=/*~id=92041952448900223840267119115032~hmac=5103ade24b2e1a1fa63fc1cad77e4d988a813023d9504ad22a80f1daa59ece91",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763155543~acl=/*~id=92041952448900223840267119115032~hmac=5103ade24b2e1a1fa63fc1cad77e4d988a813023d9504ad22a80f1daa59ece91",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763155543~acl=/*~id=92041952448900223840267119115032~hmac=5103ade24b2e1a1fa63fc1cad77e4d988a813023d9504ad22a80f1daa59ece91"
         },
         {
             "event_category": "Cricket",
