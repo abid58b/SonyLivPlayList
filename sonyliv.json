@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "17:48:23 14-11-2025",
+    "last update time": "18:29:01 14-11-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -12,22 +12,22 @@
             "audioLanguageName": "ENG",
             "event_name": "DP World Asia Cup Rising Stars Men's 2025",
             "match_name": "India A vs UAE - 14 Nov 2025  [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763165902~acl=/*~id=04305502527964270004625889925260~hmac=b90a56bb30088754347814d69a2c58ec756d03cba0b7c8310e05c14fcf173583",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763165902~acl=/*~id=04305502527964270004625889925260~hmac=b90a56bb30088754347814d69a2c58ec756d03cba0b7c8310e05c14fcf173583",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763165902~acl=/*~id=04305502527964270004625889925260~hmac=b90a56bb30088754347814d69a2c58ec756d03cba0b7c8310e05c14fcf173583"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763168340~acl=/*~id=36071307084787196298536476508609~hmac=5ac995ae8579af2d801a04010230d8ef47b1b1fc925d7dcf2527067052b15cdf",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763168340~acl=/*~id=36071307084787196298536476508609~hmac=5ac995ae8579af2d801a04010230d8ef47b1b1fc925d7dcf2527067052b15cdf",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763168340~acl=/*~id=36071307084787196298536476508609~hmac=5ac995ae8579af2d801a04010230d8ef47b1b1fc925d7dcf2527067052b15cdf"
         },
         {
             "event_category": "Tennis",
             "isLive": true,
             "contentId": "1090494567_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011089/1762779609232352_nitto_atp_finals_group-stage_landscape_thumb-3.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011090/1762770886201255_ATP_FINALS_Sinner-vs-Shelton_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Nitto ATP Finals 2025",
-            "match_name": "Heliovaara/Patten vs Arevalo-Gonzalez/Pavic - Group Stage - 14 Nov 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763165902~acl=/*~id=04305502527964270004625889925260~hmac=b90a56bb30088754347814d69a2c58ec756d03cba0b7c8310e05c14fcf173583",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763165902~acl=/*~id=04305502527964270004625889925260~hmac=b90a56bb30088754347814d69a2c58ec756d03cba0b7c8310e05c14fcf173583",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763165902~acl=/*~id=04305502527964270004625889925260~hmac=b90a56bb30088754347814d69a2c58ec756d03cba0b7c8310e05c14fcf173583"
+            "match_name": "Sinner vs Shelton - Group Stage - 14 Nov 2025 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763168340~acl=/*~id=36071307084787196298536476508609~hmac=5ac995ae8579af2d801a04010230d8ef47b1b1fc925d7dcf2527067052b15cdf",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763168340~acl=/*~id=36071307084787196298536476508609~hmac=5ac995ae8579af2d801a04010230d8ef47b1b1fc925d7dcf2527067052b15cdf",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763168340~acl=/*~id=36071307084787196298536476508609~hmac=5ac995ae8579af2d801a04010230d8ef47b1b1fc925d7dcf2527067052b15cdf"
         },
         {
             "event_category": "Football",
@@ -48,13 +48,13 @@
             "event_name": "Upcoming - UFC 322 - Della Maddalena vs Makhachev"
         },
         {
-            "event_category": "Tennis",
+            "event_category": "Football",
             "isLive": false,
-            "contentId": 1090494247,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011210/1763016552719246_ATP_Nitto_Sinner-vs-Shelton_Today_Landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
+            "contentId": 1090494764,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011255/1763122369145160_EQ_MD10_poland_vs_neds_Promo_Landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Nitto ATP Finals 2025"
+            "event_name": "Upcoming - Poland vs Netherlands - European Qualifiers for 2026 FIFA World Cup"
         },
         {
             "event_category": "Cricket",
@@ -64,6 +64,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - DP World Asia Cup Rising Stars Men's 2025"
+        },
+        {
+            "event_category": "Tennis",
+            "isLive": false,
+            "contentId": 1090494247,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010991/1762522853145253_Promo-Nitto-ATP-Finals_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Nitto ATP Finals 2025"
         },
         {
             "event_category": "Cricket",
