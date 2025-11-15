@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "20:03:03 15-11-2025",
+    "last update time": "20:33:34 15-11-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "DP World Asia Cup Rising Stars Men's 2025",
             "match_name": "Sri Lanka A vs Afghanistan A - 15 Nov 2025  [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763260382~acl=/*~id=43643083916770951143586640368239~hmac=6392da0c85dd2e800836eaebcb96a2efd253d1b71d3449b42d2bd1ce38aeaf0e",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763260382~acl=/*~id=43643083916770951143586640368239~hmac=6392da0c85dd2e800836eaebcb96a2efd253d1b71d3449b42d2bd1ce38aeaf0e",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763260382~acl=/*~id=43643083916770951143586640368239~hmac=6392da0c85dd2e800836eaebcb96a2efd253d1b71d3449b42d2bd1ce38aeaf0e"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763262213~acl=/*~id=68897254892550671965708476646039~hmac=a1a6bcfa70f2447b7e64ecdf3c978ec154f73b8838d393d0f519651fe4441921",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763262213~acl=/*~id=68897254892550671965708476646039~hmac=a1a6bcfa70f2447b7e64ecdf3c978ec154f73b8838d393d0f519651fe4441921",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763262213~acl=/*~id=68897254892550671965708476646039~hmac=a1a6bcfa70f2447b7e64ecdf3c978ec154f73b8838d393d0f519651fe4441921"
         },
         {
             "event_category": "Football",
@@ -25,9 +25,9 @@
             "audioLanguageName": "ENG",
             "event_name": "European Qualifiers For 2026 FIFA World Cup",
             "match_name": "Kazakhstan vs Belgium - MD 9 - 15 Nov 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763260382~acl=/*~id=43643083916770951143586640368239~hmac=6392da0c85dd2e800836eaebcb96a2efd253d1b71d3449b42d2bd1ce38aeaf0e",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763260382~acl=/*~id=43643083916770951143586640368239~hmac=6392da0c85dd2e800836eaebcb96a2efd253d1b71d3449b42d2bd1ce38aeaf0e",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763260382~acl=/*~id=43643083916770951143586640368239~hmac=6392da0c85dd2e800836eaebcb96a2efd253d1b71d3449b42d2bd1ce38aeaf0e"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763262213~acl=/*~id=68897254892550671965708476646039~hmac=a1a6bcfa70f2447b7e64ecdf3c978ec154f73b8838d393d0f519651fe4441921",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763262213~acl=/*~id=68897254892550671965708476646039~hmac=a1a6bcfa70f2447b7e64ecdf3c978ec154f73b8838d393d0f519651fe4441921",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763262213~acl=/*~id=68897254892550671965708476646039~hmac=a1a6bcfa70f2447b7e64ecdf3c978ec154f73b8838d393d0f519651fe4441921"
         },
         {
             "event_category": "Tennis",
@@ -38,18 +38,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Nitto ATP Finals 2025",
             "match_name": "Sinner vs De Minaur - Semi-Finals - 15 Nov 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763260382~acl=/*~id=43643083916770951143586640368239~hmac=6392da0c85dd2e800836eaebcb96a2efd253d1b71d3449b42d2bd1ce38aeaf0e",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763260382~acl=/*~id=43643083916770951143586640368239~hmac=6392da0c85dd2e800836eaebcb96a2efd253d1b71d3449b42d2bd1ce38aeaf0e",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763260382~acl=/*~id=43643083916770951143586640368239~hmac=6392da0c85dd2e800836eaebcb96a2efd253d1b71d3449b42d2bd1ce38aeaf0e"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090494286,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011306/1763165966558468_EQ25_Georgia_vs_Spain_tonight_15nov_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Georgia vs Spain - European Qualifiers for 2026 FIFA World Cup"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763262213~acl=/*~id=68897254892550671965708476646039~hmac=a1a6bcfa70f2447b7e64ecdf3c978ec154f73b8838d393d0f519651fe4441921",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763262213~acl=/*~id=68897254892550671965708476646039~hmac=a1a6bcfa70f2447b7e64ecdf3c978ec154f73b8838d393d0f519651fe4441921",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763262213~acl=/*~id=68897254892550671965708476646039~hmac=a1a6bcfa70f2447b7e64ecdf3c978ec154f73b8838d393d0f519651fe4441921"
         },
         {
             "event_category": "Cricket",
@@ -59,6 +50,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - India A vs Pakistan A - DP World Asia Cup Rising Stars Men's 2025"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090494286,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011306/1763165966558468_EQ25_Georgia_vs_Spain_tonight_15nov_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Georgia vs Spain - European Qualifiers for 2026 FIFA World Cup"
         },
         {
             "event_category": "Fight Sports",
@@ -112,4 +112,4 @@
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010876/176233115781840_UCL-promo-Thumbs_landscape.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
-      
+  
