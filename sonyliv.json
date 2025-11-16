@@ -1,21 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "23:08:12 16-11-2025",
+    "last update time": "23:38:41 16-11-2025",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": "1090494965_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011345/1763214650539370_ACC25_INDA_vs_PAKA_live_Landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "DP World Asia Cup Rising Stars Men's 2025",
-            "match_name": "India A vs Pakistan A - 16 Nov 2025  [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763357890~acl=/*~id=25941152524623583861664157726519~hmac=4dbbebb84ed20eab84a34fb65c939fad031597229d38d75d26c2c3d264ddfaa4",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763357890~acl=/*~id=25941152524623583861664157726519~hmac=4dbbebb84ed20eab84a34fb65c939fad031597229d38d75d26c2c3d264ddfaa4",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763357890~acl=/*~id=25941152524623583861664157726519~hmac=4dbbebb84ed20eab84a34fb65c939fad031597229d38d75d26c2c3d264ddfaa4"
-        },
         {
             "event_category": "Football",
             "isLive": true,
@@ -25,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "European Qualifiers For 2026 FIFA World Cup",
             "match_name": "Albania vs England - MD 10 - 16 Nov 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763357890~acl=/*~id=25941152524623583861664157726519~hmac=4dbbebb84ed20eab84a34fb65c939fad031597229d38d75d26c2c3d264ddfaa4",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763357890~acl=/*~id=25941152524623583861664157726519~hmac=4dbbebb84ed20eab84a34fb65c939fad031597229d38d75d26c2c3d264ddfaa4",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763357890~acl=/*~id=25941152524623583861664157726519~hmac=4dbbebb84ed20eab84a34fb65c939fad031597229d38d75d26c2c3d264ddfaa4"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763359719~acl=/*~id=87873569291433656986767716182548~hmac=ef1a2e47e7ed65b882f0e5fc51be0b2855847554e02af8845354097f0e3a25df",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763359719~acl=/*~id=87873569291433656986767716182548~hmac=ef1a2e47e7ed65b882f0e5fc51be0b2855847554e02af8845354097f0e3a25df",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763359719~acl=/*~id=87873569291433656986767716182548~hmac=ef1a2e47e7ed65b882f0e5fc51be0b2855847554e02af8845354097f0e3a25df"
         },
         {
             "event_category": "Tennis",
@@ -38,9 +25,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Nitto ATP Finals 2025",
             "match_name": "Alcaraz vs Sinner - Final - 16 Nov 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763357890~acl=/*~id=25941152524623583861664157726519~hmac=4dbbebb84ed20eab84a34fb65c939fad031597229d38d75d26c2c3d264ddfaa4",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763357890~acl=/*~id=25941152524623583861664157726519~hmac=4dbbebb84ed20eab84a34fb65c939fad031597229d38d75d26c2c3d264ddfaa4",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763357890~acl=/*~id=25941152524623583861664157726519~hmac=4dbbebb84ed20eab84a34fb65c939fad031597229d38d75d26c2c3d264ddfaa4"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763359719~acl=/*~id=87873569291433656986767716182548~hmac=ef1a2e47e7ed65b882f0e5fc51be0b2855847554e02af8845354097f0e3a25df",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763359719~acl=/*~id=87873569291433656986767716182548~hmac=ef1a2e47e7ed65b882f0e5fc51be0b2855847554e02af8845354097f0e3a25df",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763359719~acl=/*~id=87873569291433656986767716182548~hmac=ef1a2e47e7ed65b882f0e5fc51be0b2855847554e02af8845354097f0e3a25df"
         },
         {
             "event_category": "Football",
@@ -51,9 +38,9 @@
             "audioLanguageName": "ENG",
             "event_name": "European Qualifiers For 2026 FIFA World Cup",
             "match_name": "Azerbaijan vs France - MD 10 - 16 Nov 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763357890~acl=/*~id=25941152524623583861664157726519~hmac=4dbbebb84ed20eab84a34fb65c939fad031597229d38d75d26c2c3d264ddfaa4",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763357890~acl=/*~id=25941152524623583861664157726519~hmac=4dbbebb84ed20eab84a34fb65c939fad031597229d38d75d26c2c3d264ddfaa4",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763357890~acl=/*~id=25941152524623583861664157726519~hmac=4dbbebb84ed20eab84a34fb65c939fad031597229d38d75d26c2c3d264ddfaa4"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763359719~acl=/*~id=87873569291433656986767716182548~hmac=ef1a2e47e7ed65b882f0e5fc51be0b2855847554e02af8845354097f0e3a25df",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763359719~acl=/*~id=87873569291433656986767716182548~hmac=ef1a2e47e7ed65b882f0e5fc51be0b2855847554e02af8845354097f0e3a25df",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763359719~acl=/*~id=87873569291433656986767716182548~hmac=ef1a2e47e7ed65b882f0e5fc51be0b2855847554e02af8845354097f0e3a25df"
         },
         {
             "event_category": "Football",
@@ -64,9 +51,9 @@
             "audioLanguageName": "ENG",
             "event_name": "European Qualifiers For 2026 FIFA World Cup",
             "match_name": "Serbia vs Latvia - MD 10 - 16 Nov 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763357890~acl=/*~id=25941152524623583861664157726519~hmac=4dbbebb84ed20eab84a34fb65c939fad031597229d38d75d26c2c3d264ddfaa4",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763357890~acl=/*~id=25941152524623583861664157726519~hmac=4dbbebb84ed20eab84a34fb65c939fad031597229d38d75d26c2c3d264ddfaa4",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763357890~acl=/*~id=25941152524623583861664157726519~hmac=4dbbebb84ed20eab84a34fb65c939fad031597229d38d75d26c2c3d264ddfaa4"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763359719~acl=/*~id=87873569291433656986767716182548~hmac=ef1a2e47e7ed65b882f0e5fc51be0b2855847554e02af8845354097f0e3a25df",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763359719~acl=/*~id=87873569291433656986767716182548~hmac=ef1a2e47e7ed65b882f0e5fc51be0b2855847554e02af8845354097f0e3a25df",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763359719~acl=/*~id=87873569291433656986767716182548~hmac=ef1a2e47e7ed65b882f0e5fc51be0b2855847554e02af8845354097f0e3a25df"
         },
         {
             "event_category": "Football",
@@ -77,6 +64,30 @@
             "audioLanguageName": "ENG",
             "event_name": "European Qualifiers For 2026 FIFA World Cup",
             "match_name": "Ukraine vs Iceland - MD 10 - 16 Nov 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763357890~acl=/*~id=25941152524623583861664157726519~hmac=4dbbebb84ed20eab84a34fb65c939fad031597229d38d75d26c2c3d264ddfaa4",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763357890~acl=/*~id=25941152524623583861664157726519~hmac=4dbbebb84ed20eab84a34fb65c939fad031597229d38d75d26c2c3d264ddfaa4",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763359719~acl=/*~id=87873569291433656986767716182548~hmac=ef1a2e47e7ed65b882f0e5fc51be0b2855847554e02af8845354097f0e3a25df",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763359719~acl=/*~id=87873569291433656986767716182548~hmac=ef1a2e47e7ed65b882f0e5fc51be0b2855847554e02af8845354097f0e3a25df",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763359719~acl=/*~id=87873569291433656986767716182548~hmac=ef1a2e47e7ed65b882f0e5fc51be0b2855847554e02af8845354097f0e3a25df"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090494830,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011092/1762788578350126_AsiaCupRisingStars2025_GOB_Landscape_Thumb_Dated.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - DP World Asia Cup Rising Stars Men's 2025"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090494509,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011092/1762788578350126_AsiaCupRisingStars2025_GOB_Landscape_Thumb_Dated.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - DP World Asia Cup Rising Stars Men's 2025"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090494287,
+            "src": "https://origin-staticv2.sonyliv.com/v
