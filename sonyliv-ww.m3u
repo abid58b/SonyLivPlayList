@@ -1,4 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1090494762_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011341/1763213747313557_NZvsWI25_1st_ODI_landscape_thumb.jpg" group-title="Live",1st ODI - 16 Nov 2025 [ENG] - West Indies Tour of New Zealand 2025 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1763325633~acl=/*~id=65360673202704256348061537166812~hmac=2e0f037f8d05fd2dcb4a3f5e3a21a8f01ac5c597dcf7e5a6c8f83b2ec8d06a58
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1763326850~acl=/*~id=53753649242614030666271217939508~hmac=dc920977f4f8e86029f4527e80889b9d0bd855355bd3c99e5c713094cca03ca9
+#EXTINF:-1 tvg-id="1090494930_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011345/1763214919816370_ACC25_UAE_vs_OMA_live_Landscapet_thumb.jpg" group-title="Live",UAE vs Oman - 16 Nov 2025  [ENG] - DP World Asia Cup Rising Stars Men's 2025 - ENG
+#EXTVLCOPT:http-referrer=https://allinonereborn.online/
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763326850~acl=/*~id=53753649242614030666271217939508~hmac=dc920977f4f8e86029f4527e80889b9d0bd855355bd3c99e5c713094cca03ca9
