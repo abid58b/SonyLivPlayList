@@ -1,21 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:30:19 17-11-2025",
+    "last update time": "02:00:44 17-11-2025",
     "matches": [
-        {
-            "event_category": "Tennis",
-            "isLive": true,
-            "contentId": "1090494972_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011367/1763249324657329_NittoATPFinals2025_final_alcaraz_vs_sinner_16nov_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Nitto ATP Finals 2025",
-            "match_name": "Alcaraz vs Sinner - Final - 16 Nov 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763366418~acl=/*~id=89518834327512157489431667185423~hmac=b7b08177f1ebae0d6394262f04ee70ecc6cb513c8a43f7eb9b9290f81889738e",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763366418~acl=/*~id=89518834327512157489431667185423~hmac=b7b08177f1ebae0d6394262f04ee70ecc6cb513c8a43f7eb9b9290f81889738e",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763366418~acl=/*~id=89518834327512157489431667185423~hmac=b7b08177f1ebae0d6394262f04ee70ecc6cb513c8a43f7eb9b9290f81889738e"
-        },
         {
             "event_category": "Football",
             "isLive": true,
@@ -25,22 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "European Qualifiers For 2026 FIFA World Cup",
             "match_name": "Italy vs Norway - MD 10 - 17 Nov 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763366418~acl=/*~id=89518834327512157489431667185423~hmac=b7b08177f1ebae0d6394262f04ee70ecc6cb513c8a43f7eb9b9290f81889738e",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763366418~acl=/*~id=89518834327512157489431667185423~hmac=b7b08177f1ebae0d6394262f04ee70ecc6cb513c8a43f7eb9b9290f81889738e",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763366418~acl=/*~id=89518834327512157489431667185423~hmac=b7b08177f1ebae0d6394262f04ee70ecc6cb513c8a43f7eb9b9290f81889738e"
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090494888_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010926/1762169319559493_EQ2526_MD10_Israel-vs-Moldova_3nov_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "European Qualifiers For 2026 FIFA World Cup",
-            "match_name": "Israel vs Moldova - MD 10 - 17 Nov 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763366418~acl=/*~id=89518834327512157489431667185423~hmac=b7b08177f1ebae0d6394262f04ee70ecc6cb513c8a43f7eb9b9290f81889738e",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763366418~acl=/*~id=89518834327512157489431667185423~hmac=b7b08177f1ebae0d6394262f04ee70ecc6cb513c8a43f7eb9b9290f81889738e",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763366418~acl=/*~id=89518834327512157489431667185423~hmac=b7b08177f1ebae0d6394262f04ee70ecc6cb513c8a43f7eb9b9290f81889738e"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763368244~acl=/*~id=67499152266599125133482945332324~hmac=e4308bddf1d0fdbc8d24946cf3c41f948b80b59e4e6c1074582de6bb237b1a32",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763368244~acl=/*~id=67499152266599125133482945332324~hmac=e4308bddf1d0fdbc8d24946cf3c41f948b80b59e4e6c1074582de6bb237b1a32",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763368244~acl=/*~id=67499152266599125133482945332324~hmac=e4308bddf1d0fdbc8d24946cf3c41f948b80b59e4e6c1074582de6bb237b1a32"
         },
         {
             "event_category": "Cricket",
