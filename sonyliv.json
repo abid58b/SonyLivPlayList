@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "18:27:18 21-11-2025",
+    "last update time": "19:08:00 21-11-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -12,31 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "DP World Asia Cup Rising Stars Men's 2025",
             "match_name": "Bangladesh A vs India A - Semi-final - 21 Nov 2025  [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763773037~acl=/*~id=47896233706288426334048279097198~hmac=adde06a55ef20bd2fb58776c774ffd28d9f1449c8316f978f9c44ae65f6165d9",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763773037~acl=/*~id=47896233706288426334048279097198~hmac=adde06a55ef20bd2fb58776c774ffd28d9f1449c8316f978f9c44ae65f6165d9",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763773037~acl=/*~id=47896233706288426334048279097198~hmac=adde06a55ef20bd2fb58776c774ffd28d9f1449c8316f978f9c44ae65f6165d9"
-        },
-        {
-            "event_category": "Golf",
-            "isLive": true,
-            "contentId": "1090495539_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011490/1763443205120963_asiantour2024_PIF_Saudi_International_day3_18nov_Landscape_thumb.jpg",
-            "broadcast_channel": "LIV",
-            "audioLanguageName": "ENG",
-            "event_name": "Asian Tour 2025",
-            "match_name": "PIF Saudi International - Day 3 - 21 Nov 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763773037~acl=/*~id=47896233706288426334048279097198~hmac=adde06a55ef20bd2fb58776c774ffd28d9f1449c8316f978f9c44ae65f6165d9",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763773037~acl=/*~id=47896233706288426334048279097198~hmac=adde06a55ef20bd2fb58776c774ffd28d9f1449c8316f978f9c44ae65f6165d9",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763773037~acl=/*~id=47896233706288426334048279097198~hmac=adde06a55ef20bd2fb58776c774ffd28d9f1449c8316f978f9c44ae65f6165d9"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090494830,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011604/1763612794432533_ACC_SF_SHA_vs_SL-A_ton_Landscape_thumb_re1.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - DP World Asia Cup Rising Stars Men's 2025"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763775480~acl=/*~id=43656462249118844429586747688326~hmac=26901d9d9312d5d4c6d24ff2252a5cfad7e88d8efdff54e6ede06c69c24eb70f",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763775480~acl=/*~id=43656462249118844429586747688326~hmac=26901d9d9312d5d4c6d24ff2252a5cfad7e88d8efdff54e6ede06c69c24eb70f",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763775480~acl=/*~id=43656462249118844429586747688326~hmac=26901d9d9312d5d4c6d24ff2252a5cfad7e88d8efdff54e6ede06c69c24eb70f"
         },
         {
             "event_category": "Football",
@@ -82,6 +60,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Bayern Munich vs SC Freiburg"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090494830,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011604/1763612794432533_ACC_SF_SHA_vs_SL-A_ton_Landscape_thumb_re1.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - DP World Asia Cup Rising Stars Men's 2025"
         },
         {
             "event_category": "Football",
