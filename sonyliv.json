@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "14:03:01 21-11-2025",
+    "last update time": "14:33:30 21-11-2025",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090495608_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011626/1763700088654728_ACC_SF_BAN-A_vs_IND-A_Live_Landscape_thumb_re2.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "DP World Asia Cup Rising Stars Men's 2025",
+            "match_name": "Bangladesh A vs India A - Semi-final - 21 Nov 2025  [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763759009~acl=/*~id=35744313377563959236710706850629~hmac=c282bff4b3bf9468cacb45b7fc3a5e6009ee31b3e7f601d81b41932b544084b8",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763759009~acl=/*~id=35744313377563959236710706850629~hmac=c282bff4b3bf9468cacb45b7fc3a5e6009ee31b3e7f601d81b41932b544084b8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763759009~acl=/*~id=35744313377563959236710706850629~hmac=c282bff4b3bf9468cacb45b7fc3a5e6009ee31b3e7f601d81b41932b544084b8"
+        },
         {
             "event_category": "Golf",
             "isLive": true,
@@ -12,27 +25,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Asian Tour 2025",
             "match_name": "PIF Saudi International - Day 3 - 21 Nov 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763757180~acl=/*~id=30841088180170255383929899040999~hmac=ab6ed26a30a64881276b16d1e7c79f4f4c5b3b445fa0bc99cf84bae81021d1e7",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763757180~acl=/*~id=30841088180170255383929899040999~hmac=ab6ed26a30a64881276b16d1e7c79f4f4c5b3b445fa0bc99cf84bae81021d1e7",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763757180~acl=/*~id=30841088180170255383929899040999~hmac=ab6ed26a30a64881276b16d1e7c79f4f4c5b3b445fa0bc99cf84bae81021d1e7"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090495617,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011598/1763582299044309_ACRS25_SF_BAN_A_vs_IND_A_20nov_today_Landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - Bangladesh A vs India A -  DP World Asia Cup Rising Stars Men's 2025"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090495598,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011583/176356726692339_UCL25_Chelsea_vs_Barcelona_ddt_promo_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Man City vs Leverkusen - UEFA Champions League 2025-26"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763759009~acl=/*~id=35744313377563959236710706850629~hmac=c282bff4b3bf9468cacb45b7fc3a5e6009ee31b3e7f601d81b41932b544084b8",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763759009~acl=/*~id=35744313377563959236710706850629~hmac=c282bff4b3bf9468cacb45b7fc3a5e6009ee31b3e7f601d81b41932b544084b8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763759009~acl=/*~id=35744313377563959236710706850629~hmac=c282bff4b3bf9468cacb45b7fc3a5e6009ee31b3e7f601d81b41932b544084b8"
         },
         {
             "event_category": "Cricket",
@@ -42,6 +37,42 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - DP World Asia Cup Rising Stars Men's 2025"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090495598,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011583/176356726692339_UCL25_Chelsea_vs_Barcelona_ddt_promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Chelsea vs Barcelona - UEFA Champions League 2025-26"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090495633,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011583/176356725405639_UCL25_Arsenal_vs_BayernMunich_ddt_promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Arsenal vs Bayern - UEFA Champions League 2025-26"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090495635,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011583/176356726250639_UCL25_ManCity_vs_Leverkusen_ddt_promo_Landsacpe_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Man City vs Leverkusen - UEFA Champions League 2025-26"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090495638,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011583/176356871587339_UCL2526_MD5_PSG_vs_Tottenham_19nov_dated_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - PSG vs Tottenham - UEFA Champions League 2025-26"
         },
         {
             "event_category": "Cricket",
@@ -64,29 +95,11 @@
         {
             "event_category": "Football",
             "isLive": false,
-            "contentId": 1090495633,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011583/176356725405639_UCL25_Arsenal_vs_BayernMunich_ddt_promo_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Arsenal vs Bayern - UEFA Champions League 2025-26"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
             "contentId": 1090495634,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011635/1763707128238401_UCL_MD5_Atletico_vs_Inter_Promo_Landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Atletico vs Inter - UEFA Champions League 2025-26"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090495635,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011583/176356726250639_UCL25_ManCity_vs_Leverkusen_ddt_promo_Landsacpe_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Man City vs Leverkusen - UEFA Champions League 2025-26"
         },
         {
             "event_category": "Football",
@@ -105,15 +118,6 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Olympiacos vs Real Madrid - UEFA Champions League 2025-26"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090495638,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011583/176356871587339_UCL2526_MD5_PSG_vs_Tottenham_19nov_dated_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - PSG vs Tottenham - UEFA Champions League 2025-26"
         }
     ]
 }
