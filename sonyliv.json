@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "21:35:18 25-11-2025",
+    "last update time": "22:05:49 25-11-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "UEFA Champions League 2025-26",
             "match_name": "Ajax vs Benfica - MD 5 - 25 Nov 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764129916~acl=/*~id=23191393139014204734027697815394~hmac=0bc9d3bccec02126d188d64e017cc4a17b2c6252a9c5637152103bc98598f075",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764129916~acl=/*~id=23191393139014204734027697815394~hmac=0bc9d3bccec02126d188d64e017cc4a17b2c6252a9c5637152103bc98598f075",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764129916~acl=/*~id=23191393139014204734027697815394~hmac=0bc9d3bccec02126d188d64e017cc4a17b2c6252a9c5637152103bc98598f075"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764131747~acl=/*~id=26778661457910275695491207383315~hmac=54c532a447fa7661f039cc007972e152ad7dab63aece13f0990e1042fea2f85d",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764131747~acl=/*~id=26778661457910275695491207383315~hmac=54c532a447fa7661f039cc007972e152ad7dab63aece13f0990e1042fea2f85d",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764131747~acl=/*~id=26778661457910275695491207383315~hmac=54c532a447fa7661f039cc007972e152ad7dab63aece13f0990e1042fea2f85d"
         },
         {
             "event_category": "Football",
@@ -25,9 +25,9 @@
             "audioLanguageName": "ENG",
             "event_name": "UEFA Champions League 2025-26",
             "match_name": "Ajax vs Benfica - MD 5 - 25 Nov 2025 [HIN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764129916~acl=/*~id=23191393139014204734027697815394~hmac=0bc9d3bccec02126d188d64e017cc4a17b2c6252a9c5637152103bc98598f075",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764129916~acl=/*~id=23191393139014204734027697815394~hmac=0bc9d3bccec02126d188d64e017cc4a17b2c6252a9c5637152103bc98598f075",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764129916~acl=/*~id=23191393139014204734027697815394~hmac=0bc9d3bccec02126d188d64e017cc4a17b2c6252a9c5637152103bc98598f075"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764131747~acl=/*~id=26778661457910275695491207383315~hmac=54c532a447fa7661f039cc007972e152ad7dab63aece13f0990e1042fea2f85d",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764131747~acl=/*~id=26778661457910275695491207383315~hmac=54c532a447fa7661f039cc007972e152ad7dab63aece13f0990e1042fea2f85d",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764131747~acl=/*~id=26778661457910275695491207383315~hmac=54c532a447fa7661f039cc007972e152ad7dab63aece13f0990e1042fea2f85d"
         },
         {
             "event_category": "Football",
@@ -38,9 +38,9 @@
             "audioLanguageName": "ENG",
             "event_name": "UEFA Champions League 2025-26",
             "match_name": "Ajax vs Benfica - MD 5 - 25 Nov 2025 [TAM]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764129916~acl=/*~id=23191393139014204734027697815394~hmac=0bc9d3bccec02126d188d64e017cc4a17b2c6252a9c5637152103bc98598f075",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764129916~acl=/*~id=23191393139014204734027697815394~hmac=0bc9d3bccec02126d188d64e017cc4a17b2c6252a9c5637152103bc98598f075",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764129916~acl=/*~id=23191393139014204734027697815394~hmac=0bc9d3bccec02126d188d64e017cc4a17b2c6252a9c5637152103bc98598f075"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764131747~acl=/*~id=26778661457910275695491207383315~hmac=54c532a447fa7661f039cc007972e152ad7dab63aece13f0990e1042fea2f85d",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764131747~acl=/*~id=26778661457910275695491207383315~hmac=54c532a447fa7661f039cc007972e152ad7dab63aece13f0990e1042fea2f85d",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764131747~acl=/*~id=26778661457910275695491207383315~hmac=54c532a447fa7661f039cc007972e152ad7dab63aece13f0990e1042fea2f85d"
         },
         {
             "event_category": "Football",
@@ -51,9 +51,9 @@
             "audioLanguageName": "ENG",
             "event_name": "UEFA Champions League 2025-26",
             "match_name": "Ajax vs Benfica - MD 5 - 25 Nov 2025 [TEL]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764129916~acl=/*~id=23191393139014204734027697815394~hmac=0bc9d3bccec02126d188d64e017cc4a17b2c6252a9c5637152103bc98598f075",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764129916~acl=/*~id=23191393139014204734027697815394~hmac=0bc9d3bccec02126d188d64e017cc4a17b2c6252a9c5637152103bc98598f075",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764129916~acl=/*~id=23191393139014204734027697815394~hmac=0bc9d3bccec02126d188d64e017cc4a17b2c6252a9c5637152103bc98598f075"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764131747~acl=/*~id=26778661457910275695491207383315~hmac=54c532a447fa7661f039cc007972e152ad7dab63aece13f0990e1042fea2f85d",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764131747~acl=/*~id=26778661457910275695491207383315~hmac=54c532a447fa7661f039cc007972e152ad7dab63aece13f0990e1042fea2f85d",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764131747~acl=/*~id=26778661457910275695491207383315~hmac=54c532a447fa7661f039cc007972e152ad7dab63aece13f0990e1042fea2f85d"
         },
         {
             "event_category": "Football",
@@ -64,9 +64,9 @@
             "audioLanguageName": "ENG",
             "event_name": "UEFA Youth League 2025-26",
             "match_name": "Dortmund vs Villarreal - MD 5 - 25 Nov 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764129916~acl=/*~id=23191393139014204734027697815394~hmac=0bc9d3bccec02126d188d64e017cc4a17b2c6252a9c5637152103bc98598f075",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764129916~acl=/*~id=23191393139014204734027697815394~hmac=0bc9d3bccec02126d188d64e017cc4a17b2c6252a9c5637152103bc98598f075",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764129916~acl=/*~id=23191393139014204734027697815394~hmac=0bc9d3bccec02126d188d64e017cc4a17b2c6252a9c5637152103bc98598f075"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764131747~acl=/*~id=26778661457910275695491207383315~hmac=54c532a447fa7661f039cc007972e152ad7dab63aece13f0990e1042fea2f85d",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764131747~acl=/*~id=26778661457910275695491207383315~hmac=54c532a447fa7661f039cc007972e152ad7dab63aece13f0990e1042fea2f85d",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764131747~acl=/*~id=26778661457910275695491207383315~hmac=54c532a447fa7661f039cc007972e152ad7dab63aece13f0990e1042fea2f85d"
         },
         {
             "event_category": "Football",
