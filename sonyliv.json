@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "13:41:30 28-11-2025",
+    "last update time": "14:12:01 28-11-2025",
     "matches": [
         {
             "event_category": "Tennis",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Australian Open 2026",
             "match_name": "Finals - Asia-Pacific Wildcard Playoff - 28 Nov 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764360690~acl=/*~id=11105301742301286958626638716142~hmac=869983d04277f5decd956b63ac48dc211c576205e1af07064eef43fbb96986a0",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764360690~acl=/*~id=11105301742301286958626638716142~hmac=869983d04277f5decd956b63ac48dc211c576205e1af07064eef43fbb96986a0",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764360690~acl=/*~id=11105301742301286958626638716142~hmac=869983d04277f5decd956b63ac48dc211c576205e1af07064eef43fbb96986a0"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764362521~acl=/*~id=62640221539493340065590675998462~hmac=3650465f72ae83fa69e3cf7cb3d9d1e3ee2d60c29a3d0089f943f9c7a4e8cde3",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764362521~acl=/*~id=62640221539493340065590675998462~hmac=3650465f72ae83fa69e3cf7cb3d9d1e3ee2d60c29a3d0089f943f9c7a4e8cde3",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764362521~acl=/*~id=62640221539493340065590675998462~hmac=3650465f72ae83fa69e3cf7cb3d9d1e3ee2d60c29a3d0089f943f9c7a4e8cde3"
         },
         {
             "event_category": "Sport",
