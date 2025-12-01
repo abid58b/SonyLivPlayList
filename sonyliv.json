@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:12:42 02-12-2025",
+    "last update time": "04:32:58 02-12-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "West Indies Tour of New Zealand 2025",
             "match_name": "1st Test - Day 1 - 2 Dec 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1764672162~acl=/*~id=23959739200208118689006123974639~hmac=b102b2eec10a5bdd5f65b7b5519592f75f6372af9f2f6279da441464db8890c1",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1764672162~acl=/*~id=23959739200208118689006123974639~hmac=b102b2eec10a5bdd5f65b7b5519592f75f6372af9f2f6279da441464db8890c1",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1764672162~acl=/*~id=23959739200208118689006123974639~hmac=b102b2eec10a5bdd5f65b7b5519592f75f6372af9f2f6279da441464db8890c1"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1764673377~acl=/*~id=60358813563411160366328113843986~hmac=560f2e58669817f206c8f4dae889e0595f2503dfd6b3d67aa9e9183068e7f09f",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1764673377~acl=/*~id=60358813563411160366328113843986~hmac=560f2e58669817f206c8f4dae889e0595f2503dfd6b3d67aa9e9183068e7f09f",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1764673377~acl=/*~id=60358813563411160366328113843986~hmac=560f2e58669817f206c8f4dae889e0595f2503dfd6b3d67aa9e9183068e7f09f"
         },
         {
             "event_category": "Sport",
