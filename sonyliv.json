@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "07:41:15 06-12-2025",
+    "last update time": "08:52:20 06-12-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "West Indies Tour of New Zealand 2025",
             "match_name": "1st Test - Day 5 - 6 Dec 2025 [ENG]",
-            "dai_url": "https://liveakmt-p.slivcdn.com/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1765030274~acl=/*~id=44798443188386039565315304866106~hmac=e3b89328f4d49de19a23abe4db6079582c1aa66b10671df63778d58614a3ea0b",
-            "pub_url": "https://liveakmt-p.slivcdn.com/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1765030274~acl=/*~id=44798443188386039565315304866106~hmac=e3b89328f4d49de19a23abe4db6079582c1aa66b10671df63778d58614a3ea0b",
-            "video_url": "https://liveakmt-p.slivcdn.com/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1765030274~acl=/*~id=44798443188386039565315304866106~hmac=e3b89328f4d49de19a23abe4db6079582c1aa66b10671df63778d58614a3ea0b"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1765034540~acl=/*~id=60435932411396313874004655716410~hmac=a98c998b328a4b60a07536478bc25d523cccfb1e7bd4bc649c335bd22dd9d872",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1765034540~acl=/*~id=60435932411396313874004655716410~hmac=a98c998b328a4b60a07536478bc25d523cccfb1e7bd4bc649c335bd22dd9d872",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1765034540~acl=/*~id=60435932411396313874004655716410~hmac=a98c998b328a4b60a07536478bc25d523cccfb1e7bd4bc649c335bd22dd9d872"
         },
         {
             "event_category": "Fight Sports",
@@ -65,7 +65,7 @@
             "event_category": "Football",
             "isLive": false,
             "contentId": 1090496565,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012037/176483690059826_BLIGA_25_26_MD13_VfB-Stuttgart-vs-Bayern-Munich_Dated_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012037/176483691676426_BLIGA_25_26_MD13_VfB-Stuttgart-vs-Bayern-Munich_tonight_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - VfB Stuttgart vs Bayern Munich"
