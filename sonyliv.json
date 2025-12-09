@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "22:32:54 09-12-2025",
+    "last update time": "22:53:13 09-12-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "UEFA Champions League 2025-26",
             "match_name": "Bayern Munich vs Sporting CP - MD 6 - 9 Dec 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765342972~acl=/*~id=62606730085922415345709528650396~hmac=8b10675f5062af8e5c13a3aa8ce743030fa534210928cae74fd80d403e0a8d63",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765342972~acl=/*~id=62606730085922415345709528650396~hmac=8b10675f5062af8e5c13a3aa8ce743030fa534210928cae74fd80d403e0a8d63",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765342972~acl=/*~id=62606730085922415345709528650396~hmac=8b10675f5062af8e5c13a3aa8ce743030fa534210928cae74fd80d403e0a8d63"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765344191~acl=/*~id=87513451292807825418664133634603~hmac=b3f441cc7c0452e3896da7115e1e9ae93e1fb748fc753add3301088dbefb2c3c",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765344191~acl=/*~id=87513451292807825418664133634603~hmac=b3f441cc7c0452e3896da7115e1e9ae93e1fb748fc753add3301088dbefb2c3c",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765344191~acl=/*~id=87513451292807825418664133634603~hmac=b3f441cc7c0452e3896da7115e1e9ae93e1fb748fc753add3301088dbefb2c3c"
         },
         {
             "event_category": "Football",
@@ -25,9 +25,9 @@
             "audioLanguageName": "ENG",
             "event_name": "UEFA Champions League 2025-26",
             "match_name": "Bayern Munich vs Sporting CP - MD 6 - 9 Dec 2025 [HIN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765342972~acl=/*~id=62606730085922415345709528650396~hmac=8b10675f5062af8e5c13a3aa8ce743030fa534210928cae74fd80d403e0a8d63",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765342972~acl=/*~id=62606730085922415345709528650396~hmac=8b10675f5062af8e5c13a3aa8ce743030fa534210928cae74fd80d403e0a8d63",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765342972~acl=/*~id=62606730085922415345709528650396~hmac=8b10675f5062af8e5c13a3aa8ce743030fa534210928cae74fd80d403e0a8d63"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765344191~acl=/*~id=87513451292807825418664133634603~hmac=b3f441cc7c0452e3896da7115e1e9ae93e1fb748fc753add3301088dbefb2c3c",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765344191~acl=/*~id=87513451292807825418664133634603~hmac=b3f441cc7c0452e3896da7115e1e9ae93e1fb748fc753add3301088dbefb2c3c",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765344191~acl=/*~id=87513451292807825418664133634603~hmac=b3f441cc7c0452e3896da7115e1e9ae93e1fb748fc753add3301088dbefb2c3c"
         },
         {
             "event_category": "Football",
@@ -38,9 +38,9 @@
             "audioLanguageName": "ENG",
             "event_name": "UEFA Champions League 2025-26",
             "match_name": "Bayern Munich vs Sporting CP - MD 6 - 9 Dec 2025 [TAM]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765342972~acl=/*~id=62606730085922415345709528650396~hmac=8b10675f5062af8e5c13a3aa8ce743030fa534210928cae74fd80d403e0a8d63",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765342972~acl=/*~id=62606730085922415345709528650396~hmac=8b10675f5062af8e5c13a3aa8ce743030fa534210928cae74fd80d403e0a8d63",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765342972~acl=/*~id=62606730085922415345709528650396~hmac=8b10675f5062af8e5c13a3aa8ce743030fa534210928cae74fd80d403e0a8d63"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765344191~acl=/*~id=87513451292807825418664133634603~hmac=b3f441cc7c0452e3896da7115e1e9ae93e1fb748fc753add3301088dbefb2c3c",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765344191~acl=/*~id=87513451292807825418664133634603~hmac=b3f441cc7c0452e3896da7115e1e9ae93e1fb748fc753add3301088dbefb2c3c",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765344191~acl=/*~id=87513451292807825418664133634603~hmac=b3f441cc7c0452e3896da7115e1e9ae93e1fb748fc753add3301088dbefb2c3c"
         },
         {
             "event_category": "Football",
@@ -51,9 +51,9 @@
             "audioLanguageName": "ENG",
             "event_name": "UEFA Champions League 2025-26",
             "match_name": "Bayern Munich vs Sporting CP - MD 6 - 9 Dec 2025 [TEL]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765342972~acl=/*~id=62606730085922415345709528650396~hmac=8b10675f5062af8e5c13a3aa8ce743030fa534210928cae74fd80d403e0a8d63",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765342972~acl=/*~id=62606730085922415345709528650396~hmac=8b10675f5062af8e5c13a3aa8ce743030fa534210928cae74fd80d403e0a8d63",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765342972~acl=/*~id=62606730085922415345709528650396~hmac=8b10675f5062af8e5c13a3aa8ce743030fa534210928cae74fd80d403e0a8d63"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765344191~acl=/*~id=87513451292807825418664133634603~hmac=b3f441cc7c0452e3896da7115e1e9ae93e1fb748fc753add3301088dbefb2c3c",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765344191~acl=/*~id=87513451292807825418664133634603~hmac=b3f441cc7c0452e3896da7115e1e9ae93e1fb748fc753add3301088dbefb2c3c",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765344191~acl=/*~id=87513451292807825418664133634603~hmac=b3f441cc7c0452e3896da7115e1e9ae93e1fb748fc753add3301088dbefb2c3c"
         },
         {
             "event_category": "Football",
@@ -64,22 +64,9 @@
             "audioLanguageName": "ENG",
             "event_name": "UEFA Champions League 2025-26",
             "match_name": "Kairat Almaty vs Olympiacos - MD 6 - 9 Dec 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765342972~acl=/*~id=62606730085922415345709528650396~hmac=8b10675f5062af8e5c13a3aa8ce743030fa534210928cae74fd80d403e0a8d63",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765342972~acl=/*~id=62606730085922415345709528650396~hmac=8b10675f5062af8e5c13a3aa8ce743030fa534210928cae74fd80d403e0a8d63",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765342972~acl=/*~id=62606730085922415345709528650396~hmac=8b10675f5062af8e5c13a3aa8ce743030fa534210928cae74fd80d403e0a8d63"
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090496499_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011994/1764739779693688_UYL2526_MD6_Inter_vs_Liverpool_2dec_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "UEFA Youth League 2025-26",
-            "match_name": "Inter vs Liverpool - MD 6 - 9 Dec 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765342972~acl=/*~id=62606730085922415345709528650396~hmac=8b10675f5062af8e5c13a3aa8ce743030fa534210928cae74fd80d403e0a8d63",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765342972~acl=/*~id=62606730085922415345709528650396~hmac=8b10675f5062af8e5c13a3aa8ce743030fa534210928cae74fd80d403e0a8d63",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765342972~acl=/*~id=62606730085922415345709528650396~hmac=8b10675f5062af8e5c13a3aa8ce743030fa534210928cae74fd80d403e0a8d63"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765344191~acl=/*~id=87513451292807825418664133634603~hmac=b3f441cc7c0452e3896da7115e1e9ae93e1fb748fc753add3301088dbefb2c3c",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765344191~acl=/*~id=87513451292807825418664133634603~hmac=b3f441cc7c0452e3896da7115e1e9ae93e1fb748fc753add3301088dbefb2c3c",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765344191~acl=/*~id=87513451292807825418664133634603~hmac=b3f441cc7c0452e3896da7115e1e9ae93e1fb748fc753add3301088dbefb2c3c"
         },
         {
             "event_category": "Football",
