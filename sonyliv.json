@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "17:48:43 09-12-2025",
+    "last update time": "18:39:22 09-12-2025",
     "matches": [
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090496494_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011994/1764739292900688_UYL2526_MD6_PSV_vs_Atletico_2dec_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Youth League 2025-26",
+            "match_name": "PSV vs Atletico - MD 6 - 9 Dec 2025 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765328961~acl=/*~id=40075638756985599601763399988450~hmac=01ca747cea52c112165013ce804e6aa353313247c9c7333c5b1e8e0438dacdfa",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765328961~acl=/*~id=40075638756985599601763399988450~hmac=01ca747cea52c112165013ce804e6aa353313247c9c7333c5b1e8e0438dacdfa",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765328961~acl=/*~id=40075638756985599601763399988450~hmac=01ca747cea52c112165013ce804e6aa353313247c9c7333c5b1e8e0438dacdfa"
+        },
         {
             "event_category": "Football",
             "isLive": false,
@@ -85,6 +98,15 @@
             "event_name": "Upcoming - Athletic Club vs Paris - UEFA Champions League 2025-26"
         },
         {
+            "event_category": "Tennis",
+            "isLive": false,
+            "contentId": 1090496895,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012163/1765283050147383_AO25_9dec_dated_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Australian Open 2026"
+        },
+        {
             "event_category": "Football",
             "isLive": false,
             "contentId": 1090496665,
@@ -92,15 +114,6 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Matchday 6 - UEFA Champions League 2025-26"
-        },
-        {
-            "event_category": "Tennis",
-            "isLive": false,
-            "contentId": 1090496895,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012142/1765213662329804_AO25_promo_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Australian Open 2026"
         },
         {
             "event_category": "Football",
