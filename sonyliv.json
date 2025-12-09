@@ -1,34 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "20:10:42 09-12-2025",
+    "last update time": "20:41:11 09-12-2025",
     "matches": [
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090496499_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011994/1764739779693688_UYL2526_MD6_Inter_vs_Liverpool_2dec_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "UEFA Youth League 2025-26",
-            "match_name": "Inter vs Liverpool - MD 6 - 9 Dec 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765334441~acl=/*~id=16217247980204158307236846848552~hmac=6b6569c5586ef9b986046517eb851aa2c109f0521b3de40e35384816886c2ec9",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765334441~acl=/*~id=16217247980204158307236846848552~hmac=6b6569c5586ef9b986046517eb851aa2c109f0521b3de40e35384816886c2ec9",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765334441~acl=/*~id=16217247980204158307236846848552~hmac=6b6569c5586ef9b986046517eb851aa2c109f0521b3de40e35384816886c2ec9"
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090496494_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011994/1764739292900688_UYL2526_MD6_PSV_vs_Atletico_2dec_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "UEFA Youth League 2025-26",
-            "match_name": "PSV vs Atletico - MD 6 - 9 Dec 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765334441~acl=/*~id=16217247980204158307236846848552~hmac=6b6569c5586ef9b986046517eb851aa2c109f0521b3de40e35384816886c2ec9",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765334441~acl=/*~id=16217247980204158307236846848552~hmac=6b6569c5586ef9b986046517eb851aa2c109f0521b3de40e35384816886c2ec9",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765334441~acl=/*~id=16217247980204158307236846848552~hmac=6b6569c5586ef9b986046517eb851aa2c109f0521b3de40e35384816886c2ec9"
-        },
         {
             "event_category": "Football",
             "isLive": false,
@@ -86,11 +60,20 @@
         {
             "event_category": "Football",
             "isLive": false,
-            "contentId": 1090496664,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011979/176468096856836_UCL2526_Bayern_vs_Sporting_CP_2dec_tonight_landscape_thumb.jpg",
+            "contentId": 1090496665,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012047/1764865031005621_UCL_Generic-MD-6_Landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Bayern Munich vs Sporting CP - UEFA Champions League 2025-26"
+            "event_name": "Upcoming - Matchday 6 - UEFA Champions League 2025-26"
+        },
+        {
+            "event_category": "Tennis",
+            "isLive": false,
+            "contentId": 1090496895,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012163/1765283050147383_AO25_9dec_dated_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Australian Open 2026"
         },
         {
             "event_category": "Football",
@@ -111,22 +94,13 @@
             "event_name": "Upcoming - Athletic Club vs Paris - UEFA Champions League 2025-26"
         },
         {
-            "event_category": "Tennis",
-            "isLive": false,
-            "contentId": 1090496895,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012163/1765283050147383_AO25_9dec_dated_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Australian Open 2026"
-        },
-        {
             "event_category": "Football",
             "isLive": false,
-            "contentId": 1090496665,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012047/1764865031005621_UCL_Generic-MD-6_Landscape_thumb.jpg",
+            "contentId": 1090496664,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011979/176468096856836_UCL2526_Bayern_vs_Sporting_CP_2dec_tonight_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Matchday 6 - UEFA Champions League 2025-26"
+            "event_name": "Upcoming - Bayern Munich vs Sporting CP - UEFA Champions League 2025-26"
         },
         {
             "event_category": "Football",
