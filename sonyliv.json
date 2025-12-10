@@ -1,8 +1,60 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "21:11:46 10-12-2025",
+    "last update time": "21:42:17 10-12-2025",
     "matches": [
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090496504_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011854/1764136432743622_UCL_25_26_MD6_Villarreal-vs-Copenhagen_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Champions League 2025-26",
+            "match_name": "Villarreal vs Copenhagen - MD 6 - 10 Dec 2025 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765426335~acl=/*~id=52274124860516068796437290177550~hmac=5e5e2457f5fe1414ce0dada9ad9e5cba565a3d6305de62618b1a370c2d183281",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765426335~acl=/*~id=52274124860516068796437290177550~hmac=5e5e2457f5fe1414ce0dada9ad9e5cba565a3d6305de62618b1a370c2d183281",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765426335~acl=/*~id=52274124860516068796437290177550~hmac=5e5e2457f5fe1414ce0dada9ad9e5cba565a3d6305de62618b1a370c2d183281"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090496504_HIN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011854/1764136432743622_UCL_25_26_MD6_Villarreal-vs-Copenhagen_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Champions League 2025-26",
+            "match_name": "Villarreal vs Copenhagen - MD 6 - 10 Dec 2025 [HIN]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765426335~acl=/*~id=52274124860516068796437290177550~hmac=5e5e2457f5fe1414ce0dada9ad9e5cba565a3d6305de62618b1a370c2d183281",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765426335~acl=/*~id=52274124860516068796437290177550~hmac=5e5e2457f5fe1414ce0dada9ad9e5cba565a3d6305de62618b1a370c2d183281",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765426335~acl=/*~id=52274124860516068796437290177550~hmac=5e5e2457f5fe1414ce0dada9ad9e5cba565a3d6305de62618b1a370c2d183281"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090496504_TAM",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011854/1764136432743622_UCL_25_26_MD6_Villarreal-vs-Copenhagen_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Champions League 2025-26",
+            "match_name": "Villarreal vs Copenhagen - MD 6 - 10 Dec 2025 [TAM]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765426335~acl=/*~id=52274124860516068796437290177550~hmac=5e5e2457f5fe1414ce0dada9ad9e5cba565a3d6305de62618b1a370c2d183281",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765426335~acl=/*~id=52274124860516068796437290177550~hmac=5e5e2457f5fe1414ce0dada9ad9e5cba565a3d6305de62618b1a370c2d183281",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765426335~acl=/*~id=52274124860516068796437290177550~hmac=5e5e2457f5fe1414ce0dada9ad9e5cba565a3d6305de62618b1a370c2d183281"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090496504_TEL",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011854/1764136432743622_UCL_25_26_MD6_Villarreal-vs-Copenhagen_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Champions League 2025-26",
+            "match_name": "Villarreal vs Copenhagen - MD 6 - 10 Dec 2025 [TEL]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765426335~acl=/*~id=52274124860516068796437290177550~hmac=5e5e2457f5fe1414ce0dada9ad9e5cba565a3d6305de62618b1a370c2d183281",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765426335~acl=/*~id=52274124860516068796437290177550~hmac=5e5e2457f5fe1414ce0dada9ad9e5cba565a3d6305de62618b1a370c2d183281",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765426335~acl=/*~id=52274124860516068796437290177550~hmac=5e5e2457f5fe1414ce0dada9ad9e5cba565a3d6305de62618b1a370c2d183281"
+        },
         {
             "event_category": "Football",
             "isLive": true,
@@ -12,9 +64,9 @@
             "audioLanguageName": "ENG",
             "event_name": "UEFA Youth League 2025-26",
             "match_name": "Real Madrid vs Man City - MD 6 - 10 Dec 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765424505~acl=/*~id=32740643827578679350552575146545~hmac=8a4c82fb4119f300fe9619f9c5884c93df3ce9a6e78a692989d475f375ad705b",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765424505~acl=/*~id=32740643827578679350552575146545~hmac=8a4c82fb4119f300fe9619f9c5884c93df3ce9a6e78a692989d475f375ad705b",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765424505~acl=/*~id=32740643827578679350552575146545~hmac=8a4c82fb4119f300fe9619f9c5884c93df3ce9a6e78a692989d475f375ad705b"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765426335~acl=/*~id=52274124860516068796437290177550~hmac=5e5e2457f5fe1414ce0dada9ad9e5cba565a3d6305de62618b1a370c2d183281",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765426335~acl=/*~id=52274124860516068796437290177550~hmac=5e5e2457f5fe1414ce0dada9ad9e5cba565a3d6305de62618b1a370c2d183281",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765426335~acl=/*~id=52274124860516068796437290177550~hmac=5e5e2457f5fe1414ce0dada9ad9e5cba565a3d6305de62618b1a370c2d183281"
         },
         {
             "event_category": "Football",
