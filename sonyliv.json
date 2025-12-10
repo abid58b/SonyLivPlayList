@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "20:00:48 10-12-2025",
+    "last update time": "20:41:23 10-12-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "UEFA Youth League 2025-26",
             "match_name": "Real Madrid vs Man City - MD 6 - 10 Dec 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765420247~acl=/*~id=69970367835455492946176483729000~hmac=daa74cca808d662af26f029d9e78012082258bd747ebe739e46d8ff1a9de957b",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765420247~acl=/*~id=69970367835455492946176483729000~hmac=daa74cca808d662af26f029d9e78012082258bd747ebe739e46d8ff1a9de957b",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765420247~acl=/*~id=69970367835455492946176483729000~hmac=daa74cca808d662af26f029d9e78012082258bd747ebe739e46d8ff1a9de957b"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765422682~acl=/*~id=60433431909341767952714446639622~hmac=0376ded228a25f62881df17cd9145049f3552b094669c90c253c7fdb208b47ab",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765422682~acl=/*~id=60433431909341767952714446639622~hmac=0376ded228a25f62881df17cd9145049f3552b094669c90c253c7fdb208b47ab",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765422682~acl=/*~id=60433431909341767952714446639622~hmac=0376ded228a25f62881df17cd9145049f3552b094669c90c253c7fdb208b47ab"
         },
         {
             "event_category": "Football",
@@ -25,9 +25,9 @@
             "audioLanguageName": "ENG",
             "event_name": "UEFA Youth League 2025-26",
             "match_name": "Club Brugge vs Arsenal - MD 6 - 10 Dec 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765420247~acl=/*~id=69970367835455492946176483729000~hmac=daa74cca808d662af26f029d9e78012082258bd747ebe739e46d8ff1a9de957b",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765420247~acl=/*~id=69970367835455492946176483729000~hmac=daa74cca808d662af26f029d9e78012082258bd747ebe739e46d8ff1a9de957b",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765420247~acl=/*~id=69970367835455492946176483729000~hmac=daa74cca808d662af26f029d9e78012082258bd747ebe739e46d8ff1a9de957b"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765422682~acl=/*~id=60433431909341767952714446639622~hmac=0376ded228a25f62881df17cd9145049f3552b094669c90c253c7fdb208b47ab",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765422682~acl=/*~id=60433431909341767952714446639622~hmac=0376ded228a25f62881df17cd9145049f3552b094669c90c253c7fdb208b47ab",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765422682~acl=/*~id=60433431909341767952714446639622~hmac=0376ded228a25f62881df17cd9145049f3552b094669c90c253c7fdb208b47ab"
         },
         {
             "event_category": "Football",
@@ -64,6 +64,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - DP World U-19 Asia Cup 2025"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090496909,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012016/1764781848221245_UEL25_Basel_vs_AstonVilla_landscape_thumb_ddt.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - UEFA Europa League - MD 6"
         },
         {
             "event_category": "Sport",
@@ -118,15 +127,6 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Real Madrid vs Manchester City - UEFA Champions League 2025-26"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090496909,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012147/1765260878049316_UEL-MD-6-Promo-thumbs_landscape.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - UEFA Europa League - MD 6"
         },
         {
             "event_category": "Cricket",
