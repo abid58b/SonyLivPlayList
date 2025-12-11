@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "16:08:33 11-12-2025",
+    "last update time": "16:28:52 11-12-2025",
     "matches": [
         {
             "event_category": "Golf",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Asian Tour 2025",
             "match_name": "PIF Saudi Open - Day 2 - 11 Dec 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765492713~acl=/*~id=31038776320507439762700458984681~hmac=d115883e67cab5a0b33bb35ecfde641c75d608654439613095d0c5195ef6d4f1",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765492713~acl=/*~id=31038776320507439762700458984681~hmac=d115883e67cab5a0b33bb35ecfde641c75d608654439613095d0c5195ef6d4f1",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765492713~acl=/*~id=31038776320507439762700458984681~hmac=d115883e67cab5a0b33bb35ecfde641c75d608654439613095d0c5195ef6d4f1"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765493932~acl=/*~id=89749117477969919283999338054200~hmac=6f17442fc0309f591050081980ead7262f7e4aedce1ab46bd1e5f2d97c4b68e7",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765493932~acl=/*~id=89749117477969919283999338054200~hmac=6f17442fc0309f591050081980ead7262f7e4aedce1ab46bd1e5f2d97c4b68e7",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765493932~acl=/*~id=89749117477969919283999338054200~hmac=6f17442fc0309f591050081980ead7262f7e4aedce1ab46bd1e5f2d97c4b68e7"
         },
         {
             "event_category": "Cricket",
