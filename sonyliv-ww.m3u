@@ -1,4 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1090496654_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011791/1764096257454276_UEL2526_MD6_Basel_vs_Aston_Villa_25nov_landscape_thumb.jpg" group-title="Live",Basel vs Aston Villa - MD 6 - 12 Dec 2025 [ENG] - UEFA Europa League 2025-26 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765528666~acl=/*~id=25876572012105270654315094619059~hmac=bd1b2e1a6c90099427a46a04240a662052567b9394dd506c17e151a343ac33a8
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765530490~acl=/*~id=15097437990524727604662644845461~hmac=882c070b64c05f9db675fcf1dabc91faf1172c80e4685c07c5279afc34cc96f5
+#EXTINF:-1 tvg-id="1090497159_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012144/1765255347137892_NZvsWI25_2nd_test_day3_9dec_landscape_thumb.jpg" group-title="Live",2nd Test - Day 3 - 12 Dec 2025 [ENG] - West Indies Tour of New Zealand 2025 - ENG
+#EXTVLCOPT:http-referrer=https://allinonereborn.online/
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1765530490~acl=/*~id=15097437990524727604662644845461~hmac=882c070b64c05f9db675fcf1dabc91faf1172c80e4685c07c5279afc34cc96f5
