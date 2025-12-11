@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "00:16:13 12-12-2025",
+    "last update time": "00:36:31 12-12-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "UEFA Europa League 2025-26",
             "match_name": "Utrecht vs Nott'm Forest - MD 6 - 11 Dec 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765521973~acl=/*~id=03453581836252357108949677811942~hmac=2bc86765e5f7e96db5235f97205a646421f6a546eb7030311dfb2017c6761feb",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765521973~acl=/*~id=03453581836252357108949677811942~hmac=2bc86765e5f7e96db5235f97205a646421f6a546eb7030311dfb2017c6761feb",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765521973~acl=/*~id=03453581836252357108949677811942~hmac=2bc86765e5f7e96db5235f97205a646421f6a546eb7030311dfb2017c6761feb"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765523190~acl=/*~id=46801373024006991493941840311864~hmac=4234bcdd997d59024837e61cb1e4de52ec89ab027e236e73c049bead75b0b7d0",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765523190~acl=/*~id=46801373024006991493941840311864~hmac=4234bcdd997d59024837e61cb1e4de52ec89ab027e236e73c049bead75b0b7d0",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765523190~acl=/*~id=46801373024006991493941840311864~hmac=4234bcdd997d59024837e61cb1e4de52ec89ab027e236e73c049bead75b0b7d0"
         },
         {
             "event_category": "Football",
@@ -25,9 +25,9 @@
             "audioLanguageName": "ENG",
             "event_name": "UEFA Europa League 2025-26",
             "match_name": "GNK Dinamo vs Real Betis - MD 6 - 11 Dec 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765521973~acl=/*~id=03453581836252357108949677811942~hmac=2bc86765e5f7e96db5235f97205a646421f6a546eb7030311dfb2017c6761feb",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765521973~acl=/*~id=03453581836252357108949677811942~hmac=2bc86765e5f7e96db5235f97205a646421f6a546eb7030311dfb2017c6761feb",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765521973~acl=/*~id=03453581836252357108949677811942~hmac=2bc86765e5f7e96db5235f97205a646421f6a546eb7030311dfb2017c6761feb"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765523190~acl=/*~id=46801373024006991493941840311864~hmac=4234bcdd997d59024837e61cb1e4de52ec89ab027e236e73c049bead75b0b7d0",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765523190~acl=/*~id=46801373024006991493941840311864~hmac=4234bcdd997d59024837e61cb1e4de52ec89ab027e236e73c049bead75b0b7d0",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765523190~acl=/*~id=46801373024006991493941840311864~hmac=4234bcdd997d59024837e61cb1e4de52ec89ab027e236e73c049bead75b0b7d0"
         },
         {
             "event_category": "Cricket",
