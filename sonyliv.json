@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "20:06:38 13-12-2025",
+    "last update time": "20:26:59 13-12-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Messi's GOAT Tour Of India",
             "match_name": "Hyderabad Event - 13 Dec 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765679796~acl=/*~id=66888731391910594518252342000796~hmac=74bd8f4f977ec13eb50ee80eecdb646c43b3f7fb88336b69d2a8b19bad15c861",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765679796~acl=/*~id=66888731391910594518252342000796~hmac=74bd8f4f977ec13eb50ee80eecdb646c43b3f7fb88336b69d2a8b19bad15c861",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765679796~acl=/*~id=66888731391910594518252342000796~hmac=74bd8f4f977ec13eb50ee80eecdb646c43b3f7fb88336b69d2a8b19bad15c861"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765681016~acl=/*~id=73454478762415867251343883497729~hmac=72eb7250153ab7e156c3b46e09944987d90b6aa9cbed0690c061721be4b5eb38",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765681016~acl=/*~id=73454478762415867251343883497729~hmac=72eb7250153ab7e156c3b46e09944987d90b6aa9cbed0690c061721be4b5eb38",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765681016~acl=/*~id=73454478762415867251343883497729~hmac=72eb7250153ab7e156c3b46e09944987d90b6aa9cbed0690c061721be4b5eb38"
         },
         {
             "event_category": "Football",
@@ -25,9 +25,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Bundesliga 2025-26",
             "match_name": "Eintracht Frankfurt vs FC Augsburg - MD 14 - 13 Dec 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765679796~acl=/*~id=66888731391910594518252342000796~hmac=74bd8f4f977ec13eb50ee80eecdb646c43b3f7fb88336b69d2a8b19bad15c861",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765679796~acl=/*~id=66888731391910594518252342000796~hmac=74bd8f4f977ec13eb50ee80eecdb646c43b3f7fb88336b69d2a8b19bad15c861",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765679796~acl=/*~id=66888731391910594518252342000796~hmac=74bd8f4f977ec13eb50ee80eecdb646c43b3f7fb88336b69d2a8b19bad15c861"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765681016~acl=/*~id=73454478762415867251343883497729~hmac=72eb7250153ab7e156c3b46e09944987d90b6aa9cbed0690c061721be4b5eb38",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765681016~acl=/*~id=73454478762415867251343883497729~hmac=72eb7250153ab7e156c3b46e09944987d90b6aa9cbed0690c061721be4b5eb38",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765681016~acl=/*~id=73454478762415867251343883497729~hmac=72eb7250153ab7e156c3b46e09944987d90b6aa9cbed0690c061721be4b5eb38"
         },
         {
             "event_category": "Football",
@@ -38,22 +38,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Bundesliga 2025-26",
             "match_name": "Borussia M'gladbach vs VfL Wolfsburg - MD 14 - 13 Dec 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765679796~acl=/*~id=66888731391910594518252342000796~hmac=74bd8f4f977ec13eb50ee80eecdb646c43b3f7fb88336b69d2a8b19bad15c861",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765679796~acl=/*~id=66888731391910594518252342000796~hmac=74bd8f4f977ec13eb50ee80eecdb646c43b3f7fb88336b69d2a8b19bad15c861",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765679796~acl=/*~id=66888731391910594518252342000796~hmac=74bd8f4f977ec13eb50ee80eecdb646c43b3f7fb88336b69d2a8b19bad15c861"
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090497359_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006892/1755929846694147_Bliga26_Goal_Arena_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Bundesliga 2025-26",
-            "match_name": "Goal Arena - MD 14 - 13 Dec 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765679796~acl=/*~id=66888731391910594518252342000796~hmac=74bd8f4f977ec13eb50ee80eecdb646c43b3f7fb88336b69d2a8b19bad15c861",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765679796~acl=/*~id=66888731391910594518252342000796~hmac=74bd8f4f977ec13eb50ee80eecdb646c43b3f7fb88336b69d2a8b19bad15c861",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765679796~acl=/*~id=66888731391910594518252342000796~hmac=74bd8f4f977ec13eb50ee80eecdb646c43b3f7fb88336b69d2a8b19bad15c861"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765681016~acl=/*~id=73454478762415867251343883497729~hmac=72eb7250153ab7e156c3b46e09944987d90b6aa9cbed0690c061721be4b5eb38",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765681016~acl=/*~id=73454478762415867251343883497729~hmac=72eb7250153ab7e156c3b46e09944987d90b6aa9cbed0690c061721be4b5eb38",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765681016~acl=/*~id=73454478762415867251343883497729~hmac=72eb7250153ab7e156c3b46e09944987d90b6aa9cbed0690c061721be4b5eb38"
         },
         {
             "event_category": "Football",
@@ -64,9 +51,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Bundesliga 2025-26",
             "match_name": "Hoffenheim vs Hamburg SV - MD 14 - 13 Dec 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765679796~acl=/*~id=66888731391910594518252342000796~hmac=74bd8f4f977ec13eb50ee80eecdb646c43b3f7fb88336b69d2a8b19bad15c861",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765679796~acl=/*~id=66888731391910594518252342000796~hmac=74bd8f4f977ec13eb50ee80eecdb646c43b3f7fb88336b69d2a8b19bad15c861",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765679796~acl=/*~id=66888731391910594518252342000796~hmac=74bd8f4f977ec13eb50ee80eecdb646c43b3f7fb88336b69d2a8b19bad15c861"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765681016~acl=/*~id=73454478762415867251343883497729~hmac=72eb7250153ab7e156c3b46e09944987d90b6aa9cbed0690c061721be4b5eb38",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765681016~acl=/*~id=73454478762415867251343883497729~hmac=72eb7250153ab7e156c3b46e09944987d90b6aa9cbed0690c061721be4b5eb38",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765681016~acl=/*~id=73454478762415867251343883497729~hmac=72eb7250153ab7e156c3b46e09944987d90b6aa9cbed0690c061721be4b5eb38"
         },
         {
             "event_category": "Football",
@@ -77,9 +64,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Bundesliga 2025-26",
             "match_name": "St. Pauli vs Heidenheim - MD 14 - 13 Dec 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765679796~acl=/*~id=66888731391910594518252342000796~hmac=74bd8f4f977ec13eb50ee80eecdb646c43b3f7fb88336b69d2a8b19bad15c861",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765679796~acl=/*~id=66888731391910594518252342000796~hmac=74bd8f4f977ec13eb50ee80eecdb646c43b3f7fb88336b69d2a8b19bad15c861",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765679796~acl=/*~id=66888731391910594518252342000796~hmac=74bd8f4f977ec13eb50ee80eecdb646c43b3f7fb88336b69d2a8b19bad15c861"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765681016~acl=/*~id=73454478762415867251343883497729~hmac=72eb7250153ab7e156c3b46e09944987d90b6aa9cbed0690c061721be4b5eb38",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765681016~acl=/*~id=73454478762415867251343883497729~hmac=72eb7250153ab7e156c3b46e09944987d90b6aa9cbed0690c061721be4b5eb38",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765681016~acl=/*~id=73454478762415867251343883497729~hmac=72eb7250153ab7e156c3b46e09944987d90b6aa9cbed0690c061721be4b5eb38"
         },
         {
             "event_category": "Cricket",
