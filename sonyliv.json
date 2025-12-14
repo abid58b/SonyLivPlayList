@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "20:29:45 14-12-2025",
+    "last update time": "20:50:03 14-12-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Bundesliga 2025-26",
             "match_name": "SC Freiburg vs Borussia Dortmund - MD 14 - 14 Dec 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765767584~acl=/*~id=65229057509986983308968179341190~hmac=4bfb5f5c5cb4c6826cb08f9671cdd41ef3905b5c97fa21564b61934b85e52e46",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765767584~acl=/*~id=65229057509986983308968179341190~hmac=4bfb5f5c5cb4c6826cb08f9671cdd41ef3905b5c97fa21564b61934b85e52e46",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765767584~acl=/*~id=65229057509986983308968179341190~hmac=4bfb5f5c5cb4c6826cb08f9671cdd41ef3905b5c97fa21564b61934b85e52e46"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765768802~acl=/*~id=37853658362348093070469605440060~hmac=38b833ba4f33339ed3f341c5ff9e6fdac2e97278a129dc39f997c033db36899a",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765768802~acl=/*~id=37853658362348093070469605440060~hmac=38b833ba4f33339ed3f341c5ff9e6fdac2e97278a129dc39f997c033db36899a",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765768802~acl=/*~id=37853658362348093070469605440060~hmac=38b833ba4f33339ed3f341c5ff9e6fdac2e97278a129dc39f997c033db36899a"
         },
         {
             "event_category": "Cricket",
