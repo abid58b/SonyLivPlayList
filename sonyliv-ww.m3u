@@ -1,1 +1,13 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="1090497420_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012127/1765182556541309_WWE_SNME_2025_JohnCena1_landscape_thumb.jpg" group-title="Live",Saturday Night's Main Event - 14 Dec 2025 [ENG] - WWE - ENG
+#EXTVLCOPT:http-referrer=https://allinonereborn.online/
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765716923~acl=/*~id=09900381014034569057897231180658~hmac=840fd1c9014131b43c2a84a437ea76ca66fdae8120e2860641b5aa66d46eed26
+#EXTINF:-1 tvg-id="1090497420_HIN" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012127/1765182556541309_WWE_SNME_2025_JohnCena1_landscape_thumb.jpg" group-title="Live",Saturday Night's Main Event - 14 Dec 2025 [HIN] - WWE - ENG
+#EXTVLCOPT:http-referrer=https://allinonereborn.online/
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765716923~acl=/*~id=09900381014034569057897231180658~hmac=840fd1c9014131b43c2a84a437ea76ca66fdae8120e2860641b5aa66d46eed26
+#EXTINF:-1 tvg-id="1090497420_TAM" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012127/1765182556541309_WWE_SNME_2025_JohnCena1_landscape_thumb.jpg" group-title="Live",Saturday Night's Main Event - 14 Dec 2025 [TAM] - WWE - ENG
+#EXTVLCOPT:http-referrer=https://allinonereborn.online/
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765716923~acl=/*~id=09900381014034569057897231180658~hmac=840fd1c9014131b43c2a84a437ea76ca66fdae8120e2860641b5aa66d46eed26
+#EXTINF:-1 tvg-id="1090497420_TEL" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012127/1765182556541309_WWE_SNME_2025_JohnCena1_landscape_thumb.jpg" group-title="Live",Saturday Night's Main Event - 14 Dec 2025 [TEL] - WWE - ENG
+#EXTVLCOPT:http-referrer=https://allinonereborn.online/
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765716923~acl=/*~id=09900381014034569057897231180658~hmac=840fd1c9014131b43c2a84a437ea76ca66fdae8120e2860641b5aa66d46eed26
