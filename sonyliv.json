@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:40:50 14-12-2025",
+    "last update time": "12:11:29 14-12-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "DP World Men's U19 Asia Cup 2025",
             "match_name": "India U19 vs Pakistan U19 - 14 Dec 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1765735848~acl=/*~id=27168064520970821139375502762664~hmac=4d54e4daf8fc58f48f496dd68efd8a0e3f9e9a96e6ce7c5d7c581f2c6db76153",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1765735848~acl=/*~id=27168064520970821139375502762664~hmac=4d54e4daf8fc58f48f496dd68efd8a0e3f9e9a96e6ce7c5d7c581f2c6db76153",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1765735848~acl=/*~id=27168064520970821139375502762664~hmac=4d54e4daf8fc58f48f496dd68efd8a0e3f9e9a96e6ce7c5d7c581f2c6db76153"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1765737688~acl=/*~id=49974246884924113744057460663438~hmac=572857cd760014e136d33a447894e7b4c3378f13c8f7dda98c5b38acd8e1d0a2",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1765737688~acl=/*~id=49974246884924113744057460663438~hmac=572857cd760014e136d33a447894e7b4c3378f13c8f7dda98c5b38acd8e1d0a2",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1765737688~acl=/*~id=49974246884924113744057460663438~hmac=572857cd760014e136d33a447894e7b4c3378f13c8f7dda98c5b38acd8e1d0a2"
         },
         {
             "event_category": "Cricket",
@@ -25,9 +25,9 @@
             "audioLanguageName": "ENG",
             "event_name": "DP World Men's U19 Asia Cup 2025",
             "match_name": "India U19 vs Pakistan U19 - 14 Dec 2025 [HIN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09-criclive/std_lrh-800300010.m3u8?hdnea=exp=1765735848~acl=/*~id=27168064520970821139375502762664~hmac=4d54e4daf8fc58f48f496dd68efd8a0e3f9e9a96e6ce7c5d7c581f2c6db76153",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09-criclive/std_lrh-800300010.m3u8?hdnea=exp=1765735848~acl=/*~id=27168064520970821139375502762664~hmac=4d54e4daf8fc58f48f496dd68efd8a0e3f9e9a96e6ce7c5d7c581f2c6db76153",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09-criclive/std_lrh-800300010.m3u8?hdnea=exp=1765735848~acl=/*~id=27168064520970821139375502762664~hmac=4d54e4daf8fc58f48f496dd68efd8a0e3f9e9a96e6ce7c5d7c581f2c6db76153"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09-criclive/std_lrh-800300010.m3u8?hdnea=exp=1765737688~acl=/*~id=49974246884924113744057460663438~hmac=572857cd760014e136d33a447894e7b4c3378f13c8f7dda98c5b38acd8e1d0a2",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09-criclive/std_lrh-800300010.m3u8?hdnea=exp=1765737688~acl=/*~id=49974246884924113744057460663438~hmac=572857cd760014e136d33a447894e7b4c3378f13c8f7dda98c5b38acd8e1d0a2",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09-criclive/std_lrh-800300010.m3u8?hdnea=exp=1765737688~acl=/*~id=49974246884924113744057460663438~hmac=572857cd760014e136d33a447894e7b4c3378f13c8f7dda98c5b38acd8e1d0a2"
         },
         {
             "event_category": "Cricket",
@@ -38,9 +38,9 @@
             "audioLanguageName": "ENG",
             "event_name": "DP World Men's U19 Asia Cup 2025",
             "match_name": "India U19 vs Pakistan U19 - 14 Dec 2025 [TAM]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10-criclive/std_lrh-800300010.m3u8?hdnea=exp=1765735848~acl=/*~id=27168064520970821139375502762664~hmac=4d54e4daf8fc58f48f496dd68efd8a0e3f9e9a96e6ce7c5d7c581f2c6db76153",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10-criclive/std_lrh-800300010.m3u8?hdnea=exp=1765735848~acl=/*~id=27168064520970821139375502762664~hmac=4d54e4daf8fc58f48f496dd68efd8a0e3f9e9a96e6ce7c5d7c581f2c6db76153",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10-criclive/std_lrh-800300010.m3u8?hdnea=exp=1765735848~acl=/*~id=27168064520970821139375502762664~hmac=4d54e4daf8fc58f48f496dd68efd8a0e3f9e9a96e6ce7c5d7c581f2c6db76153"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10-criclive/std_lrh-800300010.m3u8?hdnea=exp=1765737688~acl=/*~id=49974246884924113744057460663438~hmac=572857cd760014e136d33a447894e7b4c3378f13c8f7dda98c5b38acd8e1d0a2",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10-criclive/std_lrh-800300010.m3u8?hdnea=exp=1765737688~acl=/*~id=49974246884924113744057460663438~hmac=572857cd760014e136d33a447894e7b4c3378f13c8f7dda98c5b38acd8e1d0a2",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10-criclive/std_lrh-800300010.m3u8?hdnea=exp=1765737688~acl=/*~id=49974246884924113744057460663438~hmac=572857cd760014e136d33a447894e7b4c3378f13c8f7dda98c5b38acd8e1d0a2"
         },
         {
             "event_category": "Cricket",
@@ -51,9 +51,9 @@
             "audioLanguageName": "ENG",
             "event_name": "DP World Men's U19 Asia Cup 2025",
             "match_name": "India U19 vs Pakistan U19 - 14 Dec 2025 [TEL]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11-criclive/std_lrh-800300010.m3u8?hdnea=exp=1765735848~acl=/*~id=27168064520970821139375502762664~hmac=4d54e4daf8fc58f48f496dd68efd8a0e3f9e9a96e6ce7c5d7c581f2c6db76153",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11-criclive/std_lrh-800300010.m3u8?hdnea=exp=1765735848~acl=/*~id=27168064520970821139375502762664~hmac=4d54e4daf8fc58f48f496dd68efd8a0e3f9e9a96e6ce7c5d7c581f2c6db76153",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11-criclive/std_lrh-800300010.m3u8?hdnea=exp=1765735848~acl=/*~id=27168064520970821139375502762664~hmac=4d54e4daf8fc58f48f496dd68efd8a0e3f9e9a96e6ce7c5d7c581f2c6db76153"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11-criclive/std_lrh-800300010.m3u8?hdnea=exp=1765737688~acl=/*~id=49974246884924113744057460663438~hmac=572857cd760014e136d33a447894e7b4c3378f13c8f7dda98c5b38acd8e1d0a2",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11-criclive/std_lrh-800300010.m3u8?hdnea=exp=1765737688~acl=/*~id=49974246884924113744057460663438~hmac=572857cd760014e136d33a447894e7b4c3378f13c8f7dda98c5b38acd8e1d0a2",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11-criclive/std_lrh-800300010.m3u8?hdnea=exp=1765737688~acl=/*~id=49974246884924113744057460663438~hmac=572857cd760014e136d33a447894e7b4c3378f13c8f7dda98c5b38acd8e1d0a2"
         },
         {
             "event_category": "Cricket",
@@ -64,61 +64,9 @@
             "audioLanguageName": "ENG",
             "event_name": "DP World Men's U19 Asia Cup 2025",
             "match_name": "UAE U19 vs Malaysia U19 - 14 Dec 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1765735848~acl=/*~id=27168064520970821139375502762664~hmac=4d54e4daf8fc58f48f496dd68efd8a0e3f9e9a96e6ce7c5d7c581f2c6db76153",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1765735848~acl=/*~id=27168064520970821139375502762664~hmac=4d54e4daf8fc58f48f496dd68efd8a0e3f9e9a96e6ce7c5d7c581f2c6db76153",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1765735848~acl=/*~id=27168064520970821139375502762664~hmac=4d54e4daf8fc58f48f496dd68efd8a0e3f9e9a96e6ce7c5d7c581f2c6db76153"
-        },
-        {
-            "event_category": "Fight Sports",
-            "isLive": true,
-            "contentId": "1090497419_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012362/1765617647559575_UCL_25_26_Royval-vs-Kape_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "UFC Fight Night - Royval vs Kape",
-            "match_name": "UFC Fight Night - Royval vs Kape - 14 Dec 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765735848~acl=/*~id=27168064520970821139375502762664~hmac=4d54e4daf8fc58f48f496dd68efd8a0e3f9e9a96e6ce7c5d7c581f2c6db76153",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765735848~acl=/*~id=27168064520970821139375502762664~hmac=4d54e4daf8fc58f48f496dd68efd8a0e3f9e9a96e6ce7c5d7c581f2c6db76153",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765735848~acl=/*~id=27168064520970821139375502762664~hmac=4d54e4daf8fc58f48f496dd68efd8a0e3f9e9a96e6ce7c5d7c581f2c6db76153"
-        },
-        {
-            "event_category": "Fight Sports",
-            "isLive": true,
-            "contentId": "1090497419_HIN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012362/1765617647559575_UCL_25_26_Royval-vs-Kape_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "UFC Fight Night - Royval vs Kape",
-            "match_name": "UFC Fight Night - Royval vs Kape - 14 Dec 2025 [HIN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765735848~acl=/*~id=27168064520970821139375502762664~hmac=4d54e4daf8fc58f48f496dd68efd8a0e3f9e9a96e6ce7c5d7c581f2c6db76153",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765735848~acl=/*~id=27168064520970821139375502762664~hmac=4d54e4daf8fc58f48f496dd68efd8a0e3f9e9a96e6ce7c5d7c581f2c6db76153",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765735848~acl=/*~id=27168064520970821139375502762664~hmac=4d54e4daf8fc58f48f496dd68efd8a0e3f9e9a96e6ce7c5d7c581f2c6db76153"
-        },
-        {
-            "event_category": "Fight Sports",
-            "isLive": true,
-            "contentId": "1090497419_TAM",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012362/1765617647559575_UCL_25_26_Royval-vs-Kape_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "UFC Fight Night - Royval vs Kape",
-            "match_name": "UFC Fight Night - Royval vs Kape - 14 Dec 2025 [TAM]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765735848~acl=/*~id=27168064520970821139375502762664~hmac=4d54e4daf8fc58f48f496dd68efd8a0e3f9e9a96e6ce7c5d7c581f2c6db76153",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765735848~acl=/*~id=27168064520970821139375502762664~hmac=4d54e4daf8fc58f48f496dd68efd8a0e3f9e9a96e6ce7c5d7c581f2c6db76153",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765735848~acl=/*~id=27168064520970821139375502762664~hmac=4d54e4daf8fc58f48f496dd68efd8a0e3f9e9a96e6ce7c5d7c581f2c6db76153"
-        },
-        {
-            "event_category": "Fight Sports",
-            "isLive": true,
-            "contentId": "1090497419_TEL",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012362/1765617647559575_UCL_25_26_Royval-vs-Kape_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "UFC Fight Night - Royval vs Kape",
-            "match_name": "UFC Fight Night - Royval vs Kape - 14 Dec 2025 [TEL]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765735848~acl=/*~id=27168064520970821139375502762664~hmac=4d54e4daf8fc58f48f496dd68efd8a0e3f9e9a96e6ce7c5d7c581f2c6db76153",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765735848~acl=/*~id=27168064520970821139375502762664~hmac=4d54e4daf8fc58f48f496dd68efd8a0e3f9e9a96e6ce7c5d7c581f2c6db76153",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765735848~acl=/*~id=27168064520970821139375502762664~hmac=4d54e4daf8fc58f48f496dd68efd8a0e3f9e9a96e6ce7c5d7c581f2c6db76153"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1765737688~acl=/*~id=49974246884924113744057460663438~hmac=572857cd760014e136d33a447894e7b4c3378f13c8f7dda98c5b38acd8e1d0a2",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1765737688~acl=/*~id=49974246884924113744057460663438~hmac=572857cd760014e136d33a447894e7b4c3378f13c8f7dda98c5b38acd8e1d0a2",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1765737688~acl=/*~id=49974246884924113744057460663438~hmac=572857cd760014e136d33a447894e7b4c3378f13c8f7dda98c5b38acd8e1d0a2"
         },
         {
             "event_category": "Football",
