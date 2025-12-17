@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "14:41:13 17-12-2025",
+    "last update time": "15:11:50 17-12-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "DP World Men's U19 Asia Cup 2025",
             "match_name": "Bangladesh U19 vs Sri Lanka U19 - 17 Dec 2025 [ENG]",
-            "dai_url": "https://liveakmt-p.slivcdn.com/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1766005871~acl=/*~id=15962062700570164094002605699405~hmac=79d0edd3ae9fb46fd741c24775cdaa46075fce3fca1fa78081e080af36a6bb1f",
-            "pub_url": "https://liveakmt-p.slivcdn.com/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1766005871~acl=/*~id=15962062700570164094002605699405~hmac=79d0edd3ae9fb46fd741c24775cdaa46075fce3fca1fa78081e080af36a6bb1f",
-            "video_url": "https://liveakmt-p.slivcdn.com/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1766005871~acl=/*~id=15962062700570164094002605699405~hmac=79d0edd3ae9fb46fd741c24775cdaa46075fce3fca1fa78081e080af36a6bb1f"
+            "dai_url": "https://liveakmt-p.slivcdn.com/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1766007708~acl=/*~id=56302770729123430835056999583444~hmac=9cff8e882a46f9be1579336101ce5af3c7172f501b5b70fbd0fc2501f9c2ed79",
+            "pub_url": "https://liveakmt-p.slivcdn.com/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1766007708~acl=/*~id=56302770729123430835056999583444~hmac=9cff8e882a46f9be1579336101ce5af3c7172f501b5b70fbd0fc2501f9c2ed79",
+            "video_url": "https://liveakmt-p.slivcdn.com/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1766007708~acl=/*~id=56302770729123430835056999583444~hmac=9cff8e882a46f9be1579336101ce5af3c7172f501b5b70fbd0fc2501f9c2ed79"
         },
         {
             "event_category": "Cricket",
@@ -25,9 +25,9 @@
             "audioLanguageName": "ENG",
             "event_name": "DP World Men's U19 Asia Cup 2025",
             "match_name": "Afghanistan U19 vs Nepal U19 - 17 Dec 2025 [ENG]",
-            "dai_url": "https://liveakmt-p.slivcdn.com/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1766005871~acl=/*~id=15962062700570164094002605699405~hmac=79d0edd3ae9fb46fd741c24775cdaa46075fce3fca1fa78081e080af36a6bb1f",
-            "pub_url": "https://liveakmt-p.slivcdn.com/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1766005871~acl=/*~id=15962062700570164094002605699405~hmac=79d0edd3ae9fb46fd741c24775cdaa46075fce3fca1fa78081e080af36a6bb1f",
-            "video_url": "https://liveakmt-p.slivcdn.com/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1766005871~acl=/*~id=15962062700570164094002605699405~hmac=79d0edd3ae9fb46fd741c24775cdaa46075fce3fca1fa78081e080af36a6bb1f"
+            "dai_url": "https://liveakmt-p.slivcdn.com/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1766007708~acl=/*~id=56302770729123430835056999583444~hmac=9cff8e882a46f9be1579336101ce5af3c7172f501b5b70fbd0fc2501f9c2ed79",
+            "pub_url": "https://liveakmt-p.slivcdn.com/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1766007708~acl=/*~id=56302770729123430835056999583444~hmac=9cff8e882a46f9be1579336101ce5af3c7172f501b5b70fbd0fc2501f9c2ed79",
+            "video_url": "https://liveakmt-p.slivcdn.com/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1766007708~acl=/*~id=56302770729123430835056999583444~hmac=9cff8e882a46f9be1579336101ce5af3c7172f501b5b70fbd0fc2501f9c2ed79"
         },
         {
             "event_category": "Cricket",
