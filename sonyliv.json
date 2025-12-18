@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:09:02 19-12-2025",
+    "last update time": "01:39:26 19-12-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "UEFA Conference League 2025-26",
             "match_name": "Crystal Palace vs Kuopion Palloseura - MD 6 - 19 Dec 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1766129942~acl=/*~id=42014927920976775253754369970458~hmac=4e104fdf2c96c72376835326cb7fdaabf254d4b76ab19cd7924d127b99e6665a",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1766129942~acl=/*~id=42014927920976775253754369970458~hmac=4e104fdf2c96c72376835326cb7fdaabf254d4b76ab19cd7924d127b99e6665a",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1766129942~acl=/*~id=42014927920976775253754369970458~hmac=4e104fdf2c96c72376835326cb7fdaabf254d4b76ab19cd7924d127b99e6665a"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1766131766~acl=/*~id=10319728146234833665033232924997~hmac=7320b1ab06bc5eaf0423cefec32e2d9ec94cb2f6004a43a49d5fdb131499edb6",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1766131766~acl=/*~id=10319728146234833665033232924997~hmac=7320b1ab06bc5eaf0423cefec32e2d9ec94cb2f6004a43a49d5fdb131499edb6",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1766131766~acl=/*~id=10319728146234833665033232924997~hmac=7320b1ab06bc5eaf0423cefec32e2d9ec94cb2f6004a43a49d5fdb131499edb6"
         },
         {
             "event_category": "Cricket",
