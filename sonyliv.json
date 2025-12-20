@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:18:21 20-12-2025",
+    "last update time": "10:09:22 20-12-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "West Indies Tour of New Zealand 2025",
             "match_name": "3rd Test - Day 3 - 20 Dec 2025 [ENG]",
-            "dai_url": "https://liveakmt-p.slivcdn.com/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1766245701~acl=/*~id=57972865238003854042820951089605~hmac=d38e33f73cd457aed47237122e288b8184942807a9ff9a67c478bc771b974802",
-            "pub_url": "https://liveakmt-p.slivcdn.com/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1766245701~acl=/*~id=57972865238003854042820951089605~hmac=d38e33f73cd457aed47237122e288b8184942807a9ff9a67c478bc771b974802",
-            "video_url": "https://liveakmt-p.slivcdn.com/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1766245701~acl=/*~id=57972865238003854042820951089605~hmac=d38e33f73cd457aed47237122e288b8184942807a9ff9a67c478bc771b974802"
+            "dai_url": "https://liveakmt-p.slivcdn.com/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1766248761~acl=/*~id=48996819687565642627144027046638~hmac=82adf6d470418d22cd59290c494f8d4630e64b9e6373605ca65d37596b602dfd",
+            "pub_url": "https://liveakmt-p.slivcdn.com/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1766248761~acl=/*~id=48996819687565642627144027046638~hmac=82adf6d470418d22cd59290c494f8d4630e64b9e6373605ca65d37596b602dfd",
+            "video_url": "https://liveakmt-p.slivcdn.com/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1766248761~acl=/*~id=48996819687565642627144027046638~hmac=82adf6d470418d22cd59290c494f8d4630e64b9e6373605ca65d37596b602dfd"
         },
         {
             "event_category": "Cricket",
