@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "00:02:30 21-12-2025",
+    "last update time": "00:32:51 21-12-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Bundesliga 2025-26",
             "match_name": "RB Leipzig vs Bayer Leverkusen - MD 15 - 20 Dec 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1766298749~acl=/*~id=31827262119939760226586866363868~hmac=81294d210c50be97dd5cd47841fa28930f6cd5f7af409c8f8341b17c5feb54ad",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1766298749~acl=/*~id=31827262119939760226586866363868~hmac=81294d210c50be97dd5cd47841fa28930f6cd5f7af409c8f8341b17c5feb54ad",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1766298749~acl=/*~id=31827262119939760226586866363868~hmac=81294d210c50be97dd5cd47841fa28930f6cd5f7af409c8f8341b17c5feb54ad"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1766300571~acl=/*~id=24585667327746499144205416848519~hmac=5fb2066905bf2eb3806ab8fee699c472edac698e055525c9017e53eddb357c95",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1766300571~acl=/*~id=24585667327746499144205416848519~hmac=5fb2066905bf2eb3806ab8fee699c472edac698e055525c9017e53eddb357c95",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1766300571~acl=/*~id=24585667327746499144205416848519~hmac=5fb2066905bf2eb3806ab8fee699c472edac698e055525c9017e53eddb357c95"
         },
         {
             "event_category": "Cricket",
