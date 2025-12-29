@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:42:09 29-12-2025",
+    "last update time": "12:22:41 29-12-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Super Smash 2025/26 Men's",
             "match_name": "Wellington Firebirds vs Auckland Aces - 29 Dec 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767031928~acl=/*~id=00018314127599114807278181623590~hmac=4625930a47d28318b944a67c356257df2f7f3ba99c113ab63476eb84ecc3a03f",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767031928~acl=/*~id=00018314127599114807278181623590~hmac=4625930a47d28318b944a67c356257df2f7f3ba99c113ab63476eb84ecc3a03f",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767031928~acl=/*~id=00018314127599114807278181623590~hmac=4625930a47d28318b944a67c356257df2f7f3ba99c113ab63476eb84ecc3a03f"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767034360~acl=/*~id=55421509897216803939927482900697~hmac=2a8aeddb637f188f0ce48899fdda23c838ca0b710fbd69e2e586b555b0a3541b",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767034360~acl=/*~id=55421509897216803939927482900697~hmac=2a8aeddb637f188f0ce48899fdda23c838ca0b710fbd69e2e586b555b0a3541b",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767034360~acl=/*~id=55421509897216803939927482900697~hmac=2a8aeddb637f188f0ce48899fdda23c838ca0b710fbd69e2e586b555b0a3541b"
         },
         {
             "event_category": "Sports",
