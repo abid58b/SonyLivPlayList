@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:06:46 29-12-2025",
+    "last update time": "06:27:48 29-12-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Super Smash 2025/26 Women's",
             "match_name": "Wellington Blaze vs Auckland Hearts - 29 Dec 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767008205~acl=/*~id=03003081806086230238292558640248~hmac=d8165a1784fba0e69d89f74dfd8b26e88350a95df696b3cb2e719e7f374738e5",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767008205~acl=/*~id=03003081806086230238292558640248~hmac=d8165a1784fba0e69d89f74dfd8b26e88350a95df696b3cb2e719e7f374738e5",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767008205~acl=/*~id=03003081806086230238292558640248~hmac=d8165a1784fba0e69d89f74dfd8b26e88350a95df696b3cb2e719e7f374738e5"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767013067~acl=/*~id=69858033279826595798080894624067~hmac=c4491a122996abfc509bde70feb5d2344670082353c2f4a2a1fc5afc17cc78ab",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767013067~acl=/*~id=69858033279826595798080894624067~hmac=c4491a122996abfc509bde70feb5d2344670082353c2f4a2a1fc5afc17cc78ab",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767013067~acl=/*~id=69858033279826595798080894624067~hmac=c4491a122996abfc509bde70feb5d2344670082353c2f4a2a1fc5afc17cc78ab"
         },
         {
             "event_category": "Sports",
