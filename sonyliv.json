@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:35:42 01-01-2026",
+    "last update time": "12:55:59 01-01-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Super Smash 2025/26 Men's",
             "match_name": "Canterbury Kings vs Central Stags - 1 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767294340~acl=/*~id=74407963249003612251505437669053~hmac=e0b86d2ce873fd92221ff25c5bd152871f917f240bff4b6ab0e93c2a31347cda",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767294340~acl=/*~id=74407963249003612251505437669053~hmac=e0b86d2ce873fd92221ff25c5bd152871f917f240bff4b6ab0e93c2a31347cda",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767294340~acl=/*~id=74407963249003612251505437669053~hmac=e0b86d2ce873fd92221ff25c5bd152871f917f240bff4b6ab0e93c2a31347cda"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767295557~acl=/*~id=35383803608918973573525384990621~hmac=5cf045e14a415b6a3e5511a74896fdf0c237f607e45393aae1661ffad3f3e12d",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767295557~acl=/*~id=35383803608918973573525384990621~hmac=5cf045e14a415b6a3e5511a74896fdf0c237f607e45393aae1661ffad3f3e12d",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767295557~acl=/*~id=35383803608918973573525384990621~hmac=5cf045e14a415b6a3e5511a74896fdf0c237f607e45393aae1661ffad3f3e12d"
         },
         {
             "event_category": "Sports",
