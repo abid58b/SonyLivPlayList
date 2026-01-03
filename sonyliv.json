@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "15:06:52 03-01-2026",
+    "last update time": "15:37:18 03-01-2026",
     "matches": [
         {
             "event_category": "Tennis",
@@ -12,22 +12,22 @@
             "audioLanguageName": "ENG",
             "event_name": "United Cup 2026 ",
             "match_name": "Australia vs Norway - 3 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767476211~acl=/*~id=45920197356809514192874221528605~hmac=bc86cfb549738220e3cd0b6daecbebc0763201ca295087d3505c95cc98974516",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767476211~acl=/*~id=45920197356809514192874221528605~hmac=bc86cfb549738220e3cd0b6daecbebc0763201ca295087d3505c95cc98974516",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767476211~acl=/*~id=45920197356809514192874221528605~hmac=bc86cfb549738220e3cd0b6daecbebc0763201ca295087d3505c95cc98974516"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767478037~acl=/*~id=93130377036243547262392780555200~hmac=d2b1f1e78ae3baf799ab36c9a3b974b17cf3a0d110216d94b11011c8e92e7be7",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767478037~acl=/*~id=93130377036243547262392780555200~hmac=d2b1f1e78ae3baf799ab36c9a3b974b17cf3a0d110216d94b11011c8e92e7be7",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767478037~acl=/*~id=93130377036243547262392780555200~hmac=d2b1f1e78ae3baf799ab36c9a3b974b17cf3a0d110216d94b11011c8e92e7be7"
         },
         {
             "event_category": "Tennis",
             "isLive": true,
             "contentId": "1090498797_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012864/1767337389784631_UC26_France_vs_Switzerland_2jan_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012867/1767337836864765_UC26_Usa_vs_Argentina_2jan_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "United Cup 2026 ",
-            "match_name": "France vs Switzerland - 3 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767476211~acl=/*~id=45920197356809514192874221528605~hmac=bc86cfb549738220e3cd0b6daecbebc0763201ca295087d3505c95cc98974516",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767476211~acl=/*~id=45920197356809514192874221528605~hmac=bc86cfb549738220e3cd0b6daecbebc0763201ca295087d3505c95cc98974516",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767476211~acl=/*~id=45920197356809514192874221528605~hmac=bc86cfb549738220e3cd0b6daecbebc0763201ca295087d3505c95cc98974516"
+            "match_name": "USA vs Argentina - 3 Jan 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767478037~acl=/*~id=93130377036243547262392780555200~hmac=d2b1f1e78ae3baf799ab36c9a3b974b17cf3a0d110216d94b11011c8e92e7be7",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767478037~acl=/*~id=93130377036243547262392780555200~hmac=d2b1f1e78ae3baf799ab36c9a3b974b17cf3a0d110216d94b11011c8e92e7be7",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767478037~acl=/*~id=93130377036243547262392780555200~hmac=d2b1f1e78ae3baf799ab36c9a3b974b17cf3a0d110216d94b11011c8e92e7be7"
         },
         {
             "event_category": "Tennis",
