@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "15:07:11 04-01-2026",
+    "last update time": "15:37:39 04-01-2026",
     "matches": [
         {
             "event_category": "Tennis",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "United Cup 2026 ",
             "match_name": "Italy vs Switzerland - 4 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767562630~acl=/*~id=65833086293857527196655907071717~hmac=299fb4f20f28d725a35fb0ae9d392da9591355e71d66ad8dc92ae6285dc757c9",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767562630~acl=/*~id=65833086293857527196655907071717~hmac=299fb4f20f28d725a35fb0ae9d392da9591355e71d66ad8dc92ae6285dc757c9",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767562630~acl=/*~id=65833086293857527196655907071717~hmac=299fb4f20f28d725a35fb0ae9d392da9591355e71d66ad8dc92ae6285dc757c9"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767564458~acl=/*~id=88187037944976577801218127683972~hmac=c9e21e067f2d1ad7cd57e36d39de9f51acc55c27959b298d0f7062ac77718b4b",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767564458~acl=/*~id=88187037944976577801218127683972~hmac=c9e21e067f2d1ad7cd57e36d39de9f51acc55c27959b298d0f7062ac77718b4b",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767564458~acl=/*~id=88187037944976577801218127683972~hmac=c9e21e067f2d1ad7cd57e36d39de9f51acc55c27959b298d0f7062ac77718b4b"
         },
         {
             "event_category": "Tennis",
@@ -25,9 +25,9 @@
             "audioLanguageName": "ENG",
             "event_name": "United Cup 2026 ",
             "match_name": "Canada vs China - 4 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767562630~acl=/*~id=65833086293857527196655907071717~hmac=299fb4f20f28d725a35fb0ae9d392da9591355e71d66ad8dc92ae6285dc757c9",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767562630~acl=/*~id=65833086293857527196655907071717~hmac=299fb4f20f28d725a35fb0ae9d392da9591355e71d66ad8dc92ae6285dc757c9",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767562630~acl=/*~id=65833086293857527196655907071717~hmac=299fb4f20f28d725a35fb0ae9d392da9591355e71d66ad8dc92ae6285dc757c9"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767564458~acl=/*~id=88187037944976577801218127683972~hmac=c9e21e067f2d1ad7cd57e36d39de9f51acc55c27959b298d0f7062ac77718b4b",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767564458~acl=/*~id=88187037944976577801218127683972~hmac=c9e21e067f2d1ad7cd57e36d39de9f51acc55c27959b298d0f7062ac77718b4b",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767564458~acl=/*~id=88187037944976577801218127683972~hmac=c9e21e067f2d1ad7cd57e36d39de9f51acc55c27959b298d0f7062ac77718b4b"
         },
         {
             "event_category": "Tennis",
