@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "22:04:49 05-01-2026",
+    "last update time": "22:35:17 05-01-2026",
     "matches": [
         {
             "event_category": "Tennis",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "United Cup 2026 ",
             "match_name": "Great Britain vs Greece - 5 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767674089~acl=/*~id=77998817763551590072518853335477~hmac=f4b5cd24e8077c78106d59bd7616041ac6275586cd97b8da854fabd99bc0c57c",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767674089~acl=/*~id=77998817763551590072518853335477~hmac=f4b5cd24e8077c78106d59bd7616041ac6275586cd97b8da854fabd99bc0c57c",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767674089~acl=/*~id=77998817763551590072518853335477~hmac=f4b5cd24e8077c78106d59bd7616041ac6275586cd97b8da854fabd99bc0c57c"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767675916~acl=/*~id=83836416408990661456130652144850~hmac=ef2b47554bcc015c1988abf87ebbdf7d5453f1698900aff6a9d9755528760600",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767675916~acl=/*~id=83836416408990661456130652144850~hmac=ef2b47554bcc015c1988abf87ebbdf7d5453f1698900aff6a9d9755528760600",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767675916~acl=/*~id=83836416408990661456130652144850~hmac=ef2b47554bcc015c1988abf87ebbdf7d5453f1698900aff6a9d9755528760600"
         },
         {
             "event_category": "Tennis",
