@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "15:40:13 06-01-2026",
+    "last update time": "16:00:36 06-01-2026",
     "matches": [
         {
             "event_category": "Tennis",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "United Cup 2026 ",
             "match_name": "Australia vs Czechia - 6 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767737412~acl=/*~id=47129886547490267854887481481300~hmac=7923a0548d99b31495e556c567592323fa62debd3e7d16d6e08357aa87f37350",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767737412~acl=/*~id=47129886547490267854887481481300~hmac=7923a0548d99b31495e556c567592323fa62debd3e7d16d6e08357aa87f37350",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767737412~acl=/*~id=47129886547490267854887481481300~hmac=7923a0548d99b31495e556c567592323fa62debd3e7d16d6e08357aa87f37350"
+            "dai_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT5559prod-PlaybackConfig/2022320/DAI16ME-V3/std_lrh-800300010.m3u8",
+            "pub_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT5559prod-PlaybackConfig/2022320/DAI16ME-V3/std_lrh-800300010.m3u8",
+            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT5559prod-PlaybackConfig/2022320/DAI16ME-V3/std_lrh-800300010.m3u8"
         },
         {
             "event_category": "Tennis",
