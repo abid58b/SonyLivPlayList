@@ -1,20 +1,20 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "13:09:28 07-01-2026",
+    "last update time": "13:39:54 07-01-2026",
     "matches": [
         {
             "event_category": "Tennis",
             "isLive": true,
             "contentId": "1090499000_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013030/1767696632540902_UC26_QF_USA_vs_greece_6jan_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013030/1767697177599902_UC26_QF_Switzerland_vs_Argentina_6jan_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "United Cup 2026 ",
-            "match_name": "USA vs Greece - Quarter-final - 7 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767814768~acl=/*~id=72140850973821919195016145924750~hmac=89df2aac45d5127d3b6a0aea1e71905f065d27e95d2b9bd01e28753e877b1a06",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767814768~acl=/*~id=72140850973821919195016145924750~hmac=89df2aac45d5127d3b6a0aea1e71905f065d27e95d2b9bd01e28753e877b1a06",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767814768~acl=/*~id=72140850973821919195016145924750~hmac=89df2aac45d5127d3b6a0aea1e71905f065d27e95d2b9bd01e28753e877b1a06"
+            "match_name": "Switzerland vs Argentina - Quarter-final - 7 Jan 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767816594~acl=/*~id=82327731485262262405204569292152~hmac=3d88340c85c4e3bcac3bc1e1445673c05de5a83218db0e1934fad7e968f2a582",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767816594~acl=/*~id=82327731485262262405204569292152~hmac=3d88340c85c4e3bcac3bc1e1445673c05de5a83218db0e1934fad7e968f2a582",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767816594~acl=/*~id=82327731485262262405204569292152~hmac=3d88340c85c4e3bcac3bc1e1445673c05de5a83218db0e1934fad7e968f2a582"
         },
         {
             "event_category": "Tennis",
@@ -42,6 +42,15 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Iconic Sports Sizzlers"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090499071,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013045/1767711775694257_FAcup26_Tottenham_vs_Aston_Villa_6jan_dated_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Emirates FA Cup"
         },
         {
             "event_category": "Tennis",
