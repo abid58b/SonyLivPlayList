@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "16:02:02 07-01-2026",
+    "last update time": "16:32:32 07-01-2026",
     "matches": [
         {
             "event_category": "Tennis",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "United Cup 2026 ",
             "match_name": "Switzerland vs Argentina - Quarter-final - 7 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767825121~acl=/*~id=57721773583288737207370710228494~hmac=750463f22043bfd46e9b0068b5a5d4bcfff0d048ff32103a773ffd0c3fa4ff89",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767825121~acl=/*~id=57721773583288737207370710228494~hmac=750463f22043bfd46e9b0068b5a5d4bcfff0d048ff32103a773ffd0c3fa4ff89",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767825121~acl=/*~id=57721773583288737207370710228494~hmac=750463f22043bfd46e9b0068b5a5d4bcfff0d048ff32103a773ffd0c3fa4ff89"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767826952~acl=/*~id=69932613064436429710242126042152~hmac=d70cad8fd77f409a62c27df7a2296778b968408dd568120750b423cf61924a92",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767826952~acl=/*~id=69932613064436429710242126042152~hmac=d70cad8fd77f409a62c27df7a2296778b968408dd568120750b423cf61924a92",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767826952~acl=/*~id=69932613064436429710242126042152~hmac=d70cad8fd77f409a62c27df7a2296778b968408dd568120750b423cf61924a92"
         },
         {
             "event_category": "Tennis",
