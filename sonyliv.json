@@ -1,20 +1,20 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "08:14:39 07-01-2026",
+    "last update time": "09:25:53 07-01-2026",
     "matches": [
         {
             "event_category": "Cricket",
             "isLive": true,
-            "contentId": "1090498838_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012758/1766836424934385_SuperSmash2526_womens_Wellington-Blaze-vs-Central-Hinds_27dec_landscape_thumb.jpg",
+            "contentId": "1090498834_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012758/1766837945135385_SuperSmash2526_mens_Wellington-Firebirds-vs-Central-Stags_27dec_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
-            "event_name": "Super Smash 2025/26 Women's",
-            "match_name": "Wellington Blaze vs Central Hinds- 7 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767797078~acl=/*~id=07748566736254253724031754143328~hmac=26cf97431a7bbfac1084fe2ce24aad8592c27c0a1a496d1e2139fc1c73374873",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767797078~acl=/*~id=07748566736254253724031754143328~hmac=26cf97431a7bbfac1084fe2ce24aad8592c27c0a1a496d1e2139fc1c73374873",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767797078~acl=/*~id=07748566736254253724031754143328~hmac=26cf97431a7bbfac1084fe2ce24aad8592c27c0a1a496d1e2139fc1c73374873"
+            "event_name": "Super Smash 2025/26 Men's",
+            "match_name": "Wellington Firebirds vs Central Stags - 7 Jan 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767801351~acl=/*~id=26066792618828374594733807476510~hmac=bb34cf1d6200c93c7e06541cba158b532176324bf12fd3940c1a884b0a54d3b1",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767801351~acl=/*~id=26066792618828374594733807476510~hmac=bb34cf1d6200c93c7e06541cba158b532176324bf12fd3940c1a884b0a54d3b1",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767801351~acl=/*~id=26066792618828374594733807476510~hmac=bb34cf1d6200c93c7e06541cba158b532176324bf12fd3940c1a884b0a54d3b1"
         },
         {
             "event_category": "Tennis",
@@ -24,10 +24,10 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "United Cup 2026 ",
-            "match_name": "USA vs Greece - Quarter-final - 6 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767797078~acl=/*~id=07748566736254253724031754143328~hmac=26cf97431a7bbfac1084fe2ce24aad8592c27c0a1a496d1e2139fc1c73374873",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767797078~acl=/*~id=07748566736254253724031754143328~hmac=26cf97431a7bbfac1084fe2ce24aad8592c27c0a1a496d1e2139fc1c73374873",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767797078~acl=/*~id=07748566736254253724031754143328~hmac=26cf97431a7bbfac1084fe2ce24aad8592c27c0a1a496d1e2139fc1c73374873"
+            "match_name": "USA vs Greece - Quarter-final - 7 Jan 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767801351~acl=/*~id=26066792618828374594733807476510~hmac=bb34cf1d6200c93c7e06541cba158b532176324bf12fd3940c1a884b0a54d3b1",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767801351~acl=/*~id=26066792618828374594733807476510~hmac=bb34cf1d6200c93c7e06541cba158b532176324bf12fd3940c1a884b0a54d3b1",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767801351~acl=/*~id=26066792618828374594733807476510~hmac=bb34cf1d6200c93c7e06541cba158b532176324bf12fd3940c1a884b0a54d3b1"
         },
         {
             "event_category": "Tennis",
@@ -38,9 +38,9 @@
             "audioLanguageName": "ENG",
             "event_name": "United Cup 2026 ",
             "match_name": "Poland vs Netherlands - 7 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767797078~acl=/*~id=07748566736254253724031754143328~hmac=26cf97431a7bbfac1084fe2ce24aad8592c27c0a1a496d1e2139fc1c73374873",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767797078~acl=/*~id=07748566736254253724031754143328~hmac=26cf97431a7bbfac1084fe2ce24aad8592c27c0a1a496d1e2139fc1c73374873",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767797078~acl=/*~id=07748566736254253724031754143328~hmac=26cf97431a7bbfac1084fe2ce24aad8592c27c0a1a496d1e2139fc1c73374873"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767801351~acl=/*~id=26066792618828374594733807476510~hmac=bb34cf1d6200c93c7e06541cba158b532176324bf12fd3940c1a884b0a54d3b1",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767801351~acl=/*~id=26066792618828374594733807476510~hmac=bb34cf1d6200c93c7e06541cba158b532176324bf12fd3940c1a884b0a54d3b1",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767801351~acl=/*~id=26066792618828374594733807476510~hmac=bb34cf1d6200c93c7e06541cba158b532176324bf12fd3940c1a884b0a54d3b1"
         },
         {
             "event_category": "Tennis",
