@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:39:48 08-01-2026",
+    "last update time": "13:00:12 08-01-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": " Super Smash 2025/26 Women's",
             "match_name": "Northern Brave vs Canterbury Magicians- 8 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767899387~acl=/*~id=49205249060036716322682632851516~hmac=c0405469fad4141ecf782d1aefeadd23b09f6a285a4a49dddf4479cec2eeffde",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767899387~acl=/*~id=49205249060036716322682632851516~hmac=c0405469fad4141ecf782d1aefeadd23b09f6a285a4a49dddf4479cec2eeffde",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767899387~acl=/*~id=49205249060036716322682632851516~hmac=c0405469fad4141ecf782d1aefeadd23b09f6a285a4a49dddf4479cec2eeffde"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767900611~acl=/*~id=22951635726062092096257133545451~hmac=5959833a694c008a12e1f9f494c7055d85ed08dd6335a00e73901efb9e162cc3",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767900611~acl=/*~id=22951635726062092096257133545451~hmac=5959833a694c008a12e1f9f494c7055d85ed08dd6335a00e73901efb9e162cc3",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767900611~acl=/*~id=22951635726062092096257133545451~hmac=5959833a694c008a12e1f9f494c7055d85ed08dd6335a00e73901efb9e162cc3"
         },
         {
             "event_category": "Tennis",
@@ -25,9 +25,9 @@
             "audioLanguageName": "ENG",
             "event_name": "United Cup 2026 ",
             "match_name": "Belgium vs Czechia - Quarter-final - 8 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767899387~acl=/*~id=49205249060036716322682632851516~hmac=c0405469fad4141ecf782d1aefeadd23b09f6a285a4a49dddf4479cec2eeffde",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767899387~acl=/*~id=49205249060036716322682632851516~hmac=c0405469fad4141ecf782d1aefeadd23b09f6a285a4a49dddf4479cec2eeffde",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767899387~acl=/*~id=49205249060036716322682632851516~hmac=c0405469fad4141ecf782d1aefeadd23b09f6a285a4a49dddf4479cec2eeffde"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767900611~acl=/*~id=22951635726062092096257133545451~hmac=5959833a694c008a12e1f9f494c7055d85ed08dd6335a00e73901efb9e162cc3",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767900611~acl=/*~id=22951635726062092096257133545451~hmac=5959833a694c008a12e1f9f494c7055d85ed08dd6335a00e73901efb9e162cc3",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767900611~acl=/*~id=22951635726062092096257133545451~hmac=5959833a694c008a12e1f9f494c7055d85ed08dd6335a00e73901efb9e162cc3"
         },
         {
             "event_category": "Tennis",
@@ -42,7 +42,7 @@
             "event_category": "Football",
             "isLive": false,
             "contentId": 1090499071,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013093/1767806065360184_PROMO_FA_CUP_10TH_JAN_COMBO_PROMO_30SEC_HOR_DATED_Landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013071/1767779007448928_FAcup26_Man_City_vs_Exeter_City_6jan_dated_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Emirates FA Cup"
