@@ -1,21 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:26:38 08-01-2026",
+    "last update time": "10:07:15 08-01-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": "1090498842_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012825/1766989671919768_SuperSmash2526_mens_Northern-Brave-vs-Canterbury-Kings_29dec_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Super Smash 2025/26 Men's",
-            "match_name": "Northern Brave vs Canterbury Kings - 8 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767887797~acl=/*~id=83365446308454150128880281587469~hmac=bd28d91ac2e3c3ad1f0d18b6c8b4f3d151463b770ac5d68cec7c1d56dcd11426",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767887797~acl=/*~id=83365446308454150128880281587469~hmac=bd28d91ac2e3c3ad1f0d18b6c8b4f3d151463b770ac5d68cec7c1d56dcd11426",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767887797~acl=/*~id=83365446308454150128880281587469~hmac=bd28d91ac2e3c3ad1f0d18b6c8b4f3d151463b770ac5d68cec7c1d56dcd11426"
-        },
         {
             "event_category": "Tennis",
             "isLive": false,
