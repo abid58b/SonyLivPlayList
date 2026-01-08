@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "16:02:59 08-01-2026",
+    "last update time": "16:33:31 08-01-2026",
     "matches": [
         {
             "event_category": "Tennis",
@@ -12,18 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "United Cup 2026 ",
             "match_name": "Belgium vs Czechia - Quarter-final - 8 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767911579~acl=/*~id=13919594334566187462802576478182~hmac=5e094a1cd458ec97e39e598447cf51b5d163db5e0ddeec9d43595621dde6a536",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767911579~acl=/*~id=13919594334566187462802576478182~hmac=5e094a1cd458ec97e39e598447cf51b5d163db5e0ddeec9d43595621dde6a536",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767911579~acl=/*~id=13919594334566187462802576478182~hmac=5e094a1cd458ec97e39e598447cf51b5d163db5e0ddeec9d43595621dde6a536"
-        },
-        {
-            "event_category": "Tennis",
-            "isLive": false,
-            "contentId": 1090498827,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013035/1767702253991538_AO25_9dec_dated_Landscape_thumb_re1.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Australian Open 2026"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767913411~acl=/*~id=16287727787384766602973410835761~hmac=d949d295c86695a4fa781664830ed40ffbd3ad41529caac0a0099c0d838df03b",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767913411~acl=/*~id=16287727787384766602973410835761~hmac=d949d295c86695a4fa781664830ed40ffbd3ad41529caac0a0099c0d838df03b",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767913411~acl=/*~id=16287727787384766602973410835761~hmac=d949d295c86695a4fa781664830ed40ffbd3ad41529caac0a0099c0d838df03b"
         },
         {
             "event_category": "Football",
@@ -33,6 +24,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Emirates FA Cup"
+        },
+        {
+            "event_category": "Tennis",
+            "isLive": false,
+            "contentId": 1090498827,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013035/1767702253991538_AO25_9dec_dated_Landscape_thumb_re1.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Australian Open 2026"
         },
         {
             "event_category": "Cricket",
