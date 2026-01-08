@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "15:42:40 08-01-2026",
+    "last update time": "16:02:59 08-01-2026",
     "matches": [
         {
             "event_category": "Tennis",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "United Cup 2026 ",
             "match_name": "Belgium vs Czechia - Quarter-final - 8 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767910360~acl=/*~id=69555889919944373922348954768212~hmac=133fe0f1d84873b0fcf32133e89fbfe5504ffc708fd89067db7e88222b242b3f",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767910360~acl=/*~id=69555889919944373922348954768212~hmac=133fe0f1d84873b0fcf32133e89fbfe5504ffc708fd89067db7e88222b242b3f",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767910360~acl=/*~id=69555889919944373922348954768212~hmac=133fe0f1d84873b0fcf32133e89fbfe5504ffc708fd89067db7e88222b242b3f"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767911579~acl=/*~id=13919594334566187462802576478182~hmac=5e094a1cd458ec97e39e598447cf51b5d163db5e0ddeec9d43595621dde6a536",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767911579~acl=/*~id=13919594334566187462802576478182~hmac=5e094a1cd458ec97e39e598447cf51b5d163db5e0ddeec9d43595621dde6a536",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767911579~acl=/*~id=13919594334566187462802576478182~hmac=5e094a1cd458ec97e39e598447cf51b5d163db5e0ddeec9d43595621dde6a536"
         },
         {
             "event_category": "Tennis",
