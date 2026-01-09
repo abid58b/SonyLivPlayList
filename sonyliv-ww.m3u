@@ -1,4 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1090498845_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012825/1766993127014768_SuperSmash2526_mens_Wellington-Firebirds-vs-Otago-Volts_29dec_landscape_thumb.jpg" group-title="Live",Wellington Firebirds vs Otago Volts - 9 Jan 2026 [ENG] - Super Smash 2025/26 Men's - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767980270~acl=/*~id=55247267097085637944421156637807~hmac=bf3659f285d102393c1aaf1fb89455543cb2d8285817021ef395cb8d38c26bbc
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767984524~acl=/*~id=57657086000414143310192123176119~hmac=1e3bf8cb07c8fb748b2f72ad7c1a5261cdfca812fa94124a4a005095fd36fb21
+#EXTINF:-1 tvg-id="1090499138_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013066/1767773302425351_UC26_QF_Australia_vs_Poland_7jan_landscape_thumb.jpg" group-title="Live",Australia vs Poland - Quarter-final - 9 Jan 2026 [ENG] - United Cup 2026  - ENG
+#EXTVLCOPT:http-referrer=https://allinonereborn.online/
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767984524~acl=/*~id=57657086000414143310192123176119~hmac=1e3bf8cb07c8fb748b2f72ad7c1a5261cdfca812fa94124a4a005095fd36fb21
