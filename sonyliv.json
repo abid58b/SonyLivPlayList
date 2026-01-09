@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "16:11:50 09-01-2026",
+    "last update time": "16:32:06 09-01-2026",
     "matches": [
         {
             "event_category": "Tennis",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "United Cup 2026 ",
             "match_name": "Australia vs Poland - Quarter-final - 9 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767998510~acl=/*~id=22115142993156760704563456215087~hmac=742babeb05324f4fd74509864a386a967e688e3a5cd575adc8a0ffb89e5f3945",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767998510~acl=/*~id=22115142993156760704563456215087~hmac=742babeb05324f4fd74509864a386a967e688e3a5cd575adc8a0ffb89e5f3945",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767998510~acl=/*~id=22115142993156760704563456215087~hmac=742babeb05324f4fd74509864a386a967e688e3a5cd575adc8a0ffb89e5f3945"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767999726~acl=/*~id=11969095446279505635786109245340~hmac=843cf4d96a5b0ab236dee9f7caf03d10590c66bb28bad34fb6dc7660310be32b",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767999726~acl=/*~id=11969095446279505635786109245340~hmac=843cf4d96a5b0ab236dee9f7caf03d10590c66bb28bad34fb6dc7660310be32b",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767999726~acl=/*~id=11969095446279505635786109245340~hmac=843cf4d96a5b0ab236dee9f7caf03d10590c66bb28bad34fb6dc7660310be32b"
         },
         {
             "event_category": "Football",
