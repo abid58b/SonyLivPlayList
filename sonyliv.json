@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:06:15 11-01-2026",
+    "last update time": "01:36:43 11-01-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -12,61 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "The Emirates FA Cup 2025-26",
             "match_name": "Charlton vs Chelsea - Round 3 - 11 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768116973~acl=/*~id=29914769926338132172224637583603~hmac=4d5bea50ba6da9fd67cbf2eb8a9308fae9a8e78f689c6da9993bf313c7e96bba",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768116973~acl=/*~id=29914769926338132172224637583603~hmac=4d5bea50ba6da9fd67cbf2eb8a9308fae9a8e78f689c6da9993bf313c7e96bba",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768116973~acl=/*~id=29914769926338132172224637583603~hmac=4d5bea50ba6da9fd67cbf2eb8a9308fae9a8e78f689c6da9993bf313c7e96bba"
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090499181_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013192/1767983336654263_facup26_RD3_Tottenham_vs_Aston_Villa_9jan_eng_Landscape_thumb_re1.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "The Emirates FA Cup 2025-26",
-            "match_name": "Tottenham vs Aston Villa - Round 3 - 10 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768116973~acl=/*~id=29914769926338132172224637583603~hmac=4d5bea50ba6da9fd67cbf2eb8a9308fae9a8e78f689c6da9993bf313c7e96bba",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768116973~acl=/*~id=29914769926338132172224637583603~hmac=4d5bea50ba6da9fd67cbf2eb8a9308fae9a8e78f689c6da9993bf313c7e96bba",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768116973~acl=/*~id=29914769926338132172224637583603~hmac=4d5bea50ba6da9fd67cbf2eb8a9308fae9a8e78f689c6da9993bf313c7e96bba"
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090499181_HIN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013192/1767983336654263_facup26_RD3_Tottenham_vs_Aston_Villa_9jan_eng_Landscape_thumb_re1.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "The Emirates FA Cup 2025-26",
-            "match_name": "Tottenham vs Aston Villa - Round 3 - 10 Jan 2026 [HIN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768116973~acl=/*~id=29914769926338132172224637583603~hmac=4d5bea50ba6da9fd67cbf2eb8a9308fae9a8e78f689c6da9993bf313c7e96bba",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768116973~acl=/*~id=29914769926338132172224637583603~hmac=4d5bea50ba6da9fd67cbf2eb8a9308fae9a8e78f689c6da9993bf313c7e96bba",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768116973~acl=/*~id=29914769926338132172224637583603~hmac=4d5bea50ba6da9fd67cbf2eb8a9308fae9a8e78f689c6da9993bf313c7e96bba"
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090499181_TAM",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013192/1767983336654263_facup26_RD3_Tottenham_vs_Aston_Villa_9jan_eng_Landscape_thumb_re1.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "The Emirates FA Cup 2025-26",
-            "match_name": "Tottenham vs Aston Villa - Round 3 - 10 Jan 2026 [TAM]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768116973~acl=/*~id=29914769926338132172224637583603~hmac=4d5bea50ba6da9fd67cbf2eb8a9308fae9a8e78f689c6da9993bf313c7e96bba",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768116973~acl=/*~id=29914769926338132172224637583603~hmac=4d5bea50ba6da9fd67cbf2eb8a9308fae9a8e78f689c6da9993bf313c7e96bba",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768116973~acl=/*~id=29914769926338132172224637583603~hmac=4d5bea50ba6da9fd67cbf2eb8a9308fae9a8e78f689c6da9993bf313c7e96bba"
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090499181_TEL",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013192/1767983336654263_facup26_RD3_Tottenham_vs_Aston_Villa_9jan_eng_Landscape_thumb_re1.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "The Emirates FA Cup 2025-26",
-            "match_name": "Tottenham vs Aston Villa - Round 3 - 10 Jan 2026 [TEL]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768116973~acl=/*~id=29914769926338132172224637583603~hmac=4d5bea50ba6da9fd67cbf2eb8a9308fae9a8e78f689c6da9993bf313c7e96bba",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768116973~acl=/*~id=29914769926338132172224637583603~hmac=4d5bea50ba6da9fd67cbf2eb8a9308fae9a8e78f689c6da9993bf313c7e96bba",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768116973~acl=/*~id=29914769926338132172224637583603~hmac=4d5bea50ba6da9fd67cbf2eb8a9308fae9a8e78f689c6da9993bf313c7e96bba"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768118803~acl=/*~id=39828945937182385331397551153695~hmac=82d908afbdd6a19aa3e1bac3e2245a8dee99466a033437f2507f664458fd26ce",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768118803~acl=/*~id=39828945937182385331397551153695~hmac=82d908afbdd6a19aa3e1bac3e2245a8dee99466a033437f2507f664458fd26ce",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768118803~acl=/*~id=39828945937182385331397551153695~hmac=82d908afbdd6a19aa3e1bac3e2245a8dee99466a033437f2507f664458fd26ce"
         },
         {
             "event_category": "Racing",
@@ -77,15 +25,15 @@
             "audioLanguageName": "ENG",
             "event_name": "ABB FIA Formula E World Championship",
             "match_name": "Round 2 - Hankook Mexico City E-Prix - Final Race - 11 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768116973~acl=/*~id=29914769926338132172224637583603~hmac=4d5bea50ba6da9fd67cbf2eb8a9308fae9a8e78f689c6da9993bf313c7e96bba",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768116973~acl=/*~id=29914769926338132172224637583603~hmac=4d5bea50ba6da9fd67cbf2eb8a9308fae9a8e78f689c6da9993bf313c7e96bba",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768116973~acl=/*~id=29914769926338132172224637583603~hmac=4d5bea50ba6da9fd67cbf2eb8a9308fae9a8e78f689c6da9993bf313c7e96bba"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768118803~acl=/*~id=39828945937182385331397551153695~hmac=82d908afbdd6a19aa3e1bac3e2245a8dee99466a033437f2507f664458fd26ce",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768118803~acl=/*~id=39828945937182385331397551153695~hmac=82d908afbdd6a19aa3e1bac3e2245a8dee99466a033437f2507f664458fd26ce",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768118803~acl=/*~id=39828945937182385331397551153695~hmac=82d908afbdd6a19aa3e1bac3e2245a8dee99466a033437f2507f664458fd26ce"
         },
         {
             "event_category": "Cricket",
             "isLive": false,
             "contentId": 1090498875,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013031/1767698493209522_SLvsPAK26_3t20i_dated_6jan_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013031/1767698477715522_SLvsPAK26_3t20i_tonight_6jan_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Pakistan Tour of Sri Lanka 2026"
@@ -121,7 +69,7 @@
             "event_category": "Football",
             "isLive": false,
             "contentId": 1090499083,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013071/1767778756103928_FAcup26_Portsmouth_vs_Arsenal_6jan_dated_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013071/1767778722855928_FAcup26_Portsmouth_vs_Arsenal_6jan_tonight_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Emirates FA Cup - Portsmouth vs Arsenal"
@@ -130,7 +78,7 @@
             "event_category": "Football",
             "isLive": false,
             "contentId": 1090499081,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013045/1767710818201257_FAcup26_Man_Utd_vs_Brighton_and_Hove_Albion_6jan_dated_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013045/1767710830080257_FAcup26_Man_Utd_vs_Brighton_and_Hove_Albion_6jan_tonight_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Emirates FA Cup - Manchester United vs Brighton & Hove Albion"
