@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "17:08:53 10-01-2026",
+    "last update time": "17:39:17 10-01-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "The Emirates FA Cup 2025-26",
             "match_name": "Macclesfield vs Crystal Palace - Round 3 - 10 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768088333~acl=/*~id=11091119960716449469011823305635~hmac=7c2961ab45fbdedc394fb66cf172c7d088d48ce674896d30a0575db8343874d2",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768088333~acl=/*~id=11091119960716449469011823305635~hmac=7c2961ab45fbdedc394fb66cf172c7d088d48ce674896d30a0575db8343874d2",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768088333~acl=/*~id=11091119960716449469011823305635~hmac=7c2961ab45fbdedc394fb66cf172c7d088d48ce674896d30a0575db8343874d2"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768090156~acl=/*~id=26394732235929397586858829393495~hmac=c5bffffe9995e7cf1bdeccaf20589482d1204e127e0b90828e48413882b3559e",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768090156~acl=/*~id=26394732235929397586858829393495~hmac=c5bffffe9995e7cf1bdeccaf20589482d1204e127e0b90828e48413882b3559e",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768090156~acl=/*~id=26394732235929397586858829393495~hmac=c5bffffe9995e7cf1bdeccaf20589482d1204e127e0b90828e48413882b3559e"
         },
         {
             "event_category": "Tennis",
@@ -25,9 +25,9 @@
             "audioLanguageName": "ENG",
             "event_name": "United Cup 2026 ",
             "match_name": "USA vs Poland - Semi-final - 10 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768088333~acl=/*~id=11091119960716449469011823305635~hmac=7c2961ab45fbdedc394fb66cf172c7d088d48ce674896d30a0575db8343874d2",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768088333~acl=/*~id=11091119960716449469011823305635~hmac=7c2961ab45fbdedc394fb66cf172c7d088d48ce674896d30a0575db8343874d2",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768088333~acl=/*~id=11091119960716449469011823305635~hmac=7c2961ab45fbdedc394fb66cf172c7d088d48ce674896d30a0575db8343874d2"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768090156~acl=/*~id=26394732235929397586858829393495~hmac=c5bffffe9995e7cf1bdeccaf20589482d1204e127e0b90828e48413882b3559e",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768090156~acl=/*~id=26394732235929397586858829393495~hmac=c5bffffe9995e7cf1bdeccaf20589482d1204e127e0b90828e48413882b3559e",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768090156~acl=/*~id=26394732235929397586858829393495~hmac=c5bffffe9995e7cf1bdeccaf20589482d1204e127e0b90828e48413882b3559e"
         },
         {
             "event_category": "Football",
