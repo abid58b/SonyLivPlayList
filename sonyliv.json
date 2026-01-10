@@ -1,20 +1,20 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:08:15 10-01-2026",
+    "last update time": "12:38:40 10-01-2026",
     "matches": [
         {
             "event_category": "Tennis",
             "isLive": true,
             "contentId": "1090499151_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013171/1767959265113119_UC26_SF_Switzerland_vs_Belgium_9jan_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013177/1767966837383634_UC26_SF_USA_vs_Poland_9jan_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "United Cup 2026 ",
-            "match_name": "Switzerland vs Belgium - Semi-final - 10 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768070295~acl=/*~id=69951453493297963898297240092524~hmac=8f6cb0948fadf94e1ff6fc48f4e7ddc9392a7225cdc1151325841f72248060e2",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768070295~acl=/*~id=69951453493297963898297240092524~hmac=8f6cb0948fadf94e1ff6fc48f4e7ddc9392a7225cdc1151325841f72248060e2",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768070295~acl=/*~id=69951453493297963898297240092524~hmac=8f6cb0948fadf94e1ff6fc48f4e7ddc9392a7225cdc1151325841f72248060e2"
+            "match_name": "USA vs Poland - Semi-final - 10 Jan 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768072119~acl=/*~id=06673965910521073537833833951496~hmac=a54a816ecb2fa52906413e10ae78152cb9b50d72ea0302344ffba347f6a8ff28",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768072119~acl=/*~id=06673965910521073537833833951496~hmac=a54a816ecb2fa52906413e10ae78152cb9b50d72ea0302344ffba347f6a8ff28",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768072119~acl=/*~id=06673965910521073537833833951496~hmac=a54a816ecb2fa52906413e10ae78152cb9b50d72ea0302344ffba347f6a8ff28"
         },
         {
             "event_category": "Cricket",
@@ -25,9 +25,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Super Smash 2025/26 Men's",
             "match_name": "Canterbury Kings vs Auckland Aces - 10 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768070295~acl=/*~id=69951453493297963898297240092524~hmac=8f6cb0948fadf94e1ff6fc48f4e7ddc9392a7225cdc1151325841f72248060e2",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768070295~acl=/*~id=69951453493297963898297240092524~hmac=8f6cb0948fadf94e1ff6fc48f4e7ddc9392a7225cdc1151325841f72248060e2",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768070295~acl=/*~id=69951453493297963898297240092524~hmac=8f6cb0948fadf94e1ff6fc48f4e7ddc9392a7225cdc1151325841f72248060e2"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768072119~acl=/*~id=06673965910521073537833833951496~hmac=a54a816ecb2fa52906413e10ae78152cb9b50d72ea0302344ffba347f6a8ff28",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768072119~acl=/*~id=06673965910521073537833833951496~hmac=a54a816ecb2fa52906413e10ae78152cb9b50d72ea0302344ffba347f6a8ff28",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768072119~acl=/*~id=06673965910521073537833833951496~hmac=a54a816ecb2fa52906413e10ae78152cb9b50d72ea0302344ffba347f6a8ff28"
         },
         {
             "event_category": "Football",
