@@ -1,60 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "23:44:15 11-01-2026",
+    "last update time": "00:14:43 12-01-2026",
     "matches": [
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090499186_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013192/1767983539075263_FA_CUP_26_RD3_Man-United-vs-Brighton_9jan_eng_landscape_thumb_re1.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "The Emirates FA Cup 2025-26",
-            "match_name": "Manchester United vs Brighton & Hove Albion - Round 3 - 11 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768198453~acl=/*~id=10477711441505975404575262158837~hmac=928dbc5a86bcafb64fc9092b81ab77424cc54d6fc1b34670e790de41f712e732",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768198453~acl=/*~id=10477711441505975404575262158837~hmac=928dbc5a86bcafb64fc9092b81ab77424cc54d6fc1b34670e790de41f712e732",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768198453~acl=/*~id=10477711441505975404575262158837~hmac=928dbc5a86bcafb64fc9092b81ab77424cc54d6fc1b34670e790de41f712e732"
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090499186_HIN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013192/1767983539075263_FA_CUP_26_RD3_Man-United-vs-Brighton_9jan_eng_landscape_thumb_re1.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "The Emirates FA Cup 2025-26",
-            "match_name": "Manchester United vs Brighton & Hove Albion - Round 3 - 11 Jan 2026 [HIN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768198453~acl=/*~id=10477711441505975404575262158837~hmac=928dbc5a86bcafb64fc9092b81ab77424cc54d6fc1b34670e790de41f712e732",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768198453~acl=/*~id=10477711441505975404575262158837~hmac=928dbc5a86bcafb64fc9092b81ab77424cc54d6fc1b34670e790de41f712e732",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768198453~acl=/*~id=10477711441505975404575262158837~hmac=928dbc5a86bcafb64fc9092b81ab77424cc54d6fc1b34670e790de41f712e732"
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090499186_TAM",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013192/1767983539075263_FA_CUP_26_RD3_Man-United-vs-Brighton_9jan_eng_landscape_thumb_re1.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "The Emirates FA Cup 2025-26",
-            "match_name": "Manchester United vs Brighton & Hove Albion - Round 3 - 11 Jan 2026 [TAM]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768198453~acl=/*~id=10477711441505975404575262158837~hmac=928dbc5a86bcafb64fc9092b81ab77424cc54d6fc1b34670e790de41f712e732",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768198453~acl=/*~id=10477711441505975404575262158837~hmac=928dbc5a86bcafb64fc9092b81ab77424cc54d6fc1b34670e790de41f712e732",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768198453~acl=/*~id=10477711441505975404575262158837~hmac=928dbc5a86bcafb64fc9092b81ab77424cc54d6fc1b34670e790de41f712e732"
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090499186_TEL",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013192/1767983539075263_FA_CUP_26_RD3_Man-United-vs-Brighton_9jan_eng_landscape_thumb_re1.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "The Emirates FA Cup 2025-26",
-            "match_name": "Manchester United vs Brighton & Hove Albion - Round 3 - 11 Jan 2026 [TEL]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768198453~acl=/*~id=10477711441505975404575262158837~hmac=928dbc5a86bcafb64fc9092b81ab77424cc54d6fc1b34670e790de41f712e732",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768198453~acl=/*~id=10477711441505975404575262158837~hmac=928dbc5a86bcafb64fc9092b81ab77424cc54d6fc1b34670e790de41f712e732",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768198453~acl=/*~id=10477711441505975404575262158837~hmac=928dbc5a86bcafb64fc9092b81ab77424cc54d6fc1b34670e790de41f712e732"
-        },
         {
             "event_category": "Cricket",
             "isLive": true,
@@ -64,19 +12,63 @@
             "audioLanguageName": "ENG",
             "event_name": "Pakistan Tour of Sri Lanka 2026",
             "match_name": "3rd T20I - 11 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI35-criclive/std_lrh-800300010.m3u8?hdnea=exp=1768198453~acl=/*~id=10477711441505975404575262158837~hmac=928dbc5a86bcafb64fc9092b81ab77424cc54d6fc1b34670e790de41f712e732",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI35-criclive/std_lrh-800300010.m3u8?hdnea=exp=1768198453~acl=/*~id=10477711441505975404575262158837~hmac=928dbc5a86bcafb64fc9092b81ab77424cc54d6fc1b34670e790de41f712e732",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI35-criclive/std_lrh-800300010.m3u8?hdnea=exp=1768198453~acl=/*~id=10477711441505975404575262158837~hmac=928dbc5a86bcafb64fc9092b81ab77424cc54d6fc1b34670e790de41f712e732"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI35-criclive/std_lrh-800300010.m3u8?hdnea=exp=1768200283~acl=/*~id=66720094833656007653919977297209~hmac=abf1d6d0b54ab8e9bf318d356f2de40f6446476c5c308d5249b701ab809c5b96",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI35-criclive/std_lrh-800300010.m3u8?hdnea=exp=1768200283~acl=/*~id=66720094833656007653919977297209~hmac=abf1d6d0b54ab8e9bf318d356f2de40f6446476c5c308d5249b701ab809c5b96",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI35-criclive/std_lrh-800300010.m3u8?hdnea=exp=1768200283~acl=/*~id=66720094833656007653919977297209~hmac=abf1d6d0b54ab8e9bf318d356f2de40f6446476c5c308d5249b701ab809c5b96"
         },
         {
             "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090499309_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013116/1767865953725351_Bundesliga_MD16_Bayern-Munich-vs-VfL-Wolfsburg_landscape_thumb.jpg",
+            "isLive": false,
+            "contentId": 1090499082,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013071/1767778522343928_FAcup26_Liverpool_vs_Barnsley_6jan_dated_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Emirates FA Cup - Liverpool vs Barnsley"
+        },
+        {
+            "event_category": "Tennis",
+            "isLive": false,
+            "contentId": 1090498827,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013035/1767702253991538_AO25_9dec_dated_Landscape_thumb_re1.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Australian Open 2026"
+        },
+        {
+            "event_category": "Sports",
+            "isLive": false,
+            "contentId": 1090498545,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012709/1766658044515568_New_years_new_action_non_stop_sports_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
-            "event_name": "Bundesliga 2025-26",
-            "match_name": "Bayern Munich vs VfL Wolfsburg - MD 16 - 11 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768198453~acl=/*~id=10477711441505975404575262158837~hmac=928dbc5a86bcafb64fc9092b81ab77424cc54d6fc1b34670e790de41f712e732",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768198453~acl=/*~id=10477711441505975404575262158837~hmac=928dbc5a86bcafb64fc9092b81ab77424cc54d6fc1b34670e790de41f712e732",
-            "vi
+            "event_name": "Upcoming - Iconic Sports Sizzlers"
+        },
+        {
+            "event_category": "Tennis",
+            "isLive": false,
+            "contentId": 1090496895,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012914/1767431793855494_Australian-Open-2026-Promo-Thumbs_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Australian Open 2026"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090499079,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013076/1767785016471119_FA_CUP_3rdRD_Landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Emirates FA Cup - Round 3"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090499230,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013163/1767950286474880_FA-CUP_Round-3-promo_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Emirates FA Cup - Round 3"
+        }
+    ]
+}
