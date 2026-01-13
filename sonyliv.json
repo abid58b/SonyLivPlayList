@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "00:32:53 14-01-2026",
+    "last update time": "00:53:12 14-01-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Bundesliga 2025-26",
             "match_name": "Borussia Dortmund vs Werder Bremen - MD 17 - 14 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768374171~acl=/*~id=08555792742636773160059547544612~hmac=ac680059e0c503afbaf20e98ad3b205a7148e71b92a431d65b175454bcd93403",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768374171~acl=/*~id=08555792742636773160059547544612~hmac=ac680059e0c503afbaf20e98ad3b205a7148e71b92a431d65b175454bcd93403",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768374171~acl=/*~id=08555792742636773160059547544612~hmac=ac680059e0c503afbaf20e98ad3b205a7148e71b92a431d65b175454bcd93403"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768375391~acl=/*~id=95768847806231542515094975409588~hmac=4f84546681b2dbfd52862caa28244b3fb1ba9da6a2d83b7986b5dfebc550c5e2",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768375391~acl=/*~id=95768847806231542515094975409588~hmac=4f84546681b2dbfd52862caa28244b3fb1ba9da6a2d83b7986b5dfebc550c5e2",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768375391~acl=/*~id=95768847806231542515094975409588~hmac=4f84546681b2dbfd52862caa28244b3fb1ba9da6a2d83b7986b5dfebc550c5e2"
         },
         {
             "event_category": "Football",
@@ -25,9 +25,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Bundesliga 2025-26",
             "match_name": "VfB Stuttgart vs Eintracht Frankfurt - MD 17 - 13 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768374171~acl=/*~id=08555792742636773160059547544612~hmac=ac680059e0c503afbaf20e98ad3b205a7148e71b92a431d65b175454bcd93403",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768374171~acl=/*~id=08555792742636773160059547544612~hmac=ac680059e0c503afbaf20e98ad3b205a7148e71b92a431d65b175454bcd93403",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768374171~acl=/*~id=08555792742636773160059547544612~hmac=ac680059e0c503afbaf20e98ad3b205a7148e71b92a431d65b175454bcd93403"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768375391~acl=/*~id=95768847806231542515094975409588~hmac=4f84546681b2dbfd52862caa28244b3fb1ba9da6a2d83b7986b5dfebc550c5e2",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768375391~acl=/*~id=95768847806231542515094975409588~hmac=4f84546681b2dbfd52862caa28244b3fb1ba9da6a2d83b7986b5dfebc550c5e2",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768375391~acl=/*~id=95768847806231542515094975409588~hmac=4f84546681b2dbfd52862caa28244b3fb1ba9da6a2d83b7986b5dfebc550c5e2"
         },
         {
             "event_category": "Football",
@@ -38,9 +38,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Bundesliga 2025-26",
             "match_name": "Mainz vs Heidenheim - MD 17 - 14 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768374171~acl=/*~id=08555792742636773160059547544612~hmac=ac680059e0c503afbaf20e98ad3b205a7148e71b92a431d65b175454bcd93403",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768374171~acl=/*~id=08555792742636773160059547544612~hmac=ac680059e0c503afbaf20e98ad3b205a7148e71b92a431d65b175454bcd93403",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768374171~acl=/*~id=08555792742636773160059547544612~hmac=ac680059e0c503afbaf20e98ad3b205a7148e71b92a431d65b175454bcd93403"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768375391~acl=/*~id=95768847806231542515094975409588~hmac=4f84546681b2dbfd52862caa28244b3fb1ba9da6a2d83b7986b5dfebc550c5e2",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768375391~acl=/*~id=95768847806231542515094975409588~hmac=4f84546681b2dbfd52862caa28244b3fb1ba9da6a2d83b7986b5dfebc550c5e2",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768375391~acl=/*~id=95768847806231542515094975409588~hmac=4f84546681b2dbfd52862caa28244b3fb1ba9da6a2d83b7986b5dfebc550c5e2"
         },
         {
             "event_category": "Tennis",
