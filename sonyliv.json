@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "23:11:37 13-01-2026",
+    "last update time": "23:42:04 13-01-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Bundesliga 2025-26",
             "match_name": "VfB Stuttgart vs Eintracht Frankfurt - MD 17 - 13 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768369297~acl=/*~id=66797470997452144357187425686550~hmac=cb0c9533bce6f2209a3bd374e878464da5e1f9221004e9e37e51256051a39c4b",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768369297~acl=/*~id=66797470997452144357187425686550~hmac=cb0c9533bce6f2209a3bd374e878464da5e1f9221004e9e37e51256051a39c4b",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768369297~acl=/*~id=66797470997452144357187425686550~hmac=cb0c9533bce6f2209a3bd374e878464da5e1f9221004e9e37e51256051a39c4b"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768371124~acl=/*~id=18840202552420428650672802587024~hmac=2a1b996360477539f9313f19b7d851fba922373ecaf3323c988a855f046be4cf",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768371124~acl=/*~id=18840202552420428650672802587024~hmac=2a1b996360477539f9313f19b7d851fba922373ecaf3323c988a855f046be4cf",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768371124~acl=/*~id=18840202552420428650672802587024~hmac=2a1b996360477539f9313f19b7d851fba922373ecaf3323c988a855f046be4cf"
         },
         {
             "event_category": "Tennis",
