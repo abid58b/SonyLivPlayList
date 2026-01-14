@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:42:02 14-01-2026",
+    "last update time": "10:22:37 14-01-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Super Smash 2025/26 Women's",
             "match_name": "Auckland Hearts vs Canterbury Magicians - 14 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768407122~acl=/*~id=81673901347596196787433257889027~hmac=377ceecc6372b397b39fb60b3118859e0e3f9ee82da4569374aeec98b5196b0b",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768407122~acl=/*~id=81673901347596196787433257889027~hmac=377ceecc6372b397b39fb60b3118859e0e3f9ee82da4569374aeec98b5196b0b",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768407122~acl=/*~id=81673901347596196787433257889027~hmac=377ceecc6372b397b39fb60b3118859e0e3f9ee82da4569374aeec98b5196b0b"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768409557~acl=/*~id=98417572861354177046124019392763~hmac=13f6e75632cce686c425e672a4da8286262020c5fd6dc818c21e6e8918474318",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768409557~acl=/*~id=98417572861354177046124019392763~hmac=13f6e75632cce686c425e672a4da8286262020c5fd6dc818c21e6e8918474318",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768409557~acl=/*~id=98417572861354177046124019392763~hmac=13f6e75632cce686c425e672a4da8286262020c5fd6dc818c21e6e8918474318"
         },
         {
             "event_category": "Tennis",
@@ -56,7 +56,7 @@
             "event_category": "Football",
             "isLive": false,
             "contentId": 1090499520,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013318/1768288722689266_Bundesliga_26_FC-Koln-vs-Bayern-Munich_13jan_DDT_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013318/1768288741811266_Bundesliga_26_FC-Koln-vs-Bayern-Munich_13jan_tonight_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - FC Koln vs Bayern Munich"
