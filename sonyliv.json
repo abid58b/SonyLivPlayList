@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "08:30:59 14-01-2026",
+    "last update time": "09:42:02 14-01-2026",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090498898_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012915/1767421300004881_SuperSmash2526_womens_Auckland-Hearts-vs-Canterbury-Magicians_1jan_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Super Smash 2025/26 Women's",
+            "match_name": "Auckland Hearts vs Canterbury Magicians - 14 Jan 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768407122~acl=/*~id=81673901347596196787433257889027~hmac=377ceecc6372b397b39fb60b3118859e0e3f9ee82da4569374aeec98b5196b0b",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768407122~acl=/*~id=81673901347596196787433257889027~hmac=377ceecc6372b397b39fb60b3118859e0e3f9ee82da4569374aeec98b5196b0b",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768407122~acl=/*~id=81673901347596196787433257889027~hmac=377ceecc6372b397b39fb60b3118859e0e3f9ee82da4569374aeec98b5196b0b"
+        },
         {
             "event_category": "Tennis",
             "isLive": false,
