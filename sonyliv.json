@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "23:48:19 14-01-2026",
+    "last update time": "00:08:34 15-01-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Bundesliga 2025-26",
             "match_name": "VfL Wolfsburg vs St. Pauli - MD 17 - 14 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768457899~acl=/*~id=28831295009099895936536975767635~hmac=71d35e30440064102edc3340b0337d0509a4ee5f0b787c98273221a5610d4e8e",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768457899~acl=/*~id=28831295009099895936536975767635~hmac=71d35e30440064102edc3340b0337d0509a4ee5f0b787c98273221a5610d4e8e",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768457899~acl=/*~id=28831295009099895936536975767635~hmac=71d35e30440064102edc3340b0337d0509a4ee5f0b787c98273221a5610d4e8e"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768459114~acl=/*~id=44245117814293561756426859745598~hmac=fd31da7540ebf2765e7f73f10c6dea6c20ce6e64584f6a71c0dfbfaedcc55634",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768459114~acl=/*~id=44245117814293561756426859745598~hmac=fd31da7540ebf2765e7f73f10c6dea6c20ce6e64584f6a71c0dfbfaedcc55634",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768459114~acl=/*~id=44245117814293561756426859745598~hmac=fd31da7540ebf2765e7f73f10c6dea6c20ce6e64584f6a71c0dfbfaedcc55634"
         },
         {
             "event_category": "Tennis",
