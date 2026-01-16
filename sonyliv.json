@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "18:48:52 16-01-2026",
+    "last update time": "19:19:14 16-01-2026",
     "matches": [
         {
             "event_category": "Wrestling",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Pro Wrestling League 2026",
             "match_name": "Maharashtra Kesari vs Delhi Dangal Warriors - 16 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768612731~acl=/*~id=03576418748765219519688967595587~hmac=982cecb44bbb9e4f7fecb238e03b0d689447d182232355219ea76a3b369a37d9",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768612731~acl=/*~id=03576418748765219519688967595587~hmac=982cecb44bbb9e4f7fecb238e03b0d689447d182232355219ea76a3b369a37d9",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768612731~acl=/*~id=03576418748765219519688967595587~hmac=982cecb44bbb9e4f7fecb238e03b0d689447d182232355219ea76a3b369a37d9"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768614552~acl=/*~id=29061622927191184721850420694603~hmac=49b43d309c155095dcc5d703ffbc6772172cd15408251bc87f97fdf462ffe8d6",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768614552~acl=/*~id=29061622927191184721850420694603~hmac=49b43d309c155095dcc5d703ffbc6772172cd15408251bc87f97fdf462ffe8d6",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768614552~acl=/*~id=29061622927191184721850420694603~hmac=49b43d309c155095dcc5d703ffbc6772172cd15408251bc87f97fdf462ffe8d6"
         },
         {
             "event_category": "Wrestling",
@@ -25,9 +25,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Pro Wrestling League 2026",
             "match_name": "Maharashtra Kesari vs Delhi Dangal Warriors - 16 Jan 2026 [HIN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768612731~acl=/*~id=03576418748765219519688967595587~hmac=982cecb44bbb9e4f7fecb238e03b0d689447d182232355219ea76a3b369a37d9",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768612731~acl=/*~id=03576418748765219519688967595587~hmac=982cecb44bbb9e4f7fecb238e03b0d689447d182232355219ea76a3b369a37d9",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768612731~acl=/*~id=03576418748765219519688967595587~hmac=982cecb44bbb9e4f7fecb238e03b0d689447d182232355219ea76a3b369a37d9"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768614552~acl=/*~id=29061622927191184721850420694603~hmac=49b43d309c155095dcc5d703ffbc6772172cd15408251bc87f97fdf462ffe8d6",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768614552~acl=/*~id=29061622927191184721850420694603~hmac=49b43d309c155095dcc5d703ffbc6772172cd15408251bc87f97fdf462ffe8d6",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768614552~acl=/*~id=29061622927191184721850420694603~hmac=49b43d309c155095dcc5d703ffbc6772172cd15408251bc87f97fdf462ffe8d6"
         },
         {
             "event_category": "Tennis",
