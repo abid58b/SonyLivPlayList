@@ -1,21 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:55:18 17-01-2026",
+    "last update time": "03:15:30 17-01-2026",
     "matches": [
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090499625_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013455/1768495550897550_bliga26_MD18_Werder_Bremen_vs_Eintracht_Frankfurt_15jan_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Bundesliga 2025-26",
-            "match_name": "Werder Bremen vs Eintracht Frankfurt - MD 18 - 17 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768641918~acl=/*~id=30192276569809235391426707572176~hmac=8a1e71445a2bc374fc93446bc42a6babb5ee5942e0a8c34881a95d1043df3fde",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768641918~acl=/*~id=30192276569809235391426707572176~hmac=8a1e71445a2bc374fc93446bc42a6babb5ee5942e0a8c34881a95d1043df3fde",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768641918~acl=/*~id=30192276569809235391426707572176~hmac=8a1e71445a2bc374fc93446bc42a6babb5ee5942e0a8c34881a95d1043df3fde"
-        },
         {
             "event_category": "Tennis",
             "isLive": false,
