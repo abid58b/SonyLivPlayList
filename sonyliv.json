@@ -1,59 +1,59 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "13:04:24 20-01-2026",
+    "last update time": "13:44:57 20-01-2026",
     "matches": [
         {
             "event_category": "Tennis",
             "isLive": true,
             "contentId": "1090499148_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013518/1768638133540535_AO26_stream1_R1_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013712/1768843670644538_AO2026_Landscape_Thumb_Gaston_vs_Sinner_SP.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Australian Open 2026",
-            "match_name": "Sweeny vs Monfils - Round 1 - 20 Jan 2026\t [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768937663~acl=/*~id=03107107973483728983703561217637~hmac=0722ee08cdb6ca4b763a06edb8a2a1c55acf87f44468b083c6f788d12fc8dd0c",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768937663~acl=/*~id=03107107973483728983703561217637~hmac=0722ee08cdb6ca4b763a06edb8a2a1c55acf87f44468b083c6f788d12fc8dd0c",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768937663~acl=/*~id=03107107973483728983703561217637~hmac=0722ee08cdb6ca4b763a06edb8a2a1c55acf87f44468b083c6f788d12fc8dd0c"
+            "match_name": "Gaston vs Sinner - Round 1 - 20 Jan 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768940096~acl=/*~id=86985603743786083464827156863379~hmac=b2892c0674ee8a492f8462a540805ae06b3c1b4aa84955df26042654442c7933",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768940096~acl=/*~id=86985603743786083464827156863379~hmac=b2892c0674ee8a492f8462a540805ae06b3c1b4aa84955df26042654442c7933",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768940096~acl=/*~id=86985603743786083464827156863379~hmac=b2892c0674ee8a492f8462a540805ae06b3c1b4aa84955df26042654442c7933"
         },
         {
             "event_category": "Tennis",
             "isLive": true,
             "contentId": "1090499148_HIN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013518/1768638133540535_AO26_stream1_R1_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013712/1768843670644538_AO2026_Landscape_Thumb_Gaston_vs_Sinner_SP.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Australian Open 2026",
-            "match_name": "Sweeny vs Monfils - Round 1 - 20 Jan 2026\t [HIN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768937663~acl=/*~id=03107107973483728983703561217637~hmac=0722ee08cdb6ca4b763a06edb8a2a1c55acf87f44468b083c6f788d12fc8dd0c",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768937663~acl=/*~id=03107107973483728983703561217637~hmac=0722ee08cdb6ca4b763a06edb8a2a1c55acf87f44468b083c6f788d12fc8dd0c",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768937663~acl=/*~id=03107107973483728983703561217637~hmac=0722ee08cdb6ca4b763a06edb8a2a1c55acf87f44468b083c6f788d12fc8dd0c"
+            "match_name": "Gaston vs Sinner - Round 1 - 20 Jan 2026 [HIN]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768940096~acl=/*~id=86985603743786083464827156863379~hmac=b2892c0674ee8a492f8462a540805ae06b3c1b4aa84955df26042654442c7933",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768940096~acl=/*~id=86985603743786083464827156863379~hmac=b2892c0674ee8a492f8462a540805ae06b3c1b4aa84955df26042654442c7933",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768940096~acl=/*~id=86985603743786083464827156863379~hmac=b2892c0674ee8a492f8462a540805ae06b3c1b4aa84955df26042654442c7933"
         },
         {
             "event_category": "Tennis",
             "isLive": true,
             "contentId": "1090499148_TAM",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013518/1768638133540535_AO26_stream1_R1_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013712/1768843670644538_AO2026_Landscape_Thumb_Gaston_vs_Sinner_SP.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Australian Open 2026",
-            "match_name": "Sweeny vs Monfils - Round 1 - 20 Jan 2026\t [TAM]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768937663~acl=/*~id=03107107973483728983703561217637~hmac=0722ee08cdb6ca4b763a06edb8a2a1c55acf87f44468b083c6f788d12fc8dd0c",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768937663~acl=/*~id=03107107973483728983703561217637~hmac=0722ee08cdb6ca4b763a06edb8a2a1c55acf87f44468b083c6f788d12fc8dd0c",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768937663~acl=/*~id=03107107973483728983703561217637~hmac=0722ee08cdb6ca4b763a06edb8a2a1c55acf87f44468b083c6f788d12fc8dd0c"
+            "match_name": "Gaston vs Sinner - Round 1 - 20 Jan 2026 [TAM]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768940096~acl=/*~id=86985603743786083464827156863379~hmac=b2892c0674ee8a492f8462a540805ae06b3c1b4aa84955df26042654442c7933",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768940096~acl=/*~id=86985603743786083464827156863379~hmac=b2892c0674ee8a492f8462a540805ae06b3c1b4aa84955df26042654442c7933",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768940096~acl=/*~id=86985603743786083464827156863379~hmac=b2892c0674ee8a492f8462a540805ae06b3c1b4aa84955df26042654442c7933"
         },
         {
             "event_category": "Tennis",
             "isLive": true,
             "contentId": "1090499148_TEL",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013518/1768638133540535_AO26_stream1_R1_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013712/1768843670644538_AO2026_Landscape_Thumb_Gaston_vs_Sinner_SP.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Australian Open 2026",
-            "match_name": "Sweeny vs Monfils - Round 1 - 20 Jan 2026\t [TEL]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768937663~acl=/*~id=03107107973483728983703561217637~hmac=0722ee08cdb6ca4b763a06edb8a2a1c55acf87f44468b083c6f788d12fc8dd0c",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768937663~acl=/*~id=03107107973483728983703561217637~hmac=0722ee08cdb6ca4b763a06edb8a2a1c55acf87f44468b083c6f788d12fc8dd0c",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768937663~acl=/*~id=03107107973483728983703561217637~hmac=0722ee08cdb6ca4b763a06edb8a2a1c55acf87f44468b083c6f788d12fc8dd0c"
+            "match_name": "Gaston vs Sinner - Round 1 - 20 Jan 2026 [TEL]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768940096~acl=/*~id=86985603743786083464827156863379~hmac=b2892c0674ee8a492f8462a540805ae06b3c1b4aa84955df26042654442c7933",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768940096~acl=/*~id=86985603743786083464827156863379~hmac=b2892c0674ee8a492f8462a540805ae06b3c1b4aa84955df26042654442c7933",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768940096~acl=/*~id=86985603743786083464827156863379~hmac=b2892c0674ee8a492f8462a540805ae06b3c1b4aa84955df26042654442c7933"
         },
         {
             "event_category": "Tennis",
@@ -63,10 +63,10 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Australian Open 2026",
-            "match_name": "Margaret Court Arena - 20 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768937663~acl=/*~id=03107107973483728983703561217637~hmac=0722ee08cdb6ca4b763a06edb8a2a1c55acf87f44468b083c6f788d12fc8dd0c",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768937663~acl=/*~id=03107107973483728983703561217637~hmac=0722ee08cdb6ca4b763a06edb8a2a1c55acf87f44468b083c6f788d12fc8dd0c",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768937663~acl=/*~id=03107107973483728983703561217637~hmac=0722ee08cdb6ca4b763a06edb8a2a1c55acf87f44468b083c6f788d12fc8dd0c"
+            "match_name": "Katie Boulter vs Belinda Bencic - Women's Singles - 20 Jan 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768940096~acl=/*~id=86985603743786083464827156863379~hmac=b2892c0674ee8a492f8462a540805ae06b3c1b4aa84955df26042654442c7933",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768940096~acl=/*~id=86985603743786083464827156863379~hmac=b2892c0674ee8a492f8462a540805ae06b3c1b4aa84955df26042654442c7933",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768940096~acl=/*~id=86985603743786083464827156863379~hmac=b2892c0674ee8a492f8462a540805ae06b3c1b4aa84955df26042654442c7933"
         },
         {
             "event_category": "Football",
@@ -85,15 +85,6 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - UEFA Champions League 2025-26"
-        },
-        {
-            "event_category": "Tennis",
-            "isLive": false,
-            "contentId": 1090500254,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013704/1768838098169910_PROMO_AO_PROMO_SINNER_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Hugo Gaston vs Jannik Sinner - Australian Open 2026"
         },
         {
             "event_category": "Football",
