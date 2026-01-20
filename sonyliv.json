@@ -1,74 +1,143 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "23:43:25 20-01-2026",
+    "last update time": "01:14:49 21-01-2026",
     "matches": [
         {
             "event_category": "Football",
             "isLive": true,
-            "contentId": "1090499754_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013411/1768374796465129_UCL_26_MD7_Bodo-Glimt-vs-Man-City_14jan_landscape_thumb.jpg",
+            "contentId": "1090499610_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013411/1768381515374129_UCL_26_MD7_Inter-vs-Arsenal_14jan_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "UEFA Champions League 2025-26",
-            "match_name": "Bodo/Glimt vs Man City - MD 7 - 20 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768976004~acl=/*~id=11948724852907529171644748966463~hmac=a7eb782931d880722366b57d73bd584612c08bb3469fd88e8a7b573bb0ecfd83",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768976004~acl=/*~id=11948724852907529171644748966463~hmac=a7eb782931d880722366b57d73bd584612c08bb3469fd88e8a7b573bb0ecfd83",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768976004~acl=/*~id=11948724852907529171644748966463~hmac=a7eb782931d880722366b57d73bd584612c08bb3469fd88e8a7b573bb0ecfd83"
+            "match_name": "Inter vs Arsenal - MD 7 - 21 Jan 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768981486~acl=/*~id=97919638869753000893733367674945~hmac=675a696436737247576ab89c9b4cd9e033a4d8a582b1d83302d3739f041f9282",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768981486~acl=/*~id=97919638869753000893733367674945~hmac=675a696436737247576ab89c9b4cd9e033a4d8a582b1d83302d3739f041f9282",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768981486~acl=/*~id=97919638869753000893733367674945~hmac=675a696436737247576ab89c9b4cd9e033a4d8a582b1d83302d3739f041f9282"
         },
         {
             "event_category": "Football",
             "isLive": true,
-            "contentId": "1090499754_HIN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013411/1768374796465129_UCL_26_MD7_Bodo-Glimt-vs-Man-City_14jan_landscape_thumb.jpg",
+            "contentId": "1090499610_HIN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013411/1768381515374129_UCL_26_MD7_Inter-vs-Arsenal_14jan_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "UEFA Champions League 2025-26",
-            "match_name": "Bodo/Glimt vs Man City - MD 7 - 20 Jan 2026 [HIN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768976004~acl=/*~id=11948724852907529171644748966463~hmac=a7eb782931d880722366b57d73bd584612c08bb3469fd88e8a7b573bb0ecfd83",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768976004~acl=/*~id=11948724852907529171644748966463~hmac=a7eb782931d880722366b57d73bd584612c08bb3469fd88e8a7b573bb0ecfd83",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768976004~acl=/*~id=11948724852907529171644748966463~hmac=a7eb782931d880722366b57d73bd584612c08bb3469fd88e8a7b573bb0ecfd83"
+            "match_name": "Inter vs Arsenal - MD 7 - 21 Jan 2026 [HIN]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768981486~acl=/*~id=97919638869753000893733367674945~hmac=675a696436737247576ab89c9b4cd9e033a4d8a582b1d83302d3739f041f9282",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768981486~acl=/*~id=97919638869753000893733367674945~hmac=675a696436737247576ab89c9b4cd9e033a4d8a582b1d83302d3739f041f9282",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768981486~acl=/*~id=97919638869753000893733367674945~hmac=675a696436737247576ab89c9b4cd9e033a4d8a582b1d83302d3739f041f9282"
         },
         {
             "event_category": "Football",
             "isLive": true,
-            "contentId": "1090499754_TAM",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013411/1768374796465129_UCL_26_MD7_Bodo-Glimt-vs-Man-City_14jan_landscape_thumb.jpg",
+            "contentId": "1090499610_TAM",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013411/1768381515374129_UCL_26_MD7_Inter-vs-Arsenal_14jan_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "UEFA Champions League 2025-26",
-            "match_name": "Bodo/Glimt vs Man City - MD 7 - 20 Jan 2026 [TAM]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768976004~acl=/*~id=11948724852907529171644748966463~hmac=a7eb782931d880722366b57d73bd584612c08bb3469fd88e8a7b573bb0ecfd83",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768976004~acl=/*~id=11948724852907529171644748966463~hmac=a7eb782931d880722366b57d73bd584612c08bb3469fd88e8a7b573bb0ecfd83",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768976004~acl=/*~id=11948724852907529171644748966463~hmac=a7eb782931d880722366b57d73bd584612c08bb3469fd88e8a7b573bb0ecfd83"
+            "match_name": "Inter vs Arsenal - MD 7 - 21 Jan 2026 [TAM]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768981486~acl=/*~id=97919638869753000893733367674945~hmac=675a696436737247576ab89c9b4cd9e033a4d8a582b1d83302d3739f041f9282",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768981486~acl=/*~id=97919638869753000893733367674945~hmac=675a696436737247576ab89c9b4cd9e033a4d8a582b1d83302d3739f041f9282",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768981486~acl=/*~id=97919638869753000893733367674945~hmac=675a696436737247576ab89c9b4cd9e033a4d8a582b1d83302d3739f041f9282"
         },
         {
             "event_category": "Football",
             "isLive": true,
-            "contentId": "1090499754_TEL",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013411/1768374796465129_UCL_26_MD7_Bodo-Glimt-vs-Man-City_14jan_landscape_thumb.jpg",
+            "contentId": "1090499610_TEL",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013411/1768381515374129_UCL_26_MD7_Inter-vs-Arsenal_14jan_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "UEFA Champions League 2025-26",
-            "match_name": "Bodo/Glimt vs Man City - MD 7 - 20 Jan 2026 [TEL]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768976004~acl=/*~id=11948724852907529171644748966463~hmac=a7eb782931d880722366b57d73bd584612c08bb3469fd88e8a7b573bb0ecfd83",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768976004~acl=/*~id=11948724852907529171644748966463~hmac=a7eb782931d880722366b57d73bd584612c08bb3469fd88e8a7b573bb0ecfd83",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768976004~acl=/*~id=11948724852907529171644748966463~hmac=a7eb782931d880722366b57d73bd584612c08bb3469fd88e8a7b573bb0ecfd83"
+            "match_name": "Inter vs Arsenal - MD 7 - 21 Jan 2026 [TEL]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768981486~acl=/*~id=97919638869753000893733367674945~hmac=675a696436737247576ab89c9b4cd9e033a4d8a582b1d83302d3739f041f9282",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768981486~acl=/*~id=97919638869753000893733367674945~hmac=675a696436737247576ab89c9b4cd9e033a4d8a582b1d83302d3739f041f9282",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768981486~acl=/*~id=97919638869753000893733367674945~hmac=675a696436737247576ab89c9b4cd9e033a4d8a582b1d83302d3739f041f9282"
         },
         {
             "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090499496,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013453/1768492408010434_UCL26_Bodo_Glimt_vs_Man_City_tonight_15jan_landscape_thumb.jpg",
+            "isLive": true,
+            "contentId": "1090499763_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013411/1768385858582129_UCL_26_MD7_Real-Madrid-vs-Monaco_14jan_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Matchday 7 - UEFA Champions League 2025-26"
+            "event_name": "UEFA Champions League 2025-26",
+            "match_name": "Real Madrid vs Monaco - MD 7 - 21 Jan 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768981486~acl=/*~id=97919638869753000893733367674945~hmac=675a696436737247576ab89c9b4cd9e033a4d8a582b1d83302d3739f041f9282",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768981486~acl=/*~id=97919638869753000893733367674945~hmac=675a696436737247576ab89c9b4cd9e033a4d8a582b1d83302d3739f041f9282",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768981486~acl=/*~id=97919638869753000893733367674945~hmac=675a696436737247576ab89c9b4cd9e033a4d8a582b1d83302d3739f041f9282"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090499608_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013411/1768386229578129_UCL_26_MD7_Sporting-CP-vs-PSG_14jan_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Champions League 2025-26",
+            "match_name": "Sporting CP vs PSG - MD 7 - 21 Jan 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768981486~acl=/*~id=97919638869753000893733367674945~hmac=675a696436737247576ab89c9b4cd9e033a4d8a582b1d83302d3739f041f9282",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768981486~acl=/*~id=97919638869753000893733367674945~hmac=675a696436737247576ab89c9b4cd9e033a4d8a582b1d83302d3739f041f9282",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768981486~acl=/*~id=97919638869753000893733367674945~hmac=675a696436737247576ab89c9b4cd9e033a4d8a582b1d83302d3739f041f9282"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090499609_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013411/1768390634533129_UCL_26_MD7_Tottenham-vs-Dortmund_14jan_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Champions League 2025-26",
+            "match_name": "Tottenham vs Dortmund - MD 7 - 21 Jan 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768981486~acl=/*~id=97919638869753000893733367674945~hmac=675a696436737247576ab89c9b4cd9e033a4d8a582b1d83302d3739f041f9282",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768981486~acl=/*~id=97919638869753000893733367674945~hmac=675a696436737247576ab89c9b4cd9e033a4d8a582b1d83302d3739f041f9282",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768981486~acl=/*~id=97919638869753000893733367674945~hmac=675a696436737247576ab89c9b4cd9e033a4d8a582b1d83302d3739f041f9282"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090499764_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013411/1768391637114129_UCL_26_MD7_Villarreal-vs-Ajax_14jan_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Champions League 2025-26",
+            "match_name": "Villarreal vs Ajax - MD 7 - 21 Jan 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768981486~acl=/*~id=97919638869753000893733367674945~hmac=675a696436737247576ab89c9b4cd9e033a4d8a582b1d83302d3739f041f9282",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768981486~acl=/*~id=97919638869753000893733367674945~hmac=675a696436737247576ab89c9b4cd9e033a4d8a582b1d83302d3739f041f9282",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768981486~acl=/*~id=97919638869753000893733367674945~hmac=675a696436737247576ab89c9b4cd9e033a4d8a582b1d83302d3739f041f9282"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090499758_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013411/1768377847671129_UCL_26_MD7_Copenhagen-vs-Napoli_14jan_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Champions League 2025-26",
+            "match_name": "Copenhagen vs Napoli - MD 7 - 21 Jan 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768981486~acl=/*~id=97919638869753000893733367674945~hmac=675a696436737247576ab89c9b4cd9e033a4d8a582b1d83302d3739f041f9282",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768981486~acl=/*~id=97919638869753000893733367674945~hmac=675a696436737247576ab89c9b4cd9e033a4d8a582b1d83302d3739f041f9282",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768981486~acl=/*~id=97919638869753000893733367674945~hmac=675a696436737247576ab89c9b4cd9e033a4d8a582b1d83302d3739f041f9282"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090499760_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013411/1768384721202129_UCL_26_MD7_Olympiacos-vs-Leverkusen_14jan_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Champions League 2025-26",
+            "match_name": "Olympiacos vs Leverkusen - MD 7 - 21 Jan 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768981486~acl=/*~id=97919638869753000893733367674945~hmac=675a696436737247576ab89c9b4cd9e033a4d8a582b1d83302d3739f041f9282",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768981486~acl=/*~id=97919638869753000893733367674945~hmac=675a696436737247576ab89c9b4cd9e033a4d8a582b1d83302d3739f041f9282",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768981486~acl=/*~id=97919638869753000893733367674945~hmac=675a696436737247576ab89c9b4cd9e033a4d8a582b1d83302d3739f041f9282"
         },
         {
             "event_category": "Tennis",
             "isLive": false,
             "contentId": 1090498827,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013754/1768902642374692_AO_schedule_day4_tomorrow_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013754/1768902631933692_AO_schedule_day4_today_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Australian Open 2026"
@@ -81,15 +150,6 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - UEFA Champions League 2025-26"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090499594,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013453/1768489018748434_UCL26_inter_vs_arsenal_15jan_tonight_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Inter vs Arsenal - UEFA Champions League 2025-26"
         },
         {
             "event_category": "Football",
@@ -139,15 +199,6 @@
         {
             "event_category": "Football",
             "isLive": false,
-            "contentId": 1090499593,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013352/1768331670552720_UCL26_MD7_dortmund_promo_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Tottenham vs Dortmund - UEFA Champions League 2025-26"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
             "contentId": 1090499595,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013353/1768334030707146_UCL26_MD7_benfica_promo_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
@@ -162,15 +213,6 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Galatasaray vs Atletico - UEFA Champions League 2025-26"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090499592,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013576/1768708419449910_UCL_SportingSP_vs_PSG_landscape_thumb_ddt.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Sporting CP vs PSG - UEFA Champions League 2025-26"
         },
         {
             "event_category": "Football",
