@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1090499148_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013680/1768828154505610_studio_show_19jan_landscape_thumb.jpg" group-title="Live",Stream 1 - 22 Jan 2026 [ENG] - Australian Open 2026 - ENG
-#EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769133106~acl=/*~id=44073179302914999379251393282306~hmac=5772bd72d10224030e5dd4fe1cdc9cab2d988ef3287afb14ff1b058defb0c7c8
-#EXTINF:-1 tvg-id="1090499148_HIN" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013680/1768828154505610_studio_show_19jan_landscape_thumb.jpg" group-title="Live",Stream 1 - 22 Jan 2026 [HIN] - Australian Open 2026 - ENG
-#EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769133106~acl=/*~id=44073179302914999379251393282306~hmac=5772bd72d10224030e5dd4fe1cdc9cab2d988ef3287afb14ff1b058defb0c7c8
-#EXTINF:-1 tvg-id="1090499148_TAM" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013680/1768828154505610_studio_show_19jan_landscape_thumb.jpg" group-title="Live",Stream 1 - 22 Jan 2026 [TAM] - Australian Open 2026 - ENG
-#EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769133106~acl=/*~id=44073179302914999379251393282306~hmac=5772bd72d10224030e5dd4fe1cdc9cab2d988ef3287afb14ff1b058defb0c7c8
-#EXTINF:-1 tvg-id="1090499148_TEL" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013680/1768828154505610_studio_show_19jan_landscape_thumb.jpg" group-title="Live",Stream 1 - 22 Jan 2026 [TEL] - Australian Open 2026 - ENG
-#EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769133106~acl=/*~id=44073179302914999379251393282306~hmac=5772bd72d10224030e5dd4fe1cdc9cab2d988ef3287afb14ff1b058defb0c7c8
 #EXTINF:-1 tvg-id="1090500625_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013948/1769072708455506_SLvsENG26_1odi_landscape_thumb.jpg" group-title="Live",1st ODI - 22 Jan 2026 [ENG] - England Tour of Sri Lanka 2026 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2018457/DAI35-criclive/std_lrh-800300010.m3u8?hdnea=exp=1769133106~acl=/*~id=44073179302914999379251393282306~hmac=5772bd72d10224030e5dd4fe1cdc9cab2d988ef3287afb14ff1b058defb0c7c8
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2018457/DAI35-criclive/std_lrh-800300010.m3u8?hdnea=exp=1769136166~acl=/*~id=82591530695640392045085525874416~hmac=1b9db32ad0bb3a2e5ca5612cf9067b0956db82ad739fec613d0e865e119af41d
