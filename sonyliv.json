@@ -1,26 +1,39 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "23:49:50 27-01-2026",
+    "last update time": "00:30:35 28-01-2026",
     "matches": [
         {
-            "event_category": "Cricket",
+            "event_category": "Football",
             "isLive": true,
-            "contentId": "1090501812_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014166/1769330254386276_WLPT20L26_rajasthan_vs_maharashtra_25jan_landscape_thumb.jpg",
-            "broadcast_channel": "LIV",
+            "contentId": "1090499170_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013116/1767857645751351_Bundesliga_MD16_Werder-Bremen-vs-Hoffenheim_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
-            "event_name": "World Legends Pro T20 League 2026",
-            "match_name": "Rajasthan Lions vs Maharashtra Tycoons - 27 Jan 2026 [ENG]",
-            "dai_url": "https://liveakmt-p.slivcdn.com/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769581189~acl=/*~id=81346112901538595882738915324167~hmac=a1b53c61be8c6e78d4d1a38b1c240e982c2d269e39e9ffb1fe53db46063d623b",
-            "pub_url": "https://liveakmt-p.slivcdn.com/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769581189~acl=/*~id=81346112901538595882738915324167~hmac=a1b53c61be8c6e78d4d1a38b1c240e982c2d269e39e9ffb1fe53db46063d623b",
-            "video_url": "https://liveakmt-p.slivcdn.com/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769581189~acl=/*~id=81346112901538595882738915324167~hmac=a1b53c61be8c6e78d4d1a38b1c240e982c2d269e39e9ffb1fe53db46063d623b"
+            "event_name": "Bundesliga 2025-26",
+            "match_name": "Werder Bremen vs Hoffenheim - MD 16 - 28 Jan 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769583634~acl=/*~id=25433892427332829721973883622217~hmac=d6ff920339d0ec9a35dd40a9e4eec9183a779e850b12e6f696f67a87ed554db0",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769583634~acl=/*~id=25433892427332829721973883622217~hmac=d6ff920339d0ec9a35dd40a9e4eec9183a779e850b12e6f696f67a87ed554db0",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769583634~acl=/*~id=25433892427332829721973883622217~hmac=d6ff920339d0ec9a35dd40a9e4eec9183a779e850b12e6f696f67a87ed554db0"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090501687_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013116/1767855576402351_Bundesliga_MD16_St-Pauli-vs-RB-Leipzig_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Bundesliga 2025-26",
+            "match_name": "St. Pauli vs RB Leipzig - MD 16 - 28 Jan 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769583634~acl=/*~id=25433892427332829721973883622217~hmac=d6ff920339d0ec9a35dd40a9e4eec9183a779e850b12e6f696f67a87ed554db0",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769583634~acl=/*~id=25433892427332829721973883622217~hmac=d6ff920339d0ec9a35dd40a9e4eec9183a779e850b12e6f696f67a87ed554db0",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769583634~acl=/*~id=25433892427332829721973883622217~hmac=d6ff920339d0ec9a35dd40a9e4eec9183a779e850b12e6f696f67a87ed554db0"
         },
         {
             "event_category": "Tennis",
             "isLive": false,
             "contentId": 1090498827,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014273/1769504123920210_AO26_QF_day11_27jan_schedule_tomorrow_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014273/1769504102239210_AO26_QF_day11_27jan_schedule_today_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Australian Open 2026"
