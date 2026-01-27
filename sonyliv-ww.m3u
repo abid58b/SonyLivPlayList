@@ -1,4 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1090501812_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014166/1769330254386276_WLPT20L26_rajasthan_vs_maharashtra_25jan_landscape_thumb.jpg" group-title="Live",Rajasthan Lions vs Maharashtra Tycoons - 27 Jan 2026 [ENG] - World Legends Pro T20 League 2026 - ENG
+#EXTINF:-1 tvg-id="1090499170_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013116/1767857645751351_Bundesliga_MD16_Werder-Bremen-vs-Hoffenheim_landscape_thumb.jpg" group-title="Live",Werder Bremen vs Hoffenheim - MD 16 - 28 Jan 2026 [ENG] - Bundesliga 2025-26 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://liveakmt-p.slivcdn.com/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769581189~acl=/*~id=81346112901538595882738915324167~hmac=a1b53c61be8c6e78d4d1a38b1c240e982c2d269e39e9ffb1fe53db46063d623b
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769583634~acl=/*~id=25433892427332829721973883622217~hmac=d6ff920339d0ec9a35dd40a9e4eec9183a779e850b12e6f696f67a87ed554db0
+#EXTINF:-1 tvg-id="1090501687_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013116/1767855576402351_Bundesliga_MD16_St-Pauli-vs-RB-Leipzig_landscape_thumb.jpg" group-title="Live",St. Pauli vs RB Leipzig - MD 16 - 28 Jan 2026 [ENG] - Bundesliga 2025-26 - ENG
+#EXTVLCOPT:http-referrer=https://allinonereborn.online/
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769583634~acl=/*~id=25433892427332829721973883622217~hmac=d6ff920339d0ec9a35dd40a9e4eec9183a779e850b12e6f696f67a87ed554db0
