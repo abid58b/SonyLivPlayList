@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "19:25:56 27-01-2026",
+    "last update time": "20:16:51 27-01-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -12,22 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "England Tour of Sri Lanka 2026",
             "match_name": "3rd ODI - 27 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI35-criclive/std_lrh-800300010.m3u8?hdnea=exp=1769565354~acl=/*~id=90015655682561496027564180529502~hmac=a5199d22408c517178e08184915771b4735cbcb49a4787cb49844c0f937e539c",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI35-criclive/std_lrh-800300010.m3u8?hdnea=exp=1769565354~acl=/*~id=90015655682561496027564180529502~hmac=a5199d22408c517178e08184915771b4735cbcb49a4787cb49844c0f937e539c",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI35-criclive/std_lrh-800300010.m3u8?hdnea=exp=1769565354~acl=/*~id=90015655682561496027564180529502~hmac=a5199d22408c517178e08184915771b4735cbcb49a4787cb49844c0f937e539c"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": "1090501809_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014166/1769329926969276_WLPT20L26_pune_vs_gurugram_25jan_landscape_thumb.jpg",
-            "broadcast_channel": "LIV",
-            "audioLanguageName": "ENG",
-            "event_name": "World Legends Pro T20 League 2026",
-            "match_name": "Pune Panthers vs Gurugram Thunders - 27 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769565354~acl=/*~id=90015655682561496027564180529502~hmac=a5199d22408c517178e08184915771b4735cbcb49a4787cb49844c0f937e539c",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769565354~acl=/*~id=90015655682561496027564180529502~hmac=a5199d22408c517178e08184915771b4735cbcb49a4787cb49844c0f937e539c",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769565354~acl=/*~id=90015655682561496027564180529502~hmac=a5199d22408c517178e08184915771b4735cbcb49a4787cb49844c0f937e539c"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI35-criclive/std_lrh-800300010.m3u8?hdnea=exp=1769568409~acl=/*~id=36870416036974026321127827660972~hmac=409826fc0e54d304273315c7be3f4dba4fc05dd10dd20f05c4120380acbc4c4b",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI35-criclive/std_lrh-800300010.m3u8?hdnea=exp=1769568409~acl=/*~id=36870416036974026321127827660972~hmac=409826fc0e54d304273315c7be3f4dba4fc05dd10dd20f05c4120380acbc4c4b",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI35-criclive/std_lrh-800300010.m3u8?hdnea=exp=1769568409~acl=/*~id=36870416036974026321127827660972~hmac=409826fc0e54d304273315c7be3f4dba4fc05dd10dd20f05c4120380acbc4c4b"
         },
         {
             "event_category": "Cricket",
@@ -38,9 +25,9 @@
             "audioLanguageName": "ENG",
             "event_name": "World Legends Pro T20 League 2026",
             "match_name": "Rajasthan Lions vs Maharashtra Tycoons - 27 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769565354~acl=/*~id=90015655682561496027564180529502~hmac=a5199d22408c517178e08184915771b4735cbcb49a4787cb49844c0f937e539c",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769565354~acl=/*~id=90015655682561496027564180529502~hmac=a5199d22408c517178e08184915771b4735cbcb49a4787cb49844c0f937e539c",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769565354~acl=/*~id=90015655682561496027564180529502~hmac=a5199d22408c517178e08184915771b4735cbcb49a4787cb49844c0f937e539c"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769568409~acl=/*~id=36870416036974026321127827660972~hmac=409826fc0e54d304273315c7be3f4dba4fc05dd10dd20f05c4120380acbc4c4b",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769568409~acl=/*~id=36870416036974026321127827660972~hmac=409826fc0e54d304273315c7be3f4dba4fc05dd10dd20f05c4120380acbc4c4b",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769568409~acl=/*~id=36870416036974026321127827660972~hmac=409826fc0e54d304273315c7be3f4dba4fc05dd10dd20f05c4120380acbc4c4b"
         },
         {
             "event_category": "Pickleball",
@@ -51,9 +38,48 @@
             "audioLanguageName": "ENG",
             "event_name": "World Pickleball League 2026",
             "match_name": "Bengaluru Jawans vs Pune United - 27 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769565354~acl=/*~id=90015655682561496027564180529502~hmac=a5199d22408c517178e08184915771b4735cbcb49a4787cb49844c0f937e539c",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769565354~acl=/*~id=90015655682561496027564180529502~hmac=a5199d22408c517178e08184915771b4735cbcb49a4787cb49844c0f937e539c",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769565354~acl=/*~id=90015655682561496027564180529502~hmac=a5199d22408c517178e08184915771b4735cbcb49a4787cb49844c0f937e539c"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769568409~acl=/*~id=36870416036974026321127827660972~hmac=409826fc0e54d304273315c7be3f4dba4fc05dd10dd20f05c4120380acbc4c4b",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769568409~acl=/*~id=36870416036974026321127827660972~hmac=409826fc0e54d304273315c7be3f4dba4fc05dd10dd20f05c4120380acbc4c4b",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769568409~acl=/*~id=36870416036974026321127827660972~hmac=409826fc0e54d304273315c7be3f4dba4fc05dd10dd20f05c4120380acbc4c4b"
+        },
+        {
+            "event_category": "Pickleball",
+            "isLive": true,
+            "contentId": "1090501845_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014231/1769427841216334_WPL26_Delhi_vs_Chennai_26jan_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "World Pickleball League 2026",
+            "match_name": "Dilli Dilwale vs Chennai Super Champs - 27 Jan 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769568409~acl=/*~id=36870416036974026321127827660972~hmac=409826fc0e54d304273315c7be3f4dba4fc05dd10dd20f05c4120380acbc4c4b",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769568409~acl=/*~id=36870416036974026321127827660972~hmac=409826fc0e54d304273315c7be3f4dba4fc05dd10dd20f05c4120380acbc4c4b",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769568409~acl=/*~id=36870416036974026321127827660972~hmac=409826fc0e54d304273315c7be3f4dba4fc05dd10dd20f05c4120380acbc4c4b"
+        },
+        {
+            "event_category": "Wrestling",
+            "isLive": true,
+            "contentId": "1090501839_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013447/176848583247930_PWL_26_Delhi-Dangal-Warriors-vs-Tiigers-Of-Mumbai-Dangal_15jan_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Pro Wrestling League 2026",
+            "match_name": "Delhi Dangal Warriors vs Tiigers Of Mumbai Dangal - 27 Jan 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769568409~acl=/*~id=36870416036974026321127827660972~hmac=409826fc0e54d304273315c7be3f4dba4fc05dd10dd20f05c4120380acbc4c4b",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769568409~acl=/*~id=36870416036974026321127827660972~hmac=409826fc0e54d304273315c7be3f4dba4fc05dd10dd20f05c4120380acbc4c4b",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769568409~acl=/*~id=36870416036974026321127827660972~hmac=409826fc0e54d304273315c7be3f4dba4fc05dd10dd20f05c4120380acbc4c4b"
+        },
+        {
+            "event_category": "Wrestling",
+            "isLive": true,
+            "contentId": "1090501839_HIN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013447/176848583247930_PWL_26_Delhi-Dangal-Warriors-vs-Tiigers-Of-Mumbai-Dangal_15jan_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Pro Wrestling League 2026",
+            "match_name": "Delhi Dangal Warriors vs Tiigers Of Mumbai Dangal - 27 Jan 2026 [HIN]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769568409~acl=/*~id=36870416036974026321127827660972~hmac=409826fc0e54d304273315c7be3f4dba4fc05dd10dd20f05c4120380acbc4c4b",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769568409~acl=/*~id=36870416036974026321127827660972~hmac=409826fc0e54d304273315c7be3f4dba4fc05dd10dd20f05c4120380acbc4c4b",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769568409~acl=/*~id=36870416036974026321127827660972~hmac=409826fc0e54d304273315c7be3f4dba4fc05dd10dd20f05c4120380acbc4c4b"
         },
         {
             "event_category": "Tennis",
@@ -113,7 +139,7 @@
             "event_category": "Cricket",
             "isLive": false,
             "contentId": 1090499792,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013966/176908560422236_SLvsENG26_3odi_Today__landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013839/1768923753324600_SL_vs_EG_2026_GOB_Landscape_Thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - England Tour of Sri Lanka "
@@ -122,7 +148,7 @@
             "event_category": "Pickleball",
             "isLive": false,
             "contentId": 1090501426,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014252/1769457238215220_WorldPickleballLeague_Landscape_thumb_today.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014094/1769246223870144_WorldPickleballLeague_GOB_Landscape_Thumb.jpg",
             "broadcast_channel": "LIV",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - World Pickleball League 2026"
