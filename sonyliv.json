@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "18:56:49 28-01-2026",
+    "last update time": "19:27:12 28-01-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "World Legends Pro T20 League 2026",
             "match_name": "Delhi Warriors vs Pune Panthers - 28 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769650007~acl=/*~id=69963881467335399039007696728609~hmac=dff468e77fa9f09cc5d598032ee752cf44b7efd601148d7874bb39ed445d0871",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769650007~acl=/*~id=69963881467335399039007696728609~hmac=dff468e77fa9f09cc5d598032ee752cf44b7efd601148d7874bb39ed445d0871",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769650007~acl=/*~id=69963881467335399039007696728609~hmac=dff468e77fa9f09cc5d598032ee752cf44b7efd601148d7874bb39ed445d0871"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769651829~acl=/*~id=00270243640220706741798944346114~hmac=71dae48c1b7d2129e774d5303f7678aeaea531b734723adab50cbd73c0702dfa",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769651829~acl=/*~id=00270243640220706741798944346114~hmac=71dae48c1b7d2129e774d5303f7678aeaea531b734723adab50cbd73c0702dfa",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769651829~acl=/*~id=00270243640220706741798944346114~hmac=71dae48c1b7d2129e774d5303f7678aeaea531b734723adab50cbd73c0702dfa"
         },
         {
             "event_category": "Cricket",
@@ -25,9 +25,9 @@
             "audioLanguageName": "ENG",
             "event_name": "World Legends Pro T20 League 2026",
             "match_name": "Delhi Warriors vs Pune Panthers - 28 Jan 2026 [HIN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI37ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769650007~acl=/*~id=69963881467335399039007696728609~hmac=dff468e77fa9f09cc5d598032ee752cf44b7efd601148d7874bb39ed445d0871",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI37ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769650007~acl=/*~id=69963881467335399039007696728609~hmac=dff468e77fa9f09cc5d598032ee752cf44b7efd601148d7874bb39ed445d0871",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI37ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769650007~acl=/*~id=69963881467335399039007696728609~hmac=dff468e77fa9f09cc5d598032ee752cf44b7efd601148d7874bb39ed445d0871"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI37ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769651829~acl=/*~id=00270243640220706741798944346114~hmac=71dae48c1b7d2129e774d5303f7678aeaea531b734723adab50cbd73c0702dfa",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI37ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769651829~acl=/*~id=00270243640220706741798944346114~hmac=71dae48c1b7d2129e774d5303f7678aeaea531b734723adab50cbd73c0702dfa",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI37ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769651829~acl=/*~id=00270243640220706741798944346114~hmac=71dae48c1b7d2129e774d5303f7678aeaea531b734723adab50cbd73c0702dfa"
         },
         {
             "event_category": "Pickleball",
@@ -38,9 +38,9 @@
             "audioLanguageName": "ENG",
             "event_name": "World Pickleball League 2026",
             "match_name": "Mumbai Pickle Power vs Dilli Dilwale - 28 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769650007~acl=/*~id=69963881467335399039007696728609~hmac=dff468e77fa9f09cc5d598032ee752cf44b7efd601148d7874bb39ed445d0871",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769650007~acl=/*~id=69963881467335399039007696728609~hmac=dff468e77fa9f09cc5d598032ee752cf44b7efd601148d7874bb39ed445d0871",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769650007~acl=/*~id=69963881467335399039007696728609~hmac=dff468e77fa9f09cc5d598032ee752cf44b7efd601148d7874bb39ed445d0871"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769651829~acl=/*~id=00270243640220706741798944346114~hmac=71dae48c1b7d2129e774d5303f7678aeaea531b734723adab50cbd73c0702dfa",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769651829~acl=/*~id=00270243640220706741798944346114~hmac=71dae48c1b7d2129e774d5303f7678aeaea531b734723adab50cbd73c0702dfa",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769651829~acl=/*~id=00270243640220706741798944346114~hmac=71dae48c1b7d2129e774d5303f7678aeaea531b734723adab50cbd73c0702dfa"
         },
         {
             "event_category": "Tennis",
@@ -51,9 +51,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Australian Open 2026",
             "match_name": "Stream 2 - 28 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769650007~acl=/*~id=69963881467335399039007696728609~hmac=dff468e77fa9f09cc5d598032ee752cf44b7efd601148d7874bb39ed445d0871",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769650007~acl=/*~id=69963881467335399039007696728609~hmac=dff468e77fa9f09cc5d598032ee752cf44b7efd601148d7874bb39ed445d0871",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769650007~acl=/*~id=69963881467335399039007696728609~hmac=dff468e77fa9f09cc5d598032ee752cf44b7efd601148d7874bb39ed445d0871"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769651829~acl=/*~id=00270243640220706741798944346114~hmac=71dae48c1b7d2129e774d5303f7678aeaea531b734723adab50cbd73c0702dfa",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769651829~acl=/*~id=00270243640220706741798944346114~hmac=71dae48c1b7d2129e774d5303f7678aeaea531b734723adab50cbd73c0702dfa",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769651829~acl=/*~id=00270243640220706741798944346114~hmac=71dae48c1b7d2129e774d5303f7678aeaea531b734723adab50cbd73c0702dfa"
         },
         {
             "event_category": "Tennis",
@@ -64,9 +64,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Australian Open 2026",
             "match_name": "Rod Laver Arena - 28 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769650007~acl=/*~id=69963881467335399039007696728609~hmac=dff468e77fa9f09cc5d598032ee752cf44b7efd601148d7874bb39ed445d0871",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769650007~acl=/*~id=69963881467335399039007696728609~hmac=dff468e77fa9f09cc5d598032ee752cf44b7efd601148d7874bb39ed445d0871",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769650007~acl=/*~id=69963881467335399039007696728609~hmac=dff468e77fa9f09cc5d598032ee752cf44b7efd601148d7874bb39ed445d0871"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769651829~acl=/*~id=00270243640220706741798944346114~hmac=71dae48c1b7d2129e774d5303f7678aeaea531b734723adab50cbd73c0702dfa",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769651829~acl=/*~id=00270243640220706741798944346114~hmac=71dae48c1b7d2129e774d5303f7678aeaea531b734723adab50cbd73c0702dfa",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769651829~acl=/*~id=00270243640220706741798944346114~hmac=71dae48c1b7d2129e774d5303f7678aeaea531b734723adab50cbd73c0702dfa"
         },
         {
             "event_category": "Football",
