@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "19:06:48 29-01-2026",
+    "last update time": "19:57:24 29-01-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "World Legends Pro T20 League 2026",
             "match_name": "Gurugram Thunders vs Maharashtra Tycoons - 29 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769737007~acl=/*~id=25031535678938738133513665468756~hmac=cbacaf726ab75f6476634e913cc6718116199ba3f255d0a88f7cf09004b7f62e",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769737007~acl=/*~id=25031535678938738133513665468756~hmac=cbacaf726ab75f6476634e913cc6718116199ba3f255d0a88f7cf09004b7f62e",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769737007~acl=/*~id=25031535678938738133513665468756~hmac=cbacaf726ab75f6476634e913cc6718116199ba3f255d0a88f7cf09004b7f62e"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769740042~acl=/*~id=78466304791100111189546557048096~hmac=71010ea8b060d58bb6590bc39018dd80eb0539c38b97548a72dfb5c86e7648de",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769740042~acl=/*~id=78466304791100111189546557048096~hmac=71010ea8b060d58bb6590bc39018dd80eb0539c38b97548a72dfb5c86e7648de",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769740042~acl=/*~id=78466304791100111189546557048096~hmac=71010ea8b060d58bb6590bc39018dd80eb0539c38b97548a72dfb5c86e7648de"
         },
         {
             "event_category": "Cricket",
@@ -25,9 +25,48 @@
             "audioLanguageName": "ENG",
             "event_name": "World Legends Pro T20 League 2026",
             "match_name": "Gurugram Thunders vs Maharashtra Tycoons - 29 Jan 2026 [HIN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI37ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769737007~acl=/*~id=25031535678938738133513665468756~hmac=cbacaf726ab75f6476634e913cc6718116199ba3f255d0a88f7cf09004b7f62e",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI37ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769737007~acl=/*~id=25031535678938738133513665468756~hmac=cbacaf726ab75f6476634e913cc6718116199ba3f255d0a88f7cf09004b7f62e",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI37ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769737007~acl=/*~id=25031535678938738133513665468756~hmac=cbacaf726ab75f6476634e913cc6718116199ba3f255d0a88f7cf09004b7f62e"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI37ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769740042~acl=/*~id=78466304791100111189546557048096~hmac=71010ea8b060d58bb6590bc39018dd80eb0539c38b97548a72dfb5c86e7648de",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI37ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769740042~acl=/*~id=78466304791100111189546557048096~hmac=71010ea8b060d58bb6590bc39018dd80eb0539c38b97548a72dfb5c86e7648de",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI37ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769740042~acl=/*~id=78466304791100111189546557048096~hmac=71010ea8b060d58bb6590bc39018dd80eb0539c38b97548a72dfb5c86e7648de"
+        },
+        {
+            "event_category": "Wrestling",
+            "isLive": true,
+            "contentId": "1090502383_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013449/1768459435932803_PWL_26_Punjab-Royals-vs-Delhi-Dangal-Warriors_15jan_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Pro Wrestling League 2026",
+            "match_name": "Punjab Royals vs Delhi Dangal Warriors - 29 Jan 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769740042~acl=/*~id=78466304791100111189546557048096~hmac=71010ea8b060d58bb6590bc39018dd80eb0539c38b97548a72dfb5c86e7648de",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769740042~acl=/*~id=78466304791100111189546557048096~hmac=71010ea8b060d58bb6590bc39018dd80eb0539c38b97548a72dfb5c86e7648de",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769740042~acl=/*~id=78466304791100111189546557048096~hmac=71010ea8b060d58bb6590bc39018dd80eb0539c38b97548a72dfb5c86e7648de"
+        },
+        {
+            "event_category": "Wrestling",
+            "isLive": true,
+            "contentId": "1090502383_HIN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013449/1768459435932803_PWL_26_Punjab-Royals-vs-Delhi-Dangal-Warriors_15jan_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Pro Wrestling League 2026",
+            "match_name": "Punjab Royals vs Delhi Dangal Warriors - 29 Jan 2026 [HIN]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769740042~acl=/*~id=78466304791100111189546557048096~hmac=71010ea8b060d58bb6590bc39018dd80eb0539c38b97548a72dfb5c86e7648de",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769740042~acl=/*~id=78466304791100111189546557048096~hmac=71010ea8b060d58bb6590bc39018dd80eb0539c38b97548a72dfb5c86e7648de",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769740042~acl=/*~id=78466304791100111189546557048096~hmac=71010ea8b060d58bb6590bc39018dd80eb0539c38b97548a72dfb5c86e7648de"
+        },
+        {
+            "event_category": "Pickleball",
+            "isLive": true,
+            "contentId": "1090502387_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014355/1769593917860675_WPL26_Chennai-vs-Mumbai_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "World Pickleball League 2026",
+            "match_name": "Chennai Super Champs vs Mumbai Pickleball Power - 29 Jan 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769740042~acl=/*~id=78466304791100111189546557048096~hmac=71010ea8b060d58bb6590bc39018dd80eb0539c38b97548a72dfb5c86e7648de",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769740042~acl=/*~id=78466304791100111189546557048096~hmac=71010ea8b060d58bb6590bc39018dd80eb0539c38b97548a72dfb5c86e7648de",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769740042~acl=/*~id=78466304791100111189546557048096~hmac=71010ea8b060d58bb6590bc39018dd80eb0539c38b97548a72dfb5c86e7648de"
         },
         {
             "event_category": "Pickleball",
@@ -38,9 +77,9 @@
             "audioLanguageName": "ENG",
             "event_name": "World Pickleball League 2026",
             "match_name": "Pune United vs Hyderabad Super Stars - 29 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769737007~acl=/*~id=25031535678938738133513665468756~hmac=cbacaf726ab75f6476634e913cc6718116199ba3f255d0a88f7cf09004b7f62e",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769737007~acl=/*~id=25031535678938738133513665468756~hmac=cbacaf726ab75f6476634e913cc6718116199ba3f255d0a88f7cf09004b7f62e",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769737007~acl=/*~id=25031535678938738133513665468756~hmac=cbacaf726ab75f6476634e913cc6718116199ba3f255d0a88f7cf09004b7f62e"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769740042~acl=/*~id=78466304791100111189546557048096~hmac=71010ea8b060d58bb6590bc39018dd80eb0539c38b97548a72dfb5c86e7648de",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769740042~acl=/*~id=78466304791100111189546557048096~hmac=71010ea8b060d58bb6590bc39018dd80eb0539c38b97548a72dfb5c86e7648de",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769740042~acl=/*~id=78466304791100111189546557048096~hmac=71010ea8b060d58bb6590bc39018dd80eb0539c38b97548a72dfb5c86e7648de"
         },
         {
             "event_category": "Tennis",
@@ -50,6 +89,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Alcaraz vs Zverev - Australian Open 2026"
+        },
+        {
+            "event_category": "Tennis",
+            "isLive": false,
+            "contentId": 1090502489,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014436/176967295190479_AO26_SF_djokovic_vs_sinner_29jan_dated_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Djokovic vs Sinner - Australian Open 2026"
         },
         {
             "event_category": "Cricket",
