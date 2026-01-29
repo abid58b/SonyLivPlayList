@@ -1,59 +1,59 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "14:33:25 29-01-2026",
+    "last update time": "15:24:05 29-01-2026",
     "matches": [
         {
             "event_category": "Tennis",
             "isLive": true,
             "contentId": "1090499148_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014398/1769629157456953_AO2026_Landscape_Thumb_Sabalenka_vs_Svitolina_SP.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014442/1769677414958783_AO2026_SF_womens_Sabalenka_vs_Svitolina_29jan_SP_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Australian Open 2026",
             "match_name": "Aryna Sabalenka vs Elina Svitolina - SF - 29 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769720603~acl=/*~id=24859856541093694987895843288427~hmac=870d8b551bdfd7f1b798e221b93af30a7ea691151f5ab09ac92bdb0da3d606eb",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769720603~acl=/*~id=24859856541093694987895843288427~hmac=870d8b551bdfd7f1b798e221b93af30a7ea691151f5ab09ac92bdb0da3d606eb",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769720603~acl=/*~id=24859856541093694987895843288427~hmac=870d8b551bdfd7f1b798e221b93af30a7ea691151f5ab09ac92bdb0da3d606eb"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769723643~acl=/*~id=53603543128169064504078773196109~hmac=ac6bb1ea3ab565acbf592834afd2a1206be13d73c1060a05638bf95f0a8bc718",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769723643~acl=/*~id=53603543128169064504078773196109~hmac=ac6bb1ea3ab565acbf592834afd2a1206be13d73c1060a05638bf95f0a8bc718",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769723643~acl=/*~id=53603543128169064504078773196109~hmac=ac6bb1ea3ab565acbf592834afd2a1206be13d73c1060a05638bf95f0a8bc718"
         },
         {
             "event_category": "Tennis",
             "isLive": true,
             "contentId": "1090499148_HIN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014398/1769629157456953_AO2026_Landscape_Thumb_Sabalenka_vs_Svitolina_SP.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014442/1769677414958783_AO2026_SF_womens_Sabalenka_vs_Svitolina_29jan_SP_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Australian Open 2026",
             "match_name": "Aryna Sabalenka vs Elina Svitolina - SF - 29 Jan 2026 [HIN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769720603~acl=/*~id=24859856541093694987895843288427~hmac=870d8b551bdfd7f1b798e221b93af30a7ea691151f5ab09ac92bdb0da3d606eb",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769720603~acl=/*~id=24859856541093694987895843288427~hmac=870d8b551bdfd7f1b798e221b93af30a7ea691151f5ab09ac92bdb0da3d606eb",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769720603~acl=/*~id=24859856541093694987895843288427~hmac=870d8b551bdfd7f1b798e221b93af30a7ea691151f5ab09ac92bdb0da3d606eb"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769723643~acl=/*~id=53603543128169064504078773196109~hmac=ac6bb1ea3ab565acbf592834afd2a1206be13d73c1060a05638bf95f0a8bc718",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769723643~acl=/*~id=53603543128169064504078773196109~hmac=ac6bb1ea3ab565acbf592834afd2a1206be13d73c1060a05638bf95f0a8bc718",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769723643~acl=/*~id=53603543128169064504078773196109~hmac=ac6bb1ea3ab565acbf592834afd2a1206be13d73c1060a05638bf95f0a8bc718"
         },
         {
             "event_category": "Tennis",
             "isLive": true,
             "contentId": "1090499148_TAM",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014398/1769629157456953_AO2026_Landscape_Thumb_Sabalenka_vs_Svitolina_SP.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014442/1769677414958783_AO2026_SF_womens_Sabalenka_vs_Svitolina_29jan_SP_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Australian Open 2026",
             "match_name": "Aryna Sabalenka vs Elina Svitolina - SF - 29 Jan 2026 [TAM]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769720603~acl=/*~id=24859856541093694987895843288427~hmac=870d8b551bdfd7f1b798e221b93af30a7ea691151f5ab09ac92bdb0da3d606eb",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769720603~acl=/*~id=24859856541093694987895843288427~hmac=870d8b551bdfd7f1b798e221b93af30a7ea691151f5ab09ac92bdb0da3d606eb",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769720603~acl=/*~id=24859856541093694987895843288427~hmac=870d8b551bdfd7f1b798e221b93af30a7ea691151f5ab09ac92bdb0da3d606eb"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769723643~acl=/*~id=53603543128169064504078773196109~hmac=ac6bb1ea3ab565acbf592834afd2a1206be13d73c1060a05638bf95f0a8bc718",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769723643~acl=/*~id=53603543128169064504078773196109~hmac=ac6bb1ea3ab565acbf592834afd2a1206be13d73c1060a05638bf95f0a8bc718",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769723643~acl=/*~id=53603543128169064504078773196109~hmac=ac6bb1ea3ab565acbf592834afd2a1206be13d73c1060a05638bf95f0a8bc718"
         },
         {
             "event_category": "Tennis",
             "isLive": true,
             "contentId": "1090499148_TEL",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014398/1769629157456953_AO2026_Landscape_Thumb_Sabalenka_vs_Svitolina_SP.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014442/1769677414958783_AO2026_SF_womens_Sabalenka_vs_Svitolina_29jan_SP_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Australian Open 2026",
             "match_name": "Aryna Sabalenka vs Elina Svitolina - SF - 29 Jan 2026 [TEL]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769720603~acl=/*~id=24859856541093694987895843288427~hmac=870d8b551bdfd7f1b798e221b93af30a7ea691151f5ab09ac92bdb0da3d606eb",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769720603~acl=/*~id=24859856541093694987895843288427~hmac=870d8b551bdfd7f1b798e221b93af30a7ea691151f5ab09ac92bdb0da3d606eb",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769720603~acl=/*~id=24859856541093694987895843288427~hmac=870d8b551bdfd7f1b798e221b93af30a7ea691151f5ab09ac92bdb0da3d606eb"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769723643~acl=/*~id=53603543128169064504078773196109~hmac=ac6bb1ea3ab565acbf592834afd2a1206be13d73c1060a05638bf95f0a8bc718",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769723643~acl=/*~id=53603543128169064504078773196109~hmac=ac6bb1ea3ab565acbf592834afd2a1206be13d73c1060a05638bf95f0a8bc718",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769723643~acl=/*~id=53603543128169064504078773196109~hmac=ac6bb1ea3ab565acbf592834afd2a1206be13d73c1060a05638bf95f0a8bc718"
         },
         {
             "event_category": "Cricket",
@@ -64,9 +64,9 @@
             "audioLanguageName": "ENG",
             "event_name": "World Legends Pro T20 League 2026",
             "match_name": "Rajasthan Lions vs Dubai Royals - 29 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769720603~acl=/*~id=24859856541093694987895843288427~hmac=870d8b551bdfd7f1b798e221b93af30a7ea691151f5ab09ac92bdb0da3d606eb",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769720603~acl=/*~id=24859856541093694987895843288427~hmac=870d8b551bdfd7f1b798e221b93af30a7ea691151f5ab09ac92bdb0da3d606eb",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769720603~acl=/*~id=24859856541093694987895843288427~hmac=870d8b551bdfd7f1b798e221b93af30a7ea691151f5ab09ac92bdb0da3d606eb"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769723643~acl=/*~id=53603543128169064504078773196109~hmac=ac6bb1ea3ab565acbf592834afd2a1206be13d73c1060a05638bf95f0a8bc718",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769723643~acl=/*~id=53603543128169064504078773196109~hmac=ac6bb1ea3ab565acbf592834afd2a1206be13d73c1060a05638bf95f0a8bc718",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769723643~acl=/*~id=53603543128169064504078773196109~hmac=ac6bb1ea3ab565acbf592834afd2a1206be13d73c1060a05638bf95f0a8bc718"
         },
         {
             "event_category": "Cricket",
@@ -77,9 +77,9 @@
             "audioLanguageName": "ENG",
             "event_name": "World Legends Pro T20 League 2026",
             "match_name": "Rajasthan Lions vs Dubai Royals - 29 Jan 2026 [HIN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI37ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769720603~acl=/*~id=24859856541093694987895843288427~hmac=870d8b551bdfd7f1b798e221b93af30a7ea691151f5ab09ac92bdb0da3d606eb",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI37ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769720603~acl=/*~id=24859856541093694987895843288427~hmac=870d8b551bdfd7f1b798e221b93af30a7ea691151f5ab09ac92bdb0da3d606eb",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI37ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769720603~acl=/*~id=24859856541093694987895843288427~hmac=870d8b551bdfd7f1b798e221b93af30a7ea691151f5ab09ac92bdb0da3d606eb"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI37ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769723643~acl=/*~id=53603543128169064504078773196109~hmac=ac6bb1ea3ab565acbf592834afd2a1206be13d73c1060a05638bf95f0a8bc718",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI37ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769723643~acl=/*~id=53603543128169064504078773196109~hmac=ac6bb1ea3ab565acbf592834afd2a1206be13d73c1060a05638bf95f0a8bc718",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI37ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769723643~acl=/*~id=53603543128169064504078773196109~hmac=ac6bb1ea3ab565acbf592834afd2a1206be13d73c1060a05638bf95f0a8bc718"
         },
         {
             "event_category": "Tennis",
@@ -90,9 +90,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Australian Open 2026",
             "match_name": "Stream 2 - 29 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769720603~acl=/*~id=24859856541093694987895843288427~hmac=870d8b551bdfd7f1b798e221b93af30a7ea691151f5ab09ac92bdb0da3d606eb",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769720603~acl=/*~id=24859856541093694987895843288427~hmac=870d8b551bdfd7f1b798e221b93af30a7ea691151f5ab09ac92bdb0da3d606eb",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769720603~acl=/*~id=24859856541093694987895843288427~hmac=870d8b551bdfd7f1b798e221b93af30a7ea691151f5ab09ac92bdb0da3d606eb"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769723643~acl=/*~id=53603543128169064504078773196109~hmac=ac6bb1ea3ab565acbf592834afd2a1206be13d73c1060a05638bf95f0a8bc718",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769723643~acl=/*~id=53603543128169064504078773196109~hmac=ac6bb1ea3ab565acbf592834afd2a1206be13d73c1060a05638bf95f0a8bc718",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769723643~acl=/*~id=53603543128169064504078773196109~hmac=ac6bb1ea3ab565acbf592834afd2a1206be13d73c1060a05638bf95f0a8bc718"
         },
         {
             "event_category": "Tennis",
@@ -103,9 +103,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Australian Open 2026",
             "match_name": "Aryna Sabalenka vs Elina Svitolina - Women's Singles - 29 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769720603~acl=/*~id=24859856541093694987895843288427~hmac=870d8b551bdfd7f1b798e221b93af30a7ea691151f5ab09ac92bdb0da3d606eb",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769720603~acl=/*~id=24859856541093694987895843288427~hmac=870d8b551bdfd7f1b798e221b93af30a7ea691151f5ab09ac92bdb0da3d606eb",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769720603~acl=/*~id=24859856541093694987895843288427~hmac=870d8b551bdfd7f1b798e221b93af30a7ea691151f5ab09ac92bdb0da3d606eb"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769723643~acl=/*~id=53603543128169064504078773196109~hmac=ac6bb1ea3ab565acbf592834afd2a1206be13d73c1060a05638bf95f0a8bc718",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769723643~acl=/*~id=53603543128169064504078773196109~hmac=ac6bb1ea3ab565acbf592834afd2a1206be13d73c1060a05638bf95f0a8bc718",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769723643~acl=/*~id=53603543128169064504078773196109~hmac=ac6bb1ea3ab565acbf592834afd2a1206be13d73c1060a05638bf95f0a8bc718"
         },
         {
             "event_category": "Golf",
@@ -116,9 +116,18 @@
             "audioLanguageName": "ENG",
             "event_name": "DP World Tour",
             "match_name": "Bahrain Championship Day 1 - 29 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769720603~acl=/*~id=24859856541093694987895843288427~hmac=870d8b551bdfd7f1b798e221b93af30a7ea691151f5ab09ac92bdb0da3d606eb",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769720603~acl=/*~id=24859856541093694987895843288427~hmac=870d8b551bdfd7f1b798e221b93af30a7ea691151f5ab09ac92bdb0da3d606eb",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769720603~acl=/*~id=24859856541093694987895843288427~hmac=870d8b551bdfd7f1b798e221b93af30a7ea691151f5ab09ac92bdb0da3d606eb"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769723643~acl=/*~id=53603543128169064504078773196109~hmac=ac6bb1ea3ab565acbf592834afd2a1206be13d73c1060a05638bf95f0a8bc718",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769723643~acl=/*~id=53603543128169064504078773196109~hmac=ac6bb1ea3ab565acbf592834afd2a1206be13d73c1060a05638bf95f0a8bc718",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769723643~acl=/*~id=53603543128169064504078773196109~hmac=ac6bb1ea3ab565acbf592834afd2a1206be13d73c1060a05638bf95f0a8bc718"
+        },
+        {
+            "event_category": "Tennis",
+            "isLive": false,
+            "contentId": 1090502319,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014416/1769654207340815_AO26_landscape_thumb_Alcaraz_v_Zverev_ddt.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Alcaraz vs Zverev - Australian Open 2026"
         },
         {
             "event_category": "Cricket",
@@ -133,7 +142,7 @@
             "event_category": "Tennis",
             "isLive": false,
             "contentId": 1090498827,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014359/1769598439113491_AO26_womens_SF_28jan_today_schedule_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014441/1769675182929581_AO26_SF_MENS_29jan_tomorrow_schedule_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Australian Open 2026"
