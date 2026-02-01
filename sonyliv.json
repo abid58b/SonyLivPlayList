@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "17:53:24 01-02-2026",
+    "last update time": "18:54:10 01-02-2026",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090502887_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014532/1769749424027553_SLvsENG26_2t20i_30jan_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "England Tour of Sri Lanka 2026",
+            "match_name": "2nd T20I - 1 Feb 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI35-criclive/std_lrh-800300010.m3u8?hdnea=exp=1769995447~acl=/*~id=81825650059954376933413588477618~hmac=e769f1a0155dcc4b9b084a2a82732efda030622b774e54b94bd032191826fd16",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI35-criclive/std_lrh-800300010.m3u8?hdnea=exp=1769995447~acl=/*~id=81825650059954376933413588477618~hmac=e769f1a0155dcc4b9b084a2a82732efda030622b774e54b94bd032191826fd16",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI35-criclive/std_lrh-800300010.m3u8?hdnea=exp=1769995447~acl=/*~id=81825650059954376933413588477618~hmac=e769f1a0155dcc4b9b084a2a82732efda030622b774e54b94bd032191826fd16"
+        },
         {
             "event_category": "Tennis",
             "isLive": true,
@@ -12,9 +25,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Australian Open 2026",
             "match_name": "Stream 1 - 1 Feb 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769991802~acl=/*~id=03733764509403170382641665954840~hmac=72bbac81e3be0c816a209a8fc17556b221d2384f6c77ce7d597fa3dd5928b1ed",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769991802~acl=/*~id=03733764509403170382641665954840~hmac=72bbac81e3be0c816a209a8fc17556b221d2384f6c77ce7d597fa3dd5928b1ed",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769991802~acl=/*~id=03733764509403170382641665954840~hmac=72bbac81e3be0c816a209a8fc17556b221d2384f6c77ce7d597fa3dd5928b1ed"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769995447~acl=/*~id=81825650059954376933413588477618~hmac=e769f1a0155dcc4b9b084a2a82732efda030622b774e54b94bd032191826fd16",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769995447~acl=/*~id=81825650059954376933413588477618~hmac=e769f1a0155dcc4b9b084a2a82732efda030622b774e54b94bd032191826fd16",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769995447~acl=/*~id=81825650059954376933413588477618~hmac=e769f1a0155dcc4b9b084a2a82732efda030622b774e54b94bd032191826fd16"
         },
         {
             "event_category": "Tennis",
@@ -25,9 +38,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Australian Open 2026",
             "match_name": "Stream 1 - 1 Feb 2026 [HIN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769991802~acl=/*~id=03733764509403170382641665954840~hmac=72bbac81e3be0c816a209a8fc17556b221d2384f6c77ce7d597fa3dd5928b1ed",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769991802~acl=/*~id=03733764509403170382641665954840~hmac=72bbac81e3be0c816a209a8fc17556b221d2384f6c77ce7d597fa3dd5928b1ed",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769991802~acl=/*~id=03733764509403170382641665954840~hmac=72bbac81e3be0c816a209a8fc17556b221d2384f6c77ce7d597fa3dd5928b1ed"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769995447~acl=/*~id=81825650059954376933413588477618~hmac=e769f1a0155dcc4b9b084a2a82732efda030622b774e54b94bd032191826fd16",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769995447~acl=/*~id=81825650059954376933413588477618~hmac=e769f1a0155dcc4b9b084a2a82732efda030622b774e54b94bd032191826fd16",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769995447~acl=/*~id=81825650059954376933413588477618~hmac=e769f1a0155dcc4b9b084a2a82732efda030622b774e54b94bd032191826fd16"
         },
         {
             "event_category": "Tennis",
@@ -38,9 +51,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Australian Open 2026",
             "match_name": "Stream 1 - 1 Feb 2026 [TAM]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769991802~acl=/*~id=03733764509403170382641665954840~hmac=72bbac81e3be0c816a209a8fc17556b221d2384f6c77ce7d597fa3dd5928b1ed",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769991802~acl=/*~id=03733764509403170382641665954840~hmac=72bbac81e3be0c816a209a8fc17556b221d2384f6c77ce7d597fa3dd5928b1ed",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769991802~acl=/*~id=03733764509403170382641665954840~hmac=72bbac81e3be0c816a209a8fc17556b221d2384f6c77ce7d597fa3dd5928b1ed"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769995447~acl=/*~id=81825650059954376933413588477618~hmac=e769f1a0155dcc4b9b084a2a82732efda030622b774e54b94bd032191826fd16",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769995447~acl=/*~id=81825650059954376933413588477618~hmac=e769f1a0155dcc4b9b084a2a82732efda030622b774e54b94bd032191826fd16",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769995447~acl=/*~id=81825650059954376933413588477618~hmac=e769f1a0155dcc4b9b084a2a82732efda030622b774e54b94bd032191826fd16"
         },
         {
             "event_category": "Tennis",
@@ -51,37 +64,88 @@
             "audioLanguageName": "ENG",
             "event_name": "Australian Open 2026",
             "match_name": "Stream 1 - 1 Feb 2026 [TEL]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769991802~acl=/*~id=03733764509403170382641665954840~hmac=72bbac81e3be0c816a209a8fc17556b221d2384f6c77ce7d597fa3dd5928b1ed",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769991802~acl=/*~id=03733764509403170382641665954840~hmac=72bbac81e3be0c816a209a8fc17556b221d2384f6c77ce7d597fa3dd5928b1ed",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769991802~acl=/*~id=03733764509403170382641665954840~hmac=72bbac81e3be0c816a209a8fc17556b221d2384f6c77ce7d597fa3dd5928b1ed"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769995447~acl=/*~id=81825650059954376933413588477618~hmac=e769f1a0155dcc4b9b084a2a82732efda030622b774e54b94bd032191826fd16",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769995447~acl=/*~id=81825650059954376933413588477618~hmac=e769f1a0155dcc4b9b084a2a82732efda030622b774e54b94bd032191826fd16",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769995447~acl=/*~id=81825650059954376933413588477618~hmac=e769f1a0155dcc4b9b084a2a82732efda030622b774e54b94bd032191826fd16"
         },
         {
             "event_category": "Cricket",
             "isLive": true,
-            "contentId": "1090502884_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014710/1769904626246948_WLP26_PunePanthers_vs_MaharashtraTycoonsLLandscape_thumb.jpg",
+            "contentId": "1090502889_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014710/1769904850483948_WLP26_DelhiWarriors_vs_GurugramThunders_landscape_thumb.jpg",
             "broadcast_channel": "LIV",
             "audioLanguageName": "ENG",
             "event_name": "World Legends Pro T20 League 2026",
-            "match_name": "Pune Panthers vs Maharashtra Tycoons - 1 Feb 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769991802~acl=/*~id=03733764509403170382641665954840~hmac=72bbac81e3be0c816a209a8fc17556b221d2384f6c77ce7d597fa3dd5928b1ed",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769991802~acl=/*~id=03733764509403170382641665954840~hmac=72bbac81e3be0c816a209a8fc17556b221d2384f6c77ce7d597fa3dd5928b1ed",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769991802~acl=/*~id=03733764509403170382641665954840~hmac=72bbac81e3be0c816a209a8fc17556b221d2384f6c77ce7d597fa3dd5928b1ed"
+            "match_name": "Delhi Warriors vs Gurugram Thunders - 1 Feb 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769995447~acl=/*~id=81825650059954376933413588477618~hmac=e769f1a0155dcc4b9b084a2a82732efda030622b774e54b94bd032191826fd16",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769995447~acl=/*~id=81825650059954376933413588477618~hmac=e769f1a0155dcc4b9b084a2a82732efda030622b774e54b94bd032191826fd16",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769995447~acl=/*~id=81825650059954376933413588477618~hmac=e769f1a0155dcc4b9b084a2a82732efda030622b774e54b94bd032191826fd16"
         },
         {
             "event_category": "Cricket",
             "isLive": true,
-            "contentId": "1090502884_HIN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014710/1769904626246948_WLP26_PunePanthers_vs_MaharashtraTycoonsLLandscape_thumb.jpg",
+            "contentId": "1090502889_HIN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014710/1769904850483948_WLP26_DelhiWarriors_vs_GurugramThunders_landscape_thumb.jpg",
             "broadcast_channel": "LIV",
             "audioLanguageName": "ENG",
             "event_name": "World Legends Pro T20 League 2026",
-            "match_name": "Pune Panthers vs Maharashtra Tycoons - 1 Feb 2026 [HIN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI37ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769991802~acl=/*~id=03733764509403170382641665954840~hmac=72bbac81e3be0c816a209a8fc17556b221d2384f6c77ce7d597fa3dd5928b1ed",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI37ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769991802~acl=/*~id=03733764509403170382641665954840~hmac=72bbac81e3be0c816a209a8fc17556b221d2384f6c77ce7d597fa3dd5928b1ed",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI37ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769991802~acl=/*~id=03733764509403170382641665954840~hmac=72bbac81e3be0c816a209a8fc17556b221d2384f6c77ce7d597fa3dd5928b1ed"
+            "match_name": "Delhi Warriors vs Gurugram Thunders - 1 Feb 2026 [HIN]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI37ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769995447~acl=/*~id=81825650059954376933413588477618~hmac=e769f1a0155dcc4b9b084a2a82732efda030622b774e54b94bd032191826fd16",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI37ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769995447~acl=/*~id=81825650059954376933413588477618~hmac=e769f1a0155dcc4b9b084a2a82732efda030622b774e54b94bd032191826fd16",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI37ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769995447~acl=/*~id=81825650059954376933413588477618~hmac=e769f1a0155dcc4b9b084a2a82732efda030622b774e54b94bd032191826fd16"
         },
         {
             "event_category": "Pickleball",
             "isLive": true,
-       
+            "contentId": "1090502886_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014355/1769593445439675_WPL26_Hyderabad-vs-Delhi_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "World Pickleball League 2026",
+            "match_name": "Hyderabad Superstars vs Dilli Dillwale - 1 Feb 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769995447~acl=/*~id=81825650059954376933413588477618~hmac=e769f1a0155dcc4b9b084a2a82732efda030622b774e54b94bd032191826fd16",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769995447~acl=/*~id=81825650059954376933413588477618~hmac=e769f1a0155dcc4b9b084a2a82732efda030622b774e54b94bd032191826fd16",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769995447~acl=/*~id=81825650059954376933413588477618~hmac=e769f1a0155dcc4b9b084a2a82732efda030622b774e54b94bd032191826fd16"
+        },
+        {
+            "event_category": "Golf",
+            "isLive": true,
+            "contentId": "1090502865_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014514/1769721599881157_DPworldtour_Bahrain_Championship_day4_28jan_live_landscape_thumb_re1.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "DP World Tour",
+            "match_name": "Bahrain Championship Day 4 - 1 Feb 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769995447~acl=/*~id=81825650059954376933413588477618~hmac=e769f1a0155dcc4b9b084a2a82732efda030622b774e54b94bd032191826fd16",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769995447~acl=/*~id=81825650059954376933413588477618~hmac=e769f1a0155dcc4b9b084a2a82732efda030622b774e54b94bd032191826fd16",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769995447~acl=/*~id=81825650059954376933413588477618~hmac=e769f1a0155dcc4b9b084a2a82732efda030622b774e54b94bd032191826fd16"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090499792,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014732/1769951122208371_SLvsENG_3t20i_dated_1feb_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - England Tour of Sri Lanka "
+        },
+        {
+            "event_category": "Pickleball",
+            "isLive": false,
+            "contentId": 1090501426,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014094/1769246223870144_WorldPickleballLeague_GOB_Landscape_Thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - World Pickleball League 2026"
+        },
+        {
+            "event_category": "Sports",
+            "isLive": false,
+            "contentId": 1090498545,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012709/1766658044515568_New_years_new_action_non_stop_sports_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Iconic Sports Sizzlers"
+        }
+    ]
+}
