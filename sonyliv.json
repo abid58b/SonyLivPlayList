@@ -1,60 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:27:52 01-02-2026",
+    "last update time": "10:58:43 01-02-2026",
     "matches": [
-        {
-            "event_category": "Fight Sports",
-            "isLive": true,
-            "contentId": "1090502848_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014568/1769771921646971_UFC_325_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "UFC 325 - Volkanovski vs Lopes",
-            "match_name": " UFC 325 - Volkanovski vs Lopes - 1 Feb 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-UFC/std_lrh-800300010.m3u8?hdnea=exp=1769961471~acl=/*~id=50290075751723348102044923967605~hmac=0a893504a87477f4328fd0ba14ca20304bb6b2ab60f789026b49f19057c6483f",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-UFC/std_lrh-800300010.m3u8?hdnea=exp=1769961471~acl=/*~id=50290075751723348102044923967605~hmac=0a893504a87477f4328fd0ba14ca20304bb6b2ab60f789026b49f19057c6483f",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-UFC/std_lrh-800300010.m3u8?hdnea=exp=1769961471~acl=/*~id=50290075751723348102044923967605~hmac=0a893504a87477f4328fd0ba14ca20304bb6b2ab60f789026b49f19057c6483f"
-        },
-        {
-            "event_category": "Fight Sports",
-            "isLive": true,
-            "contentId": "1090502848_HIN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014568/1769771921646971_UFC_325_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "UFC 325 - Volkanovski vs Lopes",
-            "match_name": " UFC 325 - Volkanovski vs Lopes - 1 Feb 2026 [HIN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-UFC/std_lrh-800300010.m3u8?hdnea=exp=1769961471~acl=/*~id=50290075751723348102044923967605~hmac=0a893504a87477f4328fd0ba14ca20304bb6b2ab60f789026b49f19057c6483f",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-UFC/std_lrh-800300010.m3u8?hdnea=exp=1769961471~acl=/*~id=50290075751723348102044923967605~hmac=0a893504a87477f4328fd0ba14ca20304bb6b2ab60f789026b49f19057c6483f",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-UFC/std_lrh-800300010.m3u8?hdnea=exp=1769961471~acl=/*~id=50290075751723348102044923967605~hmac=0a893504a87477f4328fd0ba14ca20304bb6b2ab60f789026b49f19057c6483f"
-        },
-        {
-            "event_category": "Fight Sports",
-            "isLive": true,
-            "contentId": "1090502848_TAM",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014568/1769771921646971_UFC_325_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "UFC 325 - Volkanovski vs Lopes",
-            "match_name": " UFC 325 - Volkanovski vs Lopes - 1 Feb 2026 [TAM]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-UFC/std_lrh-800300010.m3u8?hdnea=exp=1769961471~acl=/*~id=50290075751723348102044923967605~hmac=0a893504a87477f4328fd0ba14ca20304bb6b2ab60f789026b49f19057c6483f",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-UFC/std_lrh-800300010.m3u8?hdnea=exp=1769961471~acl=/*~id=50290075751723348102044923967605~hmac=0a893504a87477f4328fd0ba14ca20304bb6b2ab60f789026b49f19057c6483f",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-UFC/std_lrh-800300010.m3u8?hdnea=exp=1769961471~acl=/*~id=50290075751723348102044923967605~hmac=0a893504a87477f4328fd0ba14ca20304bb6b2ab60f789026b49f19057c6483f"
-        },
-        {
-            "event_category": "Fight Sports",
-            "isLive": true,
-            "contentId": "1090502848_TEL",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014568/1769771921646971_UFC_325_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "UFC 325 - Volkanovski vs Lopes",
-            "match_name": " UFC 325 - Volkanovski vs Lopes - 1 Feb 2026 [TEL]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-UFC/std_lrh-800300010.m3u8?hdnea=exp=1769961471~acl=/*~id=50290075751723348102044923967605~hmac=0a893504a87477f4328fd0ba14ca20304bb6b2ab60f789026b49f19057c6483f",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-UFC/std_lrh-800300010.m3u8?hdnea=exp=1769961471~acl=/*~id=50290075751723348102044923967605~hmac=0a893504a87477f4328fd0ba14ca20304bb6b2ab60f789026b49f19057c6483f",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-UFC/std_lrh-800300010.m3u8?hdnea=exp=1769961471~acl=/*~id=50290075751723348102044923967605~hmac=0a893504a87477f4328fd0ba14ca20304bb6b2ab60f789026b49f19057c6483f"
-        },
         {
             "event_category": "Tennis",
             "isLive": true,
@@ -64,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Australian Open 2026",
             "match_name": "Keaten Hance vs Ziga Sesko - Jr. Boys' Final - 1 Feb 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769961471~acl=/*~id=50290075751723348102044923967605~hmac=0a893504a87477f4328fd0ba14ca20304bb6b2ab60f789026b49f19057c6483f",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769961471~acl=/*~id=50290075751723348102044923967605~hmac=0a893504a87477f4328fd0ba14ca20304bb6b2ab60f789026b49f19057c6483f",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769961471~acl=/*~id=50290075751723348102044923967605~hmac=0a893504a87477f4328fd0ba14ca20304bb6b2ab60f789026b49f19057c6483f"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769966923~acl=/*~id=03731262091597369402659743589234~hmac=7a9458274a747476ce25f36b5860de3c908343a26b3a9a76421e517415e443a4",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769966923~acl=/*~id=03731262091597369402659743589234~hmac=7a9458274a747476ce25f36b5860de3c908343a26b3a9a76421e517415e443a4",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769966923~acl=/*~id=03731262091597369402659743589234~hmac=7a9458274a747476ce25f36b5860de3c908343a26b3a9a76421e517415e443a4"
         },
         {
             "event_category": "Tennis",
@@ -94,15 +42,6 @@
             "broadcast_channel": "LIV",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - World Pickleball League 2026"
-        },
-        {
-            "event_category": "Wrestling",
-            "isLive": false,
-            "contentId": 1090499518,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013303/1768211442000465_PWL2026_GOB_Landscape_Thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - Pro Wrestling League 2026"
         },
         {
             "event_category": "Sports",
