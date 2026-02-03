@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "15:28:07 03-02-2026",
+    "last update time": "16:08:34 03-02-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "World Legends Pro T20 League 2026",
             "match_name": "Rajasthan Lions vs Pune Panthers - SF - 3 Feb 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1770155887~acl=/*~id=78798631323328365737860668191152~hmac=6775b2108b069a9a8eeb0974dc0f973b720cc587bc652083b08077b28c69eb62",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1770155887~acl=/*~id=78798631323328365737860668191152~hmac=6775b2108b069a9a8eeb0974dc0f973b720cc587bc652083b08077b28c69eb62",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1770155887~acl=/*~id=78798631323328365737860668191152~hmac=6775b2108b069a9a8eeb0974dc0f973b720cc587bc652083b08077b28c69eb62"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1770158313~acl=/*~id=86862935538003595655527632919196~hmac=f9273e8bc2e5cb5a53ead1371ac792af95adeb8c8f65d2b46889c214db7f1294",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1770158313~acl=/*~id=86862935538003595655527632919196~hmac=f9273e8bc2e5cb5a53ead1371ac792af95adeb8c8f65d2b46889c214db7f1294",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1770158313~acl=/*~id=86862935538003595655527632919196~hmac=f9273e8bc2e5cb5a53ead1371ac792af95adeb8c8f65d2b46889c214db7f1294"
         },
         {
             "event_category": "Cricket",
@@ -25,9 +25,9 @@
             "audioLanguageName": "ENG",
             "event_name": "World Legends Pro T20 League 2026",
             "match_name": "Rajasthan Lions vs Pune Panthers - SF - 3 Feb 2026 [HIN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI37ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1770155887~acl=/*~id=78798631323328365737860668191152~hmac=6775b2108b069a9a8eeb0974dc0f973b720cc587bc652083b08077b28c69eb62",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI37ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1770155887~acl=/*~id=78798631323328365737860668191152~hmac=6775b2108b069a9a8eeb0974dc0f973b720cc587bc652083b08077b28c69eb62",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI37ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1770155887~acl=/*~id=78798631323328365737860668191152~hmac=6775b2108b069a9a8eeb0974dc0f973b720cc587bc652083b08077b28c69eb62"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI37ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1770158313~acl=/*~id=86862935538003595655527632919196~hmac=f9273e8bc2e5cb5a53ead1371ac792af95adeb8c8f65d2b46889c214db7f1294",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI37ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1770158313~acl=/*~id=86862935538003595655527632919196~hmac=f9273e8bc2e5cb5a53ead1371ac792af95adeb8c8f65d2b46889c214db7f1294",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI37ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1770158313~acl=/*~id=86862935538003595655527632919196~hmac=f9273e8bc2e5cb5a53ead1371ac792af95adeb8c8f65d2b46889c214db7f1294"
         },
         {
             "event_category": "Cricket",
