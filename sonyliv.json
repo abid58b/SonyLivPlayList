@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "17:19:16 03-02-2026",
+    "last update time": "18:19:59 03-02-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "World Legends Pro T20 League 2026",
             "match_name": "Rajasthan Lions vs Pune Panthers - SF - 3 Feb 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1770162555~acl=/*~id=28547909764199513591366046606088~hmac=5c7202d9773f973311e160a182958a69aa8664d85eb64f3384cf78ab529e10bf",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1770162555~acl=/*~id=28547909764199513591366046606088~hmac=5c7202d9773f973311e160a182958a69aa8664d85eb64f3384cf78ab529e10bf",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1770162555~acl=/*~id=28547909764199513591366046606088~hmac=5c7202d9773f973311e160a182958a69aa8664d85eb64f3384cf78ab529e10bf"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1770166197~acl=/*~id=99769423528363565130676340695984~hmac=f70ada0a9f5c0076b07e0cb80bbc8fbcd8a106ce2dda5fd84e7b4c2b7279d7db",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1770166197~acl=/*~id=99769423528363565130676340695984~hmac=f70ada0a9f5c0076b07e0cb80bbc8fbcd8a106ce2dda5fd84e7b4c2b7279d7db",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1770166197~acl=/*~id=99769423528363565130676340695984~hmac=f70ada0a9f5c0076b07e0cb80bbc8fbcd8a106ce2dda5fd84e7b4c2b7279d7db"
         },
         {
             "event_category": "Cricket",
@@ -25,9 +25,35 @@
             "audioLanguageName": "ENG",
             "event_name": "World Legends Pro T20 League 2026",
             "match_name": "Rajasthan Lions vs Pune Panthers - SF - 3 Feb 2026 [HIN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI37ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1770162555~acl=/*~id=28547909764199513591366046606088~hmac=5c7202d9773f973311e160a182958a69aa8664d85eb64f3384cf78ab529e10bf",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI37ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1770162555~acl=/*~id=28547909764199513591366046606088~hmac=5c7202d9773f973311e160a182958a69aa8664d85eb64f3384cf78ab529e10bf",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI37ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1770162555~acl=/*~id=28547909764199513591366046606088~hmac=5c7202d9773f973311e160a182958a69aa8664d85eb64f3384cf78ab529e10bf"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI37ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1770166197~acl=/*~id=99769423528363565130676340695984~hmac=f70ada0a9f5c0076b07e0cb80bbc8fbcd8a106ce2dda5fd84e7b4c2b7279d7db",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI37ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1770166197~acl=/*~id=99769423528363565130676340695984~hmac=f70ada0a9f5c0076b07e0cb80bbc8fbcd8a106ce2dda5fd84e7b4c2b7279d7db",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI37ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1770166197~acl=/*~id=99769423528363565130676340695984~hmac=f70ada0a9f5c0076b07e0cb80bbc8fbcd8a106ce2dda5fd84e7b4c2b7279d7db"
+        },
+        {
+            "event_category": "Pickleball",
+            "isLive": true,
+            "contentId": "1090503006_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014730/1769947204601742_WPL26_Mumbai_vs_Jaipur_1feb_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "World Pickleball League 2026",
+            "match_name": "Mumbai Pickle Power vs Rajasthan Titans - 3 Feb 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1770166197~acl=/*~id=99769423528363565130676340695984~hmac=f70ada0a9f5c0076b07e0cb80bbc8fbcd8a106ce2dda5fd84e7b4c2b7279d7db",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1770166197~acl=/*~id=99769423528363565130676340695984~hmac=f70ada0a9f5c0076b07e0cb80bbc8fbcd8a106ce2dda5fd84e7b4c2b7279d7db",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1770166197~acl=/*~id=99769423528363565130676340695984~hmac=f70ada0a9f5c0076b07e0cb80bbc8fbcd8a106ce2dda5fd84e7b4c2b7279d7db"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090503009_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014781/177003485044130_UYL2526_RD32_AZ-Alkmaar-vs-B-Dortmund_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Youth League 2025-26",
+            "match_name": "AZ Alkmaar vs Dortmund - 3 Feb 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1770166197~acl=/*~id=99769423528363565130676340695984~hmac=f70ada0a9f5c0076b07e0cb80bbc8fbcd8a106ce2dda5fd84e7b4c2b7279d7db",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1770166197~acl=/*~id=99769423528363565130676340695984~hmac=f70ada0a9f5c0076b07e0cb80bbc8fbcd8a106ce2dda5fd84e7b4c2b7279d7db",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1770166197~acl=/*~id=99769423528363565130676340695984~hmac=f70ada0a9f5c0076b07e0cb80bbc8fbcd8a106ce2dda5fd84e7b4c2b7279d7db"
         },
         {
             "event_category": "Cricket",
