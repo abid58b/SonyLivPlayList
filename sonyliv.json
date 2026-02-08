@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "17:50:09 08-02-2026",
+    "last update time": "18:50:51 08-02-2026",
     "matches": [
         {
             "event_category": "Pickleball",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "World Pickleball League 2026",
             "match_name": "Chennai Super Champs vs Dilli Dillwale - Final - 8 Feb 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1770596408~acl=/*~id=62787228409299734039781891572470~hmac=4ed48099f6132e6be68a9d015d0dfe955f8a23aa3db07ff3ddc423b0823d8251",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1770596408~acl=/*~id=62787228409299734039781891572470~hmac=4ed48099f6132e6be68a9d015d0dfe955f8a23aa3db07ff3ddc423b0823d8251",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1770596408~acl=/*~id=62787228409299734039781891572470~hmac=4ed48099f6132e6be68a9d015d0dfe955f8a23aa3db07ff3ddc423b0823d8251"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1770600051~acl=/*~id=65337315214196376209658150652655~hmac=d650bdb93a7434028d31dcd57891eb709620c0eca9fe23783f8ca9fd70ff7039",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1770600051~acl=/*~id=65337315214196376209658150652655~hmac=d650bdb93a7434028d31dcd57891eb709620c0eca9fe23783f8ca9fd70ff7039",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1770600051~acl=/*~id=65337315214196376209658150652655~hmac=d650bdb93a7434028d31dcd57891eb709620c0eca9fe23783f8ca9fd70ff7039"
         },
         {
             "event_category": "Golf",
@@ -25,18 +25,9 @@
             "audioLanguageName": "ENG",
             "event_name": "DP World Tour",
             "match_name": "Qatar Masters Day 4 - 8 Feb 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1770596408~acl=/*~id=62787228409299734039781891572470~hmac=4ed48099f6132e6be68a9d015d0dfe955f8a23aa3db07ff3ddc423b0823d8251",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1770596408~acl=/*~id=62787228409299734039781891572470~hmac=4ed48099f6132e6be68a9d015d0dfe955f8a23aa3db07ff3ddc423b0823d8251",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1770596408~acl=/*~id=62787228409299734039781891572470~hmac=4ed48099f6132e6be68a9d015d0dfe955f8a23aa3db07ff3ddc423b0823d8251"
-        },
-        {
-            "event_category": "Pickleball",
-            "isLive": false,
-            "contentId": 1090501426,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014094/1769246223870144_WorldPickleballLeague_GOB_Landscape_Thumb.jpg",
-            "broadcast_channel": "LIV",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - World Pickleball League 2026"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1770600051~acl=/*~id=65337315214196376209658150652655~hmac=d650bdb93a7434028d31dcd57891eb709620c0eca9fe23783f8ca9fd70ff7039",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1770600051~acl=/*~id=65337315214196376209658150652655~hmac=d650bdb93a7434028d31dcd57891eb709620c0eca9fe23783f8ca9fd70ff7039",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1770600051~acl=/*~id=65337315214196376209658150652655~hmac=d650bdb93a7434028d31dcd57891eb709620c0eca9fe23783f8ca9fd70ff7039"
         },
         {
             "event_category": "Sports",
