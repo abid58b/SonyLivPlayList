@@ -1,8 +1,18 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "23:09:51 11-02-2026",
+    "last update time": "00:10:24 12-02-2026",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090475059_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015061/1770822708394234_cricket_24x7_11feb_landscaep_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Cricket Classics",
+            "match_name": "Cricket Blockbusters 24x7 [ENG]"
+        },
         {
             "event_category": "Cricket",
             "isLive": false,
@@ -61,7 +71,7 @@
             "event_category": "Cricket",
             "isLive": false,
             "contentId": 1090503590,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014992/1770656773672760_acc_INDvsUAE_9feb_dated_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015031/1770797310904647_AsiaCupRisingStarWomens2026_GOB_2_Landscape_Thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - ACC Women\u2019s Rising Stars 2026 - Starts 13th Feb "
