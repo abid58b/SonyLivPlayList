@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:03:55 14-02-2026",
+    "last update time": "10:14:34 14-02-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "ACC Women\u2019s Rising Stars 2026",
             "match_name": "Malaysia Women vs Thailand Women - 14 Feb 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03-criclive/std_lrh-800300010.m3u8?hdnea=exp=1771083235~acl=/*~id=73129614216674884821700504472768~hmac=c2f51c35e84ac45acdeaf1d5633b1b463cc3f9c018c77f73b121ecd2dea496a9",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03-criclive/std_lrh-800300010.m3u8?hdnea=exp=1771083235~acl=/*~id=73129614216674884821700504472768~hmac=c2f51c35e84ac45acdeaf1d5633b1b463cc3f9c018c77f73b121ecd2dea496a9",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03-criclive/std_lrh-800300010.m3u8?hdnea=exp=1771083235~acl=/*~id=73129614216674884821700504472768~hmac=c2f51c35e84ac45acdeaf1d5633b1b463cc3f9c018c77f73b121ecd2dea496a9"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03-criclive/std_lrh-800300010.m3u8?hdnea=exp=1771087473~acl=/*~id=69174012838386340094235480898021~hmac=8cf53a3c1f567c38c670022bf556d6d2722ef0498c4581b7db96f4d97d5375b4",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03-criclive/std_lrh-800300010.m3u8?hdnea=exp=1771087473~acl=/*~id=69174012838386340094235480898021~hmac=8cf53a3c1f567c38c670022bf556d6d2722ef0498c4581b7db96f4d97d5375b4",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03-criclive/std_lrh-800300010.m3u8?hdnea=exp=1771087473~acl=/*~id=69174012838386340094235480898021~hmac=8cf53a3c1f567c38c670022bf556d6d2722ef0498c4581b7db96f4d97d5375b4"
         },
         {
             "event_category": "Football",
@@ -74,7 +74,7 @@
             "event_category": "Cricket",
             "isLive": false,
             "contentId": 1090503537,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014902/177030221390813_AsiaCupRisingStarWomens2026_GOB_1_Landscape_Thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015031/1770797310904647_AsiaCupRisingStarWomens2026_GOB_2_Landscape_Thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - ACC Women\u2019s Rising Stars 2026"
