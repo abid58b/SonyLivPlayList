@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:34:29 15-02-2026",
+    "last update time": "02:04:45 15-02-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "The Emirates FA Cup 2025-26",
             "match_name": "Liverpool vs Brighton & Hove Albion - Round 4 - 15 Feb 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771142668~acl=/*~id=98262484339708515894134441486696~hmac=da9cfd8c178fd1119503d5180b7841b974f60b85dd91a3ae88e656aa25ff12da",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771142668~acl=/*~id=98262484339708515894134441486696~hmac=da9cfd8c178fd1119503d5180b7841b974f60b85dd91a3ae88e656aa25ff12da",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771142668~acl=/*~id=98262484339708515894134441486696~hmac=da9cfd8c178fd1119503d5180b7841b974f60b85dd91a3ae88e656aa25ff12da"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771144484~acl=/*~id=82376291515019916498991068141004~hmac=5d6a31dcffbe1d58cd92f327b8a95bb374acb47c5e61cf225d587a860b3cce8d",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771144484~acl=/*~id=82376291515019916498991068141004~hmac=5d6a31dcffbe1d58cd92f327b8a95bb374acb47c5e61cf225d587a860b3cce8d",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771144484~acl=/*~id=82376291515019916498991068141004~hmac=5d6a31dcffbe1d58cd92f327b8a95bb374acb47c5e61cf225d587a860b3cce8d"
         },
         {
             "event_category": "Football",
@@ -25,9 +25,9 @@
             "audioLanguageName": "ENG",
             "event_name": "The Emirates FA Cup 2025-26",
             "match_name": "Liverpool vs Brighton & Hove Albion - Round 4 - 15 Feb 2026 [HIN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771142668~acl=/*~id=98262484339708515894134441486696~hmac=da9cfd8c178fd1119503d5180b7841b974f60b85dd91a3ae88e656aa25ff12da",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771142668~acl=/*~id=98262484339708515894134441486696~hmac=da9cfd8c178fd1119503d5180b7841b974f60b85dd91a3ae88e656aa25ff12da",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771142668~acl=/*~id=98262484339708515894134441486696~hmac=da9cfd8c178fd1119503d5180b7841b974f60b85dd91a3ae88e656aa25ff12da"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771144484~acl=/*~id=82376291515019916498991068141004~hmac=5d6a31dcffbe1d58cd92f327b8a95bb374acb47c5e61cf225d587a860b3cce8d",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771144484~acl=/*~id=82376291515019916498991068141004~hmac=5d6a31dcffbe1d58cd92f327b8a95bb374acb47c5e61cf225d587a860b3cce8d",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771144484~acl=/*~id=82376291515019916498991068141004~hmac=5d6a31dcffbe1d58cd92f327b8a95bb374acb47c5e61cf225d587a860b3cce8d"
         },
         {
             "event_category": "Football",
@@ -38,9 +38,9 @@
             "audioLanguageName": "ENG",
             "event_name": "The Emirates FA Cup 2025-26",
             "match_name": "Liverpool vs Brighton & Hove Albion - Round 4 - 15 Feb 2026 [TAM]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771142668~acl=/*~id=98262484339708515894134441486696~hmac=da9cfd8c178fd1119503d5180b7841b974f60b85dd91a3ae88e656aa25ff12da",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771142668~acl=/*~id=98262484339708515894134441486696~hmac=da9cfd8c178fd1119503d5180b7841b974f60b85dd91a3ae88e656aa25ff12da",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771142668~acl=/*~id=98262484339708515894134441486696~hmac=da9cfd8c178fd1119503d5180b7841b974f60b85dd91a3ae88e656aa25ff12da"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771144484~acl=/*~id=82376291515019916498991068141004~hmac=5d6a31dcffbe1d58cd92f327b8a95bb374acb47c5e61cf225d587a860b3cce8d",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771144484~acl=/*~id=82376291515019916498991068141004~hmac=5d6a31dcffbe1d58cd92f327b8a95bb374acb47c5e61cf225d587a860b3cce8d",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771144484~acl=/*~id=82376291515019916498991068141004~hmac=5d6a31dcffbe1d58cd92f327b8a95bb374acb47c5e61cf225d587a860b3cce8d"
         },
         {
             "event_category": "Football",
@@ -51,9 +51,9 @@
             "audioLanguageName": "ENG",
             "event_name": "The Emirates FA Cup 2025-26",
             "match_name": "Liverpool vs Brighton & Hove Albion - Round 4 - 15 Feb 2026 [TEL]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771142668~acl=/*~id=98262484339708515894134441486696~hmac=da9cfd8c178fd1119503d5180b7841b974f60b85dd91a3ae88e656aa25ff12da",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771142668~acl=/*~id=98262484339708515894134441486696~hmac=da9cfd8c178fd1119503d5180b7841b974f60b85dd91a3ae88e656aa25ff12da",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771142668~acl=/*~id=98262484339708515894134441486696~hmac=da9cfd8c178fd1119503d5180b7841b974f60b85dd91a3ae88e656aa25ff12da"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771144484~acl=/*~id=82376291515019916498991068141004~hmac=5d6a31dcffbe1d58cd92f327b8a95bb374acb47c5e61cf225d587a860b3cce8d",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771144484~acl=/*~id=82376291515019916498991068141004~hmac=5d6a31dcffbe1d58cd92f327b8a95bb374acb47c5e61cf225d587a860b3cce8d",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771144484~acl=/*~id=82376291515019916498991068141004~hmac=5d6a31dcffbe1d58cd92f327b8a95bb374acb47c5e61cf225d587a860b3cce8d"
         },
         {
             "event_category": "Cricket",
@@ -92,15 +92,6 @@
             "event_name": "Upcoming - Benfica vs Real Madrid - UEFA Champions League 2025-26"
         },
         {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090503899,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015099/1770903820104152_UCL26_playoff_leg1_Dortmund_vs_Atalanta_12feb_dated_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Dortmund vs Atalanta - UEFA Champions League 2025-26"
-        },
-        {
             "event_category": "Cricket",
             "isLive": false,
             "contentId": 1090503537,
@@ -126,6 +117,15 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Galatasaray vs Juventus - UEFA Champions League 2025-26"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090503899,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015099/1770903820104152_UCL26_playoff_leg1_Dortmund_vs_Atalanta_12feb_dated_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Dortmund vs Atalanta - UEFA Champions League 2025-26"
         },
         {
             "event_category": "Football",
