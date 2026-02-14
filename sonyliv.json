@@ -1,20 +1,20 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:04:59 14-02-2026",
+    "last update time": "11:55:23 14-02-2026",
     "matches": [
         {
             "event_category": "Cricket",
             "isLive": true,
-            "contentId": "1090503790_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015144/1770990739877516_ACC_Malaysia_Women_vs_Thailand_Women_Landscape_thumb.jpg",
+            "contentId": "1090503802_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015146/1770991979351685_ACC_bangladesh_Women_vs_sri_lanka_Women_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "ACC Women\u2019s Rising Stars 2026",
-            "match_name": "Malaysia Women vs Thailand Women - 14 Feb 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03-criclive/std_lrh-800300010.m3u8?hdnea=exp=1771090499~acl=/*~id=06108609410372537154611616437266~hmac=a81d5d319fd676cc3ec10159b9937fc6b6fe6f724232fb914b055bb95f616133",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03-criclive/std_lrh-800300010.m3u8?hdnea=exp=1771090499~acl=/*~id=06108609410372537154611616437266~hmac=a81d5d319fd676cc3ec10159b9937fc6b6fe6f724232fb914b055bb95f616133",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03-criclive/std_lrh-800300010.m3u8?hdnea=exp=1771090499~acl=/*~id=06108609410372537154611616437266~hmac=a81d5d319fd676cc3ec10159b9937fc6b6fe6f724232fb914b055bb95f616133"
+            "match_name": "Bangladesh A Women vs Sri Lanka A Women - 14 Feb 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16-criclive/std_lrh-800300010.m3u8?hdnea=exp=1771093523~acl=/*~id=37505241677443725144739007566183~hmac=41c72716d927e75ddd89266746c0936cc40c36b026729c6d1494b958bd702691",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16-criclive/std_lrh-800300010.m3u8?hdnea=exp=1771093523~acl=/*~id=37505241677443725144739007566183~hmac=41c72716d927e75ddd89266746c0936cc40c36b026729c6d1494b958bd702691",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16-criclive/std_lrh-800300010.m3u8?hdnea=exp=1771093523~acl=/*~id=37505241677443725144739007566183~hmac=41c72716d927e75ddd89266746c0936cc40c36b026729c6d1494b958bd702691"
         },
         {
             "event_category": "Football",
@@ -56,7 +56,7 @@
             "event_category": "Football",
             "isLive": false,
             "contentId": 1090503575,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015005/1770723672280701_FA_CUP_Liverpool_vs_Brighton_landscape.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015177/1771048795593179_FA_CUP_Liverpool-vs-Brighton_rev_Tonight_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Emirates FA Cup - Liverpool vs Brighton & Hove Albion "
