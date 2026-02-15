@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "17:14:11 15-02-2026",
+    "last update time": "17:44:27 15-02-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "The Emirates FA Cup 2025-26",
             "match_name": "Birmingham City vs Leeds United - Round 4 - 15 Feb 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771199051~acl=/*~id=98350056082407906873156035636593~hmac=8843f95272d9c544cec3a10bea97cba298806f457e3a66e4dba99109243d1b9a",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771199051~acl=/*~id=98350056082407906873156035636593~hmac=8843f95272d9c544cec3a10bea97cba298806f457e3a66e4dba99109243d1b9a",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771199051~acl=/*~id=98350056082407906873156035636593~hmac=8843f95272d9c544cec3a10bea97cba298806f457e3a66e4dba99109243d1b9a"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771200867~acl=/*~id=44242926102262150870397138302228~hmac=b39b3c765b4433a9eb2630eb193a090e91f179629b261d62081baf097656be86",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771200867~acl=/*~id=44242926102262150870397138302228~hmac=b39b3c765b4433a9eb2630eb193a090e91f179629b261d62081baf097656be86",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771200867~acl=/*~id=44242926102262150870397138302228~hmac=b39b3c765b4433a9eb2630eb193a090e91f179629b261d62081baf097656be86"
         },
         {
             "event_category": "Football",
