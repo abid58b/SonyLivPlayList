@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="1090503959_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015295/1771308617008111_UCL26_Playoffs_Leg1_Galatasaray_vs_Juventus_14feb_eng_landscape_thumb.jpg" group-title="Live",Galatasaray vs Juventus - Play-offs Leg 1 - 17 Feb 2026 [ENG] - UEFA Champions League 2025-26 - ENG
+#EXTVLCOPT:http-referrer=https://allinonereborn.online/
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771392516~acl=/*~id=40141651579287868407810697136072~hmac=b678338a079c82c1281a53ab20dd989ca907ee2a18dfd5dfc9b4bec4daea9e20
+#EXTINF:-1 tvg-id="1090503959_HIN" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015295/1771308617008111_UCL26_Playoffs_Leg1_Galatasaray_vs_Juventus_14feb_eng_landscape_thumb.jpg" group-title="Live",Galatasaray vs Juventus - Play-offs Leg 1 - 17 Feb 2026 [HIN] - UEFA Champions League 2025-26 - ENG
+#EXTVLCOPT:http-referrer=https://allinonereborn.online/
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771392516~acl=/*~id=40141651579287868407810697136072~hmac=b678338a079c82c1281a53ab20dd989ca907ee2a18dfd5dfc9b4bec4daea9e20
+#EXTINF:-1 tvg-id="1090503959_TAM" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015295/1771308617008111_UCL26_Playoffs_Leg1_Galatasaray_vs_Juventus_14feb_eng_landscape_thumb.jpg" group-title="Live",Galatasaray vs Juventus - Play-offs Leg 1 - 17 Feb 2026 [TAM] - UEFA Champions League 2025-26 - ENG
+#EXTVLCOPT:http-referrer=https://allinonereborn.online/
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771392516~acl=/*~id=40141651579287868407810697136072~hmac=b678338a079c82c1281a53ab20dd989ca907ee2a18dfd5dfc9b4bec4daea9e20
+#EXTINF:-1 tvg-id="1090503959_TEL" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015295/1771308617008111_UCL26_Playoffs_Leg1_Galatasaray_vs_Juventus_14feb_eng_landscape_thumb.jpg" group-title="Live",Galatasaray vs Juventus - Play-offs Leg 1 - 17 Feb 2026 [TEL] - UEFA Champions League 2025-26 - ENG
+#EXTVLCOPT:http-referrer=https://allinonereborn.online/
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771392516~acl=/*~id=40141651579287868407810697136072~hmac=b678338a079c82c1281a53ab20dd989ca907ee2a18dfd5dfc9b4bec4daea9e20
 #EXTINF:-1 tvg-id="1090475059_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015061/1770822708394234_cricket_24x7_11feb_landscaep_thumb.jpg" group-title="Live",Cricket Blockbusters 24x7 [ENG] - Cricket Classics - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
 http://invalid.stream.url
