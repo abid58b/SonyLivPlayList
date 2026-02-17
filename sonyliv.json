@@ -1,8 +1,60 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "21:58:03 17-02-2026",
+    "last update time": "22:58:37 17-02-2026",
     "matches": [
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090503959_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015295/1771308617008111_UCL26_Playoffs_Leg1_Galatasaray_vs_Juventus_14feb_eng_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Champions League 2025-26",
+            "match_name": "Galatasaray vs Juventus - Play-offs Leg 1 - 17 Feb 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771392516~acl=/*~id=40141651579287868407810697136072~hmac=b678338a079c82c1281a53ab20dd989ca907ee2a18dfd5dfc9b4bec4daea9e20",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771392516~acl=/*~id=40141651579287868407810697136072~hmac=b678338a079c82c1281a53ab20dd989ca907ee2a18dfd5dfc9b4bec4daea9e20",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771392516~acl=/*~id=40141651579287868407810697136072~hmac=b678338a079c82c1281a53ab20dd989ca907ee2a18dfd5dfc9b4bec4daea9e20"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090503959_HIN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015295/1771308617008111_UCL26_Playoffs_Leg1_Galatasaray_vs_Juventus_14feb_eng_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Champions League 2025-26",
+            "match_name": "Galatasaray vs Juventus - Play-offs Leg 1 - 17 Feb 2026 [HIN]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771392516~acl=/*~id=40141651579287868407810697136072~hmac=b678338a079c82c1281a53ab20dd989ca907ee2a18dfd5dfc9b4bec4daea9e20",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771392516~acl=/*~id=40141651579287868407810697136072~hmac=b678338a079c82c1281a53ab20dd989ca907ee2a18dfd5dfc9b4bec4daea9e20",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771392516~acl=/*~id=40141651579287868407810697136072~hmac=b678338a079c82c1281a53ab20dd989ca907ee2a18dfd5dfc9b4bec4daea9e20"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090503959_TAM",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015295/1771308617008111_UCL26_Playoffs_Leg1_Galatasaray_vs_Juventus_14feb_eng_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Champions League 2025-26",
+            "match_name": "Galatasaray vs Juventus - Play-offs Leg 1 - 17 Feb 2026 [TAM]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771392516~acl=/*~id=40141651579287868407810697136072~hmac=b678338a079c82c1281a53ab20dd989ca907ee2a18dfd5dfc9b4bec4daea9e20",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771392516~acl=/*~id=40141651579287868407810697136072~hmac=b678338a079c82c1281a53ab20dd989ca907ee2a18dfd5dfc9b4bec4daea9e20",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771392516~acl=/*~id=40141651579287868407810697136072~hmac=b678338a079c82c1281a53ab20dd989ca907ee2a18dfd5dfc9b4bec4daea9e20"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090503959_TEL",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015295/1771308617008111_UCL26_Playoffs_Leg1_Galatasaray_vs_Juventus_14feb_eng_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Champions League 2025-26",
+            "match_name": "Galatasaray vs Juventus - Play-offs Leg 1 - 17 Feb 2026 [TEL]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771392516~acl=/*~id=40141651579287868407810697136072~hmac=b678338a079c82c1281a53ab20dd989ca907ee2a18dfd5dfc9b4bec4daea9e20",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771392516~acl=/*~id=40141651579287868407810697136072~hmac=b678338a079c82c1281a53ab20dd989ca907ee2a18dfd5dfc9b4bec4daea9e20",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771392516~acl=/*~id=40141651579287868407810697136072~hmac=b678338a079c82c1281a53ab20dd989ca907ee2a18dfd5dfc9b4bec4daea9e20"
+        },
         {
             "event_category": "Cricket",
             "isLive": true,
