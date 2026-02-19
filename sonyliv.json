@@ -1,81 +1,44 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:20:54 20-02-2026",
+    "last update time": "04:01:14 20-02-2026",
     "matches": [
         {
-            "event_category": "Football",
+            "event_category": "Cricket",
             "isLive": true,
-            "contentId": "1090504444_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015357/1770909228818449_UEL_26_Celtic-vs-VfB-Stuttgart_landscape_thumb.jpg",
+            "contentId": "1090475059_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015061/1770822708394234_cricket_24x7_11feb_landscaep_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
-            "event_name": "UEFA Europa League 2025-26",
-            "match_name": "Celtic vs VfB Stuttgart - Play-offs - Leg 1 - 20 Feb 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771581052~acl=/*~id=46735552064269528324571481978054~hmac=b120a8800ec3b7e4301521a10537c9ba9cfa0409ebaf2a6485d568b7368da3a4",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771581052~acl=/*~id=46735552064269528324571481978054~hmac=b120a8800ec3b7e4301521a10537c9ba9cfa0409ebaf2a6485d568b7368da3a4",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771581052~acl=/*~id=46735552064269528324571481978054~hmac=b120a8800ec3b7e4301521a10537c9ba9cfa0409ebaf2a6485d568b7368da3a4"
+            "event_name": "Cricket Classics",
+            "match_name": "Cricket Blockbusters 24x7 [ENG]"
         },
         {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090504447_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015357/1770963655655449_UEL_26_Lille-vs-Red-Star-Belgrade_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "UEFA Europa League 2025-26",
-            "match_name": "Lille vs Crvena Zvezda - Play-offs - Leg 1 - 20 Feb 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771581052~acl=/*~id=46735552064269528324571481978054~hmac=b120a8800ec3b7e4301521a10537c9ba9cfa0409ebaf2a6485d568b7368da3a4",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771581052~acl=/*~id=46735552064269528324571481978054~hmac=b120a8800ec3b7e4301521a10537c9ba9cfa0409ebaf2a6485d568b7368da3a4",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771581052~acl=/*~id=46735552064269528324571481978054~hmac=b120a8800ec3b7e4301521a10537c9ba9cfa0409ebaf2a6485d568b7368da3a4"
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090504481,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015376/177141310192924_ACC_promo_INDvsSL_SF_today_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - India A Women vs Sri Lanka A Women - ACC Women\u2019s Rising Stars 2026"
         },
         {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090504445_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015357/1770961705594449_UEL_26_Panathinaikos-vs-Viktoria-Plzen_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "UEFA Europa League 2025-26",
-            "match_name": "Panathinaikos vs Viktoria Plzen - Play-offs - Leg 1 - 20 Feb 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771581052~acl=/*~id=46735552064269528324571481978054~hmac=b120a8800ec3b7e4301521a10537c9ba9cfa0409ebaf2a6485d568b7368da3a4",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771581052~acl=/*~id=46735552064269528324571481978054~hmac=b120a8800ec3b7e4301521a10537c9ba9cfa0409ebaf2a6485d568b7368da3a4",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771581052~acl=/*~id=46735552064269528324571481978054~hmac=b120a8800ec3b7e4301521a10537c9ba9cfa0409ebaf2a6485d568b7368da3a4"
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090503537,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015031/1770797310904647_AsiaCupRisingStarWomens2026_GOB_2_Landscape_Thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - ACC Women\u2019s Rising Stars 2026"
         },
         {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090504446_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015357/1770963148478449_UEL_26_Ludogorets-Razgrad-vs-Ferencvaros_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090504215,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015275/1771252715417113_New_Zealand_Blockbuster_Promo_Thumbs_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
-            "event_name": "UEFA Europa League 2025-26",
-            "match_name": "Ludogorets Razgrad vs Ferencvaros - Play-offs - Leg 1 - 20 Feb 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771581052~acl=/*~id=46735552064269528324571481978054~hmac=b120a8800ec3b7e4301521a10537c9ba9cfa0409ebaf2a6485d568b7368da3a4",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771581052~acl=/*~id=46735552064269528324571481978054~hmac=b120a8800ec3b7e4301521a10537c9ba9cfa0409ebaf2a6485d568b7368da3a4",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771581052~acl=/*~id=46735552064269528324571481978054~hmac=b120a8800ec3b7e4301521a10537c9ba9cfa0409ebaf2a6485d568b7368da3a4"
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090504449_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015350/1771381573068616_UECL26_Playoffs_Leg1_Drita_Gjilan_vs_NK_Celje_18feb_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "UEFA Conference League 2025-26",
-            "match_name": "Drita Gjilan vs NK Celje - Play-Offs - Leg 1 - 20 Feb 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771581052~acl=/*~id=46735552064269528324571481978054~hmac=b120a8800ec3b7e4301521a10537c9ba9cfa0409ebaf2a6485d568b7368da3a4",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771581052~acl=/*~id=46735552064269528324571481978054~hmac=b120a8800ec3b7e4301521a10537c9ba9cfa0409ebaf2a6485d568b7368da3a4",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771581052~acl=/*~id=46735552064269528324571481978054~hmac=b120a8800ec3b7e4301521a10537c9ba9cfa0409ebaf2a6485d568b7368da3a4"
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090504450_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015350/1771381893581616_UECL26_Playoffs_Leg1_Jagiellonia_Bialystok_vs_Fiorentina_Sports_18feb_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "UEFA Conference League 2025-26",
-            "match_name": "Jagiellonia Bialystok vs Fiorentina - Play-Offs - Leg 1 - 20 Feb 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771581052~acl=/*~id=46735552064269528324571481978054~hmac=b120a8800ec3b7e4301521a10537c9ba9cfa0409ebaf2a6485d568b7368da3a4",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771581052~acl=/*~id=46735552064269528324571481978054~hmac=b120a8800ec3b7e4301521a10537c9ba9cfa0409ebaf2a6485d56
+            "event_name": "Upcoming - New Zealand's Blockbuster Home Season"
+        }
+    ]
+}
