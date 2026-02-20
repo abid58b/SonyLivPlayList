@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="1090504485_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015421/1771493214000608_ACRS_womens26_semi_final_INDvsSL_landcape_thumb.jpg" group-title="Live",India A Women vs Sri Lanka A Women - Semi-Final - 20 Feb 2026 [ENG] - ACC Women’s Rising Stars 2026 - ENG
+#EXTVLCOPT:http-referrer=https://allinonereborn.online/
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03-criclive/std_lrh-800300010.m3u8?hdnea=exp=1771601647~acl=/*~id=24963279625275903971055840158644~hmac=83b6f9c4b460a5ffb29d486e72c9622a8876d54ccbd4484c3e16cee7330a7230
+#EXTINF:-1 tvg-id="1090504485_HIN" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015421/1771493214000608_ACRS_womens26_semi_final_INDvsSL_landcape_thumb.jpg" group-title="Live",India A Women vs Sri Lanka A Women - Semi-Final - 20 Feb 2026 [HIN] - ACC Women’s Rising Stars 2026 - ENG
+#EXTVLCOPT:http-referrer=https://allinonereborn.online/
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04-criclive/std_lrh-800300010.m3u8?hdnea=exp=1771601647~acl=/*~id=24963279625275903971055840158644~hmac=83b6f9c4b460a5ffb29d486e72c9622a8876d54ccbd4484c3e16cee7330a7230
+#EXTINF:-1 tvg-id="1090504485_TAM" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015421/1771493214000608_ACRS_womens26_semi_final_INDvsSL_landcape_thumb.jpg" group-title="Live",India A Women vs Sri Lanka A Women - Semi-Final - 20 Feb 2026 [TAM] - ACC Women’s Rising Stars 2026 - ENG
+#EXTVLCOPT:http-referrer=https://allinonereborn.online/
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06-criclive/std_lrh-800300010.m3u8?hdnea=exp=1771601647~acl=/*~id=24963279625275903971055840158644~hmac=83b6f9c4b460a5ffb29d486e72c9622a8876d54ccbd4484c3e16cee7330a7230
+#EXTINF:-1 tvg-id="1090504485_TEL" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015421/1771493214000608_ACRS_womens26_semi_final_INDvsSL_landcape_thumb.jpg" group-title="Live",India A Women vs Sri Lanka A Women - Semi-Final - 20 Feb 2026 [TEL] - ACC Women’s Rising Stars 2026 - ENG
+#EXTVLCOPT:http-referrer=https://allinonereborn.online/
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12-criclive/std_lrh-800300010.m3u8?hdnea=exp=1771601647~acl=/*~id=24963279625275903971055840158644~hmac=83b6f9c4b460a5ffb29d486e72c9622a8876d54ccbd4484c3e16cee7330a7230
 #EXTINF:-1 tvg-id="1090475059_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015061/1770822708394234_cricket_24x7_11feb_landscaep_thumb.jpg" group-title="Live",Cricket Blockbusters 24x7 [ENG] - Cricket Classics - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
 http://invalid.stream.url
