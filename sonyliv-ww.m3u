@@ -1,4 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1090475059_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015061/1770822708394234_cricket_24x7_11feb_landscaep_thumb.jpg" group-title="Live",Cricket Blockbusters 24x7 [ENG] - Cricket Classics - ENG
+#EXTINF:-1 tvg-id="1090504514_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015423/1771495274000232_ACC_BANvsPAK_SF_19feb_live_landscape_thumb.jpg" group-title="Live",Bangladesh A Women vs Pakistan A Women - Semi-Final - 20 Feb 2026 [ENG] - ACC Women’s Rising Stars 2026 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-http://invalid.stream.url
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16-criclive/std_lrh-800300010.m3u8?hdnea=exp=1771614416~acl=/*~id=83445653567370030962874645604166~hmac=69b8fff1ec47b4f0f056f3f4d02778f03699fcded516a04d4b4b45bb12f42861
+#EXTINF:-1 tvg-id="1090504514_HIN" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015423/1771495274000232_ACC_BANvsPAK_SF_19feb_live_landscape_thumb.jpg" group-title="Live",Bangladesh A Women vs Pakistan A Women - Semi-Final - 20 Feb 2026 [HIN] - ACC Women’s Rising Stars 2026 - ENG
+#EXTVLCOPT:http-referrer=https://allinonereborn.online/
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19-criclive/std_lrh-800300010.m3u8?hdnea=exp=1771614416~acl=/*~id=83445653567370030962874645604166~hmac=69b8fff1ec47b4f0f056f3f4d02778f03699fcded516a04d4b4b45bb12f42861
+#EXTINF:-1 tvg-id="1090504514_TAM" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015423/1771495274000232_ACC_BANvsPAK_SF_19feb_live_landscape_thumb.jpg" group-title="Live",Bangladesh A Women vs Pakistan A Women - Semi-Final - 20 Feb 2026 [TAM] - ACC Women’s Rising Stars 2026 - ENG
+#EXTVLCOPT:http-referrer=https://allinonereborn.online/
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1771614416~acl=/*~id=83445653567370030962874645604166~hmac=69b8fff1ec47b4f0f056f3f4d02778f03699fcded516a04d4b4b45bb12f42861
+#EXTINF:-1 tvg-id="1090504514_TEL" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015423/1771495274000232_ACC_BANvsPAK_SF_19feb_live_landscape_thumb.jpg" group-title="Live",Bangladesh A Women vs Pakistan A Women - Semi-Final - 20 Feb 2026 [TEL] - ACC Women’s Rising Stars 2026 - ENG
+#EXTVLCOPT:http-referrer=https://allinonereborn.online/
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1771614416~acl=/*~id=83445653567370030962874645604166~hmac=69b8fff1ec47b4f0f056f3f4d02778f03699fcded516a04d4b4b45bb12f42861
