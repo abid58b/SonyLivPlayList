@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "16:10:57 21-02-2026",
+    "last update time": "16:31:07 21-02-2026",
     "matches": [
         {
             "event_category": "Golf",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "DP World Tour",
             "match_name": "Magical Kenya Open - Day 3 - 21 Feb 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771713657~acl=/*~id=57492186487427348453727060429391~hmac=d5902b7dfb57f331a897f28d9917407c79ead7b8de68ebd75b490d596e5c4dab",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771713657~acl=/*~id=57492186487427348453727060429391~hmac=d5902b7dfb57f331a897f28d9917407c79ead7b8de68ebd75b490d596e5c4dab",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771713657~acl=/*~id=57492186487427348453727060429391~hmac=d5902b7dfb57f331a897f28d9917407c79ead7b8de68ebd75b490d596e5c4dab"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771714867~acl=/*~id=08058123646333740138713828775946~hmac=e8433e3cfb5020c41dc3839c9bc2c4336b5a28161f46e8bf738c1c6587500794",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771714867~acl=/*~id=08058123646333740138713828775946~hmac=e8433e3cfb5020c41dc3839c9bc2c4336b5a28161f46e8bf738c1c6587500794",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771714867~acl=/*~id=08058123646333740138713828775946~hmac=e8433e3cfb5020c41dc3839c9bc2c4336b5a28161f46e8bf738c1c6587500794"
         },
         {
             "event_category": "Cricket",
