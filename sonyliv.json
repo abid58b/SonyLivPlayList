@@ -1,8 +1,60 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:31:53 22-02-2026",
+    "last update time": "12:32:30 22-02-2026",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090504658_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015471/1771612443971836_AsiaCup_RisingStar_Womens2026_final_india_A_vs_ban_A_20feb_eng_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "ACC Women\u2019s Rising Stars 2026",
+            "match_name": "India A Women vs Bangladesh A Women - Final - 22 Feb 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03-criclive/std_lrh-800300010.m3u8?hdnea=exp=1771786949~acl=/*~id=25680158968644833773616962758777~hmac=94091ad543bb734f7c28ba7a1bb19dfd30f4101821703ad5f625a49ae53488fb",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03-criclive/std_lrh-800300010.m3u8?hdnea=exp=1771786949~acl=/*~id=25680158968644833773616962758777~hmac=94091ad543bb734f7c28ba7a1bb19dfd30f4101821703ad5f625a49ae53488fb",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03-criclive/std_lrh-800300010.m3u8?hdnea=exp=1771786949~acl=/*~id=25680158968644833773616962758777~hmac=94091ad543bb734f7c28ba7a1bb19dfd30f4101821703ad5f625a49ae53488fb"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090504658_HIN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015471/1771612443971836_AsiaCup_RisingStar_Womens2026_final_india_A_vs_ban_A_20feb_eng_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "ACC Women\u2019s Rising Stars 2026",
+            "match_name": "India A Women vs Bangladesh A Women - Final - 22 Feb 2026 [HIN]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04-criclive/std_lrh-800300010.m3u8?hdnea=exp=1771786949~acl=/*~id=25680158968644833773616962758777~hmac=94091ad543bb734f7c28ba7a1bb19dfd30f4101821703ad5f625a49ae53488fb",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04-criclive/std_lrh-800300010.m3u8?hdnea=exp=1771786949~acl=/*~id=25680158968644833773616962758777~hmac=94091ad543bb734f7c28ba7a1bb19dfd30f4101821703ad5f625a49ae53488fb",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04-criclive/std_lrh-800300010.m3u8?hdnea=exp=1771786949~acl=/*~id=25680158968644833773616962758777~hmac=94091ad543bb734f7c28ba7a1bb19dfd30f4101821703ad5f625a49ae53488fb"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090504658_TAM",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015471/1771612443971836_AsiaCup_RisingStar_Womens2026_final_india_A_vs_ban_A_20feb_eng_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "ACC Women\u2019s Rising Stars 2026",
+            "match_name": "India A Women vs Bangladesh A Women - Final - 22 Feb 2026 [TAM]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06-criclive/std_lrh-800300010.m3u8?hdnea=exp=1771786949~acl=/*~id=25680158968644833773616962758777~hmac=94091ad543bb734f7c28ba7a1bb19dfd30f4101821703ad5f625a49ae53488fb",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06-criclive/std_lrh-800300010.m3u8?hdnea=exp=1771786949~acl=/*~id=25680158968644833773616962758777~hmac=94091ad543bb734f7c28ba7a1bb19dfd30f4101821703ad5f625a49ae53488fb",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06-criclive/std_lrh-800300010.m3u8?hdnea=exp=1771786949~acl=/*~id=25680158968644833773616962758777~hmac=94091ad543bb734f7c28ba7a1bb19dfd30f4101821703ad5f625a49ae53488fb"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090504658_TEL",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015471/1771612443971836_AsiaCup_RisingStar_Womens2026_final_india_A_vs_ban_A_20feb_eng_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "ACC Women\u2019s Rising Stars 2026",
+            "match_name": "India A Women vs Bangladesh A Women - Final - 22 Feb 2026 [TEL]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12-criclive/std_lrh-800300010.m3u8?hdnea=exp=1771786949~acl=/*~id=25680158968644833773616962758777~hmac=94091ad543bb734f7c28ba7a1bb19dfd30f4101821703ad5f625a49ae53488fb",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12-criclive/std_lrh-800300010.m3u8?hdnea=exp=1771786949~acl=/*~id=25680158968644833773616962758777~hmac=94091ad543bb734f7c28ba7a1bb19dfd30f4101821703ad5f625a49ae53488fb",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12-criclive/std_lrh-800300010.m3u8?hdnea=exp=1771786949~acl=/*~id=25680158968644833773616962758777~hmac=94091ad543bb734f7c28ba7a1bb19dfd30f4101821703ad5f625a49ae53488fb"
+        },
         {
             "event_category": "Golf",
             "isLive": true,
@@ -12,18 +64,9 @@
             "audioLanguageName": "ENG",
             "event_name": "DP World Tour",
             "match_name": "Magical Kenya Open - Day 4 - 22 Feb 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771783313~acl=/*~id=35574888283147014334910433439560~hmac=916e8b32d7902ac3915454eb02ec9323dfb5aabdaad7a2d48878f223a834c178",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771783313~acl=/*~id=35574888283147014334910433439560~hmac=916e8b32d7902ac3915454eb02ec9323dfb5aabdaad7a2d48878f223a834c178",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771783313~acl=/*~id=35574888283147014334910433439560~hmac=916e8b32d7902ac3915454eb02ec9323dfb5aabdaad7a2d48878f223a834c178"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090503537,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015470/1771611571877291_AsiaCup_RisingStar_Womens2026_final_india_A_vs_ban_A_20feb_today_Landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - ACC Women\u2019s Rising Stars 2026"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771786949~acl=/*~id=25680158968644833773616962758777~hmac=94091ad543bb734f7c28ba7a1bb19dfd30f4101821703ad5f625a49ae53488fb",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771786949~acl=/*~id=25680158968644833773616962758777~hmac=94091ad543bb734f7c28ba7a1bb19dfd30f4101821703ad5f625a49ae53488fb",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771786949~acl=/*~id=25680158968644833773616962758777~hmac=94091ad543bb734f7c28ba7a1bb19dfd30f4101821703ad5f625a49ae53488fb"
         },
         {
             "event_category": "Football",
