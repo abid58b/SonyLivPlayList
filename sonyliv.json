@@ -1,20 +1,20 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "18:46:23 22-02-2026",
+    "last update time": "19:26:54 22-02-2026",
     "matches": [
         {
-            "event_category": "Golf",
+            "event_category": "Football",
             "isLive": true,
-            "contentId": "1090504676_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015364/1771401550988586_DP_World_Tour_Magical_Kenya_Open_Day4_landscape_thumb.jpg",
-            "broadcast_channel": "LIV",
+            "contentId": "1090504677_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014972/1770362901279999_BLIGA_26_MD23_SC-Freiburg-vs-Borussia-Mgladbach_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
-            "event_name": "DP World Tour",
-            "match_name": "Magical Kenya Open - Day 4 - 22 Feb 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771809383~acl=/*~id=54941571212729884608827598613760~hmac=7a74846b0f5f19df2266b60669e20caa2d9f1932e9353d29d052ca79e5e58bd8",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771809383~acl=/*~id=54941571212729884608827598613760~hmac=7a74846b0f5f19df2266b60669e20caa2d9f1932e9353d29d052ca79e5e58bd8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771809383~acl=/*~id=54941571212729884608827598613760~hmac=7a74846b0f5f19df2266b60669e20caa2d9f1932e9353d29d052ca79e5e58bd8"
+            "event_name": "Bundesliga 2025-26",
+            "match_name": "SC Freiburg vs Borussia M'gladbach - MD 23 - 22 Feb 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771811811~acl=/*~id=26759703942316812855373708921839~hmac=25af70bb5051f34335f4a133ef45962c039c4cf472da1d55ad28ea7ea93f21bb",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771811811~acl=/*~id=26759703942316812855373708921839~hmac=25af70bb5051f34335f4a133ef45962c039c4cf472da1d55ad28ea7ea93f21bb",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771811811~acl=/*~id=26759703942316812855373708921839~hmac=25af70bb5051f34335f4a133ef45962c039c4cf472da1d55ad28ea7ea93f21bb"
         },
         {
             "event_category": "Football",
