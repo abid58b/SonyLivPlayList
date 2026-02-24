@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "17:21:36 24-02-2026",
+    "last update time": "18:12:03 24-02-2026",
     "matches": [
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090504783_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015485/1771687731915794_UEFAYouthLeague26_Roundof16_Inter_vs_Real_Betis_21feb_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Youth League 2025-26",
+            "match_name": "Inter vs Real Betis - 24 Feb 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771980122~acl=/*~id=46113612447521479940736654887530~hmac=53b2889524aa9700465fbe0d402d5daea6303ea0e4454edf3b7f2b6e564878b6",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771980122~acl=/*~id=46113612447521479940736654887530~hmac=53b2889524aa9700465fbe0d402d5daea6303ea0e4454edf3b7f2b6e564878b6",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771980122~acl=/*~id=46113612447521479940736654887530~hmac=53b2889524aa9700465fbe0d402d5daea6303ea0e4454edf3b7f2b6e564878b6"
+        },
         {
             "event_category": "Football",
             "isLive": false,
