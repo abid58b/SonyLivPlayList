@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "17:56:53 25-02-2026",
+    "last update time": "19:17:54 25-02-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "UEFA Youth League 2025-26",
             "match_name": "PSG vs HJK - 25 Feb 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772065612~acl=/*~id=99469647919123477736801293477212~hmac=78a69f749f2d1958cf557e7d819a5c61da70609f2c62e8a62bebdfa804f26967",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772065612~acl=/*~id=99469647919123477736801293477212~hmac=78a69f749f2d1958cf557e7d819a5c61da70609f2c62e8a62bebdfa804f26967",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772065612~acl=/*~id=99469647919123477736801293477212~hmac=78a69f749f2d1958cf557e7d819a5c61da70609f2c62e8a62bebdfa804f26967"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772070473~acl=/*~id=47574432095886743435236537399159~hmac=7bc4d9d8979bafbf30b358430042acd3ea8e5e57206ed4868b9494210681b3c1",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772070473~acl=/*~id=47574432095886743435236537399159~hmac=7bc4d9d8979bafbf30b358430042acd3ea8e5e57206ed4868b9494210681b3c1",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772070473~acl=/*~id=47574432095886743435236537399159~hmac=7bc4d9d8979bafbf30b358430042acd3ea8e5e57206ed4868b9494210681b3c1"
         },
         {
             "event_category": "Football",
