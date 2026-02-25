@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "17:16:21 25-02-2026",
+    "last update time": "18:07:01 25-02-2026",
     "matches": [
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090504793_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015485/1771689036229794_UEFAYouthLeague26_Roundof16_PSG_vs_HJK_21feb_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Youth League 2025-26",
+            "match_name": "PSG vs HJK - 25 Feb 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772066220~acl=/*~id=79276271826940864878382989682612~hmac=118302dded9b826829ed1187fe8ef1de79236df4682dcceb857c10bb4d43fbd5",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772066220~acl=/*~id=79276271826940864878382989682612~hmac=118302dded9b826829ed1187fe8ef1de79236df4682dcceb857c10bb4d43fbd5",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772066220~acl=/*~id=79276271826940864878382989682612~hmac=118302dded9b826829ed1187fe8ef1de79236df4682dcceb857c10bb4d43fbd5"
+        },
         {
             "event_category": "Football",
             "isLive": false,
@@ -70,7 +83,7 @@
             "event_category": "Cricket",
             "isLive": false,
             "contentId": 1090504215,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015275/1771252715417113_New_Zealand_Blockbuster_Promo_Thumbs_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015585/1772018351816286_NZvsSA_25feb_promo_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - New Zealand's Blockbuster Home Season"
