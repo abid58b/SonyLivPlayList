@@ -1,73 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:14:58 26-02-2026",
+    "last update time": "03:45:16 26-02-2026",
     "matches": [
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090504788_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015510/1771784309684235_UCL26_Playoffs_Leg2_Real_Madrid_vs_Benfica_21feb_eng_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "UEFA Champions League 2025-26",
-            "match_name": " Real Madrid vs Benfica - Play-offs Leg 2 - 26 Feb 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772099096~acl=/*~id=52325176623392357414853619949376~hmac=b1de51509710ed9e850e41705329bec33207a285ca26799b81d2f491ac219048",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772099096~acl=/*~id=52325176623392357414853619949376~hmac=b1de51509710ed9e850e41705329bec33207a285ca26799b81d2f491ac219048",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772099096~acl=/*~id=52325176623392357414853619949376~hmac=b1de51509710ed9e850e41705329bec33207a285ca26799b81d2f491ac219048"
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090504788_HIN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015510/1771784309684235_UCL26_Playoffs_Leg2_Real_Madrid_vs_Benfica_21feb_eng_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "UEFA Champions League 2025-26",
-            "match_name": " Real Madrid vs Benfica - Play-offs Leg 2 - 26 Feb 2026 [HIN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772099096~acl=/*~id=52325176623392357414853619949376~hmac=b1de51509710ed9e850e41705329bec33207a285ca26799b81d2f491ac219048",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772099096~acl=/*~id=52325176623392357414853619949376~hmac=b1de51509710ed9e850e41705329bec33207a285ca26799b81d2f491ac219048",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772099096~acl=/*~id=52325176623392357414853619949376~hmac=b1de51509710ed9e850e41705329bec33207a285ca26799b81d2f491ac219048"
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090504788_TAM",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015510/1771784309684235_UCL26_Playoffs_Leg2_Real_Madrid_vs_Benfica_21feb_eng_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "UEFA Champions League 2025-26",
-            "match_name": " Real Madrid vs Benfica - Play-offs Leg 2 - 26 Feb 2026 [TAM]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772099096~acl=/*~id=52325176623392357414853619949376~hmac=b1de51509710ed9e850e41705329bec33207a285ca26799b81d2f491ac219048",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772099096~acl=/*~id=52325176623392357414853619949376~hmac=b1de51509710ed9e850e41705329bec33207a285ca26799b81d2f491ac219048",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772099096~acl=/*~id=52325176623392357414853619949376~hmac=b1de51509710ed9e850e41705329bec33207a285ca26799b81d2f491ac219048"
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090504788_TEL",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015510/1771784309684235_UCL26_Playoffs_Leg2_Real_Madrid_vs_Benfica_21feb_eng_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "UEFA Champions League 2025-26",
-            "match_name": " Real Madrid vs Benfica - Play-offs Leg 2 - 26 Feb 2026 [TEL]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772099096~acl=/*~id=52325176623392357414853619949376~hmac=b1de51509710ed9e850e41705329bec33207a285ca26799b81d2f491ac219048",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772099096~acl=/*~id=52325176623392357414853619949376~hmac=b1de51509710ed9e850e41705329bec33207a285ca26799b81d2f491ac219048",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772099096~acl=/*~id=52325176623392357414853619949376~hmac=b1de51509710ed9e850e41705329bec33207a285ca26799b81d2f491ac219048"
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090504791_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015510/1771784885366235_UCL26_Playoffs_Leg2_PSG_Vs_Monaco_21feb_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "UEFA Champions League 2025-26",
-            "match_name": " PSG vs Monaco - Play-offs Leg 2 - 26 Feb 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772099096~acl=/*~id=52325176623392357414853619949376~hmac=b1de51509710ed9e850e41705329bec33207a285ca26799b81d2f491ac219048",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772099096~acl=/*~id=52325176623392357414853619949376~hmac=b1de51509710ed9e850e41705329bec33207a285ca26799b81d2f491ac219048",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772099096~acl=/*~id=52325176623392357414853619949376~hmac=b1de51509710ed9e850e41705329bec33207a285ca26799b81d2f491ac219048"
-        },
         {
             "event_category": "Football",
             "isLive": true,
@@ -77,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "UEFA Champions League 2025-26",
             "match_name": "Juventus vs Galatasaray - Play-offs Leg 2 - 26 Feb 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772099096~acl=/*~id=52325176623392357414853619949376~hmac=b1de51509710ed9e850e41705329bec33207a285ca26799b81d2f491ac219048",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772099096~acl=/*~id=52325176623392357414853619949376~hmac=b1de51509710ed9e850e41705329bec33207a285ca26799b81d2f491ac219048",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772099096~acl=/*~id=52325176623392357414853619949376~hmac=b1de51509710ed9e850e41705329bec33207a285ca26799b81d2f491ac219048"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772100916~acl=/*~id=82785006070881370700503587667068~hmac=3aa4dbac60d3084633a2f1b4fd690cb3133e0b6b547e8d06f694d2aeebbf5478",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772100916~acl=/*~id=82785006070881370700503587667068~hmac=3aa4dbac60d3084633a2f1b4fd690cb3133e0b6b547e8d06f694d2aeebbf5478",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772100916~acl=/*~id=82785006070881370700503587667068~hmac=3aa4dbac60d3084633a2f1b4fd690cb3133e0b6b547e8d06f694d2aeebbf5478"
         },
         {
             "event_category": "Football",
