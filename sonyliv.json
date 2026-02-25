@@ -1,20 +1,59 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "22:21:11 25-02-2026",
+    "last update time": "23:21:55 25-02-2026",
     "matches": [
         {
             "event_category": "Football",
             "isLive": true,
-            "contentId": "1090504794_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015485/1771689324591794_UEFAYouthLeague26_Roundof16_Real_Madrid_vs_Chelsea_21feb_landscape_thumb.jpg",
+            "contentId": "1090504787_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015510/1771783128117235_UCL26_Playoffs_Leg2_Atalanta_vs_Dortmund_21feb_eng_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
-            "event_name": "UEFA Youth League 2025-26",
-            "match_name": "Real Madrid vs Chelsea - 25 Feb 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772081471~acl=/*~id=98304209140199400066258548499894~hmac=b11f6cd272285e420a8f16b4eca7157baa431b17d7ed9a8eda052542865e572e",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772081471~acl=/*~id=98304209140199400066258548499894~hmac=b11f6cd272285e420a8f16b4eca7157baa431b17d7ed9a8eda052542865e572e",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772081471~acl=/*~id=98304209140199400066258548499894~hmac=b11f6cd272285e420a8f16b4eca7157baa431b17d7ed9a8eda052542865e572e"
+            "event_name": "UEFA Champions League 2025-26",
+            "match_name": " Atalanta vs Dortmund - Play-offs Leg 2 - 25 Feb 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772085114~acl=/*~id=39543544622283935735955411436825~hmac=ab4b9714504e4a57e357a09c2e5e960f1cbb4dac88a24839091462f71a5e5ba6",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772085114~acl=/*~id=39543544622283935735955411436825~hmac=ab4b9714504e4a57e357a09c2e5e960f1cbb4dac88a24839091462f71a5e5ba6",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772085114~acl=/*~id=39543544622283935735955411436825~hmac=ab4b9714504e4a57e357a09c2e5e960f1cbb4dac88a24839091462f71a5e5ba6"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090504787_HIN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015510/1771783128117235_UCL26_Playoffs_Leg2_Atalanta_vs_Dortmund_21feb_eng_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Champions League 2025-26",
+            "match_name": " Atalanta vs Dortmund - Play-offs Leg 2 - 25 Feb 2026 [HIN]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772085114~acl=/*~id=39543544622283935735955411436825~hmac=ab4b9714504e4a57e357a09c2e5e960f1cbb4dac88a24839091462f71a5e5ba6",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772085114~acl=/*~id=39543544622283935735955411436825~hmac=ab4b9714504e4a57e357a09c2e5e960f1cbb4dac88a24839091462f71a5e5ba6",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772085114~acl=/*~id=39543544622283935735955411436825~hmac=ab4b9714504e4a57e357a09c2e5e960f1cbb4dac88a24839091462f71a5e5ba6"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090504787_TAM",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015510/1771783128117235_UCL26_Playoffs_Leg2_Atalanta_vs_Dortmund_21feb_eng_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Champions League 2025-26",
+            "match_name": " Atalanta vs Dortmund - Play-offs Leg 2 - 25 Feb 2026 [TAM]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772085114~acl=/*~id=39543544622283935735955411436825~hmac=ab4b9714504e4a57e357a09c2e5e960f1cbb4dac88a24839091462f71a5e5ba6",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772085114~acl=/*~id=39543544622283935735955411436825~hmac=ab4b9714504e4a57e357a09c2e5e960f1cbb4dac88a24839091462f71a5e5ba6",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772085114~acl=/*~id=39543544622283935735955411436825~hmac=ab4b9714504e4a57e357a09c2e5e960f1cbb4dac88a24839091462f71a5e5ba6"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090504787_TEL",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015510/1771783128117235_UCL26_Playoffs_Leg2_Atalanta_vs_Dortmund_21feb_eng_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Champions League 2025-26",
+            "match_name": " Atalanta vs Dortmund - Play-offs Leg 2 - 25 Feb 2026 [TEL]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772085114~acl=/*~id=39543544622283935735955411436825~hmac=ab4b9714504e4a57e357a09c2e5e960f1cbb4dac88a24839091462f71a5e5ba6",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772085114~acl=/*~id=39543544622283935735955411436825~hmac=ab4b9714504e4a57e357a09c2e5e960f1cbb4dac88a24839091462f71a5e5ba6",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772085114~acl=/*~id=39543544622283935735955411436825~hmac=ab4b9714504e4a57e357a09c2e5e960f1cbb4dac88a24839091462f71a5e5ba6"
         },
         {
             "event_category": "Football",
@@ -51,15 +90,6 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - PSG vs Monaco - UEFA Champions League 2025-26"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090504684,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015434/1771533606972719_UCL26_Playoffs_Leg2_Atalanta_vs_Dortmund_16feb_tonight_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Atalanta vs Dortmund - UEFA Champions League 2025-26"
         },
         {
             "event_category": "Football",
