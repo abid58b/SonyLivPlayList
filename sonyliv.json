@@ -1,16 +1,20 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:41:59 25-02-2026",
+    "last update time": "11:42:38 25-02-2026",
     "matches": [
         {
             "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090504638,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015531/1771856608161457_NZw_vs_ZIMw_1t20I_today_promo_landscape_thumb.jpg",
+            "isLive": true,
+            "contentId": "1090505005_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015541/1771920520354652_NZw_vs_ZIMw_live_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Zimbabwe Women's Tour of New Zealand 2026"
+            "event_name": "Zimbabwe Women's Tour of New Zealand 2026",
+            "match_name": "1st T20I - 25 Feb 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1772043119~acl=/*~id=81017098067055466734587283835906~hmac=45771fe904dab97c1bf8bd5ae30db496efb8e46f7f2db642a647ecb62440eff2",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1772043119~acl=/*~id=81017098067055466734587283835906~hmac=45771fe904dab97c1bf8bd5ae30db496efb8e46f7f2db642a647ecb62440eff2",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1772043119~acl=/*~id=81017098067055466734587283835906~hmac=45771fe904dab97c1bf8bd5ae30db496efb8e46f7f2db642a647ecb62440eff2"
         },
         {
             "event_category": "Football",
@@ -56,6 +60,15 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Juventus vs Galatasaray - UEFA Champions League 2025-26"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090504638,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015556/1771942365666225_NZw_vs_ZIMw_2t20I_dated_promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Zimbabwe Women's Tour of New Zealand 2026"
         },
         {
             "event_category": "Cricket",
