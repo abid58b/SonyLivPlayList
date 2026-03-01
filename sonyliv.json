@@ -1,60 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:24:53 01-03-2026",
+    "last update time": "10:35:34 01-03-2026",
     "matches": [
-        {
-            "event_category": "Fight Sports",
-            "isLive": true,
-            "contentId": "1090505344_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015642/1772137732723798_UFC_Fight_Night_Moreno_vs_Kavanagh_27feb_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "UFC Fight Night - Moreno vs Kavanagh",
-            "match_name": "UFC Fight Night - Moreno vs Kavanagh - 1 Mar 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-UFC/std_lrh-800300010.m3u8?hdnea=exp=1772380492~acl=/*~id=21635974866599241251972789377993~hmac=66e7b642b8704464745ae6eb9979433bd74fde79f43c90ff324c2944b08866fa",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-UFC/std_lrh-800300010.m3u8?hdnea=exp=1772380492~acl=/*~id=21635974866599241251972789377993~hmac=66e7b642b8704464745ae6eb9979433bd74fde79f43c90ff324c2944b08866fa",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-UFC/std_lrh-800300010.m3u8?hdnea=exp=1772380492~acl=/*~id=21635974866599241251972789377993~hmac=66e7b642b8704464745ae6eb9979433bd74fde79f43c90ff324c2944b08866fa"
-        },
-        {
-            "event_category": "Fight Sports",
-            "isLive": true,
-            "contentId": "1090505344_HIN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015642/1772137732723798_UFC_Fight_Night_Moreno_vs_Kavanagh_27feb_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "UFC Fight Night - Moreno vs Kavanagh",
-            "match_name": "UFC Fight Night - Moreno vs Kavanagh - 1 Mar 2026 [HIN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-UFC/std_lrh-800300010.m3u8?hdnea=exp=1772380492~acl=/*~id=21635974866599241251972789377993~hmac=66e7b642b8704464745ae6eb9979433bd74fde79f43c90ff324c2944b08866fa",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-UFC/std_lrh-800300010.m3u8?hdnea=exp=1772380492~acl=/*~id=21635974866599241251972789377993~hmac=66e7b642b8704464745ae6eb9979433bd74fde79f43c90ff324c2944b08866fa",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-UFC/std_lrh-800300010.m3u8?hdnea=exp=1772380492~acl=/*~id=21635974866599241251972789377993~hmac=66e7b642b8704464745ae6eb9979433bd74fde79f43c90ff324c2944b08866fa"
-        },
-        {
-            "event_category": "Fight Sports",
-            "isLive": true,
-            "contentId": "1090505344_TAM",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015642/1772137732723798_UFC_Fight_Night_Moreno_vs_Kavanagh_27feb_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "UFC Fight Night - Moreno vs Kavanagh",
-            "match_name": "UFC Fight Night - Moreno vs Kavanagh - 1 Mar 2026 [TAM]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-UFC/std_lrh-800300010.m3u8?hdnea=exp=1772380492~acl=/*~id=21635974866599241251972789377993~hmac=66e7b642b8704464745ae6eb9979433bd74fde79f43c90ff324c2944b08866fa",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-UFC/std_lrh-800300010.m3u8?hdnea=exp=1772380492~acl=/*~id=21635974866599241251972789377993~hmac=66e7b642b8704464745ae6eb9979433bd74fde79f43c90ff324c2944b08866fa",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-UFC/std_lrh-800300010.m3u8?hdnea=exp=1772380492~acl=/*~id=21635974866599241251972789377993~hmac=66e7b642b8704464745ae6eb9979433bd74fde79f43c90ff324c2944b08866fa"
-        },
-        {
-            "event_category": "Fight Sports",
-            "isLive": true,
-            "contentId": "1090505344_TEL",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015642/1772137732723798_UFC_Fight_Night_Moreno_vs_Kavanagh_27feb_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "UFC Fight Night - Moreno vs Kavanagh",
-            "match_name": "UFC Fight Night - Moreno vs Kavanagh - 1 Mar 2026 [TEL]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-UFC/std_lrh-800300010.m3u8?hdnea=exp=1772380492~acl=/*~id=21635974866599241251972789377993~hmac=66e7b642b8704464745ae6eb9979433bd74fde79f43c90ff324c2944b08866fa",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-UFC/std_lrh-800300010.m3u8?hdnea=exp=1772380492~acl=/*~id=21635974866599241251972789377993~hmac=66e7b642b8704464745ae6eb9979433bd74fde79f43c90ff324c2944b08866fa",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-UFC/std_lrh-800300010.m3u8?hdnea=exp=1772380492~acl=/*~id=21635974866599241251972789377993~hmac=66e7b642b8704464745ae6eb9979433bd74fde79f43c90ff324c2944b08866fa"
-        },
         {
             "event_category": "Cricket",
             "isLive": false,
