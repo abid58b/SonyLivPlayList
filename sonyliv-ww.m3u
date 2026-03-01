@@ -1,4 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1090505347_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015686/1772264080060596_BLIGA_26_MD24_Hamburger-SV-vs-RB-Leipzig_landscape_thumb.jpg" group-title="Live",Hamburger SV vs RB Leipzig - MD 24 - 1 Mar 2026 [ENG] - Bundesliga 2025-26 - ENG
+#EXTINF:-1 tvg-id="1090505347" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015686/1772264080060596_BLIGA_26_MD24_Hamburger-SV-vs-RB-Leipzig_landscape_thumb.jpg" group-title="Live",Hamburger SV vs RB Leipzig - MD 24 - 1 Mar 2026 - Bundesliga 2025-26 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772439211~acl=/*~id=86151156202887471052648105720149~hmac=94b0f167ffec6d223fc0dcac24cbee21de002bd5ed4aea71c4fb51afbe148a3c
+http://invalid.stream.url
