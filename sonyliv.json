@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:28:39 05-03-2026",
+    "last update time": "04:58:54 05-03-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Zimbabwe Women's Tour of New Zealand 2026",
             "match_name": "1st ODI - 5 Mar 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1772708318~acl=/*~id=38276270075405722857795184678352~hmac=421d10d9aafa401953b2fe402de8827da60f2064780a624a4be3da56cb379de1",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1772708318~acl=/*~id=38276270075405722857795184678352~hmac=421d10d9aafa401953b2fe402de8827da60f2064780a624a4be3da56cb379de1",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1772708318~acl=/*~id=38276270075405722857795184678352~hmac=421d10d9aafa401953b2fe402de8827da60f2064780a624a4be3da56cb379de1"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1772710133~acl=/*~id=26299249994989655608401558191427~hmac=331fdbdebc49f0d73d653ab2e0d07d38fbd9b480d93f2659b2716088bfbe28a1",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1772710133~acl=/*~id=26299249994989655608401558191427~hmac=331fdbdebc49f0d73d653ab2e0d07d38fbd9b480d93f2659b2716088bfbe28a1",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1772710133~acl=/*~id=26299249994989655608401558191427~hmac=331fdbdebc49f0d73d653ab2e0d07d38fbd9b480d93f2659b2716088bfbe28a1"
         },
         {
             "event_category": "Football",
