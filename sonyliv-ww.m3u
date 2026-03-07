@@ -1,4 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1090505707_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015830/1772733105740234_IFL26_GKFC_vs_NAM_5mar_landscape_thumb.jpg" group-title="Live",Gokulam Kerala FC vs Namdhari FC - 7 Mar 2026 [ENG] - Indian Football League 2026 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772921336~acl=/*~id=00276545474731340446419767145591~hmac=75e67bd89d99214991821296f15a83ef3456109b21bd7fad8a6d3a5eccb1c134
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772923152~acl=/*~id=23037829938675145465322040938734~hmac=528a879eac565589b156d8ea1929ea6698bb4a72e3ea043f890628ea9226aac6
+#EXTINF:-1 tvg-id="1090505524_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015766/177261406419712_DP_World_Day3_Joburg-Open_landscape_thumb.jpg" group-title="Live",Joburg Open Day 3 - 7 Mar 2026 [ENG] - DP World Tour - ENG
+#EXTVLCOPT:http-referrer=https://allinonereborn.online/
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772923152~acl=/*~id=23037829938675145465322040938734~hmac=528a879eac565589b156d8ea1929ea6698bb4a72e3ea043f890628ea9226aac6
